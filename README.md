@@ -8,14 +8,15 @@ The goal (as yet unrealised) is this for to be a simple static site that lists a
 
 * Scraper that sources electorates and the postcodes within them.
 * Scraper that sources a list of federal political parties.
+* [A Google spreadsheet](https://docs.google.com/spreadsheets/d/1PaS7lYTs5pAccFIHImzfStKVFdetjGHuHz54DoOdBP4/edit?usp=sharing) that will be the source of candidates.
+* [A Google form](https://docs.google.com/forms/d/1mpS6fpwPAQGciaydUn-l_YyCEosYic3PHbdJf6Cz8gc/viewform) to help source candidate data (name, party, electorate, social media links).
 
 ### In progress:
 
-* Construct a Google spreadsheet that will be the source of candidates, which can then be turned into popolo data (much like https://github.com/openaustralia/australian_local_councillors_popolo).
+* Translate Google spreadsheet data into popolo data.
 
 ### To do:
 
-* Add a Google form to help source candidate data (name, party, electorate, social media links, perhaps a photo).
 * Write code to generate pages for each postcode and electorate. If a postcode only has one electorate, redirect to that electorate. If it has more than one, offer the viewer a choice.
 * Add meaningful layouts and design.
 * On electorate pages, include a link to the Google form to allow people to suggest missing candidates.
