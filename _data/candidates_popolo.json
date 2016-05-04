@@ -1,0 +1,1056 @@
+{
+  "persons": [
+    {
+      "id": "melbourne/australian_greens/adam_bandt",
+      "name": "Adam Bandt",
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "id": "party/sustainable_australia",
+      "name": "#Sustainable Australia",
+      "classification": "party"
+    },
+    {
+      "id": "party/21st_century_australia",
+      "name": "21st Century Australia",
+      "classification": "party"
+    },
+    {
+      "id": "party/animal_justice_party",
+      "name": "Animal Justice Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/australia_first_party_nsw_incorporated",
+      "name": "Australia First Party (NSW) Incorporated",
+      "classification": "party"
+    },
+    {
+      "id": "party/australian_antipaedophile_party",
+      "name": "Australian Antipaedophile Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/australian_christians",
+      "name": "Australian Christians",
+      "classification": "party"
+    },
+    {
+      "id": "party/australian_country_party",
+      "name": "Australian Country Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/australian_cyclists_party",
+      "name": "Australian Cyclists Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/australian_defence_veterans_party",
+      "name": "Australian Defence Veterans Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/australian_equality_party_marriage",
+      "name": "Australian Equality Party (Marriage)",
+      "classification": "party"
+    },
+    {
+      "id": "party/australian_greens",
+      "name": "Australian Greens",
+      "classification": "party"
+    },
+    {
+      "id": "party/australian_labor_party_alp",
+      "name": "Australian Labor Party (ALP)",
+      "classification": "party"
+    },
+    {
+      "id": "party/australian_liberty_alliance",
+      "name": "Australian Liberty Alliance",
+      "classification": "party"
+    },
+    {
+      "id": "party/australian_motoring_enthusiast_party",
+      "name": "Australian Motoring Enthusiast Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/australian_progressives",
+      "name": "Australian Progressives",
+      "classification": "party"
+    },
+    {
+      "id": "party/australian_sex_party",
+      "name": "Australian Sex Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/bullet_train_for_australia",
+      "name": "Bullet Train For Australia",
+      "classification": "party"
+    },
+    {
+      "id": "party/christian_democratic_party_fred_nile_group",
+      "name": "Christian Democratic Party (Fred Nile Group)",
+      "classification": "party"
+    },
+    {
+      "id": "party/citizens_electoral_council_of_australia",
+      "name": "Citizens Electoral Council of Australia",
+      "classification": "party"
+    },
+    {
+      "id": "party/consumer_rights_no_tolls",
+      "name": "Consumer Rights & No-Tolls",
+      "classification": "party"
+    },
+    {
+      "id": "party/country_liberals_northern_territory",
+      "name": "Country Liberals (Northern Territory)",
+      "classification": "party"
+    },
+    {
+      "id": "party/countryminded",
+      "name": "CountryMinded",
+      "classification": "party"
+    },
+    {
+      "id": "party/democratic_labour_party_dlp",
+      "name": "Democratic Labour Party (DLP)",
+      "classification": "party"
+    },
+    {
+      "id": "party/derryn_hinchs_justice_party",
+      "name": "Derryn Hinch's Justice Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/drug_law_reform_australia",
+      "name": "Drug Law Reform Australia",
+      "classification": "party"
+    },
+    {
+      "id": "party/family_first_party",
+      "name": "Family First Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/glenn_lazarus_team",
+      "name": "Glenn Lazarus Team",
+      "classification": "party"
+    },
+    {
+      "id": "party/health_australia_party",
+      "name": "Health Australia Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/help_end_marijuana_prohibition_hemp_party",
+      "name": "Help End Marijuana Prohibition (HEMP) Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/jacqui_lambie_network",
+      "name": "Jacqui Lambie Network",
+      "classification": "party"
+    },
+    {
+      "id": "party/john_madigans_manufacturing_and_farming_party",
+      "name": "John Madigan's Manufacturing and Farming Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/katters_australian_party",
+      "name": "Katter's Australian Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/liberal_democratic_party",
+      "name": "Liberal Democratic Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/liberal_party_of_australia",
+      "name": "Liberal Party of Australia",
+      "classification": "party"
+    },
+    {
+      "id": "party/mature_australia_party",
+      "name": "Mature Australia Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/national_party_of_australia",
+      "name": "National Party of Australia",
+      "classification": "party"
+    },
+    {
+      "id": "party/nick_xenophon_team",
+      "name": "Nick Xenophon Team",
+      "classification": "party"
+    },
+    {
+      "id": "party/non_custodial_parents_party_equal_parenting",
+      "name": "Non-Custodial Parents Party (Equal Parenting)",
+      "classification": "party"
+    },
+    {
+      "id": "party/online_direct_democracy_empowering_the_people",
+      "name": "Online Direct  Democracy – (Empowering the People!)",
+      "classification": "party"
+    },
+    {
+      "id": "party/outdoor_recreation_party_stop_the_greens",
+      "name": "Outdoor Recreation Party (Stop The Greens)",
+      "classification": "party"
+    },
+    {
+      "id": "party/palmer_united_party",
+      "name": "Palmer United Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/pauline_hansons_one_nation",
+      "name": "Pauline Hanson’s One Nation",
+      "classification": "party"
+    },
+    {
+      "id": "party/pirate_party_australia",
+      "name": "Pirate Party Australia",
+      "classification": "party"
+    },
+    {
+      "id": "party/renewable_energy_party",
+      "name": "Renewable Energy Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/rise_up_australia_party",
+      "name": "Rise Up Australia Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/secular_party_of_australia",
+      "name": "Secular Party of Australia",
+      "classification": "party"
+    },
+    {
+      "id": "party/seniors_united_party_of_australia",
+      "name": "Seniors United Party of Australia",
+      "classification": "party"
+    },
+    {
+      "id": "party/science_party",
+      "name": "Science Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/shooters_fishers_and_farmers_party",
+      "name": "Shooters, Fishers and Farmers Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/smokers_rights_party",
+      "name": "Smokers Rights Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/socialist_alliance",
+      "name": "Socialist Alliance",
+      "classification": "party"
+    },
+    {
+      "id": "party/socialist_equality_party",
+      "name": "Socialist Equality Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/the_arts_party",
+      "name": "The Arts Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/the_australian_mental_health_party",
+      "name": "The Australian Mental Health Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/voluntary_euthanasia_party",
+      "name": "Voluntary Euthanasia Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/votefluxorg_upgrade_democracy",
+      "name": "VOTEFLUX.ORG | Upgrade Democracy!",
+      "classification": "party"
+    }
+  ],
+  "memberships": [
+    {
+      "person_id": "melbourne/australian_greens/adam_bandt",
+      "organization_id": "electorate/melbourne",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    }
+  ],
+  "events": [
+
+  ],
+  "areas": [
+    {
+      "id": "electorate/canberra",
+      "name": "Canberra",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/fenner",
+      "name": "Fenner",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/banks",
+      "name": "Banks",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/barton",
+      "name": "Barton",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/bennelong",
+      "name": "Bennelong",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/berowra",
+      "name": "Berowra",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/blaxland",
+      "name": "Blaxland",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/bradfield",
+      "name": "Bradfield",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/calare",
+      "name": "Calare",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/chifley",
+      "name": "Chifley",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/cook",
+      "name": "Cook",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/cowper",
+      "name": "Cowper",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/cunningham",
+      "name": "Cunningham",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/dobell",
+      "name": "Dobell",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/eden_monaro",
+      "name": "Eden-Monaro",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/farrer",
+      "name": "Farrer",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/fowler",
+      "name": "Fowler",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/gilmore",
+      "name": "Gilmore",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/grayndler",
+      "name": "Grayndler",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/greenway",
+      "name": "Greenway",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/hughes",
+      "name": "Hughes",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/hume",
+      "name": "Hume",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/hunter",
+      "name": "Hunter",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/kingsford_smith",
+      "name": "Kingsford Smith",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/lindsay",
+      "name": "Lindsay",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/lyne",
+      "name": "Lyne",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/macarthur",
+      "name": "Macarthur",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/mackellar",
+      "name": "Mackellar",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/macquarie",
+      "name": "Macquarie",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/mcmahon",
+      "name": "McMahon",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/mitchell",
+      "name": "Mitchell",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/newcastle",
+      "name": "Newcastle",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/new_england",
+      "name": "New England",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/north_sydney",
+      "name": "North Sydney",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/page",
+      "name": "Page",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/parkes",
+      "name": "Parkes",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/parramatta",
+      "name": "Parramatta",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/paterson",
+      "name": "Paterson",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/reid",
+      "name": "Reid",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/richmond",
+      "name": "Richmond",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/riverina",
+      "name": "Riverina",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/robertson",
+      "name": "Robertson",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/shortland",
+      "name": "Shortland",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/sydney",
+      "name": "Sydney",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/warringah",
+      "name": "Warringah",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/watson",
+      "name": "Watson",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/wentworth",
+      "name": "Wentworth",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/werriwa",
+      "name": "Werriwa",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/whitlam",
+      "name": "Whitlam",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/lingiari",
+      "name": "Lingiari",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/solomon",
+      "name": "Solomon",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/blair",
+      "name": "Blair",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/bonner",
+      "name": "Bonner",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/bowman",
+      "name": "Bowman",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/brisbane",
+      "name": "Brisbane",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/capricornia",
+      "name": "Capricornia",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/dawson",
+      "name": "Dawson",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/dickson",
+      "name": "Dickson",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/fadden",
+      "name": "Fadden",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/fairfax",
+      "name": "Fairfax",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/fisher",
+      "name": "Fisher",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/flynn",
+      "name": "Flynn",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/forde",
+      "name": "Forde",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/griffith",
+      "name": "Griffith",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/groom",
+      "name": "Groom",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/herbert",
+      "name": "Herbert",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/hinkler",
+      "name": "Hinkler",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/kennedy",
+      "name": "Kennedy",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/leichhardt",
+      "name": "Leichhardt",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/lilley",
+      "name": "Lilley",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/longman",
+      "name": "Longman",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/maranoa",
+      "name": "Maranoa",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/mcpherson",
+      "name": "McPherson",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/moncrieff",
+      "name": "Moncrieff",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/moreton",
+      "name": "Moreton",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/oxley",
+      "name": "Oxley",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/petrie",
+      "name": "Petrie",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/rankin",
+      "name": "Rankin",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/ryan",
+      "name": "Ryan",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/wide_bay",
+      "name": "Wide Bay",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/wright",
+      "name": "Wright",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/adelaide",
+      "name": "Adelaide",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/barker",
+      "name": "Barker",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/boothby",
+      "name": "Boothby",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/grey",
+      "name": "Grey",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/hindmarsh",
+      "name": "Hindmarsh",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/kingston",
+      "name": "Kingston",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/makin",
+      "name": "Makin",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/mayo",
+      "name": "Mayo",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/port_adelaide",
+      "name": "Port Adelaide",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/sturt",
+      "name": "Sturt",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/wakefield",
+      "name": "Wakefield",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/bass",
+      "name": "Bass",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/braddon",
+      "name": "Braddon",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/denison",
+      "name": "Denison",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/franklin",
+      "name": "Franklin",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/lyons",
+      "name": "Lyons",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/aston",
+      "name": "Aston",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/ballarat",
+      "name": "Ballarat",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/batman",
+      "name": "Batman",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/bendigo",
+      "name": "Bendigo",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/bruce",
+      "name": "Bruce",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/calwell",
+      "name": "Calwell",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/casey",
+      "name": "Casey",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/chisholm",
+      "name": "Chisholm",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/corangamite",
+      "name": "Corangamite",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/corio",
+      "name": "Corio",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/deakin",
+      "name": "Deakin",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/dunkley",
+      "name": "Dunkley",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/flinders",
+      "name": "Flinders",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/gellibrand",
+      "name": "Gellibrand",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/gippsland",
+      "name": "Gippsland",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/goldstein",
+      "name": "Goldstein",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/gorton",
+      "name": "Gorton",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/higgins",
+      "name": "Higgins",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/holt",
+      "name": "Holt",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/hotham",
+      "name": "Hotham",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/indi",
+      "name": "Indi",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/isaacs",
+      "name": "Isaacs",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/jagajaga",
+      "name": "Jagajaga",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/kooyong",
+      "name": "Kooyong",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/lalor",
+      "name": "Lalor",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/la_trobe",
+      "name": "La Trobe",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/mallee",
+      "name": "Mallee",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/maribyrnong",
+      "name": "Maribyrnong",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/mcewen",
+      "name": "McEwen",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/mcmillan",
+      "name": "McMillan",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/melbourne",
+      "name": "Melbourne",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/melbourne_ports",
+      "name": "Melbourne Ports",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/menzies",
+      "name": "Menzies",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/murray",
+      "name": "Murray",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/scullin",
+      "name": "Scullin",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/wannon",
+      "name": "Wannon",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/wills",
+      "name": "Wills",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/brand",
+      "name": "Brand",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/burt",
+      "name": "Burt",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/canning",
+      "name": "Canning",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/cowan",
+      "name": "Cowan",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/curtin",
+      "name": "Curtin",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/durack",
+      "name": "Durack",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/forrest",
+      "name": "Forrest",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/fremantle",
+      "name": "Fremantle",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/hasluck",
+      "name": "Hasluck",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/moore",
+      "name": "Moore",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/oconnor",
+      "name": "O'Connor",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/pearce",
+      "name": "Pearce",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/perth",
+      "name": "Perth",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/stirling",
+      "name": "Stirling",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/swan",
+      "name": "Swan",
+      "classification": "electorate"
+    },
+    {
+      "id": "electorate/tangney",
+      "name": "Tangney",
+      "classification": "electorate"
+    }
+  ]
+}

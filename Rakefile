@@ -7,6 +7,13 @@ task :environment do
   require 'my_candidates'
 end
 
+namespace :popolo do
+  task :generate => :environment do
+    File.write '_data/candidates_popolo.json',
+      JSON.pretty_generate(MyCandidates::CandidateData.call)
+  end
+end
+
 namespace :scrapers do
   desc 'Load electorates and related postcodes from AEC'
   task :electorates => :environment do
