@@ -43,6 +43,12 @@ bundle exec rake scrapers:electorates
 bundle exec rake scrapers:parties
 ```
 
+Or, to regenerate the popolo data:
+
+```
+bundle exec rake popolo:generate
+```
+
 ## Contributing
 
 Firstly, please note the Code of Conduct for all contributions to this project. If you accept that, then the steps for contributing are probably something along the lines of:
