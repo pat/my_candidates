@@ -50,7 +50,7 @@ class MyCandidates::ElectoratePages
         'facebook' => link_for(person, 'facebook'),
         'webpage'  => link_for(person, 'webpage')
       }
-    }
+    }.sort_by { |hash| hash['name'] }
   end
 
   def electorates
