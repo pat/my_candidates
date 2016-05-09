@@ -4,7 +4,18 @@
       "id": "melbourne/australian_greens/adam_bandt",
       "name": "Adam Bandt",
       "links": [
-
+        {
+          "url": "https://twitter.com/AdamBandt",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/Adam.Bandt.MP",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.adambandt.com",
+          "note": "webpage"
+        }
       ]
     }
   ],
