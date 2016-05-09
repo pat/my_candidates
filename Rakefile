@@ -7,7 +7,7 @@ task :environment do
   require 'my_candidates'
 end
 
-task :rebuild => ['popolo:generate', 'generate:pages']
+task :rebuild => ['generate:popolo', 'generate:pages']
 
 namespace :generate do
   task :electorate_pages => :environment do
@@ -31,10 +31,8 @@ namespace :generate do
     MyCandidates::PostcodePages.call site
     MyCandidates::ElectoratePages.call site
   end
-end
 
-namespace :popolo do
-  task :generate => :environment do
+  task :popolo => :environment do
     File.write '_data/candidates_popolo.json',
       JSON.pretty_generate(MyCandidates::CandidateData.call)
   end

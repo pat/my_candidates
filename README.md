@@ -33,19 +33,38 @@ To run a webserver that hosts the site locally:
 bundle exec jekyll serve
 ```
 
-To run the scrapers (note that a recent version of Firefox must be installed, because one of the scrapers uses Selenium due to the annoying requirement of Javascript. Thanks AEC!)
+## Scrapers and Data
+
+Unless there are data changes, you won't need to run any of these tasks - all data and template files are committed to the repository.
+
+### Candidate Information
+
+To regenerate the popolo data from the Google spreadsheet, use the `generate:popolo` rake task:
 
 ```
-bundle exec rake scrapers:electorates
-bundle exec rake scrapers:parties
+bundle exec rake generate;popolo
 ```
 
-Or, to regenerate the popolo data and all postcode and electorate pages:
+To rebuild the electorate and postcode pages from the latest popolo data, use the `generate:pages` rake task:
+
+```
+bundle exec rake generate:pages
+```
+
+And to run them both together (which will be needed every time the Google spreadsheet has updated information), there's a single `rebuild` rake task:
 
 ```
 bundle exec rake rebuild
 ```
 
+### Postcodes, Electorates, Parties
+
+Postcode, electorate and party information has been scraped from the AEC website in `_data/electorates.json` and `_data/parties.json`. You shouldn't need to recreate these files from scratch (there's nothing volatile about this data), but on the off chance it is needed, run the following rake tasks:
+
+```
+bundle exec rake scrapers:electorates
+bundle exec rake scrapers:parties
+```
 
 ## Contributing
 
