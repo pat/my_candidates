@@ -11,15 +11,15 @@ The goal (as yet unrealised) is this for to be a simple static site that lists a
 * [A Google spreadsheet](https://docs.google.com/spreadsheets/d/1PaS7lYTs5pAccFIHImzfStKVFdetjGHuHz54DoOdBP4/edit?usp=sharing) that will be the source of candidates.
 * [A Google form](https://docs.google.com/forms/d/1mpS6fpwPAQGciaydUn-l_YyCEosYic3PHbdJf6Cz8gc/viewform) to help source candidate data (name, party, electorate, social media links).
 * Popolo data sourced from the Google spreadsheet.
+* Write code to generate pages for each postcode and electorate. If a postcode only has one electorate, redirect to that electorate. If it has more than one, offer the viewer a choice.
+* On electorate pages, include a link to the Google form to allow people to suggest missing candidates.
 
 ### In progress:
 
-* Write code to generate pages for each postcode and electorate. If a postcode only has one electorate, redirect to that electorate. If it has more than one, offer the viewer a choice.
+* Add meaningful layouts and design.
 
 ### To do:
 
-* Add meaningful layouts and design.
-* On electorate pages, include a link to the Google form to allow people to suggest missing candidates.
 * Get some decent candidate data together so the site isn't empty.
 
 ## Working on the site:
@@ -43,11 +43,12 @@ bundle exec rake scrapers:electorates
 bundle exec rake scrapers:parties
 ```
 
-Or, to regenerate the popolo data:
+Or, to regenerate the popolo data and all postcode and electorate pages:
 
 ```
-bundle exec rake popolo:generate
+bundle exec rake rebuild
 ```
+
 
 ## Contributing
 
