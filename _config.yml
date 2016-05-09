@@ -11,9 +11,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A crowdsourced list of electorate candidates for the Australian Federal
   Election of 2016.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: pat
-github_username:  pat
+url: "http://election.freelancing-gods.com" # the base hostname & protocol for your site
 author:
   name: Pat Allan
   uri: http://freelancing-gods.com
