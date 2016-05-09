@@ -25,12 +25,14 @@ class MyCandidates::CandidateData
     end
 
     def membership_hash
-      {
+      hash = {
         :person_id       => key,
         :organization_id => "electorate/#{electorate}",
-        :role            => "candidate",
-        :on_behalf_of_id => "party/#{party}"
+        :role            => "candidate"
       }
+
+      hash[:on_behalf_of_id] = "party/#{party}" if party
+      hash
     end
 
     def person_hash

@@ -41,7 +41,7 @@ class MyCandidates::ElectoratePages
       }
       party  = popolo['organizations'].detect { |party|
         membership['on_behalf_of_id'] == party['id']
-      }
+      } || {}
 
       {
         'name'     => person['name'],
