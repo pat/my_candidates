@@ -1,615 +1,6 @@
 {
   "persons": [
     {
-      "id": "adelaide/australian_greens/sophie_guy",
-      "name": "Sophie Guy",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "aston/australian_greens/steve_raymond",
-      "name": "Steve Raymond",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "ballarat/australian_greens/alice_barnes",
-      "name": "Alice Barnes",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "banks/australian_greens/philippa_clark",
-      "name": "Philippa Clark",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "barton/australian_greens/brent_heber",
-      "name": "Brent Heber",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "bass/australian_greens/terrill_riley_gibson",
-      "name": "Terrill Riley-Gibson",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "batman/australian_greens/alex_bhathal",
-      "name": "Alex Bhathal",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "bendigo/australian_greens/rosemary_glaisher",
-      "name": "Rosemary Glaisher",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "bennelong/australian_greens/justin_alick",
-      "name": "Justin Alick",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "berowra/australian_greens/emma_heyde",
-      "name": "Emma Heyde",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "blaxland/australian_greens/suzan_virago",
-      "name": "Suzan Virago",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "bonner/australian_greens/ken_austin",
-      "name": "Ken Austin",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "boothby/australian_greens/jane_bange",
-      "name": "Jane Bange",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "bowman/australian_greens/brad_scott",
-      "name": "Brad Scott",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "braddon/australian_greens/scott_jordan",
-      "name": "Scott Jordan",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "bradfield/australian_greens/adrian_jones",
-      "name": "Adrian Jones",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "brisbane/australian_greens/kirsten_lovejoy",
-      "name": "Kirsten Lovejoy",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "burt/australian_greens/muhammad_salman",
-      "name": "Muhammad Salman",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "calwell/australian_greens/natalie_abboud",
-      "name": "Natalie Abboud",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "canberra/australian_greens/trish_cahill",
-      "name": "Trish Cahill",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "canning/australian_greens/aeron_blundell_camden",
-      "name": "Aeron Blundell-Camden",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "casey/australian_greens/elissa_sutherland",
-      "name": "Elissa Sutherland",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "chifley/australian_greens/eliza_james",
-      "name": "Eliza James",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "chisholm/australian_greens/josh_fergeus",
-      "name": "Josh Fergeus",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "cook/australian_greens/nathan_hunt",
-      "name": "Nathan Hunt",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "corangamite/australian_greens/patchouli_paterson",
-      "name": "Patchouli Paterson",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "corio/australian_greens/sarah_mansfield",
-      "name": "Sarah Mansfield",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "cowper/australian_greens/carol_vernon",
-      "name": "Carol Vernon",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "curtin/australian_greens/viv_glance",
-      "name": "Viv Glance",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "/australian_greens/todd_williams",
-      "name": "Todd Williams",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "dawson/australian_greens/jonathon_dykjy",
-      "name": "Jonathon Dykjy",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "deakin/australian_greens/joshua_briers",
-      "name": "Joshua Briers",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "denison/australian_greens/jen_brown",
-      "name": "Jen Brown",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "dickson/australian_greens/michael_berkman",
-      "name": "Michael Berkman",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "dobell/australian_greens/abigail_boyd",
-      "name": "Abigail Boyd",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "dunkley/australian_greens/jeanette_swain",
-      "name": "Jeanette Swain",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "eden_monaro/australian_greens/tamara_ryan",
-      "name": "Tamara Ryan",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "fadden/australian_greens/daniel_kwon",
-      "name": "Daniel Kwon",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "fairfax/australian_greens/sue_etheridge",
-      "name": "Sue Etheridge",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "farrer/australian_greens/amanda_cohn",
-      "name": "Amanda Cohn",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "fisher/australian_greens/tony_gibson",
-      "name": "Tony Gibson",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "flinders/australian_greens/willisa_hogarth",
-      "name": "Willisa Hogarth",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "flynn/australian_greens/craig_tomsett",
-      "name": "Craig Tomsett",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "forde/australian_greens/sally_spain",
-      "name": "Sally Spain",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "fowler/australian_greens/bill_cashman",
-      "name": "Bill Cashman",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "franklin/australian_greens/martine_delaney",
-      "name": "Martine Delaney",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "fremantle/australian_greens/kate_davis",
-      "name": "Kate Davis",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "gellibrand/australian_greens/jonathon_marsden",
-      "name": "Jonathon Marsden",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "gilmore/australian_greens/carmel_mccallum",
-      "name": "Carmel McCallum",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "gippsland/australian_greens/ian_onley",
-      "name": "Ian Onley",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "goldstein/australian_greens/cheryl_hercus",
-      "name": "Cheryl Hercus",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "gorton/australian_greens/rod_swift",
-      "name": "Rod Swift",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "grayndler/australian_greens/jim_casey",
-      "name": "Jim Casey",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "greenway/australian_greens/chris_winslow",
-      "name": "Chris Winslow",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "griffith/australian_greens/karen_anderson",
-      "name": "Karen Anderson",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "herbert/australian_greens/wendy_tubman",
-      "name": "Wendy Tubman",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "higgins/australian_greens/jason_ball",
-      "name": "Jason Ball",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "hindmarsh/australian_greens/patrick_osullivan",
-      "name": "Patrick O'Sullivan",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "hinkler/australian_greens/tim_roberts",
-      "name": "Tim Roberts",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "holt/australian_greens/jake_tilton",
-      "name": "Jake Tilton",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "hotham/australian_greens/james_bennett",
-      "name": "James Bennett",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "hughes/australian_greens/phil_smith",
-      "name": "Phil Smith",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "indi/australian_greens/jenny_oconnor",
-      "name": "Jenny O'Connor",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "isaacs/australian_greens/alex_breskin",
-      "name": "Alex Breskin",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "jagajaga/australian_greens/hugh_mckinnon",
-      "name": "Hugh McKinnon",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "kennedy/australian_greens/valerie_weier",
-      "name": "Valerie Weier",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "kingsford_smith/australian_greens/james_macdonald",
-      "name": "James Macdonald",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "kingston/australian_greens/robyn_holtham",
-      "name": "Robyn Holtham",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "kooyong/australian_greens/helen_mcleod",
-      "name": "Helen McLeod",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "la_trobe/australian_greens/tom_cummings",
-      "name": "Tom Cummings",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "lalor/australian_greens/daniel_sova",
-      "name": "Daniel Sova",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "lilley/australian_greens/claire_ogden",
-      "name": "Claire Ogden",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "lindsay/australian_greens/kingsley_liu",
-      "name": "Kingsley Liu",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "longman/australian_greens/ian_bell",
-      "name": "Ian Bell",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "lyne/australian_greens/julie_lyford",
-      "name": "Julie Lyford",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "lyons/australian_greens/hannah_rubenach_quinn",
-      "name": "Hannah Rubenach-Quinn",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "macarthur/australian_greens/ben_moroney",
-      "name": "Ben Moroney",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "/australian_greens/mike_hall",
-      "name": "Mike Hall",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "macquarie/australian_greens/terry_morgan",
-      "name": "Terry Morgan",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "makin/australian_greens/keiran_snape",
-      "name": "Keiran Snape",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "mallee/australian_greens/helen_healy",
-      "name": "Helen Healy",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "maranoa/australian_greens/katherine_hompes",
-      "name": "Katherine Hompes",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "maribyrnong/australian_greens/olivia_ball",
-      "name": "Olivia Ball",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "mayo/australian_greens/nathan_daniell",
-      "name": "Nathan Daniell",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "mcewen/australian_greens/neil_barker",
-      "name": "Neil Barker",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "mcmillan/australian_greens/donna_lancaster",
-      "name": "Donna Lancaster",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "mcpherson/australian_greens/peter_burgoyne",
-      "name": "Peter Burgoyne",
-      "links": [
-
-      ]
-    },
-    {
       "id": "melbourne/australian_greens/adam_bandt",
       "name": "Adam Bandt",
       "links": [
@@ -628,276 +19,1651 @@
       ]
     },
     {
-      "id": "melbourne_ports/australian_greens/stephanie_hodgins_may",
-      "name": "Stephanie Hodgins-May",
+      "id": "canberra/australian_greens/patricia_cahill",
+      "name": "Patricia Cahill",
       "links": [
 
       ]
     },
     {
-      "id": "menzies/australian_greens/richard_cranston",
-      "name": "Richard Cranston",
+      "id": "fenner/australian_greens/carly_saeedi",
+      "name": "Carly Saeedi",
       "links": [
 
       ]
     },
     {
-      "id": "mitchell/australian_greens/michael_bellstedt",
-      "name": "Michael Bellstedt",
+      "id": "solomon/australian_greens/todd_williams",
+      "name": "Todd Williams",
       "links": [
-
+        {
+          "url": "https://www.facebook.com/GreensToddWilliams",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/nt/todd-williams",
+          "note": "webpage"
+        }
       ]
     },
     {
-      "id": "moncrieff/australian_greens/roger_brisbane",
-      "name": "Roger Brisbane",
+      "id": "burt/australian_greens/muhammad_salman",
+      "name": "Muhammad Salman",
       "links": [
-
+        {
+          "url": "https://twitter.com/MuhammadforBurt",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/Muhammad-Salman-Greens-Candidate-for-Burt-872026726277344/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/wa/muhammad-salman",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "canning/australian_greens/aeron_blundell_camden",
+      "name": "Aeron Blundell-Camden",
+      "links": [
+        {
+          "url": "https://www.facebook.com/AeronforCanning/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/wa/aeron-blundell-camden",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "curtin/australian_greens/viv_glance",
+      "name": "Viv Glance",
+      "links": [
+        {
+          "url": "https://twitter.com/vivforcurtin",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/GreensForCurtin",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/wa/viv-glance",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "forrest/australian_greens/jill_reading",
+      "name": "Jill Reading",
+      "links": [
+        {
+          "url": "http://greens.org.au/wa/jill-reading",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "fremantle/australian_greens/kate_davis",
+      "name": "Kate Davis",
+      "links": [
+        {
+          "url": "https://twitter.com/KateForFreo",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/KateForFreo",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/wa/kate-davis",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "hasluck/australian_greens/patrick_hyslop",
+      "name": "Patrick Hyslop",
+      "links": [
+        {
+          "url": "http://greens.org.au/wa/patrick-hyslop",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "moore/australian_greens/daniel_lindley",
       "name": "Daniel Lindley",
       "links": [
-
-      ]
-    },
-    {
-      "id": "moreton/australian_greens/kristen_lyons",
-      "name": "Kristen Lyons",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "murray/australian_greens/ian_christoe",
-      "name": "Ian Christoe",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "new_england/australian_greens/mercurius_goldstein",
-      "name": "Mercurius Goldstein",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "newcastle/australian_greens/dr_john_mackenzie",
-      "name": "Dr John Mackenzie",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "north_sydney/australian_greens/dr_arthur_chesterfield_evans",
-      "name": "Dr. Arthur Chesterfield-Evans",
-      "links": [
-
+        {
+          "url": "http://www.twitter.com/danielformoore",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/danielformoore",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/wa/daniel-lindley",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "oconnor/australian_greens/giz_watson",
       "name": "Giz Watson",
       "links": [
-
+        {
+          "url": "http://greens.org.au/wa/giz-watson",
+          "note": "webpage"
+        }
       ]
     },
     {
-      "id": "oxley/australian_greens/steven_purcell",
-      "name": "Steven Purcell",
+      "id": "pearce/australian_greens/lee_anne_miles",
+      "name": "Lee-Anne Miles",
       "links": [
-
-      ]
-    },
-    {
-      "id": "page/australian_greens/kudra_falla_ricketts",
-      "name": "Kudra Falla-Ricketts",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "parkes/australian_greens/matt_parmeter",
-      "name": "Matt Parmeter",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "parramatta/australian_greens/phil_bradley",
-      "name": "Phil Bradley",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "paterson/australian_greens/john_brown",
-      "name": "John Brown",
-      "links": [
-
+        {
+          "url": "https://www.facebook.com/Lee-Anne-for-Pearce-1743432579274078/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/wa/lee-anne-miles",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "perth/australian_greens/tim_clifford",
       "name": "Tim Clifford",
       "links": [
-
+        {
+          "url": "http://www.twitter.com/TimforPerth",
+          "note": "twitter"
+        },
+        {
+          "url": "http://www.facebook.com/TimforPerth/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/wa/tim-clifford",
+          "note": "webpage"
+        }
       ]
     },
     {
-      "id": "petrie/australian_greens/sue_weber",
-      "name": "Sue Weber",
+      "id": "stirling/australian_greens/tom_webster",
+      "name": "Tom Webster",
       "links": [
-
-      ]
-    },
-    {
-      "id": "port_adelaide/australian_greens/matthew_carey",
-      "name": "Matthew Carey",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "rankin/australian_greens/neil_cotter",
-      "name": "Neil Cotter",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "reid/australian_greens/alice_mantel",
-      "name": "Alice Mantel",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "richmond/australian_greens/dawn_walker",
-      "name": "Dawn Walker",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "robertson/australian_greens/hillary_morris",
-      "name": "Hillary Morris",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "ryan/australian_greens/sandra_bayley",
-      "name": "Sandra Bayley",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "scullin/australian_greens/rose_ljubicic",
-      "name": "Rose Ljubicic",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "shortland/australian_greens/ivan_macfadyen",
-      "name": "Ivan MacFadyen",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "sturt/australian_greens/rebecca_galdies",
-      "name": "Rebecca Galdies",
-      "links": [
-
+        {
+          "url": "https://www.facebook.com/tomforstirling",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/wa/tom-webster",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "swan/australian_greens/sarah_nielsen_harvey",
       "name": "Sarah Nielsen-Harvey",
       "links": [
-
-      ]
-    },
-    {
-      "id": "sydney/australian_greens/sylvie_ellsmore",
-      "name": "Sylvie Ellsmore",
-      "links": [
-
+        {
+          "url": "https://twitter.com/SarahforSwan",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/SarahForSwan/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/wa/sarah-nielsen-harvey",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "tangney/australian_greens/thor_kerr",
       "name": "Thor Kerr",
       "links": [
-
+        {
+          "url": "https://twitter.com/ThorForTangney",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/ThorForTangney",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/wa/thor-kerr",
+          "note": "webpage"
+        }
       ]
     },
     {
-      "id": "wakefield/australian_greens/craig_vanstone",
-      "name": "Craig Vanstone",
+      "id": "grayndler/australian_greens/jim_casey",
+      "name": "Jim Casey",
       "links": [
-
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/jim-casey",
+          "note": "webpage"
+        }
       ]
     },
     {
-      "id": "wannon/australian_greens/thomas_campbell",
-      "name": "Thomas Campbell",
+      "id": "sydney/australian_greens/sylvie_ellsmore",
+      "name": "Sylvie Ellsmore",
       "links": [
-
+        {
+          "url": "https://twitter.com/Sylvie_E",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/SylvieEllsmoreGreens",
+          "note": "facebook"
+        },
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/sylvie-ellsmore",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "richmond/australian_greens/dawn_walker",
+      "name": "Dawn Walker",
+      "links": [
+        {
+          "url": "https://www.facebook.com/dawn.walkergreens",
+          "note": "facebook"
+        },
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/dawn-walker",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "banks/australian_greens/philippa_clark",
+      "name": "Philippa Clark",
+      "links": [
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/philippa-clark",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "barton/australian_greens/brent_heber",
+      "name": "Brent Heber",
+      "links": [
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/brent-heber",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "bennelong/australian_greens/justin_alick",
+      "name": "Justin Alick",
+      "links": [
+        {
+          "url": "https://www.facebook.com/justinalickgreens",
+          "note": "facebook"
+        },
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/justin-alick",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "berowra/australian_greens/emma_heyde",
+      "name": "Emma Heyde",
+      "links": [
+        {
+          "url": "https://www.facebook.com/berowragreens",
+          "note": "facebook"
+        },
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/emma-heyde",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "blaxland/australian_greens/suzan_virago",
+      "name": "Suzan Virago",
+      "links": [
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/suzan-virago",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "bradfield/australian_greens/adrian_jones",
+      "name": "Adrian Jones",
+      "links": [
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/adrian-jones",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "chifley/australian_greens/eliza_james",
+      "name": "Eliza James",
+      "links": [
+        {
+          "url": "https://twitter.com/BlacktownEliza",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/ElizaJGreens",
+          "note": "facebook"
+        },
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/eliza-james",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "cook/australian_greens/nathan_hunt",
+      "name": "Nathan Hunt",
+      "links": [
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/nathan-hunt",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "cowper/australian_greens/carol_vernon",
+      "name": "Carol Vernon",
+      "links": [
+        {
+          "url": "https://twitter.com/greens4cowper",
+          "note": "twitter"
+        },
+        {
+          "url": "http://facebook.com/CarolVernonGreens",
+          "note": "facebook"
+        },
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/carol-vernon",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "dobell/australian_greens/abigail_boyd",
+      "name": "Abigail Boyd",
+      "links": [
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/abigail-boyd",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "eden_monaro/australian_greens/tamara_ryan",
+      "name": "Tamara Ryan",
+      "links": [
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/tamara-ryan",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "farrer/australian_greens/amanda_cohn",
+      "name": "Amanda Cohn",
+      "links": [
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/amanda-cohn",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "fowler/australian_greens/bill_cashman",
+      "name": "Bill Cashman",
+      "links": [
+        {
+          "url": "https://www.facebook.com/greensforcabra",
+          "note": "facebook"
+        },
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/bill-cashman",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "gilmore/australian_greens/carmel_mccallum",
+      "name": "Carmel McCallum",
+      "links": [
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/carmel-mccallum",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "greenway/australian_greens/chris_winslow",
+      "name": "Chris Winslow",
+      "links": [
+        {
+          "url": "http://twitter.com/BlacktownChris",
+          "note": "twitter"
+        },
+        {
+          "url": "http://www.facebook.com/ChrisWinslowGreensNSW",
+          "note": "facebook"
+        },
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/chris-winslow",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "hughes/australian_greens/phil_smith",
+      "name": "Phil Smith",
+      "links": [
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/phil-smith",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "kingsford_smith/australian_greens/james_macdonald",
+      "name": "James Macdonald",
+      "links": [
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/james-macdonald",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "lindsay/australian_greens/kingsley_liu",
+      "name": "Kingsley Liu",
+      "links": [
+        {
+          "url": "https://www.facebook.com/KingsleyLiuGreensForMulgoa/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/kingsley-liu",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "lyne/australian_greens/julie_lyford",
+      "name": "Julie Lyford",
+      "links": [
+        {
+          "url": "http://twitter.com/JulieLyford",
+          "note": "twitter"
+        },
+        {
+          "url": "http://facebook.com/julielyfordgreens",
+          "note": "facebook"
+        },
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/julie-lyford",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "macarthur/australian_greens/ben_moroney",
+      "name": "Ben Moroney",
+      "links": [
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/ben-moroney",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "/australian_greens/mike_hall",
+      "name": "Mike Hall",
+      "links": [
+        {
+          "url": "https://twitter.com/mikehallsydney",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/mikehallgreens",
+          "note": "facebook"
+        },
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/mike-hall",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "macquarie/australian_greens/terry_morgan",
+      "name": "Terry Morgan",
+      "links": [
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/terry-morgan",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "mitchell/australian_greens/michael_bellstedt",
+      "name": "Michael Bellstedt",
+      "links": [
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/michael-bellstedt",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "new_england/australian_greens/mercurius_goldstein",
+      "name": "Mercurius Goldstein",
+      "links": [
+        {
+          "url": "http://twitter.com/greengoldstein",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/Greens15NorthernTablelands",
+          "note": "facebook"
+        },
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/mercurius-goldstein",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "newcastle/australian_greens/dr_john_mackenzie",
+      "name": "Dr John Mackenzie",
+      "links": [
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/dr-john-mackenzie",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "north_sydney/australian_greens/dr_arthur_chesterfield_evans",
+      "name": "Dr. Arthur Chesterfield-Evans",
+      "links": [
+        {
+          "url": "http://facebook.com/lnsg.northshore",
+          "note": "facebook"
+        },
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/dr-arthur-chesterfield-evans",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "page/australian_greens/kudra_falla_ricketts",
+      "name": "Kudra Falla-Ricketts",
+      "links": [
+        {
+          "url": "https://www.facebook.com/Kudra-Falla-Ricketts-974729449283502/?fref=nf",
+          "note": "facebook"
+        },
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/kudra-falla-ricketts",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "parkes/australian_greens/matt_parmeter",
+      "name": "Matt Parmeter",
+      "links": [
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/matt-parmeter",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "parramatta/australian_greens/phil_bradley",
+      "name": "Phil Bradley",
+      "links": [
+        {
+          "url": "https://www.facebook.com/greens4parramatta",
+          "note": "facebook"
+        },
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/phil-bradley",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "paterson/australian_greens/john_brown",
+      "name": "John Brown",
+      "links": [
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/john-brown",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "reid/australian_greens/alice_mantel",
+      "name": "Alice Mantel",
+      "links": [
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/alice-mantel",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "robertson/australian_greens/hillary_morris",
+      "name": "Hillary Morris",
+      "links": [
+        {
+          "url": "https://www.facebook.com/greens4robertson",
+          "note": "facebook"
+        },
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/hillary-morris",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "shortland/australian_greens/ivan_macfadyen",
+      "name": "Ivan MacFadyen",
+      "links": [
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/ivan-macfadyen",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "warringah/australian_greens/clara_williams_roldan",
       "name": "Clara Williams-Roldan",
       "links": [
-
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/clara-williams-roldan",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "watson/australian_greens/barbara_bloch",
       "name": "Barbara Bloch",
       "links": [
-
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/barbara-bloch",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "wentworth/australian_greens/dejay_toborek",
       "name": "Dejay Toborek",
       "links": [
-
+        {
+          "url": "https://www.facebook.com/DejayToborek/?fref=ts",
+          "note": "facebook"
+        },
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/dejay-toborek",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "werriwa/australian_greens/signe_westerberg",
       "name": "Signe Westerberg",
       "links": [
-
+        {
+          "url": "https://twitter.com/signewesterberg",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/swesterberggreens",
+          "note": "facebook"
+        },
+        {
+          "url": "http://nsw.greens.org.au/person/nsw/signe-westerberg",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "brisbane/australian_greens/kirsten_lovejoy",
+      "name": "Kirsten Lovejoy",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/brisbane",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "bonner/australian_greens/ken_austin",
+      "name": "Ken Austin",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/qld/bonner",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "bowman/australian_greens/brad_scott",
+      "name": "Brad Scott",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/qld/bowman",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "dawson/australian_greens/jonathon_dykjy",
+      "name": "Jonathon Dykjy",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/qld/dawson",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "dickson/australian_greens/michael_berkman",
+      "name": "Michael Berkman",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/qld/dickson",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "fadden/australian_greens/daniel_kwon",
+      "name": "Daniel Kwon",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/qld/fadden",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "fairfax/australian_greens/sue_etheridge",
+      "name": "Sue Etheridge",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/qld/fairfax",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "fisher/australian_greens/tony_gibson",
+      "name": "Tony Gibson",
+      "links": [
+        {
+          "url": "http://greens.org.au/qld/fisher-candidate",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "flynn/australian_greens/craig_tomsett",
+      "name": "Craig Tomsett",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/qld/flynn",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "forde/australian_greens/sally_spain",
+      "name": "Sally Spain",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/qld/forde",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "griffith/australian_greens/karen_anderson",
+      "name": "Karen Anderson",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/qld/griffith",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "herbert/australian_greens/wendy_tubman",
+      "name": "Wendy Tubman",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/qld/herbert",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "hinkler/australian_greens/tim_roberts",
+      "name": "Tim Roberts",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/qld/hinkler",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "kennedy/australian_greens/valerie_weier",
+      "name": "Valerie Weier",
+      "links": [
+        {
+          "url": "https://www.facebook.com/Valerie4Kennedy",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/candidate/qld/kennedy",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "lilley/australian_greens/claire_ogden",
+      "name": "Claire Ogden",
+      "links": [
+        {
+          "url": "http://greens.org.au/qld/claire-ogden",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "longman/australian_greens/ian_bell",
+      "name": "Ian Bell",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/qld/longman",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "maranoa/australian_greens/katherine_hompes",
+      "name": "Katherine Hompes",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/qld/maranoa",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "mcpherson/australian_greens/peter_burgoyne",
+      "name": "Peter Burgoyne",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/qld/mcpherson",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "moncrieff/australian_greens/roger_brisbane",
+      "name": "Roger Brisbane",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/qld/moncrieff",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "moreton/australian_greens/kristen_lyons",
+      "name": "Kristen Lyons",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/qld/moreton",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "oxley/australian_greens/steven_purcell",
+      "name": "Steven Purcell",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/qld/oxley",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "petrie/australian_greens/sue_weber",
+      "name": "Sue Weber",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/qld/petrie",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "rankin/australian_greens/neil_cotter",
+      "name": "Neil Cotter",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/qld/rankin",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "ryan/australian_greens/sandra_bayley",
+      "name": "Sandra Bayley",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/qld/ryan",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "wide_bay/australian_greens/bron_marsh",
       "name": "Bron Marsh",
       "links": [
-
-      ]
-    },
-    {
-      "id": "wills/australian_greens/samantha_ratnam",
-      "name": "Samantha Ratnam",
-      "links": [
-
+        {
+          "url": "http://greens.org.au/candidate/qld/wide-bay",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "wright/australian_greens/pietro_agnoletto",
       "name": "Pietro Agnoletto",
       "links": [
-
+        {
+          "url": "http://greens.org.au/candidate/qld/wright",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "adelaide/australian_greens/sophie_guy",
+      "name": "Sophie Guy",
+      "links": [
+        {
+          "url": "https://www.facebook.com/greens4adelaide",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/sa/sophie-guy",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "boothby/australian_greens/jane_bange",
+      "name": "Jane Bange",
+      "links": [
+        {
+          "url": "https://www.facebook.com/JaneBangeGreensBoothby",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/sa/jane-bange",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "hindmarsh/australian_greens/patrick_osullivan",
+      "name": "Patrick O'Sullivan",
+      "links": [
+        {
+          "url": "http://greens.org.au/sa/patrick-osullivan",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "kingston/australian_greens/robyn_holtham",
+      "name": "Robyn Holtham",
+      "links": [
+        {
+          "url": "https://www.facebook.com/robynforkingston",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/sa/robyn-holtham",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "makin/australian_greens/keiran_snape",
+      "name": "Keiran Snape",
+      "links": [
+        {
+          "url": "https://www.facebook.com/KeiranSnapeGreens",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/keiran-snape",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "mayo/australian_greens/nathan_daniell",
+      "name": "Nathan Daniell",
+      "links": [
+        {
+          "url": "http://www.facebook.com/nathanformayo",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/sa/nathan-daniell-0",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "port_adelaide/australian_greens/matthew_carey",
+      "name": "Matthew Carey",
+      "links": [
+        {
+          "url": "https://www.facebook.com/greens4portadelaide",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/sa/matthewcarey",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "sturt/australian_greens/rebecca_galdies",
+      "name": "Rebecca Galdies",
+      "links": [
+        {
+          "url": "https://twitter.com/GaldiesRebecca",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/Rebecca-Galdies-For-Sturt-920061844773777/?fref=ts",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/sa/rebecca-galdies",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "wakefield/australian_greens/craig_vanstone",
+      "name": "Craig Vanstone",
+      "links": [
+        {
+          "url": "https://www.facebook.com/Craig-Vanstone-Greens-Candidate-for-Wakefield-569789716531451/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/sa/craig-vanstone",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "batman/australian_greens/alex_bhathal",
+      "name": "Alex Bhathal",
+      "links": [
+        {
+          "url": "https://twitter.com/alexbhathal",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/Alex.Bhathal.Greens/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://alexbhathal.com/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "higgins/australian_greens/jason_ball",
+      "name": "Jason Ball",
+      "links": [
+        {
+          "url": "http://www.jasonball.com.au/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "melbourne_ports/australian_greens/stephanie_hodgins_may",
+      "name": "Stephanie Hodgins-May",
+      "links": [
+        {
+          "url": "https://twitter.com/sjhod",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/StephForPorts",
+          "note": "facebook"
+        },
+        {
+          "url": "http://stephforports.com/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "wannon/australian_greens/thomas_campbell",
+      "name": "Thomas Campbell",
+      "links": [
+        {
+          "url": "http://facebook.com/campbellswc",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/candidate/vic/wannon",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "wills/australian_greens/samantha_ratnam",
+      "name": "Samantha Ratnam",
+      "links": [
+        {
+          "url": "https://twitter.com/samantharatnam",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/SamanthaRatnamGreens",
+          "note": "facebook"
+        },
+        {
+          "url": "http://samantharatnam.com/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "aston/australian_greens/steve_raymond",
+      "name": "Steve Raymond",
+      "links": [
+        {
+          "url": "http://twitter.com/ste_ray",
+          "note": "twitter"
+        },
+        {
+          "url": "http://facebook.com/steve.raymond.greens",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/candidate/vic/aston",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "ballarat/australian_greens/alice_barnes",
+      "name": "Alice Barnes",
+      "links": [
+        {
+          "url": "http://www.twitter.com/AliceBarnesBal",
+          "note": "twitter"
+        },
+        {
+          "url": "http://www.facebook.com/AliceBarnesGreens",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/candidate/vic/ballarat",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "bendigo/australian_greens/rosemary_glaisher",
+      "name": "Rosemary Glaisher",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/vic/bendigo",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "calwell/australian_greens/natalie_abboud",
+      "name": "Natalie Abboud",
+      "links": [
+        {
+          "url": "http://twitter.com/natabboud1",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/NatalieAbboudGreens",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/candidate/vic/calwell",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "casey/australian_greens/elissa_sutherland",
+      "name": "Elissa Sutherland",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/vic/casey",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "chisholm/australian_greens/josh_fergeus",
+      "name": "Josh Fergeus",
+      "links": [
+        {
+          "url": "http://twitter.com/joshfergeus",
+          "note": "twitter"
+        },
+        {
+          "url": "http://facebook.com/JoshFergeusGreens",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/candidate/vic/chisholm",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "corangamite/australian_greens/patchouli_paterson",
+      "name": "Patchouli Paterson",
+      "links": [
+        {
+          "url": "https://www.facebook.com/patchouli.paterson.corangamite",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/candidate/vic/corangamite",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "corio/australian_greens/sarah_mansfield",
+      "name": "Sarah Mansfield",
+      "links": [
+        {
+          "url": "http://twitter.com/sjrmansfield",
+          "note": "twitter"
+        },
+        {
+          "url": "http://greens.org.au/candidate/vic/corio",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "deakin/australian_greens/joshua_briers",
+      "name": "Joshua Briers",
+      "links": [
+        {
+          "url": "https://twitter.com/briers_greens",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/BriersGreens/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/candidate/vic/deakin",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "dunkley/australian_greens/jeanette_swain",
+      "name": "Jeanette Swain",
+      "links": [
+        {
+          "url": "https://www.facebook.com/JSwain.Frankston/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/candidate/vic/dunkley",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "flinders/australian_greens/willisa_hogarth",
+      "name": "Willisa Hogarth",
+      "links": [
+        {
+          "url": "https://www.facebook.com/Greens.Willisa/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/candidate/vic/flinders",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "gellibrand/australian_greens/jonathon_marsden",
+      "name": "Jonathon Marsden",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/vic/gellibrand",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "gippsland/australian_greens/ian_onley",
+      "name": "Ian Onley",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/vic/gippsland",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "goldstein/australian_greens/cheryl_hercus",
+      "name": "Cheryl Hercus",
+      "links": [
+        {
+          "url": "http://www.facebook.com/BaysideGlenEiraGreens",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/candidate/vic/goldstein",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "gorton/australian_greens/rod_swift",
+      "name": "Rod Swift",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/vic/gorton",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "holt/australian_greens/jake_tilton",
+      "name": "Jake Tilton",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/vic/holt",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "hotham/australian_greens/james_bennett",
+      "name": "James Bennett",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/vic/hotham",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "indi/australian_greens/jenny_oconnor",
+      "name": "Jenny O'Connor",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/vic/indi",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "isaacs/australian_greens/alex_breskin",
+      "name": "Alex Breskin",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/vic/isaacs",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "jagajaga/australian_greens/hugh_mckinnon",
+      "name": "Hugh McKinnon",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/vic/jagajaga",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "kooyong/australian_greens/helen_mcleod",
+      "name": "Helen McLeod",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/vic/kooyong",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "la_trobe/australian_greens/tom_cummings",
+      "name": "Tom Cummings",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/vic/latrobe",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "lalor/australian_greens/daniel_sova",
+      "name": "Daniel Sova",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/vic/lalor",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "mallee/australian_greens/helen_healy",
+      "name": "Helen Healy",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/vic/mallee",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "maribyrnong/australian_greens/olivia_ball",
+      "name": "Olivia Ball",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/vic/maribyrnong",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "mcewen/australian_greens/neil_barker",
+      "name": "Neil Barker",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/vic/mcewen",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "mcmillan/australian_greens/donna_lancaster",
+      "name": "Donna Lancaster",
+      "links": [
+        {
+          "url": "https://twitter.com/lancasterdonna5",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/DonnaforMcMillan/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/candidate/vic/mcmillan",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "menzies/australian_greens/richard_cranston",
+      "name": "Richard Cranston",
+      "links": [
+        {
+          "url": "http://twitter.com/richardcranston",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/RichardCranstonWarrandyte/?fref=ts",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/candidate/vic/menzies",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "murray/australian_greens/ian_christoe",
+      "name": "Ian Christoe",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/vic/murray",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "scullin/australian_greens/rose_ljubicic",
+      "name": "Rose Ljubicic",
+      "links": [
+        {
+          "url": "http://greens.org.au/candidate/vic/scullin",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "bass/australian_greens/terrill_riley_gibson",
+      "name": "Terrill Riley-Gibson",
+      "links": [
+        {
+          "url": "https://www.facebook.com/TERRILL-RILEY-GIBSON-944686378902012/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/tas/terrill-riley-gibson",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "braddon/australian_greens/scott_jordan",
+      "name": "Scott Jordan",
+      "links": [
+        {
+          "url": "https://www.facebook.com/scottjordanforbraddon/?fref=ts",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/tas/scott-jordan",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "denison/australian_greens/jen_brown",
+      "name": "Jen Brown",
+      "links": [
+        {
+          "url": "https://www.facebook.com/JenGreens/?fref=ts",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/tas/jen-brown",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "franklin/australian_greens/martine_delaney",
+      "name": "Martine Delaney",
+      "links": [
+        {
+          "url": "https://twitter.com/greens_martine",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/martine.delaney.10/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/tas/martine-delaney",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "lyons/australian_greens/hannah_rubenach_quinn",
+      "name": "Hannah Rubenach-Quinn",
+      "links": [
+        {
+          "url": "https://www.facebook.com/hannahrubenachformayor/?fref=ts",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/tas/hannah-rubenach-quinn",
+          "note": "webpage"
+        }
       ]
     },
     {
@@ -3709,6 +4475,13 @@
           "note": "webpage"
         }
       ]
+    },
+    {
+      "id": "bennelong/pirate_party_australia/john_august",
+      "name": "John August",
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -3995,20 +4768,122 @@
   ],
   "memberships": [
     {
-      "person_id": "adelaide/australian_greens/sophie_guy",
-      "organization_id": "electorate/adelaide",
+      "person_id": "melbourne/australian_greens/adam_bandt",
+      "organization_id": "electorate/melbourne",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_greens"
     },
     {
-      "person_id": "aston/australian_greens/steve_raymond",
-      "organization_id": "electorate/aston",
+      "person_id": "canberra/australian_greens/patricia_cahill",
+      "organization_id": "electorate/canberra",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_greens"
     },
     {
-      "person_id": "ballarat/australian_greens/alice_barnes",
-      "organization_id": "electorate/ballarat",
+      "person_id": "fenner/australian_greens/carly_saeedi",
+      "organization_id": "electorate/fenner",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "solomon/australian_greens/todd_williams",
+      "organization_id": "electorate/solomon",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "burt/australian_greens/muhammad_salman",
+      "organization_id": "electorate/burt",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "canning/australian_greens/aeron_blundell_camden",
+      "organization_id": "electorate/canning",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "curtin/australian_greens/viv_glance",
+      "organization_id": "electorate/curtin",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "forrest/australian_greens/jill_reading",
+      "organization_id": "electorate/forrest",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "fremantle/australian_greens/kate_davis",
+      "organization_id": "electorate/fremantle",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "hasluck/australian_greens/patrick_hyslop",
+      "organization_id": "electorate/hasluck",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "moore/australian_greens/daniel_lindley",
+      "organization_id": "electorate/moore",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "oconnor/australian_greens/giz_watson",
+      "organization_id": "electorate/oconnor",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "pearce/australian_greens/lee_anne_miles",
+      "organization_id": "electorate/pearce",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "perth/australian_greens/tim_clifford",
+      "organization_id": "electorate/perth",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "stirling/australian_greens/tom_webster",
+      "organization_id": "electorate/stirling",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "swan/australian_greens/sarah_nielsen_harvey",
+      "organization_id": "electorate/swan",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "tangney/australian_greens/thor_kerr",
+      "organization_id": "electorate/tangney",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "grayndler/australian_greens/jim_casey",
+      "organization_id": "electorate/grayndler",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "sydney/australian_greens/sylvie_ellsmore",
+      "organization_id": "electorate/sydney",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "richmond/australian_greens/dawn_walker",
+      "organization_id": "electorate/richmond",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_greens"
     },
@@ -4021,24 +4896,6 @@
     {
       "person_id": "barton/australian_greens/brent_heber",
       "organization_id": "electorate/barton",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "bass/australian_greens/terrill_riley_gibson",
-      "organization_id": "electorate/bass",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "batman/australian_greens/alex_bhathal",
-      "organization_id": "electorate/batman",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "bendigo/australian_greens/rosemary_glaisher",
-      "organization_id": "electorate/bendigo",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_greens"
     },
@@ -4061,68 +4918,8 @@
       "on_behalf_of_id": "party/australian_greens"
     },
     {
-      "person_id": "bonner/australian_greens/ken_austin",
-      "organization_id": "electorate/bonner",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "boothby/australian_greens/jane_bange",
-      "organization_id": "electorate/boothby",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "bowman/australian_greens/brad_scott",
-      "organization_id": "electorate/bowman",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "braddon/australian_greens/scott_jordan",
-      "organization_id": "electorate/braddon",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
       "person_id": "bradfield/australian_greens/adrian_jones",
       "organization_id": "electorate/bradfield",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "brisbane/australian_greens/kirsten_lovejoy",
-      "organization_id": "electorate/brisbane",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "burt/australian_greens/muhammad_salman",
-      "organization_id": "electorate/burt",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "calwell/australian_greens/natalie_abboud",
-      "organization_id": "electorate/calwell",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "canberra/australian_greens/trish_cahill",
-      "organization_id": "electorate/canberra",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "canning/australian_greens/aeron_blundell_camden",
-      "organization_id": "electorate/canning",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "casey/australian_greens/elissa_sutherland",
-      "organization_id": "electorate/casey",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_greens"
     },
@@ -4133,26 +4930,8 @@
       "on_behalf_of_id": "party/australian_greens"
     },
     {
-      "person_id": "chisholm/australian_greens/josh_fergeus",
-      "organization_id": "electorate/chisholm",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
       "person_id": "cook/australian_greens/nathan_hunt",
       "organization_id": "electorate/cook",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "corangamite/australian_greens/patchouli_paterson",
-      "organization_id": "electorate/corangamite",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "corio/australian_greens/sarah_mansfield",
-      "organization_id": "electorate/corio",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_greens"
     },
@@ -4163,50 +4942,8 @@
       "on_behalf_of_id": "party/australian_greens"
     },
     {
-      "person_id": "curtin/australian_greens/viv_glance",
-      "organization_id": "electorate/curtin",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "/australian_greens/todd_williams",
-      "organization_id": "electorate/",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "dawson/australian_greens/jonathon_dykjy",
-      "organization_id": "electorate/dawson",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "deakin/australian_greens/joshua_briers",
-      "organization_id": "electorate/deakin",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "denison/australian_greens/jen_brown",
-      "organization_id": "electorate/denison",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "dickson/australian_greens/michael_berkman",
-      "organization_id": "electorate/dickson",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
       "person_id": "dobell/australian_greens/abigail_boyd",
       "organization_id": "electorate/dobell",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "dunkley/australian_greens/jeanette_swain",
-      "organization_id": "electorate/dunkley",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_greens"
     },
@@ -4217,44 +4954,8 @@
       "on_behalf_of_id": "party/australian_greens"
     },
     {
-      "person_id": "fadden/australian_greens/daniel_kwon",
-      "organization_id": "electorate/fadden",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "fairfax/australian_greens/sue_etheridge",
-      "organization_id": "electorate/fairfax",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
       "person_id": "farrer/australian_greens/amanda_cohn",
       "organization_id": "electorate/farrer",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "fisher/australian_greens/tony_gibson",
-      "organization_id": "electorate/fisher",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "flinders/australian_greens/willisa_hogarth",
-      "organization_id": "electorate/flinders",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "flynn/australian_greens/craig_tomsett",
-      "organization_id": "electorate/flynn",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "forde/australian_greens/sally_spain",
-      "organization_id": "electorate/forde",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_greens"
     },
@@ -4265,50 +4966,8 @@
       "on_behalf_of_id": "party/australian_greens"
     },
     {
-      "person_id": "franklin/australian_greens/martine_delaney",
-      "organization_id": "electorate/franklin",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "fremantle/australian_greens/kate_davis",
-      "organization_id": "electorate/fremantle",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "gellibrand/australian_greens/jonathon_marsden",
-      "organization_id": "electorate/gellibrand",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
       "person_id": "gilmore/australian_greens/carmel_mccallum",
       "organization_id": "electorate/gilmore",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "gippsland/australian_greens/ian_onley",
-      "organization_id": "electorate/gippsland",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "goldstein/australian_greens/cheryl_hercus",
-      "organization_id": "electorate/goldstein",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "gorton/australian_greens/rod_swift",
-      "organization_id": "electorate/gorton",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "grayndler/australian_greens/jim_casey",
-      "organization_id": "electorate/grayndler",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_greens"
     },
@@ -4319,74 +4978,8 @@
       "on_behalf_of_id": "party/australian_greens"
     },
     {
-      "person_id": "griffith/australian_greens/karen_anderson",
-      "organization_id": "electorate/griffith",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "herbert/australian_greens/wendy_tubman",
-      "organization_id": "electorate/herbert",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "higgins/australian_greens/jason_ball",
-      "organization_id": "electorate/higgins",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "hindmarsh/australian_greens/patrick_osullivan",
-      "organization_id": "electorate/hindmarsh",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "hinkler/australian_greens/tim_roberts",
-      "organization_id": "electorate/hinkler",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "holt/australian_greens/jake_tilton",
-      "organization_id": "electorate/holt",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "hotham/australian_greens/james_bennett",
-      "organization_id": "electorate/hotham",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
       "person_id": "hughes/australian_greens/phil_smith",
       "organization_id": "electorate/hughes",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "indi/australian_greens/jenny_oconnor",
-      "organization_id": "electorate/indi",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "isaacs/australian_greens/alex_breskin",
-      "organization_id": "electorate/isaacs",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "jagajaga/australian_greens/hugh_mckinnon",
-      "organization_id": "electorate/jagajaga",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "kennedy/australian_greens/valerie_weier",
-      "organization_id": "electorate/kennedy",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_greens"
     },
@@ -4397,56 +4990,14 @@
       "on_behalf_of_id": "party/australian_greens"
     },
     {
-      "person_id": "kingston/australian_greens/robyn_holtham",
-      "organization_id": "electorate/kingston",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "kooyong/australian_greens/helen_mcleod",
-      "organization_id": "electorate/kooyong",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "la_trobe/australian_greens/tom_cummings",
-      "organization_id": "electorate/la_trobe",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "lalor/australian_greens/daniel_sova",
-      "organization_id": "electorate/lalor",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "lilley/australian_greens/claire_ogden",
-      "organization_id": "electorate/lilley",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
       "person_id": "lindsay/australian_greens/kingsley_liu",
       "organization_id": "electorate/lindsay",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_greens"
     },
     {
-      "person_id": "longman/australian_greens/ian_bell",
-      "organization_id": "electorate/longman",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
       "person_id": "lyne/australian_greens/julie_lyford",
       "organization_id": "electorate/lyne",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "lyons/australian_greens/hannah_rubenach_quinn",
-      "organization_id": "electorate/lyons",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_greens"
     },
@@ -4469,98 +5020,8 @@
       "on_behalf_of_id": "party/australian_greens"
     },
     {
-      "person_id": "makin/australian_greens/keiran_snape",
-      "organization_id": "electorate/makin",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "mallee/australian_greens/helen_healy",
-      "organization_id": "electorate/mallee",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "maranoa/australian_greens/katherine_hompes",
-      "organization_id": "electorate/maranoa",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "maribyrnong/australian_greens/olivia_ball",
-      "organization_id": "electorate/maribyrnong",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "mayo/australian_greens/nathan_daniell",
-      "organization_id": "electorate/mayo",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "mcewen/australian_greens/neil_barker",
-      "organization_id": "electorate/mcewen",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "mcmillan/australian_greens/donna_lancaster",
-      "organization_id": "electorate/mcmillan",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "mcpherson/australian_greens/peter_burgoyne",
-      "organization_id": "electorate/mcpherson",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "melbourne/australian_greens/adam_bandt",
-      "organization_id": "electorate/melbourne",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "melbourne_ports/australian_greens/stephanie_hodgins_may",
-      "organization_id": "electorate/melbourne_ports",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "menzies/australian_greens/richard_cranston",
-      "organization_id": "electorate/menzies",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
       "person_id": "mitchell/australian_greens/michael_bellstedt",
       "organization_id": "electorate/mitchell",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "moncrieff/australian_greens/roger_brisbane",
-      "organization_id": "electorate/moncrieff",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "moore/australian_greens/daniel_lindley",
-      "organization_id": "electorate/moore",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "moreton/australian_greens/kristen_lyons",
-      "organization_id": "electorate/moreton",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "murray/australian_greens/ian_christoe",
-      "organization_id": "electorate/murray",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_greens"
     },
@@ -4579,18 +5040,6 @@
     {
       "person_id": "north_sydney/australian_greens/dr_arthur_chesterfield_evans",
       "organization_id": "electorate/north_sydney",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "oconnor/australian_greens/giz_watson",
-      "organization_id": "electorate/oconnor",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "oxley/australian_greens/steven_purcell",
-      "organization_id": "electorate/oxley",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_greens"
     },
@@ -4619,38 +5068,8 @@
       "on_behalf_of_id": "party/australian_greens"
     },
     {
-      "person_id": "perth/australian_greens/tim_clifford",
-      "organization_id": "electorate/perth",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "petrie/australian_greens/sue_weber",
-      "organization_id": "electorate/petrie",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "port_adelaide/australian_greens/matthew_carey",
-      "organization_id": "electorate/port_adelaide",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "rankin/australian_greens/neil_cotter",
-      "organization_id": "electorate/rankin",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
       "person_id": "reid/australian_greens/alice_mantel",
       "organization_id": "electorate/reid",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "richmond/australian_greens/dawn_walker",
-      "organization_id": "electorate/richmond",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_greens"
     },
@@ -4661,56 +5080,8 @@
       "on_behalf_of_id": "party/australian_greens"
     },
     {
-      "person_id": "ryan/australian_greens/sandra_bayley",
-      "organization_id": "electorate/ryan",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "scullin/australian_greens/rose_ljubicic",
-      "organization_id": "electorate/scullin",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
       "person_id": "shortland/australian_greens/ivan_macfadyen",
       "organization_id": "electorate/shortland",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "sturt/australian_greens/rebecca_galdies",
-      "organization_id": "electorate/sturt",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "swan/australian_greens/sarah_nielsen_harvey",
-      "organization_id": "electorate/swan",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "sydney/australian_greens/sylvie_ellsmore",
-      "organization_id": "electorate/sydney",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "tangney/australian_greens/thor_kerr",
-      "organization_id": "electorate/tangney",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "wakefield/australian_greens/craig_vanstone",
-      "organization_id": "electorate/wakefield",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_greens"
-    },
-    {
-      "person_id": "wannon/australian_greens/thomas_campbell",
-      "organization_id": "electorate/wannon",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_greens"
     },
@@ -4739,8 +5110,236 @@
       "on_behalf_of_id": "party/australian_greens"
     },
     {
+      "person_id": "brisbane/australian_greens/kirsten_lovejoy",
+      "organization_id": "electorate/brisbane",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "bonner/australian_greens/ken_austin",
+      "organization_id": "electorate/bonner",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "bowman/australian_greens/brad_scott",
+      "organization_id": "electorate/bowman",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "dawson/australian_greens/jonathon_dykjy",
+      "organization_id": "electorate/dawson",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "dickson/australian_greens/michael_berkman",
+      "organization_id": "electorate/dickson",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "fadden/australian_greens/daniel_kwon",
+      "organization_id": "electorate/fadden",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "fairfax/australian_greens/sue_etheridge",
+      "organization_id": "electorate/fairfax",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "fisher/australian_greens/tony_gibson",
+      "organization_id": "electorate/fisher",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "flynn/australian_greens/craig_tomsett",
+      "organization_id": "electorate/flynn",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "forde/australian_greens/sally_spain",
+      "organization_id": "electorate/forde",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "griffith/australian_greens/karen_anderson",
+      "organization_id": "electorate/griffith",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "herbert/australian_greens/wendy_tubman",
+      "organization_id": "electorate/herbert",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "hinkler/australian_greens/tim_roberts",
+      "organization_id": "electorate/hinkler",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "kennedy/australian_greens/valerie_weier",
+      "organization_id": "electorate/kennedy",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "lilley/australian_greens/claire_ogden",
+      "organization_id": "electorate/lilley",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "longman/australian_greens/ian_bell",
+      "organization_id": "electorate/longman",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "maranoa/australian_greens/katherine_hompes",
+      "organization_id": "electorate/maranoa",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "mcpherson/australian_greens/peter_burgoyne",
+      "organization_id": "electorate/mcpherson",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "moncrieff/australian_greens/roger_brisbane",
+      "organization_id": "electorate/moncrieff",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "moreton/australian_greens/kristen_lyons",
+      "organization_id": "electorate/moreton",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "oxley/australian_greens/steven_purcell",
+      "organization_id": "electorate/oxley",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "petrie/australian_greens/sue_weber",
+      "organization_id": "electorate/petrie",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "rankin/australian_greens/neil_cotter",
+      "organization_id": "electorate/rankin",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "ryan/australian_greens/sandra_bayley",
+      "organization_id": "electorate/ryan",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
       "person_id": "wide_bay/australian_greens/bron_marsh",
       "organization_id": "electorate/wide_bay",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "wright/australian_greens/pietro_agnoletto",
+      "organization_id": "electorate/wright",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "adelaide/australian_greens/sophie_guy",
+      "organization_id": "electorate/adelaide",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "boothby/australian_greens/jane_bange",
+      "organization_id": "electorate/boothby",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "hindmarsh/australian_greens/patrick_osullivan",
+      "organization_id": "electorate/hindmarsh",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "kingston/australian_greens/robyn_holtham",
+      "organization_id": "electorate/kingston",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "makin/australian_greens/keiran_snape",
+      "organization_id": "electorate/makin",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "mayo/australian_greens/nathan_daniell",
+      "organization_id": "electorate/mayo",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "port_adelaide/australian_greens/matthew_carey",
+      "organization_id": "electorate/port_adelaide",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "sturt/australian_greens/rebecca_galdies",
+      "organization_id": "electorate/sturt",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "wakefield/australian_greens/craig_vanstone",
+      "organization_id": "electorate/wakefield",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "batman/australian_greens/alex_bhathal",
+      "organization_id": "electorate/batman",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "higgins/australian_greens/jason_ball",
+      "organization_id": "electorate/higgins",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "melbourne_ports/australian_greens/stephanie_hodgins_may",
+      "organization_id": "electorate/melbourne_ports",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "wannon/australian_greens/thomas_campbell",
+      "organization_id": "electorate/wannon",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_greens"
     },
@@ -4751,8 +5350,212 @@
       "on_behalf_of_id": "party/australian_greens"
     },
     {
-      "person_id": "wright/australian_greens/pietro_agnoletto",
-      "organization_id": "electorate/wright",
+      "person_id": "aston/australian_greens/steve_raymond",
+      "organization_id": "electorate/aston",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "ballarat/australian_greens/alice_barnes",
+      "organization_id": "electorate/ballarat",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "bendigo/australian_greens/rosemary_glaisher",
+      "organization_id": "electorate/bendigo",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "calwell/australian_greens/natalie_abboud",
+      "organization_id": "electorate/calwell",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "casey/australian_greens/elissa_sutherland",
+      "organization_id": "electorate/casey",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "chisholm/australian_greens/josh_fergeus",
+      "organization_id": "electorate/chisholm",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "corangamite/australian_greens/patchouli_paterson",
+      "organization_id": "electorate/corangamite",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "corio/australian_greens/sarah_mansfield",
+      "organization_id": "electorate/corio",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "deakin/australian_greens/joshua_briers",
+      "organization_id": "electorate/deakin",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "dunkley/australian_greens/jeanette_swain",
+      "organization_id": "electorate/dunkley",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "flinders/australian_greens/willisa_hogarth",
+      "organization_id": "electorate/flinders",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "gellibrand/australian_greens/jonathon_marsden",
+      "organization_id": "electorate/gellibrand",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "gippsland/australian_greens/ian_onley",
+      "organization_id": "electorate/gippsland",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "goldstein/australian_greens/cheryl_hercus",
+      "organization_id": "electorate/goldstein",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "gorton/australian_greens/rod_swift",
+      "organization_id": "electorate/gorton",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "holt/australian_greens/jake_tilton",
+      "organization_id": "electorate/holt",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "hotham/australian_greens/james_bennett",
+      "organization_id": "electorate/hotham",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "indi/australian_greens/jenny_oconnor",
+      "organization_id": "electorate/indi",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "isaacs/australian_greens/alex_breskin",
+      "organization_id": "electorate/isaacs",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "jagajaga/australian_greens/hugh_mckinnon",
+      "organization_id": "electorate/jagajaga",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "kooyong/australian_greens/helen_mcleod",
+      "organization_id": "electorate/kooyong",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "la_trobe/australian_greens/tom_cummings",
+      "organization_id": "electorate/la_trobe",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "lalor/australian_greens/daniel_sova",
+      "organization_id": "electorate/lalor",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "mallee/australian_greens/helen_healy",
+      "organization_id": "electorate/mallee",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "maribyrnong/australian_greens/olivia_ball",
+      "organization_id": "electorate/maribyrnong",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "mcewen/australian_greens/neil_barker",
+      "organization_id": "electorate/mcewen",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "mcmillan/australian_greens/donna_lancaster",
+      "organization_id": "electorate/mcmillan",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "menzies/australian_greens/richard_cranston",
+      "organization_id": "electorate/menzies",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "murray/australian_greens/ian_christoe",
+      "organization_id": "electorate/murray",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "scullin/australian_greens/rose_ljubicic",
+      "organization_id": "electorate/scullin",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "bass/australian_greens/terrill_riley_gibson",
+      "organization_id": "electorate/bass",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "braddon/australian_greens/scott_jordan",
+      "organization_id": "electorate/braddon",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "denison/australian_greens/jen_brown",
+      "organization_id": "electorate/denison",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "franklin/australian_greens/martine_delaney",
+      "organization_id": "electorate/franklin",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "lyons/australian_greens/hannah_rubenach_quinn",
+      "organization_id": "electorate/lyons",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_greens"
     },
@@ -6237,6 +7040,12 @@
       "organization_id": "electorate/parkes",
       "role": "candidate",
       "on_behalf_of_id": "party/national_party_of_australia"
+    },
+    {
+      "person_id": "bennelong/pirate_party_australia/john_august",
+      "organization_id": "electorate/bennelong",
+      "role": "candidate",
+      "on_behalf_of_id": "party/pirate_party_australia"
     }
   ],
   "events": [
