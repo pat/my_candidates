@@ -13,14 +13,11 @@ The goal (as yet unrealised) is this for to be a simple static site that lists a
 * Popolo data sourced from the Google spreadsheet.
 * Write code to generate pages for each postcode and electorate. If a postcode only has one electorate, redirect to that electorate. If it has more than one, offer the viewer a choice.
 * On electorate pages, include a link to the Google form to allow people to suggest missing candidates.
+* Get some decent candidate data together so the site isn't empty.
 
 ### In progress:
 
 * Add meaningful layouts and design.
-
-### To do:
-
-* Get some decent candidate data together so the site isn't empty.
 
 ## Working on the site:
 
