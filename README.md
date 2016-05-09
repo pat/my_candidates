@@ -1,6 +1,6 @@
 # My Candidates
 
-The goal (as yet unrealised) is this for to be a simple static site that lists all known candidates for the upcoming Australian federal election in July 2016.
+The goal (somewhat realised) is this for to be a simple static site that lists all known candidates for the upcoming Australian federal election on July 2nd, 2016.
 
 ## Progress Report
 
