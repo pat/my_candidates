@@ -9,24 +9,45 @@ layout: default
   {% if page.candidates == empty %}
   <p><strong>Oh no!</strong> We don't have any candidates listed for your electorate. Perhaps you know at least one of them? Please do <a href="https://docs.google.com/forms/d/1mpS6fpwPAQGciaydUn-l_YyCEosYic3PHbdJf6Cz8gc/viewform">let us know</a> and we'll get this site updated as quickly as possible.</p>
   {% else %}
-  <p>The electorate {{ page.title }} has the following candidates:</p>
+  <p>The electorate {{ page.title }} has the following candidates (listed in alphabetical order):</p>
 
-  <ul>
+  <ul class="candidates">
     {% for candidate in page.candidates %}
     <li>
-      <h2>{{ candidate.name }}</h2>
-      <strong>{{ candidate.party }}</strong>
+      <h2>
+        <span class="name">{{ candidate.name }}</span>
+        {% if candidate.party %}
+        <span class="party">({{ candidate.party }})</span>
+        {% endif %}
+      </h2>
+      {% if candidate.twitter or candidate.facebook or candidate.webpage %}
       <ul class="links">
       {% if candidate.twitter %}
-        <li><a href="{{ candidate.twitter }}">Twitter</a></li>
+        <li class="twitter">
+          <a href="{{ candidate.twitter }}">
+            <img src="/images/twitter.png" />
+            Twitter
+          </a>
+        </li>
       {% endif %}
       {% if candidate.facebook %}
-        <li><a href="{{ candidate.facebook }}">Facebook</a></li>
+        <li class="facebook">
+          <a href="{{ candidate.facebook }}">
+            <img src="/images/facebook.png" />
+            Facebook
+          </a>
+        </li>
       {% endif %}
       {% if candidate.webpage %}
-        <li><a href="{{ candidate.webpage }}">Webpage</a></li>
+        <li class="webpage">
+          <a href="{{ candidate.webpage }}">
+            <img src="/images/rss.png" />
+            Webpage
+          </a>
+        </li>
       {% endif %}
       </ul>
+      {% endif %}
     </li>
     {% endfor %}
   </ul>
