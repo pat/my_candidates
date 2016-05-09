@@ -19,6 +19,12 @@ class MyCandidates::ElectoratePages
 ---
       YAML
     end
+
+    file = File.open 'electorates/index.html', 'w'
+    file.puts <<-YAML
+#{ YAML.dump summary_frontmatter }
+---
+    YAML
   end
 
   private
@@ -94,6 +100,19 @@ class MyCandidates::ElectoratePages
       site.process
       site
     end
+  end
+
+  def summary_frontmatter
+    {
+      'title'       => 'Electorates',
+      'layout'      => 'electorate_list',
+      'electorates' => electorates.sort.collect { |electorate|
+        {
+          'name' => electorate,
+          'path' => "/electorates/#{to_key electorate}"
+        }
+      }
+    }
   end
 
   def to_key(name)
