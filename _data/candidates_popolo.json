@@ -4482,6 +4482,24 @@
       "links": [
 
       ]
+    },
+    {
+      "id": "indi//cathy_mcgowan",
+      "name": "Cathy McGowan",
+      "links": [
+        {
+          "url": "http://twitter.com/indigocathy",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/CathyMcgowanForIndi",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.cathymcgowan.com.au",
+          "note": "webpage"
+        }
+      ]
     }
   ],
   "organizations": [
@@ -7046,6 +7064,11 @@
       "organization_id": "electorate/bennelong",
       "role": "candidate",
       "on_behalf_of_id": "party/pirate_party_australia"
+    },
+    {
+      "person_id": "indi//cathy_mcgowan",
+      "organization_id": "electorate/indi",
+      "role": "candidate"
     }
   ],
   "events": [
