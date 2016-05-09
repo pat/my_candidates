@@ -1,7 +1,7 @@
 class MyCandidates::CandidateData
   DOCUMENT_ID = '1PaS7lYTs5pAccFIHImzfStKVFdetjGHuHz54DoOdBP4'
   SHEET_ID    = 0
-  SHEET_URI   = "https://docs.google.com/feeds/download/spreadsheets/Export?key=#{DOCUMENT_ID}&exportFormat=csv&gid=#{SHEET_ID}"
+  SHEET_URI   = "https://docs.google.com/spreadsheets/d/#{DOCUMENT_ID}/export?exportFormat=csv&gid=#{SHEET_ID}"
 
   def self.call
     new.call
