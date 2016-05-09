@@ -7,6 +7,32 @@ task :environment do
   require 'my_candidates'
 end
 
+task :rebuild => ['popolo:generate', 'generate:pages']
+
+namespace :generate do
+  task :electorate_pages => :environment do
+    site = Jekyll::Site.new Jekyll.configuration
+    site.process
+
+    MyCandidates::ElectoratePages.call site
+  end
+
+  task :postcode_pages => :environment do
+    site = Jekyll::Site.new Jekyll.configuration
+    site.process
+
+    MyCandidates::PostcodePages.call site
+  end
+
+  task :pages => :environment do
+    site = Jekyll::Site.new Jekyll.configuration
+    site.process
+
+    MyCandidates::PostcodePages.call site
+    MyCandidates::ElectoratePages.call site
+  end
+end
+
 namespace :popolo do
   task :generate => :environment do
     File.write '_data/candidates_popolo.json',
