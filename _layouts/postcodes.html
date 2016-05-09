@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<article class="electorates">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <p>The postcode {{ page.title }} is part of the following electorates:</p>
+
+  <ul>
+    {% for electorate in page.electorates %}
+    <li><a href="{{ electorate.path }}">{{ electorate.name }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <p>If you're not sure which electorate you're in, the best place to start hunting for answers is the <a href="http://apps.aec.gov.au/esearch/">Australian Electoral Commission website</a>.</p>
+</article>
