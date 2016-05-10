@@ -1667,822 +1667,1939 @@
       ]
     },
     {
-      "id": "adelaide/australian_labor_party_alp/kate_ellis",
-      "name": "Kate Ellis",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "ballarat/australian_labor_party_alp/catherine_king",
-      "name": "Catherine King",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "banks/australian_labor_party_alp/chris_gambian",
-      "name": "Chris Gambian",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "bass/australian_labor_party_alp/ross_hart",
-      "name": "Ross Hart",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "batman/australian_labor_party_alp/david_feeney",
-      "name": "David Feeney",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "bendigo/australian_labor_party_alp/lisa_chesters",
-      "name": "Lisa Chesters",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "bennelong/australian_labor_party_alp/lyndal_howison",
-      "name": "Lyndal Howison",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "blair/australian_labor_party_alp/shayne_neumann",
-      "name": "Shayne Neumann",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "blaxland/australian_labor_party_alp/jason_clare",
-      "name": "Jason Clare",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "bonner/australian_labor_party_alp/laura_fraser_hardy",
-      "name": "Laura Fraser Hardy",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "bowman/australian_labor_party_alp/kim_richards",
-      "name": "Kim Richards",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "braddon/australian_labor_party_alp/justine_keay",
-      "name": "Justine Keay",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "brand/australian_labor_party_alp/gary_gray",
-      "name": "Gary Gray",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "brisbane/australian_labor_party_alp/pat_oneill",
-      "name": "Pat O'Neill",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "bruce/australian_labor_party_alp/alan_griffin",
-      "name": "Alan Griffin",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "bruce/australian_labor_party_alp/julian_hill",
-      "name": "Julian Hill",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "burt/australian_labor_party_alp/matt_keogh",
-      "name": "Matt Keogh",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "calare/australian_labor_party_alp/jess_jennings",
-      "name": "Jess Jennings",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "calwell/australian_labor_party_alp/maria_vamvakinou",
-      "name": "Maria Vamvakinou",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "canberra/australian_labor_party_alp/gai_brodtmann",
-      "name": "Gai Brodtmann",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "capricornia/australian_labor_party_alp/leisa_neaton",
-      "name": "Leisa Neaton",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "casey/australian_labor_party_alp/hovig_melkonian",
-      "name": "Hovig Melkonian",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "/australian_labor_party_alp/pat_conroy",
-      "name": "Pat Conroy",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "chifley/australian_labor_party_alp/ed_husic",
-      "name": "Ed Husic",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "chisholm/australian_labor_party_alp/anna_burke",
-      "name": "Anna Burke",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "chisholm/australian_labor_party_alp/stefanie_perri",
-      "name": "Stefanie Perri",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "corangamite/australian_labor_party_alp/libby_coker",
-      "name": "Libby Coker",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "corio/australian_labor_party_alp/richard_marles",
-      "name": "Richard Marles",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "cowan/australian_labor_party_alp/anne_aly",
-      "name": "Anne Aly",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "cunningham/australian_labor_party_alp/sharon_bird",
-      "name": "Sharon Bird",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "dawson/australian_labor_party_alp/frank_gilbert",
-      "name": "Frank Gilbert",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "deakin/australian_labor_party_alp/tony_clark",
-      "name": "Tony Clark",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "denison/australian_labor_party_alp/jane_austin",
-      "name": "Jane Austin",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "dobell/australian_labor_party_alp/emma_mcbride",
-      "name": "Emma McBride",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "dunkley/australian_labor_party_alp/peta_murphy",
-      "name": "Peta Murphy",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "durack/australian_labor_party_alp/carol_martin",
-      "name": "Carol Martin",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "eden_monaro/australian_labor_party_alp/mike_kelly",
-      "name": "Mike Kelly",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "fairfax/australian_labor_party_alp/scott_anderson",
-      "name": "Scott Anderson",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "fisher/australian_labor_party_alp/bill_gissane",
-      "name": "Bill Gissane",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "forde/australian_labor_party_alp/des_hardman",
-      "name": "Des Hardman",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "fowler/australian_labor_party_alp/chris_hayes",
-      "name": "Chris Hayes",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "franklin/australian_labor_party_alp/julie_collins",
-      "name": "Julie Collins",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "/australian_labor_party_alp/andrew_leigh",
-      "name": "Andrew Leigh",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "fremantle/australian_labor_party_alp/chris_brown",
-      "name": "Chris Brown",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "gellibrand/australian_labor_party_alp/tim_watts",
-      "name": "Tim Watts",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "gilmore/australian_labor_party_alp/fiona_phillips",
-      "name": "Fiona Phillips",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "gippsland/australian_labor_party_alp/carolyne_boothman",
-      "name": "Carolyne Boothman",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "goldstein/australian_labor_party_alp/matthew_coote",
-      "name": "Matthew Coote",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "gorton/australian_labor_party_alp/brendan_oconnor",
-      "name": "Brendan O'Connor",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "grayndler/australian_labor_party_alp/anthony_albanese",
-      "name": "Anthony Albanese",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "greenway/australian_labor_party_alp/michelle_rowland",
-      "name": "Michelle Rowland",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "griffith/australian_labor_party_alp/terri_butler",
-      "name": "Terri Butler",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "hasluck/australian_labor_party_alp/bill_leadbetter",
-      "name": "Bill Leadbetter",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "herbert/australian_labor_party_alp/cathy_otoole",
-      "name": "Cathy O'Toole",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "higgins/australian_labor_party_alp/carl_katter",
-      "name": "Carl Katter",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "hindmarsh/australian_labor_party_alp/steve_georganas",
-      "name": "Steve Georganas",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "holt/australian_labor_party_alp/anthony_byrne",
-      "name": "Anthony Byrne",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "hotham/australian_labor_party_alp/clare_oneil",
-      "name": "Clare O'Neil",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "hughes/australian_labor_party_alp/diedree_steinwall",
-      "name": "Diedree Steinwall",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "hume/australian_labor_party_alp/aoife_champion",
-      "name": "Aoife Champion",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "hunter/australian_labor_party_alp/joel_fitzgibbon",
-      "name": "Joel Fitzgibbon",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "indi/australian_labor_party_alp/eric_kerr",
-      "name": "Eric Kerr",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "isaacs/australian_labor_party_alp/mark_dreyfus",
-      "name": "Mark Dreyfus",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "jagajaga/australian_labor_party_alp/jenny_macklin",
-      "name": "Jenny Macklin",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "kennedy/australian_labor_party_alp/norman_jacobsen",
-      "name": "Norman Jacobsen",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "kingsford_smith/australian_labor_party_alp/matt_thistlethwaite",
-      "name": "Matt Thistlethwaite",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "kingston/australian_labor_party_alp/amanda_rishworth",
-      "name": "Amanda Rishworth",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "kooyong/australian_labor_party_alp/marg_darcy",
-      "name": "Marg D'Arcy",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "la_trobe/australian_labor_party_alp/simon_curtis",
-      "name": "Simon Curtis",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "lalor/australian_labor_party_alp/joanne_ryan",
-      "name": "Joanne Ryan",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "leichhardt/australian_labor_party_alp/sharryn_howes",
-      "name": "Sharryn Howes",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "lilley/australian_labor_party_alp/wayne_swan",
-      "name": "Wayne Swan",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "lindsay/australian_labor_party_alp/emma_husar",
-      "name": "Emma Husar",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "lingiari/australian_labor_party_alp/warren_snowdon",
-      "name": "Warren Snowdon",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "longman/australian_labor_party_alp/susan_lamb",
-      "name": "Susan Lamb",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "lyons/australian_labor_party_alp/brian_mitchell",
-      "name": "Brian Mitchell",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "macarthur/australian_labor_party_alp/michael_freelander",
-      "name": "Michael Freelander",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "macquarie/australian_labor_party_alp/susan_templeman",
-      "name": "Susan Templeman",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "makin/australian_labor_party_alp/tony_zappia",
-      "name": "Tony Zappia",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "mallee/australian_labor_party_alp/lydia_senior",
-      "name": "Lydia Senior",
-      "links": [
-
-      ]
-    },
-    {
       "id": "maribyrnong/australian_labor_party_alp/bill_shorten",
       "name": "Bill Shorten",
       "links": [
-
-      ]
-    },
-    {
-      "id": "mcewen/australian_labor_party_alp/rob_mitchell",
-      "name": "Rob Mitchell",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "mcmahon/australian_labor_party_alp/chris_bowen",
-      "name": "Chris Bowen",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "mcmillan/australian_labor_party_alp/chris_buckingham",
-      "name": "Chris Buckingham",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "mcpherson/australian_labor_party_alp/sandy_gadd",
-      "name": "Sandy Gadd",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "melbourne/australian_labor_party_alp/sophie_ismail",
-      "name": "Sophie Ismail",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "melbourne_ports/australian_labor_party_alp/michael_danby",
-      "name": "Michael Danby",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "menzies/australian_labor_party_alp/adam_rundell",
-      "name": "Adam Rundell",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "mitchell/australian_labor_party_alp/andrew_punch",
-      "name": "Andrew Punch",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "moreton/australian_labor_party_alp/graham_perrett",
-      "name": "Graham Perrett",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "newcastle/australian_labor_party_alp/sharon_claydon",
-      "name": "Sharon Claydon",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "north_sydney/australian_labor_party_alp/peter_hayes",
-      "name": "Peter Hayes",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "oxley/australian_labor_party_alp/milton_dick",
-      "name": "Milton Dick",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "page/australian_labor_party_alp/janelle_saffin",
-      "name": "Janelle Saffin",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "parramatta/australian_labor_party_alp/julie_owens",
-      "name": "Julie Owens",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "perth/australian_labor_party_alp/alannah_mactiernan",
-      "name": "Alannah MacTiernan",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "petrie/australian_labor_party_alp/jacqui_pedersen",
-      "name": "Jacqui Pedersen",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "port_adelaide/australian_labor_party_alp/mark_butler",
-      "name": "Mark Butler",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "rankin/australian_labor_party_alp/jim_chalmers",
-      "name": "Jim Chalmers",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "richmond/australian_labor_party_alp/justine_elliot",
-      "name": "Justine Elliot",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "riverina/australian_labor_party_alp/tim_kurylowicz",
-      "name": "Tim Kurylowicz",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "ryan/australian_labor_party_alp/stephen_hegedus",
-      "name": "Stephen Hegedus",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "scullin/australian_labor_party_alp/andrew_giles",
-      "name": "Andrew Giles",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "shortland/australian_labor_party_alp/jill_hall",
-      "name": "Jill Hall",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "solomon/australian_labor_party_alp/luke_gosling",
-      "name": "Luke Gosling",
-      "links": [
-
-      ]
-    },
-    {
-      "id": "swan/australian_labor_party_alp/tammy_solonec",
-      "name": "Tammy Solonec",
-      "links": [
-
+        {
+          "url": "https://twitter.com/billshortenmp",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/BillShorten",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.billshorten.com.au/",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "sydney/australian_labor_party_alp/tanya_plibersek",
       "name": "Tanya Plibersek",
       "links": [
-
+        {
+          "url": "https://twitter.com/tanya_plibersek",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/tanya.plibersek",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.tanyaplibersek.com/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "adelaide/australian_labor_party_alp/kate_ellis",
+      "name": "Kate Ellis",
+      "links": [
+        {
+          "url": "https://twitter.com/KateEllisMP",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/kateellismp",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.kateellis.com.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "ballarat/australian_labor_party_alp/catherine_king",
+      "name": "Catherine King",
+      "links": [
+        {
+          "url": "https://twitter.com/CatherineKingMP",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/CatherineKingMP/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.catherineking.com.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "banks/australian_labor_party_alp/chris_gambian",
+      "name": "Chris Gambian",
+      "links": [
+        {
+          "url": "http://twitter.com/chrisgambian",
+          "note": "twitter"
+        },
+        {
+          "url": "http://facebook.com/chrisgambian",
+          "note": "facebook"
+        },
+        {
+          "url": "http://chrisgambian.com.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "bass/australian_labor_party_alp/ross_hart",
+      "name": "Ross Hart",
+      "links": [
+        {
+          "url": "https://twitter.com/rossahart",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/rosshartforbass/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.rosshartforbass.com/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "batman/australian_labor_party_alp/david_feeney",
+      "name": "David Feeney",
+      "links": [
+        {
+          "url": "https://twitter.com/Feeney4Batman",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/David-Feeney-Labor-for-Batman-484212241633444/?fref=ts",
+          "note": "facebook"
+        },
+        {
+          "url": "http://davidfeeney.com.au/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "bendigo/australian_labor_party_alp/lisa_chesters",
+      "name": "Lisa Chesters",
+      "links": [
+        {
+          "url": "https://www.twitter.com/LMChesters",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/LisaChestersBendigo",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.lisachesters.org/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "bennelong/australian_labor_party_alp/lyndal_howison",
+      "name": "Lyndal Howison",
+      "links": [
+        {
+          "url": "http://www.facebook.com/lyndalhowisonforbennelong/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.lyndalhowison.com/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "blair/australian_labor_party_alp/shayne_neumann",
+      "name": "Shayne Neumann",
+      "links": [
+        {
+          "url": "https://twitter.com/ShayneNeumannMP",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/Shayne-Neumann-MP",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.ShayneNeumann.com.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "blaxland/australian_labor_party_alp/jason_clare",
+      "name": "Jason Clare",
+      "links": [
+        {
+          "url": "https://twitter.com/jasonclaremp",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/JasonClareMP",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.jasonclare.com.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "bonner/australian_labor_party_alp/laura_fraser_hardy",
+      "name": "Laura Fraser Hardy",
+      "links": [
+        {
+          "url": "https://www.facebook.com/LauraFraserHardyforBonner/",
+          "note": "facebook"
+        },
+        {
+          "url": "https://au.linkedin.com/in/laurafraserhardy",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "bowman/australian_labor_party_alp/kim_richards",
+      "name": "Kim Richards",
+      "links": [
+        {
+          "url": "https://www.facebook.com/Kim4Bowman",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.labor4bowman.com/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "braddon/australian_labor_party_alp/justine_keay",
+      "name": "Justine Keay",
+      "links": [
+        {
+          "url": "https://twitter.com/justinekeay",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/KeayForBraddon/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.justinekeaylabor.com.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "brand/australian_labor_party_alp/gary_gray",
+      "name": "Gary Gray",
+      "links": [
+        {
+          "url": "https://www.facebook.com/garygraymp",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.garygray.com.au/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "brisbane/australian_labor_party_alp/pat_oneill",
+      "name": "Pat O'Neill",
+      "links": [
+        {
+          "url": "https://twitter.com/pat_oneill",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/patoneillbrisbane",
+          "note": "facebook"
+        },
+        {
+          "url": "http://patoneill.com.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "bruce/australian_labor_party_alp/alan_griffin",
+      "name": "Alan Griffin",
+      "links": [
+        {
+          "url": "https://www.facebook.com/griffin.alan",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.griffinmp.com/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "bruce/australian_labor_party_alp/julian_hill",
+      "name": "Julian Hill",
+      "links": [
+        {
+          "url": "https://www.facebook.com/BruceLaborCandidate",
+          "note": "facebook"
+        },
+        {
+          "url": "http://brucelabor.com/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "burt/australian_labor_party_alp/matt_keogh",
+      "name": "Matt Keogh",
+      "links": [
+        {
+          "url": "https://twitter.com/mattkeogh",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/KeoghMatthew/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.mattkeogh.com",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "calare/australian_labor_party_alp/jess_jennings",
+      "name": "Jess Jennings",
+      "links": [
+        {
+          "url": "https://twitter.com/jenningsjess",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/Cr-Jess-Jennings",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.jesswecan.net",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "calwell/australian_labor_party_alp/maria_vamvakinou",
+      "name": "Maria Vamvakinou",
+      "links": [
+        {
+          "url": "https://twitter.com/MariaVamvakinou",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/mariavamvakinou/?ref=bookmarks",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.mariavamvakinou.com/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "canberra/australian_labor_party_alp/gai_brodtmann",
+      "name": "Gai Brodtmann",
+      "links": [
+        {
+          "url": "https://www.facebook.com/pages/Gai-Brodtmann/139691649380518",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.gaibrodtmann.com.au/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "capricornia/australian_labor_party_alp/leisa_neaton",
+      "name": "Leisa Neaton",
+      "links": [
+        {
+          "url": "http://www.twitter.com/LeisaNeaton",
+          "note": "twitter"
+        },
+        {
+          "url": "http://www.facebook.com/leisaneatonforcapricornia",
+          "note": "facebook"
+        },
+        {
+          "url": "http://leisaneaton.ml.net.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "casey/australian_labor_party_alp/hovig_melkonian",
+      "name": "Hovig Melkonian",
+      "links": [
+        {
+          "url": "https://twitter.com/hovigforcasey",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/HovigForCasey/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.hovigforcasey.com.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "/australian_labor_party_alp/pat_conroy",
+      "name": "Pat Conroy",
+      "links": [
+        {
+          "url": "https://www.facebook.com/PatConroyLaborforCharlton",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/pat_conroy",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "chifley/australian_labor_party_alp/ed_husic",
+      "name": "Ed Husic",
+      "links": [
+        {
+          "url": "https://twitter.com/edhusicmp",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/ehusic",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.edhusic.com/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "chisholm/australian_labor_party_alp/stefanie_perri",
+      "name": "Stefanie Perri",
+      "links": [
+        {
+          "url": "https://twitter.com/StefaniePerri",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/Stef4BoxHill/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.stefanieperri.net.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "corangamite/australian_labor_party_alp/libby_coker",
+      "name": "Libby Coker",
+      "links": [
+        {
+          "url": "http://twitter.com/libbycoker",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/libbyforcorangamite",
+          "note": "facebook"
+        },
+        {
+          "url": "http://libbycoker.com.au/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "corio/australian_labor_party_alp/richard_marles",
+      "name": "Richard Marles",
+      "links": [
+        {
+          "url": "https://www.twitter.com/RichardMarlesMP",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/richardmarlesmp",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.richardmarles.com.au/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "cowan/australian_labor_party_alp/anne_aly",
+      "name": "Anne Aly",
+      "links": [
+        {
+          "url": "https://twitter.com/AnneAzzaAly",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/anneazzaly/?fref=nf",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/anne_aly",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "cunningham/australian_labor_party_alp/sharon_bird",
+      "name": "Sharon Bird",
+      "links": [
+        {
+          "url": "https://twitter.com/SharonBirdMP",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/sharon.bird.mp",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.sharonbird.com.au/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "dawson/australian_labor_party_alp/frank_gilbert",
+      "name": "Frank Gilbert",
+      "links": [
+        {
+          "url": "https://www.facebook.com/frankgilbertdawson/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/frank_gilbert",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "deakin/australian_labor_party_alp/tony_clark",
+      "name": "Tony Clark",
+      "links": [
+        {
+          "url": "https://twitter.com/clark05tony",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/TonyClarkLaborforDeakin/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://tonyclark.net.au/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "denison/australian_labor_party_alp/jane_austin",
+      "name": "Jane Austin",
+      "links": [
+        {
+          "url": "https://twitter.com/janeaustintas",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/JaneAustinALP/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.janeaustin.net/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "dobell/australian_labor_party_alp/emma_mcbride",
+      "name": "Emma McBride",
+      "links": [
+        {
+          "url": "http://twitter.com/emma4dobell",
+          "note": "twitter"
+        },
+        {
+          "url": "http://www.facebook.com/mcbrideemma/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/emma_mcbride",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "dunkley/australian_labor_party_alp/peta_murphy",
+      "name": "Peta Murphy",
+      "links": [
+        {
+          "url": "https://twitter.com/petajan",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/PetaMurphyforDunkley/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/peta_murphy",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "durack/australian_labor_party_alp/carol_martin",
+      "name": "Carol Martin",
+      "links": [
+        {
+          "url": "https://www.facebook.com/Carol-Martin-for-Durack-948721725210551/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/carol_martin",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "eden_monaro/australian_labor_party_alp/mike_kelly",
+      "name": "Mike Kelly",
+      "links": [
+        {
+          "url": "https://twitter.com/MikeKellyofEM",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/MikeKellyEdenMonaro/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://mikekelly.org.au/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "fairfax/australian_labor_party_alp/scott_anderson",
+      "name": "Scott Anderson",
+      "links": [
+        {
+          "url": "https://www.facebook.com/Scott4Fairfax/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.fairfaxlabor.com.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "fisher/australian_labor_party_alp/bill_gissane",
+      "name": "Bill Gissane",
+      "links": [
+        {
+          "url": "https://twitter.com/BillGissane",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/laborforfisher/?ref=hl",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.billgissane.com.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "forde/australian_labor_party_alp/des_hardman",
+      "name": "Des Hardman",
+      "links": [
+        {
+          "url": "https://twitter.com/des_hardman",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/fordelabor",
+          "note": "facebook"
+        },
+        {
+          "url": "http://deshardman.ml.net.au/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "fowler/australian_labor_party_alp/chris_hayes",
+      "name": "Chris Hayes",
+      "links": [
+        {
+          "url": "http://www.chrishayesmp.com/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "franklin/australian_labor_party_alp/julie_collins",
+      "name": "Julie Collins",
+      "links": [
+        {
+          "url": "https://twitter.com/JulieCollinsMP",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/juliecollinsmp",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.juliecollins.com/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "/australian_labor_party_alp/andrew_leigh",
+      "name": "Andrew Leigh",
+      "links": [
+        {
+          "url": "https://twitter.com/ALeighMP",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/AndrewLeighMP/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.andrewleigh.com/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "fremantle/australian_labor_party_alp/chris_brown",
+      "name": "Chris Brown",
+      "links": [
+        {
+          "url": "https://www.facebook.com/Chris-Brown-for-Fremantle-202091560170453/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/chris_brown",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "gellibrand/australian_labor_party_alp/tim_watts",
+      "name": "Tim Watts",
+      "links": [
+        {
+          "url": "https://www.twitter.com/timwattsmp",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/timwattsmp",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.timwatts.net.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "gilmore/australian_labor_party_alp/fiona_phillips",
+      "name": "Fiona Phillips",
+      "links": [
+        {
+          "url": "https://twitter.com/fiboydphillips",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/fionaphillipsforsouthcoast/?ref=hl",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.fionaphillips.com.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "gippsland/australian_labor_party_alp/carolyne_boothman",
+      "name": "Carolyne Boothman",
+      "links": [
+        {
+          "url": "https://www.facebook.com/gippslabor/?ref=bookmarks",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.gippslabor.com",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "goldstein/australian_labor_party_alp/matthew_coote",
+      "name": "Matthew Coote",
+      "links": [
+        {
+          "url": "https://twitter.com/matthewcoote",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/Labor4Goldstein/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/matthew_coote",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "gorton/australian_labor_party_alp/brendan_oconnor",
+      "name": "Brendan O'Connor",
+      "links": [
+        {
+          "url": "https://twitter.com/BOConnorMP",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/BrendanOConnorMP/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.brendanoconnor.com.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "grayndler/australian_labor_party_alp/anthony_albanese",
+      "name": "Anthony Albanese",
+      "links": [
+        {
+          "url": "https://twitter.com/AlboMP",
+          "note": "twitter"
+        },
+        {
+          "url": "https://facebook.com/AlboMP",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.anthonyalbanese.com.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "greenway/australian_labor_party_alp/michelle_rowland",
+      "name": "Michelle Rowland",
+      "links": [
+        {
+          "url": "https://www.facebook.com/mrowlandmp",
+          "note": "facebook"
+        },
+        {
+          "url": "http://michellerowland.com.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "griffith/australian_labor_party_alp/terri_butler",
+      "name": "Terri Butler",
+      "links": [
+        {
+          "url": "https://twitter.com/terrimbutler",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/butler4griffith",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.terributlermp.com/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "hasluck/australian_labor_party_alp/bill_leadbetter",
+      "name": "Bill Leadbetter",
+      "links": [
+        {
+          "url": "http://twitter.com/LeadbetterBill",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/Bill-for-Hasluck-920511188033877/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/bill_leadbetter",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "herbert/australian_labor_party_alp/cathy_otoole",
+      "name": "Cathy O'Toole",
+      "links": [
+        {
+          "url": "https://twitter.com/c_otoole?lang=en",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/CathyOTooleforHerbert/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://cathyotoole.org.au/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "higgins/australian_labor_party_alp/carl_katter",
+      "name": "Carl Katter",
+      "links": [
+        {
+          "url": "https://twitter.com/CarlKatter",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/CarlKatter/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.carlkatter.com",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "hindmarsh/australian_labor_party_alp/steve_georganas",
+      "name": "Steve Georganas",
+      "links": [
+        {
+          "url": "https://www.facebook.com/steve.georganas/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/steve_georganas",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "holt/australian_labor_party_alp/anthony_byrne",
+      "name": "Anthony Byrne",
+      "links": [
+        {
+          "url": "https://twitter.com/AnthonyByrne_MP",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/anthonybyrne/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.anthonybyrnemp.com",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "hotham/australian_labor_party_alp/clare_oneil",
+      "name": "Clare O'Neil",
+      "links": [
+        {
+          "url": "https://www.facebook.com/ClareforHotham/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/clare_oneil",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "hughes/australian_labor_party_alp/diedree_steinwall",
+      "name": "Diedree Steinwall",
+      "links": [
+        {
+          "url": "http://www.facebook.com/DiedreeSteinwallforHughes",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/diedree_steinwall",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "hume/australian_labor_party_alp/aoife_champion",
+      "name": "Aoife Champion",
+      "links": [
+        {
+          "url": "https://twitter.com/AoifeChampion",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/Aoife-Champion-Labor-for-Hume-464757037043456/?ref=bookmarks",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.achampionforhume.com.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "hunter/australian_labor_party_alp/joel_fitzgibbon",
+      "name": "Joel Fitzgibbon",
+      "links": [
+        {
+          "url": "https://twitter.com/fitzhunter",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/JoelFitzgibbonMP/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.joelfitzgibbon.com/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "indi/australian_labor_party_alp/eric_kerr",
+      "name": "Eric Kerr",
+      "links": [
+        {
+          "url": "https://www.facebook.com/steve.georganas/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/eric_kerr",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "isaacs/australian_labor_party_alp/mark_dreyfus",
+      "name": "Mark Dreyfus",
+      "links": [
+        {
+          "url": "https://www.twitter.com/markdreyfusqcmp",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/markdreyfus",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.markdreyfus.com",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "jagajaga/australian_labor_party_alp/jenny_macklin",
+      "name": "Jenny Macklin",
+      "links": [
+        {
+          "url": "https://www.facebook.com/jennymacklinmp/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.jennymacklin.net.au/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "kennedy/australian_labor_party_alp/norman_jacobsen",
+      "name": "Norman Jacobsen",
+      "links": [
+        {
+          "url": "http://www.facebook.com/Norm4Kennedy/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://Twitter.com/norm4kennedy",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "kingsford_smith/australian_labor_party_alp/matt_thistlethwaite",
+      "name": "Matt Thistlethwaite",
+      "links": [
+        {
+          "url": "https://twitter.com/MThistlethwaite",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/ThistlethwaiteM",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.mattthistlethwaite.com.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "kingston/australian_labor_party_alp/amanda_rishworth",
+      "name": "Amanda Rishworth",
+      "links": [
+        {
+          "url": "https://twitter.com/AmandaRishworth",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/AmandaRishworth/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.rishworth.com",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "kooyong/australian_labor_party_alp/marg_darcy",
+      "name": "Marg D'Arcy",
+      "links": [
+        {
+          "url": "https://twitter.com/Darcy4Kooyong",
+          "note": "twitter"
+        },
+        {
+          "url": "http://www.facebook.com/kooyongalp",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.margdarcy.com",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "la_trobe/australian_labor_party_alp/simon_curtis",
+      "name": "Simon Curtis",
+      "links": [
+        {
+          "url": "https://twitter.com/simonforlatrobe",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/simoncurtislatrobe",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/simon_curtis",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "lalor/australian_labor_party_alp/joanne_ryan",
+      "name": "Joanne Ryan",
+      "links": [
+        {
+          "url": "https://twitter.com/JoanneRyanLalor",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/JoanneRyanLalor",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.Joanneryan.com.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "leichhardt/australian_labor_party_alp/sharryn_howes",
+      "name": "Sharryn Howes",
+      "links": [
+        {
+          "url": "https://twitter.com/sharrynhowes",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/SharrynHowesForLeichhardt/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://sharrynhowes.com.au/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "lilley/australian_labor_party_alp/wayne_swan",
+      "name": "Wayne Swan",
+      "links": [
+        {
+          "url": "https://twitter.com/swannyqld",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/Wayne.Swan.MP",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.swanmp.org/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "lindsay/australian_labor_party_alp/emma_husar",
+      "name": "Emma Husar",
+      "links": [
+        {
+          "url": "https://www.facebook.com/emmahusarforlindsay/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/emma_husar",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "lingiari/australian_labor_party_alp/warren_snowdon",
+      "name": "Warren Snowdon",
+      "links": [
+        {
+          "url": "https://twitter.com/manwiththemo",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/snowdonmp/?fref=ts",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.warrensnowdon.com/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "longman/australian_labor_party_alp/susan_lamb",
+      "name": "Susan Lamb",
+      "links": [
+        {
+          "url": "http://www.susanlamb.org.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "lyons/australian_labor_party_alp/brian_mitchell",
+      "name": "Brian Mitchell",
+      "links": [
+        {
+          "url": "https://twitter.com/BrianMitchell_",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/brianmitchellforlyons2016/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://brianmitchell.com.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "macarthur/australian_labor_party_alp/michael_freelander",
+      "name": "Michael Freelander",
+      "links": [
+        {
+          "url": "https://www.facebook.com/MikeFreelanderMacarthur/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/michael_freelander",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "macquarie/australian_labor_party_alp/susan_templeman",
+      "name": "Susan Templeman",
+      "links": [
+        {
+          "url": "https://twitter.com/susan4macquarie",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/susan.templeman",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.susantempleman.com.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "makin/australian_labor_party_alp/tony_zappia",
+      "name": "Tony Zappia",
+      "links": [
+        {
+          "url": "http://www.tonyzappia.alp.org.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "mallee/australian_labor_party_alp/lydia_senior",
+      "name": "Lydia Senior",
+      "links": [
+        {
+          "url": "http://www.twitter.com/teamlydiasenior",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/LydiaSeniorMallee/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.lydiasenior.com.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "mcewen/australian_labor_party_alp/rob_mitchell",
+      "name": "Rob Mitchell",
+      "links": [
+        {
+          "url": "https://twitter.com/RobMitchellMP",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/pages/Rob-Mitchell-MP-Federal-Labor-Member-for-McEwen/113830088678537",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.robmitchell.com.au/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "mcmahon/australian_labor_party_alp/chris_bowen",
+      "name": "Chris Bowen",
+      "links": [
+        {
+          "url": "https://twitter.com/bowenchris",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/chrisbowenmp",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.chrisbowen.net",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "mcmillan/australian_labor_party_alp/chris_buckingham",
+      "name": "Chris Buckingham",
+      "links": [
+        {
+          "url": "https://twitter.com/Labor4McMillan",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/Chris-Buckingham-Labor-for-McMillan-631414980203653/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.chrisbuckingham.com.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "mcpherson/australian_labor_party_alp/sandy_gadd",
+      "name": "Sandy Gadd",
+      "links": [
+        {
+          "url": "https://www.facebook.com/Sandy4McPherson/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/sandy_gadd",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "melbourne/australian_labor_party_alp/sophie_ismail",
+      "name": "Sophie Ismail",
+      "links": [
+        {
+          "url": "http://twitter.com/ismail_sophie",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/SophieforMelbourne/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.sophie-ismail.com/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "melbourne_ports/australian_labor_party_alp/michael_danby",
+      "name": "Michael Danby",
+      "links": [
+        {
+          "url": "https://twitter.com/DanbyMP",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/michael.danby.39",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.danbymp.com/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "menzies/australian_labor_party_alp/adam_rundell",
+      "name": "Adam Rundell",
+      "links": [
+        {
+          "url": "https://twitter.com/Adam_Rundell",
+          "note": "twitter"
+        },
+        {
+          "url": "http://www.facebook.com/AdamRundellAP",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/adam_rundell",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "mitchell/australian_labor_party_alp/andrew_punch",
+      "name": "Andrew Punch",
+      "links": [
+        {
+          "url": "https://twitter.com/tanya_plibersek",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/andrew.punch.mitchell/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://andrewpunch.com.au/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "moreton/australian_labor_party_alp/graham_perrett",
+      "name": "Graham Perrett",
+      "links": [
+        {
+          "url": "https://twitter.com/GrahamPerrettMP",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/GrahamPerrettMp",
+          "note": "facebook"
+        },
+        {
+          "url": "http://grahamperrett.net.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "newcastle/australian_labor_party_alp/sharon_claydon",
+      "name": "Sharon Claydon",
+      "links": [
+        {
+          "url": "https://www.twitter.com/sharonclaydon",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/SharonClaydonforNewcastle",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.sharonclaydon.com",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "north_sydney/australian_labor_party_alp/peter_hayes",
+      "name": "Peter Hayes",
+      "links": [
+        {
+          "url": "https://www.facebook.com/peter.hayes.1460",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/peter_hayes",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "oxley/australian_labor_party_alp/milton_dick",
+      "name": "Milton Dick",
+      "links": [
+        {
+          "url": "http://twitter.com/Milton4Oxley",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/milton4oxley/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/milton_dick",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "page/australian_labor_party_alp/janelle_saffin",
+      "name": "Janelle Saffin",
+      "links": [
+        {
+          "url": "https://twitter.com/janellesaffin1",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/janelle.saffin",
+          "note": "facebook"
+        },
+        {
+          "url": "http://janellesaffin.com.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "parramatta/australian_labor_party_alp/julie_owens",
+      "name": "Julie Owens",
+      "links": [
+        {
+          "url": "https://twitter.com/JulieOwensMP",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/julie.owens.mp?fref=ts",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.julieowens.com.au/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "perth/australian_labor_party_alp/alannah_mactiernan",
+      "name": "Alannah MacTiernan",
+      "links": [
+        {
+          "url": "https://www.facebook.com/AMacTiernan",
+          "note": "facebook"
+        },
+        {
+          "url": "http://alannah.walabor.org.au/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "petrie/australian_labor_party_alp/jacqui_pedersen",
+      "name": "Jacqui Pedersen",
+      "links": [
+        {
+          "url": "https://www.facebook.com/PedersenForPetrie/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/jacqui_pedersen",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "port_adelaide/australian_labor_party_alp/mark_butler",
+      "name": "Mark Butler",
+      "links": [
+        {
+          "url": "https://twitter.com/Mark_Butler_MP",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/MarkButlerMP",
+          "note": "facebook"
+        },
+        {
+          "url": "http://markbutler.alp.org.au/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "rankin/australian_labor_party_alp/jim_chalmers",
+      "name": "Jim Chalmers",
+      "links": [
+        {
+          "url": "https://twitter.com/JEChalmers",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/Jim4Rankin",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.jimchalmers.org",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "richmond/australian_labor_party_alp/justine_elliot",
+      "name": "Justine Elliot",
+      "links": [
+        {
+          "url": "https://www.facebook.com/JustineElliotMP",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/justine_elliot",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "riverina/australian_labor_party_alp/tim_kurylowicz",
+      "name": "Tim Kurylowicz",
+      "links": [
+        {
+          "url": "https://www.facebook.com/Tim-Kurylowicz-254128761400336/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.riverinalabor.com.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "ryan/australian_labor_party_alp/stephen_hegedus",
+      "name": "Stephen Hegedus",
+      "links": [
+        {
+          "url": "https://twitter.com/hegedus4ryan",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/StephenHegedusForRyan/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.stephenhegedus.com.au/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "scullin/australian_labor_party_alp/andrew_giles",
+      "name": "Andrew Giles",
+      "links": [
+        {
+          "url": "https://twitter.com/andrewjgiles",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/AndrewGilesMP/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.andrewgiles.com.au",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "shortland/australian_labor_party_alp/jill_hall",
+      "name": "Jill Hall",
+      "links": [
+        {
+          "url": "https://twitter.com/JillHallMP",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/Jill.Hall.Shortland/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.jillhall.com",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "solomon/australian_labor_party_alp/luke_gosling",
+      "name": "Luke Gosling",
+      "links": [
+        {
+          "url": "http://www.twitter.com/@lukejgosling",
+          "note": "twitter"
+        },
+        {
+          "url": "http://facebook.com/lukejgosling",
+          "note": "facebook"
+        },
+        {
+          "url": "http://lukegosling.com.au/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "swan/australian_labor_party_alp/tammy_solonec",
+      "name": "Tammy Solonec",
+      "links": [
+        {
+          "url": "http://www.tammysolonec.ml.net.au/",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "/australian_labor_party_alp/stephen_jones",
       "name": "Stephen Jones",
       "links": [
-
+        {
+          "url": "https://twitter.com/StephenJonesMP",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/stephenjonesforthrosby/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.stephenjones.org.au",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "wakefield/australian_labor_party_alp/nick_champion",
       "name": "Nick Champion",
       "links": [
-
+        {
+          "url": "https://twitter.com/NickChampionMP",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/NickChampionMP/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.nickchampion.com.au",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "wannon/australian_labor_party_alp/michael_barling",
       "name": "Michael Barling",
       "links": [
-
+        {
+          "url": "https://twitter.com/Wannon_ALP",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/Vote1MichaelBarling/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/michael_barling",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "warringah/australian_labor_party_alp/andrew_woodward",
       "name": "Andrew Woodward",
       "links": [
-
+        {
+          "url": "http://www.twitter.com/warringahlabor",
+          "note": "twitter"
+        },
+        {
+          "url": "http://www.facebook.com/warringahlabor",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.warringahlabor.com",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "watson/australian_labor_party_alp/tony_burke",
       "name": "Tony Burke",
       "links": [
-
+        {
+          "url": "https://twitter.com/tony_burke",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/tony.burke.mp",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.tonyburke.com.au/",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "wentworth/australian_labor_party_alp/evan_hughes",
       "name": "Evan Hughes",
       "links": [
-
+        {
+          "url": "https://twitter.com/evanevanhughes",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/HughesWentworth/?fref=ts",
+          "note": "facebook"
+        },
+        {
+          "url": "http://evanhughes.com.au/",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "werriwa/australian_labor_party_alp/anne_stanley",
       "name": "Anne Stanley",
       "links": [
-
+        {
+          "url": "https://www.facebook.com/#!/Anne.Stanley.Werriwa/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/anne_stanley",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "wide_bay/australian_labor_party_alp/lucy_stanton",
       "name": "Lucy Stanton",
       "links": [
-
+        {
+          "url": "http://twitter.com/@louinoosa",
+          "note": "twitter"
+        },
+        {
+          "url": "http://ww.facebook.com/Lucy-Stanton-for-Wide-Bay",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.laborwidebay.com",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "wills/australian_labor_party_alp/peter_khalil",
       "name": "Peter Khalil",
       "links": [
-
+        {
+          "url": "https://twitter.com//@khalil3535",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/PeterKhalil",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/peter_khalil",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "wright/australian_labor_party_alp/allistair_smith",
       "name": "Allistair Smith",
       "links": [
-
+        {
+          "url": "https://www.facebook.com/SmithForWright",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/allistair_smith",
+          "note": "webpage"
+        }
       ]
     },
     {
@@ -5578,6 +6695,18 @@
       "on_behalf_of_id": "party/australian_greens"
     },
     {
+      "person_id": "maribyrnong/australian_labor_party_alp/bill_shorten",
+      "organization_id": "electorate/maribyrnong",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_labor_party_alp"
+    },
+    {
+      "person_id": "sydney/australian_labor_party_alp/tanya_plibersek",
+      "organization_id": "electorate/sydney",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_labor_party_alp"
+    },
+    {
       "person_id": "adelaide/australian_labor_party_alp/kate_ellis",
       "organization_id": "electorate/adelaide",
       "role": "candidate",
@@ -5718,12 +6847,6 @@
     {
       "person_id": "chifley/australian_labor_party_alp/ed_husic",
       "organization_id": "electorate/chifley",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_labor_party_alp"
-    },
-    {
-      "person_id": "chisholm/australian_labor_party_alp/anna_burke",
-      "organization_id": "electorate/chisholm",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_labor_party_alp"
     },
@@ -6058,12 +7181,6 @@
       "on_behalf_of_id": "party/australian_labor_party_alp"
     },
     {
-      "person_id": "maribyrnong/australian_labor_party_alp/bill_shorten",
-      "organization_id": "electorate/maribyrnong",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_labor_party_alp"
-    },
-    {
       "person_id": "mcewen/australian_labor_party_alp/rob_mitchell",
       "organization_id": "electorate/mcewen",
       "role": "candidate",
@@ -6210,12 +7327,6 @@
     {
       "person_id": "swan/australian_labor_party_alp/tammy_solonec",
       "organization_id": "electorate/swan",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_labor_party_alp"
-    },
-    {
-      "person_id": "sydney/australian_labor_party_alp/tanya_plibersek",
-      "organization_id": "electorate/sydney",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_labor_party_alp"
     },
