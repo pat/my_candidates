@@ -51,10 +51,10 @@ To rebuild the electorate and postcode pages from the latest popolo data, use th
 bundle exec rake generate:pages
 ```
 
-And to run them both together (which will be needed every time the Google spreadsheet has updated information), there's a single `rebuild` rake task:
+And to run them both together (which will be needed every time the Google spreadsheet has updated information), there's a single `generate:all` rake task:
 
 ```
-bundle exec rake rebuild
+bundle exec rake generate:all
 ```
 
 ### Postcodes, Electorates, Parties

@@ -7,9 +7,9 @@ task :environment do
   require 'my_candidates'
 end
 
-task :rebuild => ['generate:popolo', 'generate:pages']
-
 namespace :generate do
+  task :all => ['generate:popolo', 'generate:pages']
+
   task :electorate_pages => :environment do
     site = Jekyll::Site.new Jekyll.configuration
     site.process
