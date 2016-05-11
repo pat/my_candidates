@@ -42,7 +42,7 @@ Unless there are data changes, you won't need to run any of these tasks - all da
 To regenerate the popolo data from the Google spreadsheet, use the `generate:popolo` rake task:
 
 ```
-bundle exec rake generate;popolo
+bundle exec rake generate:popolo
 ```
 
 To rebuild the electorate and postcode pages from the latest popolo data, use the `generate:pages` rake task:
