@@ -150,5 +150,15 @@ ul.candidates {
         }
       }
     }
+
+    ul.oa-links {
+      margin: 0;
+      padding: 0;
+
+      li {
+        display: inline;
+        padding-right: 1em;
+      }
+    }
   }
 }

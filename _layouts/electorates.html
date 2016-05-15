@@ -45,6 +45,21 @@ layout: default
     {% endif %}
     </ul>
     {% endif %}
+    {% if candidate.oa or candidate.tvfy %}
+    <ul class="oa-links">
+      <li>Open Australia:</li>
+    {% if candidate.tvfy %}
+      <li class="tvfy">
+        <a href="{{ candidate.tvfy }}">Voting Record</a>
+      </li>
+    {% endif %}
+    {% if candidate.oa %}
+      <li class="oa">
+        <a href="{{ candidate.oa }}">Speeches in Parliament</a>
+      </li>
+    {% endif %}
+    </ul>
+    {% endif %}
   </li>
   {% endfor %}
 </ul>
