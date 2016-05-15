@@ -2,16 +2,12 @@
 layout: default
 ---
 
-<div class="home">
-  <h1 class="page-heading">My Candidates</h1>
+<p>Australia has a Federal Election scheduled for July 2nd, 2016. Keen to learn more about the candidates in your electorate? Enter your postcode below to find them!</p>
 
-  <p>Australia has a Federal Election scheduled for July 2nd, 2016. Keen to learn more about the candidates in your electorate? Enter your postcode below to find them!</p>
+<form method="get" id="postcode-form">
+  <label for="postcode" class="form-element">Your Postcode:</label>
+  <input type="text" id="postcode" name="postcode" class="form-element" />
+  <input type="submit" id="go" value="Go" class="form-element" />
+</form>
 
-  <form method="get" id="postcode-form">
-    <label for="postcode">Postcode</label>
-    <input type="text" id="postcode" name="postcode" />
-    <input type="submit" id="go" value="Go" />
-  </form>
-
-  <p>Or you can look through <a href="/electorates/">the full list of electorates</a>.</p>
-</div>
+<p>Or you can look through <a href="/electorates/">the full list of electorates</a>.</p>

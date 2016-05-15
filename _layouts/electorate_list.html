@@ -1,14 +1,10 @@
 ---
 layout: default
 ---
-<article class="candidates">
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
+<h3>{{ page.title }}</h3>
 
-  <ul>
-    {% for electorate in page.electorates %}
-    <li><a href="{{ electorate.path }}">{{ electorate.name }}</a></li>
-    {% endfor %}
-  </ul>
-</article>
+<ul>
+  {% for electorate in page.electorates %}
+  <li><a href="{{ electorate.path }}">{{ electorate.name }}</a></li>
+  {% endfor %}
+</ul>

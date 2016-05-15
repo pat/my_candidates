@@ -3,52 +3,152 @@
 ---
 @charset "utf-8";
 
+@mixin font-face($font_family, $file_name) {
+  @font-face {
+    font-family: $font_family;
+    src: url('/fonts/' + $file_name + '-webfont.eot');
+    src: url('/fonts/' + $file_name + '-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/' + $file_name + '-webfont.woff') format('woff'),
+         url('/fonts/' + $file_name + '-webfont.ttf') format('truetype'),
+         url('/fonts/' + $file_name + '-webfont.svg#' + $font_family) format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+}
 
+@include font-face('Museo Sans Bold', 'museosans_500');
+@include font-face('Museo Slab', 'museoslab_700');
 
 // Our variables
 $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$header-font-family: 'Museo Slab', Helvetica, Arial, sans-serif;
+$secondary-header-family: 'Museo Sans Bold', Helvetica, Arial, sans-serif;
 
-$spacing-unit:     30px;
-
+$background-base:  #B3DFDC;
+$background-color: lighten($background-base, 15%);
+$heading-base:     #E26B25;
+$border-color:     lighten($heading-base, 20%);
 $text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
-// Width of the content area
-$content-width:    800px;
-
-$on-palm:          600px;
-$on-laptop:        800px;
-
-
-
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
+body {
+  margin: 0;
+  padding: 0;
+  background-color: $background-color;
+  font-family: $base-font-family;
+  color: $text-color;
 }
 
+h1 {
+  text-align: center;
+  color: $heading-base;
+  text-transform: uppercase;
+  font-family: $header-font-family;
 
+  a, a:visited {
+    color: $heading-base;
+  }
+}
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting",
-        "candidates"
-;
+h2 {
+  text-align: center;
+  padding-bottom: 0.5em;
+  color: #333;
+  font-family: $secondary-header-family;
+}
+
+h3 {
+  text-align: center;
+  color: $heading-base;
+  font-family: $header-font-family;
+  text-transform: uppercase;
+  font-size: 1.3em;
+  margin: 0;
+}
+
+header, .content, footer {
+  width: 45em;
+  margin: 1em auto;
+}
+
+.boxed {
+  border-top: 3px solid $border-color;
+  border-bottom: 3px solid $border-color;
+  background-color: #fff;
+  padding: 1em 0;
+}
+
+article {
+  margin: 1em;
+  font-size: 1.2em;
+}
+
+article form {
+  font-size: 1.2em;
+  margin-top: 1.5em;
+  margin-bottom: 3em;
+}
+
+.form-element {
+  display: block;
+  margin: 0.5em auto;
+  width: 220px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#postcode-form input {
+  font-size: 1.5em;
+}
+
+footer p {
+  margin: 1em;
+  font-size: 0.9em;
+  color: #666;
+}
+
+ul.candidates {
+  margin: 0 auto;
+  width: 80%;
+  padding: 0;
+  margin-bottom: 4em;
+
+  li.candidate {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+
+    h4 {
+      margin-top: 1em;
+      margin-bottom: 0.5em;
+      font-size: 1.3em;
+      font-family: $secondary-header-family;
+
+      .party {
+        font-size: 85%;
+      }
+    }
+
+    ul.links {
+      margin: 0;
+      padding: 0;
+
+      li {
+        display: inline;
+        padding-right: 1em;
+
+        a {
+          text-decoration: none;
+        }
+
+        img {
+          height: 1.5em;
+        }
+        span {
+          position: relative;
+          top: -9px;
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}
