@@ -48,7 +48,9 @@ class MyCandidates::ElectoratePages
         'party'    => party['name'],
         'twitter'  => link_for(person, 'twitter'),
         'facebook' => link_for(person, 'facebook'),
-        'webpage'  => link_for(person, 'webpage')
+        'webpage'  => link_for(person, 'webpage'),
+        'tvfy'     => link_for(person, 'tvfy'),
+        'oa'       => link_for(person, 'oa')
       }
     }.sort_by { |hash| hash['name'] }
   end

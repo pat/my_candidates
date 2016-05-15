@@ -52,7 +52,10 @@ class MyCandidates::CandidateData
     end
 
     def links
-      [link_for(:twitter), link_for(:facebook), link_for(:webpage)].compact
+      [
+        link_for(:twitter), link_for(:facebook), link_for(:webpage),
+        link_for(:oa), link_for(:tvfy)
+      ].compact
     end
 
     def link_for(label)
