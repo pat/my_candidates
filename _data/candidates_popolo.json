@@ -1529,9 +1529,17 @@
       ]
     },
     {
-      "id": "maribyrnong/australian_greens/olivia_ball",
-      "name": "Olivia Ball",
+      "id": "maribyrnong/australian_greens/dr_olivia_ball",
+      "name": "Dr Olivia Ball",
       "links": [
+        {
+          "url": "https://twitter.com/DrOliviaBall",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/greenmaribyrnong/",
+          "note": "facebook"
+        },
         {
           "url": "http://greens.org.au/candidate/vic/maribyrnong",
           "note": "webpage"
@@ -7713,7 +7721,7 @@
       "on_behalf_of_id": "party/australian_greens"
     },
     {
-      "person_id": "maribyrnong/australian_greens/olivia_ball",
+      "person_id": "maribyrnong/australian_greens/dr_olivia_ball",
       "organization_id": "electorate/maribyrnong",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_greens"
