@@ -679,6 +679,10 @@
       "name": "Alice Mantel",
       "links": [
         {
+          "url": "https://www.facebook.com/1alicemantel/",
+          "note": "facebook"
+        },
+        {
           "url": "http://nsw.greens.org.au/person/nsw/alice-mantel",
           "note": "webpage"
         }
