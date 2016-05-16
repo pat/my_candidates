@@ -1,23 +1,10 @@
-# My Candidates
+# Voting Choices
 
-The goal (somewhat realised) is this for to be a simple static site that lists all known candidates for the upcoming Australian federal election on July 2nd, 2016.
+[http://votingchoices.com](http://votingchoices.com)
 
-## Progress Report
+A simple static site that lists all known candidates for the upcoming Australian federal election on July 2nd, 2016.
 
-### Done:
-
-* Scraper that sources electorates and the postcodes within them.
-* Scraper that sources a list of federal political parties.
-* [A Google spreadsheet](https://docs.google.com/spreadsheets/d/1PaS7lYTs5pAccFIHImzfStKVFdetjGHuHz54DoOdBP4/edit?usp=sharing) that will be the source of candidates.
-* [A Google form](https://docs.google.com/forms/d/1mpS6fpwPAQGciaydUn-l_YyCEosYic3PHbdJf6Cz8gc/viewform) to help source candidate data (name, party, electorate, social media links).
-* Popolo data sourced from the Google spreadsheet.
-* Write code to generate pages for each postcode and electorate. If a postcode only has one electorate, redirect to that electorate. If it has more than one, offer the viewer a choice.
-* On electorate pages, include a link to the Google form to allow people to suggest missing candidates.
-* Get some decent candidate data together so the site isn't empty.
-
-### In progress:
-
-* Add meaningful layouts and design.
+Pages are generated from data in [a Google spreadsheet](https://docs.google.com/spreadsheets/d/1PaS7lYTs5pAccFIHImzfStKVFdetjGHuHz54DoOdBP4/edit?usp=sharing), and anyone can submit additional data via [an associated Google form](https://docs.google.com/forms/d/1mpS6fpwPAQGciaydUn-l_YyCEosYic3PHbdJf6Cz8gc/viewform).
 
 ## Working on the site:
 
@@ -76,6 +63,8 @@ Firstly, please note the Code of Conduct for all contributions to this project. 
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
 
+Also: for any sizable features/changes, it's probably worth opening up an issue to discuss things first. This hopefully avoids duplication of efforts, or working on things that won't be merged in.
+
 ## Licence
 
-Copyright (c) 2016, My Candidates is developed and maintained by Pat Allan, and is released under the open MIT Licence.
+Copyright (c) 2016, Voting Choices is developed and maintained by Pat Allan, and is released under the open MIT Licence.
