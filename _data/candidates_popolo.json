@@ -6713,6 +6713,24 @@
           "note": "tvfy"
         }
       ]
+    },
+    {
+      "id": "reid/australian_labor_party_alp/angelo_tsirekas",
+      "name": "Angelo Tsirekas",
+      "links": [
+        {
+          "url": "https://twitter.com/mayorangelo",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/AngeloTsirekasReid",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.alp.org.au/angelo_tsirekas_info",
+          "note": "webpage"
+        }
+      ]
     }
   ],
   "organizations": [
@@ -9276,6 +9294,12 @@
       "person_id": "indi//cathy_mcgowan",
       "organization_id": "electorate/indi",
       "role": "candidate"
+    },
+    {
+      "person_id": "reid/australian_labor_party_alp/angelo_tsirekas",
+      "organization_id": "electorate/reid",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_labor_party_alp"
     }
   ],
   "events": [
