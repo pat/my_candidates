@@ -2039,28 +2039,6 @@
       ]
     },
     {
-      "id": "bruce/australian_labor_party_alp/alan_griffin",
-      "name": "Alan Griffin",
-      "links": [
-        {
-          "url": "https://www.facebook.com/griffin.alan",
-          "note": "facebook"
-        },
-        {
-          "url": "http://www.griffinmp.com/",
-          "note": "webpage"
-        },
-        {
-          "url": "http://www.openaustralia.org.au/mp/alan_griffin/bruce",
-          "note": "oa"
-        },
-        {
-          "url": "https://theyvoteforyou.org.au/people/representatives/bruce/alan_griffin",
-          "note": "tvfy"
-        }
-      ]
-    },
-    {
       "id": "bruce/australian_labor_party_alp/julian_hill",
       "name": "Julian Hill",
       "links": [
@@ -7915,12 +7893,6 @@
     {
       "person_id": "brisbane/australian_labor_party_alp/pat_oneill",
       "organization_id": "electorate/brisbane",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_labor_party_alp"
-    },
-    {
-      "person_id": "bruce/australian_labor_party_alp/alan_griffin",
-      "organization_id": "electorate/bruce",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_labor_party_alp"
     },
