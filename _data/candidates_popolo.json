@@ -6723,6 +6723,32 @@
           "note": "facebook"
         }
       ]
+    },
+    {
+      "id": "new_england//tony_windsor",
+      "name": "Tony Windsor",
+      "links": [
+        {
+          "url": "https://twitter.com/TonyHWindsor",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/TonyWindsorNE",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.tonywindsor2016.com",
+          "note": "webpage"
+        },
+        {
+          "url": "http://www.openaustralia.org.au/mp/tony_windsor/new_england",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/representatives/new_england/tony_windsor",
+          "note": "tvfy"
+        }
+      ]
     }
   ],
   "organizations": [
@@ -9292,6 +9318,11 @@
       "organization_id": "electorate/boothby",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_labor_party_alp"
+    },
+    {
+      "person_id": "new_england//tony_windsor",
+      "organization_id": "electorate/new_england",
+      "role": "candidate"
     }
   ],
   "events": [
