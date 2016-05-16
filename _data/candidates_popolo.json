@@ -6735,6 +6735,16 @@
           "note": "webpage"
         }
       ]
+    },
+    {
+      "id": "boothby/australian_labor_party_alp/mark_ward",
+      "name": "Mark Ward",
+      "links": [
+        {
+          "url": "https://www.facebook.com/markwardforboothby/",
+          "note": "facebook"
+        }
+      ]
     }
   ],
   "organizations": [
@@ -9302,6 +9312,12 @@
     {
       "person_id": "reid/australian_labor_party_alp/angelo_tsirekas",
       "organization_id": "electorate/reid",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_labor_party_alp"
+    },
+    {
+      "person_id": "boothby/australian_labor_party_alp/mark_ward",
+      "organization_id": "electorate/boothby",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_labor_party_alp"
     }
