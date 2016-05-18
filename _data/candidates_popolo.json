@@ -6749,6 +6749,23 @@
           "note": "tvfy"
         }
       ]
+    },
+    {
+      "id": "aston/australian_labor_party_alp/paul_klisaris",
+      "name": "Paul Klisaris",
+      "links": [
+        {
+          "url": "https://www.facebook.com/PaulKlisarisforAston/",
+          "note": "facebook"
+        }
+      ]
+    },
+    {
+      "id": "cowper/australian_labor_party_alp/damian_wood",
+      "name": "Damian Wood",
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -9323,6 +9340,18 @@
       "person_id": "new_england//tony_windsor",
       "organization_id": "electorate/new_england",
       "role": "candidate"
+    },
+    {
+      "person_id": "aston/australian_labor_party_alp/paul_klisaris",
+      "organization_id": "electorate/aston",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_labor_party_alp"
+    },
+    {
+      "person_id": "cowper/australian_labor_party_alp/damian_wood",
+      "organization_id": "electorate/cowper",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_labor_party_alp"
     }
   ],
   "events": [
