@@ -6770,6 +6770,134 @@
       "links": [
 
       ]
+    },
+    {
+      "id": "grey/nick_xenophon_team/andrea_broadfoot",
+      "name": "Andrea Broadfoot",
+      "links": [
+        {
+          "url": "https://twitter.com/AndreaBroadfoot?lang=en",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/andreabroadfootforgrey/",
+          "note": "facebook"
+        },
+        {
+          "url": "https://nxt.org.au/electorates/grey/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "grey/family_first_party/cheryl_kaminski",
+      "name": "Cheryl Kaminski",
+      "links": [
+        {
+          "url": "http://www.sa-familyfirst.org.au/federal-election-2016-electorates-grey.php",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "adelaide/family_first_party/adrian_rivish",
+      "name": "Adrian Rivish",
+      "links": [
+        {
+          "url": "http://www.sa-familyfirst.org.au/federal-election-2016-electorates-adelaide.php",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "barker/family_first_party/yvonne_zeppel",
+      "name": "Yvonne Zeppel",
+      "links": [
+        {
+          "url": "http://www.sa-familyfirst.org.au/federal-election-2016-electorates-barker.php",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "boothby/family_first_party/gary_wheatcroft",
+      "name": "Gary Wheatcroft",
+      "links": [
+        {
+          "url": "http://www.sa-familyfirst.org.au/federal-election-2016-electorates-boothby.php",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "hindmarsh/family_first_party/mark_potter",
+      "name": "Mark Potter",
+      "links": [
+        {
+          "url": "http://www.sa-familyfirst.org.au/federal-election-2016-electorates-hindmarsh.php",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "kingston/family_first_party/geoff_doecke",
+      "name": "Geoff Doecke",
+      "links": [
+        {
+          "url": "http://www.sa-familyfirst.org.au/federal-election-2016-electorates-kingston.php",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "makin/family_first_party/paul_coombe",
+      "name": "Paul Coombe",
+      "links": [
+        {
+          "url": "http://www.sa-familyfirst.org.au/federal-election-2016-electorates-makin.php",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "mayo/family_first_party/bruce_hicks",
+      "name": "Bruce Hicks",
+      "links": [
+        {
+          "url": "http://www.sa-familyfirst.org.au/federal-election-2016-electorates-mayo.php",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "port_adelaide/family_first_party/bruce_hambour",
+      "name": "Bruce Hambour",
+      "links": [
+        {
+          "url": "http://www.sa-familyfirst.org.au/federal-election-2016-electorates-port-adelaide.php",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "sturt/family_first_party/craig_bowyer",
+      "name": "Craig Bowyer",
+      "links": [
+        {
+          "url": "http://www.sa-familyfirst.org.au/federal-election-2016-electorates-sturt.php",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "wakefield/family_first_party/marilyn_phillips",
+      "name": "Marilyn Phillips",
+      "links": [
+        {
+          "url": "http://www.sa-familyfirst.org.au/federal-election-2016-electorates-wakefield.php",
+          "note": "webpage"
+        }
+      ]
     }
   ],
   "organizations": [
@@ -9356,6 +9484,78 @@
       "organization_id": "electorate/cowper",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_labor_party_alp"
+    },
+    {
+      "person_id": "grey/nick_xenophon_team/andrea_broadfoot",
+      "organization_id": "electorate/grey",
+      "role": "candidate",
+      "on_behalf_of_id": "party/nick_xenophon_team"
+    },
+    {
+      "person_id": "grey/family_first_party/cheryl_kaminski",
+      "organization_id": "electorate/grey",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "adelaide/family_first_party/adrian_rivish",
+      "organization_id": "electorate/adelaide",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "barker/family_first_party/yvonne_zeppel",
+      "organization_id": "electorate/barker",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "boothby/family_first_party/gary_wheatcroft",
+      "organization_id": "electorate/boothby",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "hindmarsh/family_first_party/mark_potter",
+      "organization_id": "electorate/hindmarsh",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "kingston/family_first_party/geoff_doecke",
+      "organization_id": "electorate/kingston",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "makin/family_first_party/paul_coombe",
+      "organization_id": "electorate/makin",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "mayo/family_first_party/bruce_hicks",
+      "organization_id": "electorate/mayo",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "port_adelaide/family_first_party/bruce_hambour",
+      "organization_id": "electorate/port_adelaide",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "sturt/family_first_party/craig_bowyer",
+      "organization_id": "electorate/sturt",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "wakefield/family_first_party/marilyn_phillips",
+      "organization_id": "electorate/wakefield",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
     }
   ],
   "events": [
