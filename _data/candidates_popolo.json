@@ -2577,17 +2577,10 @@
       ]
     },
     {
-      "id": "fremantle/australian_labor_party_alp/chris_brown",
-      "name": "Chris Brown",
+      "id": "fremantle/australian_labor_party_alp/josh_wilson",
+      "name": "Josh Wilson",
       "links": [
-        {
-          "url": "https://www.facebook.com/Chris-Brown-for-Fremantle-202091560170453/",
-          "note": "facebook"
-        },
-        {
-          "url": "http://www.alp.org.au/chris_brown",
-          "note": "webpage"
-        }
+
       ]
     },
     {
@@ -8234,7 +8227,7 @@
       "on_behalf_of_id": "party/australian_labor_party_alp"
     },
     {
-      "person_id": "fremantle/australian_labor_party_alp/chris_brown",
+      "person_id": "fremantle/australian_labor_party_alp/josh_wilson",
       "organization_id": "electorate/fremantle",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_labor_party_alp"
