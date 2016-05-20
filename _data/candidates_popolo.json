@@ -4978,16 +4978,6 @@
       ]
     },
     {
-      "id": "fremantle/liberal_party_of_australia/sherry_sufi",
-      "name": "Sherry Sufi",
-      "links": [
-        {
-          "url": "https://www.facebook.com/sufi4freo",
-          "note": "facebook"
-        }
-      ]
-    },
-    {
       "id": "gellibrand/liberal_party_of_australia/ben_willis",
       "name": "Ben Willis",
       "links": [
@@ -8943,12 +8933,6 @@
     {
       "person_id": "franklin/liberal_party_of_australia/amanda_sue_markham",
       "organization_id": "electorate/franklin",
-      "role": "candidate",
-      "on_behalf_of_id": "party/liberal_party_of_australia"
-    },
-    {
-      "person_id": "fremantle/liberal_party_of_australia/sherry_sufi",
-      "organization_id": "electorate/fremantle",
       "role": "candidate",
       "on_behalf_of_id": "party/liberal_party_of_australia"
     },
