@@ -6881,6 +6881,24 @@
           "note": "webpage"
         }
       ]
+    },
+    {
+      "id": "warringah//james_mathison",
+      "name": "James Mathison",
+      "links": [
+        {
+          "url": "https://twitter.com/jamesmathison",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/James-Mathison-554148968121169/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.jamesmathison.com.au",
+          "note": "webpage"
+        }
+      ]
     }
   ],
   "organizations": [
@@ -9533,6 +9551,11 @@
       "organization_id": "electorate/wakefield",
       "role": "candidate",
       "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "warringah//james_mathison",
+      "organization_id": "electorate/warringah",
+      "role": "candidate"
     }
   ],
   "events": [
