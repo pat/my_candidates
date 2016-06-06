@@ -7,7 +7,7 @@ class MyCandidates::CandidatesCSV
   SHEET_URI   = "https://docs.google.com/spreadsheets/d/#{DOCUMENT_ID}/export?exportFormat=csv&gid=#{SHEET_ID}"
 
   def self.call
-    CSV.parse open(SHEET_URI).read,
+    CSV.parse open(SHEET_URI).read.encode(Encoding.default_external),
       :headers           => :first_row,
       :header_converters => :symbol
   end
