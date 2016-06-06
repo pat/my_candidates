@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<h3>{{ page.title }}</h3>
+
+<ul>
+  {% for region in page.regions %}
+  <li><a href="{{ region.path }}">{{ region.name }}</a></li>
+  {% endfor %}
+</ul>

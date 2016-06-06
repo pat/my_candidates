@@ -17,6 +17,13 @@ namespace :generate do
     MyCandidates::ElectoratePages.call site
   end
 
+  task :senate_pages => :environment do
+    site = Jekyll::Site.new Jekyll.configuration
+    site.process
+
+    MyCandidates::SenatePages.call site
+  end
+
   task :postcode_pages => :environment do
     site = Jekyll::Site.new Jekyll.configuration
     site.process
@@ -30,6 +37,7 @@ namespace :generate do
 
     MyCandidates::PostcodePages.call site
     MyCandidates::ElectoratePages.call site
+    MyCandidates::SenatePages.call site
   end
 
   task :popolo => :environment do

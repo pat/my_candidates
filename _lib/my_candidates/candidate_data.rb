@@ -76,7 +76,9 @@ class MyCandidates::CandidateData
   end
 
   def electorates
-    @electorates ||= key_hash json_data('electorates').keys
+    @electorates ||= key_hash(
+      json_data('electorates').keys + MyCandidates::REGIONS.values
+    )
   end
 
   def electorates_to_hashes

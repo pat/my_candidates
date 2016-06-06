@@ -100,7 +100,6 @@ class MyCandidates::AdditionalCandidates
 
   def new_rows
     abc.select do |row|
-      row[:electoratechamber] == 'house' &&
       existing.detect { |known_row| matching_row?(row, known_row) }.nil?
     end
   end

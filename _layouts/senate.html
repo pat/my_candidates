@@ -1,0 +1,68 @@
+---
+layout: default
+---
+<h3>Senate - {{ page.title }}</h3>
+
+{% if page.candidates == empty %}
+<p><strong>Oh no!</strong> There are currently no candidates listed for {{ page.title }}. Perhaps you know at least one of them? Please do <a href="https://docs.google.com/forms/d/1mpS6fpwPAQGciaydUn-l_YyCEosYic3PHbdJf6Cz8gc/viewform">let me know</a> and I'll get this site updated as quickly as possible.</p>
+{% else %}
+<p>{{ page.title }} has the following candidates (listed in alphabetical order):</p>
+
+<ul class="candidates">
+  {% for candidate in page.candidates %}
+  <li class="candidate">
+    <h4>
+      <span class="name">{{ candidate.name }}</span>
+      {% if candidate.party %}
+      <span class="party">({{ candidate.party }})</span>
+      {% endif %}
+    </h4>
+    {% if candidate.twitter or candidate.facebook or candidate.webpage %}
+    <ul class="links">
+    {% if candidate.twitter %}
+      <li class="twitter">
+        <a href="{{ candidate.twitter }}">
+          <img src="/images/twitter.png" />
+          <span>Twitter</span>
+        </a>
+      </li>
+    {% endif %}
+    {% if candidate.facebook %}
+      <li class="facebook">
+        <a href="{{ candidate.facebook }}">
+          <img src="/images/facebook.png" />
+          <span>Facebook</span>
+        </a>
+      </li>
+    {% endif %}
+    {% if candidate.webpage %}
+      <li class="webpage">
+        <a href="{{ candidate.webpage }}">
+          <img src="/images/rss.png" />
+          <span>Webpage</span>
+        </a>
+      </li>
+    {% endif %}
+    </ul>
+    {% endif %}
+    {% if candidate.oa or candidate.tvfy %}
+    <ul class="oa-links">
+      <li>OpenAustralia:</li>
+    {% if candidate.tvfy %}
+      <li class="tvfy">
+        <a href="{{ candidate.tvfy }}">Voting Record</a>
+      </li>
+    {% endif %}
+    {% if candidate.oa %}
+      <li class="oa">
+        <a href="{{ candidate.oa }}">Speeches in Parliament</a>
+      </li>
+    {% endif %}
+    </ul>
+    {% endif %}
+  </li>
+  {% endfor %}
+</ul>
+
+<p>It's quite possible that all of the candidates are not currently listed here - it's an ongoing effort to find all their information. If you know any candidates or details we're missing, please do <a href="https://docs.google.com/forms/d/1mpS6fpwPAQGciaydUn-l_YyCEosYic3PHbdJf6Cz8gc/viewform">let me know</a>.</p>
+{% endif %}
