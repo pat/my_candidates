@@ -35,7 +35,7 @@ class MyCandidates::AdditionalCandidates
     "NAT"  => "National Party of Australia",
     "NCP"  => "Non-Custodial Parents Party (Equal Parenting)",
     "NXT"  => "Nick Xenophon Team",
-    "ODD"  => "Online Direct  Democracy – (Empowering the People!)",
+    "ODD"  => "Online Direct Democracy - (Empowering the People!)",
     "ONP"  => "Pauline Hanson's One Nation",
     "PIR"  => "Pirate Party Australia",
     "PROG" => "Australian Progressives",
