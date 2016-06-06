@@ -36,6 +36,10 @@ namespace :generate do
     File.write '_data/candidates_popolo.json',
       JSON.pretty_generate(MyCandidates::CandidateData.call)
   end
+
+  task :additional => :environment do
+    MyCandidates::AdditionalCandidates.call
+  end
 end
 
 namespace :scrapers do
