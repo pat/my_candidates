@@ -2121,7 +2121,14 @@
       "id": "new_south_wales/australian_greens/lee_rhiannon",
       "name": "Lee Rhiannon",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/lee_rhiannon/new_south_wales",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/new_south_wales/lee_rhiannon",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -2297,7 +2304,14 @@
       "id": "queensland/australian_greens/larissa_waters",
       "name": "Larissa Waters",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/larissa_waters/queensland",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/queensland/larissa_waters",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -2415,7 +2429,14 @@
       "id": "south_australia/australian_greens/sarah_hanson_young",
       "name": "Sarah Hanson-Young",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/sarah_hanson-young/south_australia",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/south_australia/sarah_hanson-young",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -2429,7 +2450,14 @@
       "id": "south_australia/australian_greens/robert_simms",
       "name": "Robert Simms",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/robert_simms/south_australia",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/south_australia/robert_simms",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -2522,7 +2550,14 @@
       "id": "tasmania/australian_greens/nick_mckim",
       "name": "Nick McKim",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/nick_mckim/tasmania",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/tasmania/nick_mckim",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -2536,7 +2571,14 @@
       "id": "tasmania/australian_greens/peter_whish_wilson",
       "name": "Peter Whish-Wilson",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/peter_whish-wilson/tasmania",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/tasmania/peter_whish-wilson",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -2554,10 +2596,17 @@
       ]
     },
     {
-      "id": "victoria/australian_greens/richard_dinatale",
-      "name": "Richard DiNatale",
+      "id": "victoria/australian_greens/richard_di_natale",
+      "name": "Richard Di Natale",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/richard_di_natale/victoria",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/victoria/richard_di_natale",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -2571,7 +2620,14 @@
       "id": "victoria/australian_greens/janet_rice",
       "name": "Janet Rice",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/janet_rice/victoria",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/victoria/janet_rice",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -2658,14 +2714,28 @@
       "id": "western_australia/australian_greens/scott_ludlam",
       "name": "Scott Ludlam",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/scott_ludlam/western_australia",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/western_australia/scott_ludlam",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "western_australia/australian_greens/rachel_siewart",
       "name": "Rachel Siewart",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/rachel_siewart/western_australia",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/western_australia/rachel_siewart",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -2760,7 +2830,14 @@
       "id": "australian_capital_territory/australian_labor_party_alp/katy_gallagher",
       "name": "Katy Gallagher",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/katy_gallagher/australian_capital_territory",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/australian_capital_territory/katy_gallagher",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -4688,21 +4765,42 @@
       "id": "new_south_wales/australian_labor_party_alp/doug_cameron",
       "name": "Doug Cameron",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/doug_cameron/new_south_wales",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/new_south_wales/doug_cameron",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "new_south_wales/australian_labor_party_alp/sam_dastyari",
       "name": "Sam Dastyari",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/sam_dastyari/new_south_wales",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/new_south_wales/sam_dastyari",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "new_south_wales/australian_labor_party_alp/jenny_mcallister",
       "name": "Jenny McAllister",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/jenny_mcallister/new_south_wales",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/new_south_wales/jenny_mcallister",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -4716,7 +4814,14 @@
       "id": "new_south_wales/australian_labor_party_alp/deborah_oneill",
       "name": "Deborah O'Neill",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/deborah_o'neill/new_south_wales",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/new_south_wales/deborah_o'neill",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -4943,14 +5048,28 @@
       "id": "queensland/australian_labor_party_alp/chris_ketter",
       "name": "Chris Ketter",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/chris_ketter/queensland",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/queensland/chris_ketter",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "queensland/australian_labor_party_alp/claire_moore",
       "name": "Claire Moore",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/claire_moore/queensland",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/queensland/claire_moore",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -5141,7 +5260,14 @@
       "id": "south_australia/australian_labor_party_alp/alex_gallacher",
       "name": "Alex Gallacher",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/alex_gallacher/south_australia",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/south_australia/alex_gallacher",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -5155,14 +5281,28 @@
       "id": "south_australia/australian_labor_party_alp/anne_mcewan",
       "name": "Anne McEwan",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/anne_mcewan/south_australia",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/south_australia/anne_mcewan",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "south_australia/australian_labor_party_alp/penny_wong",
       "name": "Penny Wong",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/penny_wong/south_australia",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/south_australia/penny_wong",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -5226,21 +5366,42 @@
       "id": "tasmania/australian_labor_party_alp/catryna_bilyk",
       "name": "Catryna Bilyk",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/catryna_bilyk/tasmania",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/tasmania/catryna_bilyk",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "tasmania/australian_labor_party_alp/carol_brown",
       "name": "Carol Brown",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/carol_brown/tasmania",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/tasmania/carol_brown",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "tasmania/australian_labor_party_alp/helen_polley",
       "name": "Helen Polley",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/helen_polley/tasmania",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/tasmania/helen_polley",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -5254,14 +5415,28 @@
       "id": "tasmania/australian_labor_party_alp/lisa_singh",
       "name": "Lisa Singh",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/lisa_singh/tasmania",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/tasmania/lisa_singh",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "tasmania/australian_labor_party_alp/anne_urquhart",
       "name": "Anne Urquhart",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/anne_urquhart/tasmania",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/tasmania/anne_urquhart",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -5294,21 +5469,42 @@
       "id": "victoria/australian_labor_party_alp/kim_carr",
       "name": "Kim Carr",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/kim_carr/victoria",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/victoria/kim_carr",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "victoria/australian_labor_party_alp/jacinta_collins",
       "name": "Jacinta Collins",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/jacinta_collins/victoria",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/victoria/jacinta_collins",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "victoria/australian_labor_party_alp/stephen_conroy",
       "name": "Stephen Conroy",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/stephen_conroy/victoria",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/victoria/stephen_conroy",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -5322,7 +5518,14 @@
       "id": "victoria/australian_labor_party_alp/gavin_marshall",
       "name": "Gavin Marshall",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/gavin_marshall/victoria",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/victoria/gavin_marshall",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -5477,21 +5680,42 @@
       "id": "western_australia/australian_labor_party_alp/pat_dodson",
       "name": "Pat Dodson",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/pat_dodson/western_australia",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/western_australia/pat_dodson",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "western_australia/australian_labor_party_alp/sue_lines",
       "name": "Sue Lines",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/sue_lines/western_australia",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/western_australia/sue_lines",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "western_australia/australian_labor_party_alp/louise_pratt",
       "name": "Louise Pratt",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/louise_pratt/western_australia",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/western_australia/louise_pratt",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -5512,7 +5736,14 @@
       "id": "western_australia/australian_labor_party_alp/glenn_sterle",
       "name": "Glenn Sterle",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/glenn_sterle/western_australia",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/western_australia/glenn_sterle",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -5695,7 +5926,14 @@
       "id": "victoria/australian_motoring_enthusiast_party/ricky_muir",
       "name": "Ricky Muir",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/ricky_muir/victoria",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/victoria/ricky_muir",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -6367,7 +6605,14 @@
       "id": "northern_territory/country_liberals_northern_territory/nigel_scullion",
       "name": "Nigel Scullion",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/nigel_scullion/northern_territory",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/northern_territory/nigel_scullion",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -6835,7 +7080,14 @@
       "id": "south_australia/family_first_party/bob_day",
       "name": "Bob Day",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/bob_day/south_australia",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/south_australia/bob_day",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -6918,7 +7170,14 @@
       "id": "queensland/glenn_lazarus_team/glenn_lazarus",
       "name": "Glenn Lazarus",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/glenn_lazarus/queensland",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/queensland/glenn_lazarus",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -7023,7 +7282,14 @@
       "id": "tasmania/jacqui_lambie_network/jacqui_lambie",
       "name": "Jacqui Lambie",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/jacqui_lambie/tasmania",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/tasmania/jacqui_lambie",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -7058,7 +7324,14 @@
       "id": "victoria/john_madigans_manufacturing_and_farming_party/john_madigan",
       "name": "John Madigan",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/john_madigan/victoria",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/victoria/john_madigan",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -7156,7 +7429,14 @@
       "id": "new_south_wales/liberal_democratic_party/david_leyonhjelm",
       "name": "David Leyonhjelm",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/david_leyonhjelm/new_south_wales",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/new_south_wales/david_leyonhjelm",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -7256,7 +7536,14 @@
       "id": "australian_capital_territory/liberal_party_of_australia/zed_seselja",
       "name": "Zed Seselja",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/zed_seselja/australian_capital_territory",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/australian_capital_territory/zed_seselja",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -9202,7 +9489,14 @@
       "id": "new_south_wales/liberal_party_of_australia/concetta_fierravanti_wells",
       "name": "Concetta Fierravanti-Wells",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/concetta_fierravanti-wells/new_south_wales",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/new_south_wales/concetta_fierravanti-wells",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -9237,7 +9531,14 @@
       "id": "new_south_wales/liberal_party_of_australia/marise_payne",
       "name": "Marise Payne",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/marise_payne/new_south_wales",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/new_south_wales/marise_payne",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -9251,7 +9552,14 @@
       "id": "new_south_wales/liberal_party_of_australia/arthur_sinodinos",
       "name": "Arthur Sinodinos",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/arthur_sinodinos/new_south_wales",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/new_south_wales/arthur_sinodinos",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -9405,42 +9713,84 @@
       "id": "queensland/liberal_party_of_australia/george_brandis",
       "name": "George Brandis",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/george_brandis/queensland",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/queensland/george_brandis",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "queensland/liberal_party_of_australia/matthew_canavan",
       "name": "Matthew Canavan",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/matthew_canavan/queensland",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/queensland/matthew_canavan",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "queensland/liberal_party_of_australia/joanna_lindgren",
       "name": "Joanna Lindgren",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/joanna_lindgren/queensland",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/queensland/joanna_lindgren",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "queensland/liberal_party_of_australia/ian_macdonald",
       "name": "Ian Macdonald",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/ian_macdonald/queensland",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/queensland/ian_macdonald",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "queensland/liberal_party_of_australia/james_mcgrath",
       "name": "James McGrath",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/james_mcgrath/queensland",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/queensland/james_mcgrath",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "queensland/liberal_party_of_australia/barry_osullivan",
       "name": "Barry O'Sullivan",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/barry_o'sullivan/queensland",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/queensland/barry_o'sullivan",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -9619,28 +9969,56 @@
       "id": "south_australia/liberal_party_of_australia/cory_bernardi",
       "name": "Cory Bernardi",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/cory_bernardi/south_australia",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/south_australia/cory_bernardi",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "south_australia/liberal_party_of_australia/simon_birmingham",
       "name": "Simon Birmingham",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/simon_birmingham/south_australia",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/south_australia/simon_birmingham",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "south_australia/liberal_party_of_australia/sean_edwards",
       "name": "Sean Edwards",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/sean_edwards/south_australia",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/south_australia/sean_edwards",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "south_australia/liberal_party_of_australia/david_fawcett",
       "name": "David Fawcett",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/david_fawcett/south_australia",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/south_australia/david_fawcett",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -9654,7 +10032,14 @@
       "id": "south_australia/liberal_party_of_australia/anne_ruston",
       "name": "Anne Ruston",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/anne_ruston/south_australia",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/south_australia/anne_ruston",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -9753,14 +10138,28 @@
       "id": "tasmania/liberal_party_of_australia/david_bushby",
       "name": "David Bushby",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/david_bushby/tasmania",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/tasmania/david_bushby",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "tasmania/liberal_party_of_australia/richard_colbeck",
       "name": "Richard Colbeck",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/richard_colbeck/tasmania",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/tasmania/richard_colbeck",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -9774,14 +10173,28 @@
       "id": "tasmania/liberal_party_of_australia/eric_abetz",
       "name": "Eric Abetz",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/eric_abetz/tasmania",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/tasmania/eric_abetz",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "tasmania/liberal_party_of_australia/stephen_parry",
       "name": "Stephen Parry",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/stephen_parry/tasmania",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/tasmania/stephen_parry",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -9795,7 +10208,14 @@
       "id": "victoria/liberal_party_of_australia/mitch_fifield",
       "name": "Mitch Fifield",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/mitch_fifield/victoria",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/victoria/mitch_fifield",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -9809,7 +10229,14 @@
       "id": "victoria/liberal_party_of_australia/bridget_mckenzie",
       "name": "Bridget McKenzie",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/bridget_mckenzie/victoria",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/victoria/bridget_mckenzie",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -9823,14 +10250,28 @@
       "id": "victoria/liberal_party_of_australia/james_paterson",
       "name": "James Paterson",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/james_paterson/victoria",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/victoria/james_paterson",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "victoria/liberal_party_of_australia/scott_ryan",
       "name": "Scott Ryan",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/scott_ryan/victoria",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/victoria/scott_ryan",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -9936,21 +10377,42 @@
       "id": "western_australia/liberal_party_of_australia/chris_back",
       "name": "Chris Back",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/chris_back/western_australia",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/western_australia/chris_back",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "western_australia/liberal_party_of_australia/michaelia_cash",
       "name": "Michaelia Cash",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/michaelia_cash/western_australia",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/western_australia/michaelia_cash",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "western_australia/liberal_party_of_australia/mathias_cormann",
       "name": "Mathias Cormann",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/mathias_cormann/western_australia",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/western_australia/mathias_cormann",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -9964,21 +10426,42 @@
       "id": "western_australia/liberal_party_of_australia/david_johnston",
       "name": "David Johnston",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/david_johnston/western_australia",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/western_australia/david_johnston",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "western_australia/liberal_party_of_australia/linda_reynolds",
       "name": "Linda Reynolds",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/linda_reynolds/western_australia",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/western_australia/linda_reynolds",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "western_australia/liberal_party_of_australia/dean_smith",
       "name": "Dean Smith",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/dean_smith/western_australia",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/western_australia/dean_smith",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -10257,14 +10740,28 @@
       "id": "new_south_wales/national_party_of_australia/fiona_nash",
       "name": "Fiona Nash",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/fiona_nash/new_south_wales",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/new_south_wales/fiona_nash",
+          "note": "tvfy"
+        }
       ]
     },
     {
       "id": "new_south_wales/national_party_of_australia/john_williams",
       "name": "John Williams",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/john_williams/new_south_wales",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/new_south_wales/john_williams",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -10537,7 +11034,14 @@
       "id": "south_australia/nick_xenophon_team/nick_xenophon",
       "name": "Nick Xenophon",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/nick_xenophon/south_australia",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/south_australia/nick_xenophon",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -10726,7 +11230,14 @@
       "id": "western_australia/palmer_united_party/dio_wang",
       "name": "Dio Wang",
       "links": [
-
+        {
+          "url": "http://www.openaustralia.org.au/senator/dio_wang/western_australia",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/western_australia/dio_wang",
+          "note": "tvfy"
+        }
       ]
     },
     {
@@ -13886,7 +14397,7 @@
       "on_behalf_of_id": "party/australian_greens"
     },
     {
-      "person_id": "victoria/australian_greens/richard_dinatale",
+      "person_id": "victoria/australian_greens/richard_di_natale",
       "organization_id": "electorate/victoria",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_greens"
