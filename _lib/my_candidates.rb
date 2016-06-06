@@ -9,7 +9,9 @@ module MyCandidates
   #
 end
 
+require 'my_candidates/additional_candidates'
 require 'my_candidates/candidate_data'
+require 'my_candidates/candidates_csv'
 require 'my_candidates/electorates_scraper'
 require 'my_candidates/electorate_scraper'
 require 'my_candidates/parties_scraper'

@@ -1,8 +1,4 @@
 class MyCandidates::CandidateData
-  DOCUMENT_ID = '1PaS7lYTs5pAccFIHImzfStKVFdetjGHuHz54DoOdBP4'
-  SHEET_ID    = 0
-  SHEET_URI   = "https://docs.google.com/spreadsheets/d/#{DOCUMENT_ID}/export?exportFormat=csv&gid=#{SHEET_ID}"
-
   def self.call
     new.call
   end
@@ -69,9 +65,7 @@ class MyCandidates::CandidateData
   end
 
   def sheet_rows
-    @candidates ||= CSV.parse open(SHEET_URI).read,
-      :headers           => :first_row,
-      :header_converters => :symbol
+    @candidates ||= MyCandidates::CandidatesCSV.call
   end
 
   def candidates
