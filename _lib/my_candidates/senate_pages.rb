@@ -33,7 +33,7 @@ class MyCandidates::SenatePages
     region_area = popolo['areas'].detect { |area|
       area['name'] == region
     }
-    popolo['memberships'].select { |membership|
+    candidates = popolo['memberships'].select { |membership|
       membership['organization_id'] == region_area['id']
     }.collect { |membership|
       person = popolo['persons'].detect { |person|
@@ -45,7 +45,7 @@ class MyCandidates::SenatePages
 
       {
         'name'     => person['name'],
-        'party'    => party['name'],
+        'party'    => party['name'] || 'Independent',
         'twitter'  => link_for(person, 'twitter'),
         'facebook' => link_for(person, 'facebook'),
         'webpage'  => link_for(person, 'webpage'),
@@ -53,6 +53,16 @@ class MyCandidates::SenatePages
         'oa'       => link_for(person, 'oa')
       }
     }.sort_by { |hash| hash['name'] }
+
+    parties = candidates.collect { |candidate| candidate['party'] }.uniq.sort
+    parties.collect { |party|
+      {
+        'name'       => party,
+        'candidates' => candidates.select { |candidate|
+          candidate['party'] == party
+        }
+      }
+    }
   end
 
   def frontmatter_for(region, abbreviation)
@@ -60,7 +70,7 @@ class MyCandidates::SenatePages
       'title'         => region,
       'layout'        => 'senate',
       'redirect_from' => ["/senate/#{abbreviation}.html"],
-      'candidates'    => candidates_for(region)
+      'parties'       => candidates_for(region)
     }
   end
 
