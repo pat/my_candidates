@@ -1,5 +1,22 @@
 ---
 layout: default
+regions:
+- name: Australian Capital Territory
+  path: "/senate/australian_capital_territory"
+- name: New South Wales
+  path: "/senate/new_south_wales"
+- name: Northern Territory
+  path: "/senate/northern_territory"
+- name: Queensland
+  path: "/senate/queensland"
+- name: South Australia
+  path: "/senate/south_australia"
+- name: Tasmania
+  path: "/senate/tasmania"
+- name: Victoria
+  path: "/senate/victoria"
+- name: Western Australia
+  path: "/senate/western_australia"
 ---
 
 <div class="noscript">
@@ -18,6 +35,15 @@ layout: default
   </form>
 
   <p>Or you can look through <a href="/electorates/">the full list of electorates</a>.</p>
+</div>
+
+<div>
+  <h2>Senate Candidates by State/Territory</h2>
+  <ul>
+  {% for region in page.regions %}
+    <li><a href="{{ region.path }}">{{ region.name }}</a></li>
+  {% endfor %}
+  </ul>
 </div>
 
 <script>
