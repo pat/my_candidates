@@ -7095,7 +7095,10 @@
       "id": "lingiari/country_liberals_northern_territory/tina_macfarlane",
       "name": "Tina MacFarlane",
       "links": [
-
+        {
+          "url": "https://www.facebook.com/MacFarlaneForLingiari/",
+          "note": "facebook"
+        }
       ]
     },
     {
@@ -7109,6 +7112,14 @@
       "id": "northern_territory/country_liberals_northern_territory/nigel_scullion",
       "name": "Nigel Scullion",
       "links": [
+        {
+          "url": "https://www.facebook.com/SenatorNigelScullion",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.nigelscullion.com/",
+          "note": "webpage"
+        },
         {
           "url": "http://www.openaustralia.org.au/senator/nigel_scullion/northern_territory",
           "note": "oa"
@@ -8040,6 +8051,18 @@
       "id": "australian_capital_territory/liberal_party_of_australia/zed_seselja",
       "name": "Zed Seselja",
       "links": [
+        {
+          "url": "https://twitter.com/ZedSeselja",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/zed.seselja",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.zedseselja.com.au/",
+          "note": "webpage"
+        },
         {
           "url": "http://www.openaustralia.org.au/senator/zed_seselja/australian_capital_territory",
           "note": "oa"
@@ -9396,6 +9419,10 @@
         {
           "url": "https://www.facebook.com/JPavetto",
           "note": "facebook"
+        },
+        {
+          "url": "http://jonathanpavetto.com.au/",
+          "note": "webpage"
         }
       ]
     },
@@ -10040,6 +10067,18 @@
       "name": "Marise Payne",
       "links": [
         {
+          "url": "https://twitter.com/marisepayne",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/senatormarisepayne",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.marisepayne.com/",
+          "note": "webpage"
+        },
+        {
           "url": "http://www.openaustralia.org.au/senator/marise_payne/new_south_wales",
           "note": "oa"
         },
@@ -10060,6 +10099,18 @@
       "id": "new_south_wales/liberal_party_of_australia/arthur_sinodinos",
       "name": "Arthur Sinodinos",
       "links": [
+        {
+          "url": "https://twitter.com/A_Sinodinos",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/arthur.sinodinos",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.arthursinodinos.com.au/",
+          "note": "webpage"
+        },
         {
           "url": "http://www.openaustralia.org.au/senator/arthur_sinodinos/new_south_wales",
           "note": "oa"
@@ -10262,6 +10313,18 @@
       "name": "Joanna Lindgren",
       "links": [
         {
+          "url": "https://twitter.com/senatorlindgren",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/SenatorLindgren",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.joannalindgren.com.au/",
+          "note": "webpage"
+        },
+        {
           "url": "http://www.openaustralia.org.au/senator/joanna_lindgren/queensland",
           "note": "oa"
         },
@@ -10275,6 +10338,18 @@
       "id": "queensland/liberal_party_of_australia/ian_macdonald",
       "name": "Ian Macdonald",
       "links": [
+        {
+          "url": "https://twitter.com/SenatorMac",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/SenatorIanMacdonald",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.senatormacdonald.org/",
+          "note": "webpage"
+        },
         {
           "url": "http://www.openaustralia.org.au/senator/ian_macdonald/queensland",
           "note": "oa"
@@ -10290,6 +10365,18 @@
       "name": "James McGrath",
       "links": [
         {
+          "url": "https://twitter.com/JamesMcGrathLNP",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/McGrath4Senate",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.jamesmcgrath.com.au/",
+          "note": "webpage"
+        },
+        {
           "url": "http://www.openaustralia.org.au/senator/james_mcgrath/queensland",
           "note": "oa"
         },
@@ -10303,6 +10390,18 @@
       "id": "queensland/liberal_party_of_australia/barry_osullivan",
       "name": "Barry O'Sullivan",
       "links": [
+        {
+          "url": "https://twitter.com/barryoqld",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/BarryOQLD",
+          "note": "facebook"
+        },
+        {
+          "url": "http://barryosullivan.com.au/",
+          "note": "webpage"
+        },
         {
           "url": "http://www.openaustralia.org.au/senator/barry_o'sullivan/queensland",
           "note": "oa"
@@ -10585,13 +10684,28 @@
       "id": "south_australia/liberal_party_of_australia/kerrynne_liddle",
       "name": "Kerrynne Liddle",
       "links": [
-
+        {
+          "url": "https://www.facebook.com/Kerrynne-Liddle-1606513883009154",
+          "note": "facebook"
+        }
       ]
     },
     {
       "id": "south_australia/liberal_party_of_australia/anne_ruston",
       "name": "Anne Ruston",
       "links": [
+        {
+          "url": "https://twitter.com/Anne_Ruston",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/AnneRuston",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.anneruston.com.au/",
+          "note": "webpage"
+        },
         {
           "url": "http://www.openaustralia.org.au/senator/anne_ruston/south_australia",
           "note": "oa"
@@ -10787,6 +10901,14 @@
       "name": "Stephen Parry",
       "links": [
         {
+          "url": "https://www.facebook.com/senator.parry",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.stephenparry.com.au/",
+          "note": "webpage"
+        },
+        {
           "url": "http://www.openaustralia.org.au/senator/stephen_parry/tasmania",
           "note": "oa"
         },
@@ -10800,7 +10922,10 @@
       "id": "tasmania/liberal_party_of_australia/john_tucker",
       "name": "John Tucker",
       "links": [
-
+        {
+          "url": "https://www.facebook.com/TuckerForSenate",
+          "note": "facebook"
+        }
       ]
     },
     {
@@ -10833,20 +10958,13 @@
       "id": "victoria/liberal_party_of_australia/jane_hume",
       "name": "Jane Hume",
       "links": [
-
-      ]
-    },
-    {
-      "id": "victoria/liberal_party_of_australia/bridget_mckenzie",
-      "name": "Bridget McKenzie",
-      "links": [
         {
-          "url": "http://www.openaustralia.org.au/senator/bridget_mckenzie/victoria",
-          "note": "oa"
+          "url": "https://www.facebook.com/JaneHumeForVictorianSenate",
+          "note": "facebook"
         },
         {
-          "url": "https://theyvoteforyou.org.au/people/senate/victoria/bridget_mckenzie",
-          "note": "tvfy"
+          "url": "https://vic.liberal.org.au/JaneHume",
+          "note": "webpage"
         }
       ]
     },
@@ -10854,13 +10972,24 @@
       "id": "victoria/liberal_party_of_australia/karina_okotel",
       "name": "Karina Okotel",
       "links": [
-
+        {
+          "url": "https://www.facebook.com/karina.okotel",
+          "note": "facebook"
+        }
       ]
     },
     {
       "id": "victoria/liberal_party_of_australia/james_paterson",
       "name": "James Paterson",
       "links": [
+        {
+          "url": "https://twitter.com/SenPaterson",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/senatorpaterson",
+          "note": "facebook"
+        },
         {
           "url": "http://www.openaustralia.org.au/senator/james_paterson/victoria",
           "note": "oa"
@@ -10875,6 +11004,18 @@
       "id": "victoria/liberal_party_of_australia/scott_ryan",
       "name": "Scott Ryan",
       "links": [
+        {
+          "url": "https://twitter.com/SenatorRyan",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/SenatorScottRyan",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.scottryan.com.au/",
+          "note": "webpage"
+        },
         {
           "url": "http://www.openaustralia.org.au/senator/scott_ryan/victoria",
           "note": "oa"
@@ -11070,6 +11211,14 @@
       "name": "David Johnston",
       "links": [
         {
+          "url": "https://www.facebook.com/SenatorDavidJohnston",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.senatorjohnston.com.au/",
+          "note": "webpage"
+        },
+        {
           "url": "http://www.openaustralia.org.au/senator/david_johnston/western_australia",
           "note": "oa"
         },
@@ -11084,6 +11233,18 @@
       "name": "Linda Reynolds",
       "links": [
         {
+          "url": "https://twitter.com/lindareynoldswa",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/lindareynoldswa",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.lindareynolds.com.au/",
+          "note": "webpage"
+        },
+        {
           "url": "http://www.openaustralia.org.au/senator/linda_reynolds/western_australia",
           "note": "oa"
         },
@@ -11097,6 +11258,18 @@
       "id": "western_australia/liberal_party_of_australia/dean_smith",
       "name": "Dean Smith",
       "links": [
+        {
+          "url": "https://twitter.com/DeanSmithWA",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/SenatorDeanSmith",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.deansmithwa.com.au/",
+          "note": "webpage"
+        },
         {
           "url": "http://www.openaustralia.org.au/senator/dean_smith/western_australia",
           "note": "oa"
@@ -11154,21 +11327,50 @@
       "id": "ballarat/national_party_of_australia/paul_tatchell",
       "name": "Paul Tatchell",
       "links": [
-
+        {
+          "url": "https://twitter.com/nballarat",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/paultatchellforballarat/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://vic.nationals.org.au/member_paul_tatchell",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "bendigo/national_party_of_australia/andy_maddison",
       "name": "Andy Maddison",
       "links": [
-
+        {
+          "url": "https://www.facebook.com/andymaddisonforbendigo/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://vic.nationals.org.au/member_andy_maddison",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "calare/national_party_of_australia/andrew_gee",
       "name": "Andrew Gee",
       "links": [
-
+        {
+          "url": "https://twitter.com/andrewgeemp",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/andrewgeemp/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://nationals.org.au/team-members/33-andrew-gee/",
+          "note": "webpage"
+        }
       ]
     },
     {
@@ -11249,7 +11451,28 @@
       "id": "durack/national_party_of_australia/lisa_cole",
       "name": "Lisa Cole",
       "links": [
-
+        {
+          "url": "https://www.facebook.com/LisaColeDurack/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://nationals.org.au/team-members/lisa-cole/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
+      "id": "forrest/national_party_of_australia/luke_pilkington",
+      "name": "Luke Pilkington",
+      "links": [
+        {
+          "url": "https://www.facebook.com/Luke-Pilkington-for-Forrest-1079606558767263/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://nationals.org.au/team-members/luke-pilkington/",
+          "note": "webpage"
+        }
       ]
     },
     {
@@ -11289,7 +11512,18 @@
       "id": "indi/national_party_of_australia/marty_corboy",
       "name": "Marty Corboy",
       "links": [
-
+        {
+          "url": "https://twitter.com/martycorboynats",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/marty4indi/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.marty4indi.com.au/",
+          "note": "webpage"
+        }
       ]
     },
     {
@@ -11348,14 +11582,32 @@
       "id": "mcewen/national_party_of_australia/james_anderson",
       "name": "James Anderson",
       "links": [
-
+        {
+          "url": "https://www.facebook.com/jamesandersonformceven/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://vic.nationals.org.au/member_james_anderson",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "murray/national_party_of_australia/damian_drum",
       "name": "Damian Drum",
       "links": [
-
+        {
+          "url": "https://twitter.com/ddrummp",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/damiandrumnats/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.damiandrum.com.au/",
+          "note": "webpage"
+        }
       ]
     },
     {
@@ -11376,13 +11628,32 @@
       "id": "new_south_wales/national_party_of_australia/wes_fang",
       "name": "Wes Fang",
       "links": [
-
+        {
+          "url": "https://twitter.com/WesFangNats",
+          "note": "twitter"
+        },
+        {
+          "url": "http://nationals.org.au/team-members/wes-fang/",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "new_south_wales/national_party_of_australia/fiona_nash",
       "name": "Fiona Nash",
       "links": [
+        {
+          "url": "https://twitter.com/senatornash",
+          "note": "twitter"
+        },
+        {
+          "url": "http://www.facebook.com/pages/Fiona-Nash/86298154631",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.fionanash.com.au/",
+          "note": "webpage"
+        },
         {
           "url": "http://www.openaustralia.org.au/senator/fiona_nash/new_south_wales",
           "note": "oa"
@@ -11398,6 +11669,18 @@
       "name": "John Williams",
       "links": [
         {
+          "url": "https://twitter.com/SenatorWacka",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/JohnWilliamsSenatorforNSW",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.johnwilliams.com.au/",
+          "note": "webpage"
+        },
+        {
           "url": "http://www.openaustralia.org.au/senator/john_williams/new_south_wales",
           "note": "oa"
         },
@@ -11408,10 +11691,27 @@
       ]
     },
     {
+      "id": "new_south_wales/national_party_of_australia/fiona_leviny",
+      "name": "Fiona Leviny",
+      "links": [
+        {
+          "url": "http://nationals.org.au/team-members/fiona-leviny/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
       "id": "oconnor/national_party_of_australia/john_hassell",
       "name": "John Hassell",
       "links": [
-
+        {
+          "url": "http://twitter.com/babbinhill",
+          "note": "twitter"
+        },
+        {
+          "url": "http://www.nationalswa.com/johnhassell",
+          "note": "webpage"
+        }
       ]
     },
     {
@@ -11467,10 +11767,35 @@
       ]
     },
     {
+      "id": "pearce/national_party_of_australia/maddison_simmonds",
+      "name": "Maddison Simmonds",
+      "links": [
+        {
+          "url": "https://www.facebook.com/MaddisonSimmondsforPearce/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://nationals.org.au/team-members/maddison-simmonds/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
       "id": "richmond/national_party_of_australia/matthew_fraser",
       "name": "Matthew Fraser",
       "links": [
-
+        {
+          "url": "https://twitter.com/_mjfraser",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/MatthewFraserforRichmond/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://nationals.org.au/team-members/31-matthew-fraser/",
+          "note": "webpage"
+        }
       ]
     },
     {
@@ -11481,31 +11806,99 @@
       ]
     },
     {
+      "id": "victoria/national_party_of_australia/bridget_mckenzie",
+      "name": "Bridget McKenzie",
+      "links": [
+        {
+          "url": "http://twitter.com/senbmckenzie",
+          "note": "twitter"
+        },
+        {
+          "url": "http://www.facebook.com/senatormckenzie",
+          "note": "facebook"
+        },
+        {
+          "url": "http://www.bridgetmckenzie.com.au/",
+          "note": "webpage"
+        },
+        {
+          "url": "http://www.openaustralia.org.au/senator/bridget_mckenzie/victoria",
+          "note": "oa"
+        },
+        {
+          "url": "https://theyvoteforyou.org.au/people/senate/victoria/bridget_mckenzie",
+          "note": "tvfy"
+        }
+      ]
+    },
+    {
+      "id": "victoria/national_party_of_australia/rebecca_treloar",
+      "name": "Rebecca Treloar",
+      "links": [
+        {
+          "url": "https://www.facebook.com/Bec4Senate/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://nationals.org.au/team-members/rebecca-treloar/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
       "id": "western_australia/national_party_of_australia/nick_fardell",
       "name": "Nick Fardell",
       "links": [
-
+        {
+          "url": "https://twitter.com/BigNickCan",
+          "note": "twitter"
+        },
+        {
+          "url": "http://www.nationalswa.com/bignickcan",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "western_australia/national_party_of_australia/kado_muir",
       "name": "Kado Muir",
       "links": [
-
+        {
+          "url": "http://twitter.com/kadomuir",
+          "note": "twitter"
+        },
+        {
+          "url": "http://www.nationalswa.com/kadomuir",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "western_australia/national_party_of_australia/elizabeth_re",
       "name": "Elizabeth Re",
       "links": [
-
+        {
+          "url": "http://twitter.com/ElizabethReWA",
+          "note": "twitter"
+        },
+        {
+          "url": "http://www.nationalswa.com/elizabethre",
+          "note": "webpage"
+        }
       ]
     },
     {
       "id": "whitlam/national_party_of_australia/jan_mandelson",
       "name": "Jan Mandelson",
       "links": [
-
+        {
+          "url": "https://www.facebook.com/mandelsonforwhitlam/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://nationals.org.au/team-members/jan-mandelson/",
+          "note": "webpage"
+        }
       ]
     },
     {
@@ -18646,12 +19039,6 @@
       "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
-      "person_id": "victoria/liberal_party_of_australia/bridget_mckenzie",
-      "organization_id": "electorate/victoria",
-      "role": "candidate",
-      "on_behalf_of_id": "party/liberal_party_of_australia"
-    },
-    {
       "person_id": "victoria/liberal_party_of_australia/karina_okotel",
       "organization_id": "electorate/victoria",
       "role": "candidate",
@@ -18802,6 +19189,12 @@
       "on_behalf_of_id": "party/national_party_of_australia"
     },
     {
+      "person_id": "forrest/national_party_of_australia/luke_pilkington",
+      "organization_id": "electorate/forrest",
+      "role": "candidate",
+      "on_behalf_of_id": "party/national_party_of_australia"
+    },
+    {
       "person_id": "flynn/national_party_of_australia/ken_odowd",
       "organization_id": "electorate/flynn",
       "role": "candidate",
@@ -18868,6 +19261,12 @@
       "on_behalf_of_id": "party/national_party_of_australia"
     },
     {
+      "person_id": "new_south_wales/national_party_of_australia/fiona_leviny",
+      "organization_id": "electorate/new_south_wales",
+      "role": "candidate",
+      "on_behalf_of_id": "party/national_party_of_australia"
+    },
+    {
       "person_id": "oconnor/national_party_of_australia/john_hassell",
       "organization_id": "electorate/oconnor",
       "role": "candidate",
@@ -18886,6 +19285,12 @@
       "on_behalf_of_id": "party/national_party_of_australia"
     },
     {
+      "person_id": "pearce/national_party_of_australia/maddison_simmonds",
+      "organization_id": "electorate/pearce",
+      "role": "candidate",
+      "on_behalf_of_id": "party/national_party_of_australia"
+    },
+    {
       "person_id": "richmond/national_party_of_australia/matthew_fraser",
       "organization_id": "electorate/richmond",
       "role": "candidate",
@@ -18894,6 +19299,18 @@
     {
       "person_id": "riverina/national_party_of_australia/michael_mccormack",
       "organization_id": "electorate/riverina",
+      "role": "candidate",
+      "on_behalf_of_id": "party/national_party_of_australia"
+    },
+    {
+      "person_id": "victoria/national_party_of_australia/bridget_mckenzie",
+      "organization_id": "electorate/victoria",
+      "role": "candidate",
+      "on_behalf_of_id": "party/national_party_of_australia"
+    },
+    {
+      "person_id": "victoria/national_party_of_australia/rebecca_treloar",
+      "organization_id": "electorate/victoria",
       "role": "candidate",
       "on_behalf_of_id": "party/national_party_of_australia"
     },
