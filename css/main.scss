@@ -66,6 +66,15 @@ h3 {
   margin: 0;
 }
 
+h3.senate-from-electorate {
+  text-transform: none;
+  margin-bottom: 3em;
+}
+
+h3.senate-from-electorate a {
+  text-transform: uppercase;
+}
+
 header, .content, footer {
   width: 45em;
   max-width: 100%;
