@@ -61,7 +61,7 @@ class MyCandidates::ElectoratePages
 
   def electorates_for(postcode)
     mappings.keys.select { |key|
-      mappings[key].include? postcode
+      mappings[key]['postcodes'].include? postcode
     }
   end
 
@@ -72,6 +72,8 @@ class MyCandidates::ElectoratePages
       'redirect_from' => unique_postcodes_for(electorate).collect { |postcode|
         "/postcodes/#{postcode}.html"
       },
+      'state_name'    => mappings[electorate]['state'],
+      'state_key'     => to_key(mappings[electorate]['state']),
       'candidates'    => candidates_for(electorate)
     }
   end
@@ -90,10 +92,6 @@ class MyCandidates::ElectoratePages
 
   def popolo
     @popolo ||= JSON.parse File.read("_data/candidates_popolo.json")
-  end
-
-  def postcodes
-    mappings.values.flatten.uniq
   end
 
   def site
@@ -122,7 +120,7 @@ class MyCandidates::ElectoratePages
   end
 
   def unique_postcodes_for(electorate)
-    mappings[electorate].select { |postcode|
+    mappings[electorate]['postcodes'].select { |postcode|
       electorates_for(postcode) == [electorate]
     }
   end

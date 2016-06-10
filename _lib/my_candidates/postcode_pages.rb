@@ -28,7 +28,7 @@ class MyCandidates::PostcodePages
 
   def electorates_for(postcode)
     mappings.keys.select { |key|
-      mappings[key].include? postcode
+      mappings[key]['postcodes'].include? postcode
     }
   end
 
@@ -50,7 +50,7 @@ class MyCandidates::PostcodePages
   end
 
   def postcodes
-    mappings.values.flatten.uniq
+    mappings.values.collect { |hash| hash['postcodes'] }.flatten.uniq
   end
 
   def site
