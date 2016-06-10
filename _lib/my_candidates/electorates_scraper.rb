@@ -5,7 +5,10 @@ class MyCandidates::ElectoratesScraper
 
   def call
     electorates.inject({}) do |hash, electorate|
-      hash[electorate] = MyCandidates::ElectorateScraper.call driver, electorate
+      hash[electorate] = {
+        'state'     => state_for(electorate),
+        'postcodes' => MyCandidates::ElectorateScraper.call(driver, electorate)
+      }
       hash
     end
   end
@@ -22,5 +25,12 @@ class MyCandidates::ElectoratesScraper
 
   def electorates
     document.css('.division').collect(&:text)
+  end
+
+  def state_for(electorate)
+    slug = electorate.downcase.gsub(/\s+/, '-').gsub("'", '')
+
+    driver.get "http://www.aec.gov.au/#{slug}"
+    driver.find_elements(:xpath, '//dd').first.text
   end
 end
