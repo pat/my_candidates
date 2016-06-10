@@ -13570,6 +13570,20 @@
       "links": [
 
       ]
+    },
+    {
+      "id": "cowper//rob_oakeshott",
+      "name": "Rob Oakeshott",
+      "links": [
+        {
+          "url": "https://twitter.com/RobOakeshott1",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/Oakeshottforcowper/",
+          "note": "facebook"
+        }
+      ]
     }
   ],
   "organizations": [
@@ -20627,6 +20641,11 @@
     {
       "person_id": "wills//dean_ocallaghan",
       "organization_id": "electorate/wills",
+      "role": "candidate"
+    },
+    {
+      "person_id": "cowper//rob_oakeshott",
+      "organization_id": "electorate/cowper",
       "role": "candidate"
     }
   ],
