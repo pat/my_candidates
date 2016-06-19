@@ -3845,13 +3845,6 @@
       ]
     },
     {
-      "id": "farrer/australian_labor_party_alp/christian_kunde",
-      "name": "Christian Kunde",
-      "links": [
-
-      ]
-    },
-    {
       "id": "fenner/australian_labor_party_alp/andrew_leigh",
       "name": "Andrew Leigh",
       "links": [
@@ -15857,12 +15850,6 @@
     {
       "person_id": "fairfax/australian_labor_party_alp/scott_anderson",
       "organization_id": "electorate/fairfax",
-      "role": "candidate",
-      "on_behalf_of_id": "party/australian_labor_party_alp"
-    },
-    {
-      "person_id": "farrer/australian_labor_party_alp/christian_kunde",
-      "organization_id": "electorate/farrer",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_labor_party_alp"
     },
