@@ -1,6 +1,8 @@
 require 'fileutils'
 
 class MyCandidates::ElectoratePages
+  ABC_PREFIX = 'http://www.abc.net.au/news/federal-election-2016/guide'
+
   def self.call(site = nil)
     new(site).call
   end
@@ -28,6 +30,10 @@ class MyCandidates::ElectoratePages
   end
 
   private
+
+  def abbreviate(electorate)
+    electorate.downcase.gsub(/\W/, '')[0..3]
+  end
 
   def candidates_for(electorate)
     electorate_area = popolo['areas'].detect { |area|
@@ -74,6 +80,7 @@ class MyCandidates::ElectoratePages
       },
       'state_name'    => mappings[electorate]['state'],
       'state_key'     => to_key(mappings[electorate]['state']),
+      'abc'           => "#{ABC_PREFIX}/#{abbreviate(electorate)}/",
       'candidates'    => candidates_for(electorate)
     }
   end
