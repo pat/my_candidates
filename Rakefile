@@ -7,6 +7,13 @@ task :environment do
   require 'my_candidates'
 end
 
+task :console => :environment do
+  Bundler.setup :development
+  require 'pry'
+
+  Pry.start
+end
+
 namespace :generate do
   task :all => ['generate:popolo', 'generate:pages']
 

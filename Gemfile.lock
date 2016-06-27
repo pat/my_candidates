@@ -3,6 +3,7 @@ GEM
   specs:
     childprocess (0.5.6)
       ffi (~> 1.0, >= 1.0.11)
+    coderay (1.1.1)
     colorator (0.1)
     ffi (1.9.10)
     jekyll (3.1.1)
@@ -26,9 +27,14 @@ GEM
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9.7)
     mercenary (0.3.5)
+    method_source (0.8.2)
     mini_portile2 (2.0.0)
     nokogiri (1.6.7.2)
       mini_portile2 (~> 2.0.0.rc2)
+    pry (0.10.3)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
+      slop (~> 3.4)
     rb-fsevent (0.9.7)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
@@ -40,6 +46,7 @@ GEM
       childprocess (~> 0.5)
       rubyzip (~> 1.0)
       websocket (~> 1.0)
+    slop (3.6.0)
     websocket (1.2.2)
 
 PLATFORMS
@@ -49,7 +56,8 @@ DEPENDENCIES
   jekyll
   jekyll-redirect-from
   nokogiri
+  pry
   selenium-webdriver
 
 BUNDLED WITH
-   1.12.1
+   1.12.3
