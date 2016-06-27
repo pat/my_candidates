@@ -267,8 +267,8 @@
       ]
     },
     {
-      "id": "hindmarsh/animal_justice_party/alyssa_liu",
-      "name": "Alyssa Liu",
+      "id": "hindmarsh/animal_justice_party/bin_alyssa_liu",
+      "name": "Bin (Alyssa) Liu",
       "links": [
 
       ]
@@ -456,6 +456,27 @@
       ]
     },
     {
+      "id": "sydney/animal_justice_party/mark_berriman",
+      "name": "Mark Berriman",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "tasmania/animal_justice_party/alison_baker",
+      "name": "Alison Baker",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "tasmania/animal_justice_party/karen_bevis",
+      "name": "Karen Bevis",
+      "links": [
+
+      ]
+    },
+    {
       "id": "victoria/animal_justice_party/jacqui_edgecombe",
       "name": "Jacqui Edgecombe",
       "links": [
@@ -505,8 +526,71 @@
       ]
     },
     {
+      "id": "mcmahon/australia_first_party_nsw_incorporated/victor_waterson",
+      "name": "Victor Waterson",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "solomon/australia_first_party_nsw_incorporated/john_kearney",
+      "name": "John Kearney",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "western_australia/australia_first_party_nsw_incorporated/brian_mcrea",
+      "name": "Brian McRea",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "western_australia/australia_first_party_nsw_incorporated/lyn_vickery",
+      "name": "Lyn Vickery",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "batman/australian_antipaedophile_party/russell_hayward",
+      "name": "Russell Hayward",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "new_south_wales/australian_antipaedophile_party/allan_quartly",
+      "name": "Allan Quartly",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "new_south_wales/australian_antipaedophile_party/ash_rose",
+      "name": "Ash Rose",
+      "links": [
+
+      ]
+    },
+    {
       "id": "northern_territory/australian_antipaedophile_party/marney_macdonald",
       "name": "Marney MacDonald",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "queensland/australian_antipaedophile_party/jo_mccormack",
+      "name": "Jo McCormack",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "queensland/australian_antipaedophile_party/ken_stevens",
+      "name": "Ken Stevens",
       "links": [
 
       ]
@@ -540,6 +624,20 @@
       ]
     },
     {
+      "id": "victoria/australian_antipaedophile_party/josh_gilmore",
+      "name": "Josh Gilmore",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "victoria/australian_antipaedophile_party/david_knight",
+      "name": "David Knight",
+      "links": [
+
+      ]
+    },
+    {
       "id": "western_australia/australian_antipaedophile_party/tamarra_moody",
       "name": "Tamarra Moody",
       "links": [
@@ -568,6 +666,13 @@
       ]
     },
     {
+      "id": "canning/australian_christians/janine_joy_vander_ven",
+      "name": "Janine Joy Vander Ven",
+      "links": [
+
+      ]
+    },
+    {
       "id": "cowan/australian_christians/rex_host",
       "name": "Rex Host",
       "links": [
@@ -582,8 +687,22 @@
       ]
     },
     {
+      "id": "dunkley/australian_christians/jeff_reaney",
+      "name": "Jeff Reaney",
+      "links": [
+
+      ]
+    },
+    {
       "id": "durack/australian_christians/grahame_gould",
       "name": "Grahame Gould",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "forrest/australian_christians/edward_dabrowski",
+      "name": "Edward Dabrowski",
       "links": [
 
       ]
@@ -596,8 +715,22 @@
       ]
     },
     {
+      "id": "hasluck/australian_christians/phil_twiss",
+      "name": "Phil Twiss",
+      "links": [
+
+      ]
+    },
+    {
       "id": "maribyrnong/australian_christians/anthony_oneill",
       "name": "Anthony O'Neill",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "mcmillan/australian_christians/kathleen_ipsen",
+      "name": "Kathleen Ipsen",
       "links": [
 
       ]
@@ -626,6 +759,13 @@
     {
       "id": "stirling/australian_christians/kevin_host",
       "name": "Kevin Host",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "swan/australian_christians/steve_klomp",
+      "name": "Steve Klomp",
       "links": [
 
       ]
@@ -687,6 +827,13 @@
       ]
     },
     {
+      "id": "mcewen/australian_country_party/tracey_andrew",
+      "name": "Tracey Andrew",
+      "links": [
+
+      ]
+    },
+    {
       "id": "murray/australian_country_party/robert_danieli",
       "name": "Robert Danieli",
       "links": [
@@ -710,6 +857,27 @@
     {
       "id": "brisbane/australian_defence_veterans_party/bridget_clinch",
       "name": "Bridget Clinch",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "eden_monaro/australian_defence_veterans_party/don_friend",
+      "name": "Don Friend",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "fadden/australian_defence_veterans_party/sean_macnamara",
+      "name": "Sean Macnamara",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "fisher/australian_defence_veterans_party/jason_burgess",
+      "name": "Jason Burgess",
       "links": [
 
       ]
@@ -814,6 +982,13 @@
           "url": "http://nsw.greens.org.au/person/nsw/philippa-clark",
           "note": "webpage"
         }
+      ]
+    },
+    {
+      "id": "barker/australian_greens/mark_keough",
+      "name": "Mark Keough",
+      "links": [
+
       ]
     },
     {
@@ -1060,6 +1235,13 @@
       ]
     },
     {
+      "id": "capricornia/australian_greens/kate_giamarelos",
+      "name": "Kate Giamarelos",
+      "links": [
+
+      ]
+    },
+    {
       "id": "casey/australian_greens/elissa_sutherland",
       "name": "Elissa Sutherland",
       "links": [
@@ -1198,9 +1380,17 @@
       ]
     },
     {
-      "id": "dawson/australian_greens/jonathon_dykjy",
-      "name": "Jonathon Dykjy",
+      "id": "dawson/australian_greens/jonathon_dykyj",
+      "name": "Jonathon Dykyj",
       "links": [
+        {
+          "url": "https://twitter.com/jonathondykyj",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/Jonathon.Dykyj.Greens/",
+          "note": "facebook"
+        },
         {
           "url": "http://greens.org.au/candidate/qld/dawson",
           "note": "webpage"
@@ -1531,10 +1721,17 @@
       ]
     },
     {
-      "id": "groom/australian_greens/antonio_van_geuns",
-      "name": "Antonio van Geuns",
+      "id": "groom/australian_greens/antonia_van_geuns",
+      "name": "Antonia van Geuns",
       "links": [
-
+        {
+          "url": "https://www.facebook.com/Antonia.Greens/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://greens.org.au/qld/antonia-van-geuns",
+          "note": "webpage"
+        }
       ]
     },
     {
@@ -2186,6 +2383,20 @@
       ]
     },
     {
+      "id": "northern_territory/australian_greens/kathy_bannister",
+      "name": "Kathy Bannister",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "northern_territory/australian_greens/michael_connard",
+      "name": "Michael Connard",
+      "links": [
+
+      ]
+    },
+    {
       "id": "oconnor/australian_greens/giz_watson",
       "name": "Giz Watson",
       "links": [
@@ -2372,6 +2583,10 @@
       "name": "Neil Cotter",
       "links": [
         {
+          "url": "https://www.facebook.com/Neil.Cotter.Greens/",
+          "note": "facebook"
+        },
+        {
           "url": "http://greens.org.au/candidate/qld/rankin",
           "note": "webpage"
         }
@@ -2403,6 +2618,13 @@
           "url": "http://nsw.greens.org.au/person/nsw/dawn-walker",
           "note": "webpage"
         }
+      ]
+    },
+    {
+      "id": "riverina/australian_greens/kevin_poynter",
+      "name": "Kevin Poynter",
+      "links": [
+
       ]
     },
     {
@@ -2822,6 +3044,14 @@
       "id": "warringah/australian_greens/clara_williams_roldan",
       "name": "Clara Williams-Roldan",
       "links": [
+        {
+          "url": "http://twitter.com/WarringahClara/",
+          "note": "twitter"
+        },
+        {
+          "url": "http://facebook.com/Clara4Warringah/",
+          "note": "facebook"
+        },
         {
           "url": "http://nsw.greens.org.au/person/nsw/clara-williams-roldan",
           "note": "webpage"
@@ -3473,10 +3703,13 @@
       ]
     },
     {
-      "id": "canning/australian_labor_party_alp/barrie_winmar",
-      "name": "Barrie Winmar",
+      "id": "canning/australian_labor_party_alp/barry_winmar",
+      "name": "Barry Winmar",
       "links": [
-
+        {
+          "url": "https://www.facebook.com/Barry-Winmar-Labor-for-Canning-140616376145790",
+          "note": "facebook"
+        }
       ]
     },
     {
@@ -3651,8 +3884,8 @@
       ]
     },
     {
-      "id": "cowper/australian_labor_party_alp/damian_woods",
-      "name": "Damian Woods",
+      "id": "cowper/australian_labor_party_alp/damian_wood",
+      "name": "Damian Wood",
       "links": [
 
       ]
@@ -3842,6 +4075,13 @@
           "url": "http://www.fairfaxlabor.com.au",
           "note": "webpage"
         }
+      ]
+    },
+    {
+      "id": "farrer/australian_labor_party_alp/christian_kunde",
+      "name": "Christian Kunde",
+      "links": [
+
       ]
     },
     {
@@ -4960,6 +5200,13 @@
       ]
     },
     {
+      "id": "moore/australian_labor_party_alp/tony_walker",
+      "name": "Tony Walker",
+      "links": [
+
+      ]
+    },
+    {
       "id": "moreton/australian_labor_party_alp/graham_perrett",
       "name": "Graham Perrett",
       "links": [
@@ -4983,6 +5230,13 @@
           "url": "https://theyvoteforyou.org.au/people/representatives/moreton/graham_perrett",
           "note": "tvfy"
         }
+      ]
+    },
+    {
+      "id": "murray/australian_labor_party_alp/alan_john_williams",
+      "name": "Alan John Williams",
+      "links": [
+
       ]
     },
     {
@@ -6301,6 +6555,27 @@
       ]
     },
     {
+      "id": "bowman/australian_liberty_alliance/tony_duncan",
+      "name": "Tony Duncan",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "bradfield/australian_liberty_alliance/peter_kelly",
+      "name": "Peter Kelly",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "curtin/australian_liberty_alliance/david_archibald",
+      "name": "David Archibald",
+      "links": [
+
+      ]
+    },
+    {
       "id": "farrer/australian_liberty_alliance/ron_pike",
       "name": "Ron Pike",
       "links": [
@@ -6308,8 +6583,29 @@
       ]
     },
     {
+      "id": "fisher/australian_liberty_alliance/john_spellman",
+      "name": "John Spellman",
+      "links": [
+
+      ]
+    },
+    {
       "id": "forde/australian_liberty_alliance/shaun_spain",
       "name": "Shaun Spain",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "griffith/australian_liberty_alliance/matt_darragh",
+      "name": "Matt Darragh",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "hinkler/australian_liberty_alliance/robert_owen_windred",
+      "name": "Robert Owen Windred",
       "links": [
 
       ]
@@ -6366,6 +6662,20 @@
     {
       "id": "south_australia/australian_liberty_alliance/wanda_marsh",
       "name": "Wanda Marsh",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "tasmania/australian_liberty_alliance/susan_horwood",
+      "name": "Susan Horwood",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "tasmania/australian_liberty_alliance/tony_robinson",
+      "name": "Tony Robinson",
       "links": [
 
       ]
@@ -6539,6 +6849,20 @@
       ]
     },
     {
+      "id": "south_australia/australian_sex_party/margaret_saunders",
+      "name": "Margaret Saunders",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "sydney/australian_sex_party/rebecca_lanning",
+      "name": "Rebecca Lanning",
+      "links": [
+
+      ]
+    },
+    {
       "id": "tasmania/australian_sex_party/francesca_collins",
       "name": "Francesca Collins",
       "links": [
@@ -6581,6 +6905,13 @@
       ]
     },
     {
+      "id": "australian_capital_territory/christian_democratic_party_fred_nile_group/elizabeth_tadros",
+      "name": "Elizabeth Tadros",
+      "links": [
+
+      ]
+    },
+    {
       "id": "banks/christian_democratic_party_fred_nile_group/greg_bondar",
       "name": "Greg Bondar",
       "links": [
@@ -6590,6 +6921,13 @@
     {
       "id": "barton/christian_democratic_party_fred_nile_group/sonny_susilo",
       "name": "Sonny Susilo",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "bass/christian_democratic_party_fred_nile_group/malcolm_peter_beattie",
+      "name": "Malcolm Peter Beattie",
       "links": [
 
       ]
@@ -6616,6 +6954,13 @@
       ]
     },
     {
+      "id": "braddon/christian_democratic_party_fred_nile_group/graham_hodge",
+      "name": "Graham Hodge",
+      "links": [
+
+      ]
+    },
+    {
       "id": "bradfield/christian_democratic_party_fred_nile_group/chris_vale",
       "name": "Chris Vale",
       "links": [
@@ -6637,8 +6982,8 @@
       ]
     },
     {
-      "id": "cook/christian_democratic_party_fred_nile_group/beth_smith",
-      "name": "Beth Smith",
+      "id": "cook/christian_democratic_party_fred_nile_group/george_capsis",
+      "name": "George Capsis",
       "links": [
 
       ]
@@ -6653,6 +6998,13 @@
     {
       "id": "cunningham/christian_democratic_party_fred_nile_group/michelle_ryan",
       "name": "Michelle Ryan",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "denison/christian_democratic_party_fred_nile_group/amanda_excell",
+      "name": "Amanda Excell",
       "links": [
 
       ]
@@ -6679,8 +7031,15 @@
       ]
     },
     {
-      "id": "fowler/christian_democratic_party_fred_nile_group/don_modarelli",
-      "name": "Don Modarelli",
+      "id": "fowler/christian_democratic_party_fred_nile_group/craig_hall",
+      "name": "Craig Hall",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "franklin/christian_democratic_party_fred_nile_group/george_james_muskett",
+      "name": "George James Muskett",
       "links": [
 
       ]
@@ -6707,6 +7066,13 @@
       ]
     },
     {
+      "id": "hindmarsh/christian_democratic_party_fred_nile_group/marina_william",
+      "name": "Marina William",
+      "links": [
+
+      ]
+    },
+    {
       "id": "hughes/christian_democratic_party_fred_nile_group/michael_caudre",
       "name": "Michael Caudre",
       "links": [
@@ -6728,15 +7094,15 @@
       ]
     },
     {
-      "id": "kingsford_smith/christian_democratic_party_fred_nile_group/shawn_arbeau",
-      "name": "Shawn Arbeau",
+      "id": "kingsford_smith/christian_democratic_party_fred_nile_group/andrew_weatherstone",
+      "name": "Andrew Weatherstone",
       "links": [
 
       ]
     },
     {
-      "id": "lindsay/christian_democratic_party_fred_nile_group/maurice_girotto",
-      "name": "Maurice Girotto",
+      "id": "lindsay/christian_democratic_party_fred_nile_group/warren_wormald",
+      "name": "Warren Wormald",
       "links": [
 
       ]
@@ -6744,6 +7110,13 @@
     {
       "id": "lyne/christian_democratic_party_fred_nile_group/elaine_carter",
       "name": "Elaine Carter",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "lyons/christian_democratic_party_fred_nile_group/gene_mawer",
+      "name": "Gene Mawer",
       "links": [
 
       ]
@@ -6784,8 +7157,8 @@
       ]
     },
     {
-      "id": "new_england/christian_democratic_party_fred_nile_group/archie_lea",
-      "name": "Archie Lea",
+      "id": "new_england/christian_democratic_party_fred_nile_group/stan_colefax",
+      "name": "Stan Colefax",
       "links": [
 
       ]
@@ -6805,8 +7178,22 @@
       ]
     },
     {
-      "id": "north_sydney/christian_democratic_party_fred_nile_group/katherine_hawken",
-      "name": "Katherine Hawken",
+      "id": "north_sydney/christian_democratic_party_fred_nile_group/sharon_martin",
+      "name": "Sharon Martin",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "northern_territory/christian_democratic_party_fred_nile_group/carol_ordish",
+      "name": "Carol Ordish",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "northern_territory/christian_democratic_party_fred_nile_group/john_ordish",
+      "name": "John Ordish",
       "links": [
 
       ]
@@ -6840,6 +7227,13 @@
       ]
     },
     {
+      "id": "port_adelaide/christian_democratic_party_fred_nile_group/jenalie_salt",
+      "name": "Jenalie Salt",
+      "links": [
+
+      ]
+    },
+    {
       "id": "queensland/christian_democratic_party_fred_nile_group/wayne_solomon",
       "name": "Wayne Solomon",
       "links": [
@@ -6847,8 +7241,8 @@
       ]
     },
     {
-      "id": "reid/christian_democratic_party_fred_nile_group/chris_kang",
-      "name": "Chris Kang",
+      "id": "reid/christian_democratic_party_fred_nile_group/ju_chris_kang",
+      "name": "Ju (Chris) Kang",
       "links": [
 
       ]
@@ -6861,8 +7255,8 @@
       ]
     },
     {
-      "id": "riverina/christian_democratic_party_fred_nile_group/phillip_langfield",
-      "name": "Phillip Langfield",
+      "id": "riverina/christian_democratic_party_fred_nile_group/philip_langfield",
+      "name": "Philip Langfield",
       "links": [
 
       ]
@@ -6875,8 +7269,8 @@
       ]
     },
     {
-      "id": "shortland/christian_democratic_party_fred_nile_group/andrew_weatherstone",
-      "name": "Andrew Weatherstone",
+      "id": "shortland/christian_democratic_party_fred_nile_group/morgan_cox",
+      "name": "Morgan Cox",
       "links": [
 
       ]
@@ -6891,6 +7285,41 @@
     {
       "id": "sydney/christian_democratic_party_fred_nile_group/ula_falanga",
       "name": "Ula Falanga",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "tasmania/christian_democratic_party_fred_nile_group/mishka_gora",
+      "name": "Mishka Gora",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "tasmania/christian_democratic_party_fred_nile_group/silvana_nero_nile",
+      "name": "Silvana Nero-Nile",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "victoria/christian_democratic_party_fred_nile_group/stephanie_botros",
+      "name": "Stephanie Botros",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "victoria/christian_democratic_party_fred_nile_group/may_hanna",
+      "name": "May Hanna",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "wakefield/christian_democratic_party_fred_nile_group/ralph_anderson",
+      "name": "Ralph Anderson",
       "links": [
 
       ]
@@ -6917,8 +7346,8 @@
       ]
     },
     {
-      "id": "werriwa/christian_democratic_party_fred_nile_group/john_ramsay",
-      "name": "John Ramsay",
+      "id": "werriwa/christian_democratic_party_fred_nile_group/daniel_edwards",
+      "name": "Daniel Edwards",
       "links": [
 
       ]
@@ -7022,8 +7451,8 @@
       ]
     },
     {
-      "id": "solomon/citizens_electoral_council_of_australia/brigis_mccullough",
-      "name": "Brigis McCullough",
+      "id": "solomon/citizens_electoral_council_of_australia/brigid_mccullough",
+      "name": "Brigid McCullough",
       "links": [
 
       ]
@@ -7131,8 +7560,29 @@
       ]
     },
     {
+      "id": "maranoa/countryminded/luke_arbuckle",
+      "name": "Luke Arbuckle",
+      "links": [
+
+      ]
+    },
+    {
       "id": "new_england/countryminded/david_mailler",
       "name": "David Mailler",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "new_south_wales/countryminded/christopher_buckman",
+      "name": "Christopher Buckman",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "new_south_wales/countryminded/methuen_morgan",
+      "name": "Methuen Morgan",
       "links": [
 
       ]
@@ -7147,6 +7597,34 @@
     {
       "id": "queensland/countryminded/sherrill_stivano",
       "name": "Sherrill Stivano",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "denison/democratic_labour_party_dlp/wayne_williams",
+      "name": "Wayne Williams",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "new_south_wales/democratic_labour_party_dlp/paul_mccormack",
+      "name": "Paul McCormack",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "new_south_wales/democratic_labour_party_dlp/dawn_willis",
+      "name": "Dawn Willis",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "newcastle/democratic_labour_party_dlp/stuart_southwell",
+      "name": "Stuart Southwell",
       "links": [
 
       ]
@@ -7175,6 +7653,62 @@
     {
       "id": "victoria/democratic_labour_party_dlp/stephen_vereker",
       "name": "Stephen Vereker",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "western_australia/democratic_labour_party_dlp/fernando_bove",
+      "name": "Fernando Bove",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "western_australia/democratic_labour_party_dlp/troy_kiernan",
+      "name": "Troy Kiernan",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "corangamite/derryn_hinchs_justice_party/patrice_nelson",
+      "name": "Patrice Nelson",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "dunkley/derryn_hinchs_justice_party/ruth_stanfield",
+      "name": "Ruth Stanfield",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "higgins/derryn_hinchs_justice_party/jessica_tregear",
+      "name": "Jessica Tregear",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "la_trobe/derryn_hinchs_justice_party/julieanne_lynette_doidge",
+      "name": "Julieanne Lynette Doidge",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "lindsay/derryn_hinchs_justice_party/scott_grimley",
+      "name": "Scott Grimley",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "macquarie/derryn_hinchs_justice_party/liz_cooper",
+      "name": "Liz Cooper",
       "links": [
 
       ]
@@ -7264,6 +7798,62 @@
       ]
     },
     {
+      "id": "bruce/drug_law_reform_australia/alan_roncan",
+      "name": "Alan Roncan",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "corangamite/drug_law_reform_australia/courtney_dalton",
+      "name": "Courtney Dalton",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "goldstein/drug_law_reform_australia/lee_kavanagh",
+      "name": "Lee Kavanagh",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "grayndler/drug_law_reform_australia/chris_hindi",
+      "name": "Chris Hindi",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "griffith/drug_law_reform_australia/john_jiggens",
+      "name": "John Jiggens",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "longman/drug_law_reform_australia/frances_mcdonald",
+      "name": "Frances McDonald",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "melbourne/drug_law_reform_australia/matt_riley",
+      "name": "Matt Riley",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "melbourne_ports/drug_law_reform_australia/levi_mckenzie_kirkbright",
+      "name": "Levi McKenzie-Kirkbright",
+      "links": [
+
+      ]
+    },
+    {
       "id": "new_south_wales/drug_law_reform_australia/stacey_dowson",
       "name": "Stacey Dowson",
       "links": [
@@ -7278,8 +7868,43 @@
       ]
     },
     {
+      "id": "newcastle/drug_law_reform_australia/karen_burge",
+      "name": "Karen Burge",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "queensland/drug_law_reform_australia/deb_lynch",
+      "name": "Deb Lynch",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "queensland/drug_law_reform_australia/lorraine_smith",
+      "name": "Lorraine Smith",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "scullin/drug_law_reform_australia/adriana_buccianti",
+      "name": "Adriana Buccianti",
+      "links": [
+
+      ]
+    },
+    {
       "id": "victoria/drug_law_reform_australia/john_sherman",
       "name": "John Sherman",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "wills/drug_law_reform_australia/ash_blackwell",
+      "name": "Ash Blackwell",
       "links": [
 
       ]
@@ -7295,6 +7920,27 @@
       ]
     },
     {
+      "id": "aston/family_first_party/daniel_edward_martin",
+      "name": "Daniel Edward Martin",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "ballarat/family_first_party/graham_howard",
+      "name": "Graham Howard",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "banks/family_first_party/sharon_wu",
+      "name": "Sharon Wu",
+      "links": [
+
+      ]
+    },
+    {
       "id": "barker/family_first_party/yvonne_zeppel",
       "name": "Yvonne Zeppel",
       "links": [
@@ -7305,8 +7951,15 @@
       ]
     },
     {
-      "id": "blair/family_first_party/tracey_hilton",
-      "name": "Tracey Hilton",
+      "id": "bendigo/family_first_party/alan_howard",
+      "name": "Alan Howard",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "blair/family_first_party/geoff_darr",
+      "name": "Geoff Darr",
       "links": [
 
       ]
@@ -7343,8 +7996,29 @@
       ]
     },
     {
+      "id": "bruce/family_first_party/nathan_foggie",
+      "name": "Nathan Foggie",
+      "links": [
+
+      ]
+    },
+    {
       "id": "capricornia/family_first_party/lindsay_temple",
       "name": "Lindsay Temple",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "chisholm/family_first_party/craig_mccracken",
+      "name": "Craig McCracken",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "corangamite/family_first_party/alan_barron",
+      "name": "Alan Barron",
       "links": [
 
       ]
@@ -7357,6 +8031,13 @@
       ]
     },
     {
+      "id": "deakin/family_first_party/gary_john_coombes",
+      "name": "Gary John Coombes",
+      "links": [
+
+      ]
+    },
+    {
       "id": "dickson/family_first_party/ray_hutchinson",
       "name": "Ray Hutchinson",
       "links": [
@@ -7364,8 +8045,22 @@
       ]
     },
     {
+      "id": "dunkley/family_first_party/michael_rathbone",
+      "name": "Michael Rathbone",
+      "links": [
+
+      ]
+    },
+    {
       "id": "fadden/family_first_party/lyn_rees",
       "name": "Lyn Rees",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "fairfax/family_first_party/david_rees",
+      "name": "David Rees",
       "links": [
 
       ]
@@ -7387,6 +8082,27 @@
     {
       "id": "forde/family_first_party/annelise_hellberg",
       "name": "Annelise Hellberg",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "gippsland/family_first_party/brian_heath",
+      "name": "Brian Heath",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "goldstein/family_first_party/trevor_bishop",
+      "name": "Trevor Bishop",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "greenway/family_first_party/rohan_salins",
+      "name": "Rohan Salins",
       "links": [
 
       ]
@@ -7440,8 +8156,29 @@
       ]
     },
     {
-      "id": "kennedy/family_first_party/andrea_campbell",
-      "name": "Andrea Campbell",
+      "id": "holt/family_first_party/neil_bull",
+      "name": "Neil Bull",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "hotham/family_first_party/tatiana_rathbone",
+      "name": "Tatiana Rathbone",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "jagajaga/family_first_party/jessica_ward",
+      "name": "Jessica Ward",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "kennedy/family_first_party/donna_gallehawk",
+      "name": "Donna Gallehawk",
       "links": [
 
       ]
@@ -7457,6 +8194,13 @@
       ]
     },
     {
+      "id": "la_trobe/family_first_party/jeffrey_bartram",
+      "name": "Jeffrey Bartram",
+      "links": [
+
+      ]
+    },
+    {
       "id": "leichhardt/family_first_party/ned_gebadi",
       "name": "Ned Gebadi",
       "links": [
@@ -7466,6 +8210,13 @@
     {
       "id": "lilley/family_first_party/sharan_hall",
       "name": "Sharan Hall",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "lindsay/family_first_party/linda_la_brooy",
+      "name": "Linda La Brooy",
       "links": [
 
       ]
@@ -7505,8 +8256,29 @@
       ]
     },
     {
+      "id": "mcewen/family_first_party/dorothy_lorraine_long",
+      "name": "Dorothy Lorraine Long",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "mcmillan/family_first_party/nathan_harding",
+      "name": "Nathan Harding",
+      "links": [
+
+      ]
+    },
+    {
       "id": "mcpherson/family_first_party/simon_green",
       "name": "Simon Green",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "menzies/family_first_party/david_clark",
+      "name": "David Clark",
       "links": [
 
       ]
@@ -7533,8 +8305,22 @@
       ]
     },
     {
+      "id": "north_sydney/family_first_party/eddy_ku",
+      "name": "Eddy Ku",
+      "links": [
+
+      ]
+    },
+    {
       "id": "oxley/family_first_party/caroline_mccormack",
       "name": "Caroline McCormack",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "parramatta/family_first_party/mikaela_wu",
+      "name": "Mikaela Wu",
       "links": [
 
       ]
@@ -7571,8 +8357,22 @@
       ]
     },
     {
-      "id": "rankin/family_first_party/julie_caroline",
-      "name": "Julie Caroline",
+      "id": "rankin/family_first_party/chris_lawrie",
+      "name": "Chris Lawrie",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "reid/family_first_party/marylou_carter",
+      "name": "Marylou Carter",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "riverina/family_first_party/glenn_orourke",
+      "name": "Glenn O'Rourke",
       "links": [
 
       ]
@@ -7668,8 +8468,15 @@
       ]
     },
     {
-      "id": "dawson/glenn_lazarus_team/michael",
-      "name": "Michael",
+      "id": "dawson/glenn_lazarus_team/michael_hall",
+      "name": "Michael Hall",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "herbert/glenn_lazarus_team/aaron_raffin",
+      "name": "Aaron Raffin",
       "links": [
 
       ]
@@ -7678,6 +8485,18 @@
       "id": "queensland/glenn_lazarus_team/glenn_lazarus",
       "name": "Glenn Lazarus",
       "links": [
+        {
+          "url": "https://twitter.com/SenatorLazarus",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/senatorlazarus",
+          "note": "facebook"
+        },
+        {
+          "url": "http://senatorlazarus.com",
+          "note": "webpage"
+        },
         {
           "url": "http://www.openaustralia.org.au/senator/glenn_lazarus/queensland",
           "note": "oa"
@@ -7698,6 +8517,13 @@
     {
       "id": "queensland/glenn_lazarus_team/kerrod_walters",
       "name": "Kerrod Walters",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "wide_bay/glenn_lazarus_team/jannean_dean",
+      "name": "Jannean Dean",
       "links": [
 
       ]
@@ -7843,6 +8669,27 @@
       ]
     },
     {
+      "id": "capricornia/katters_australian_party/laurel_carter",
+      "name": "Laurel Carter",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "dawson/katters_australian_party/ashley_dodd",
+      "name": "Ashley Dodd",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "flynn/katters_australian_party/richard_love",
+      "name": "Richard Love",
+      "links": [
+
+      ]
+    },
+    {
       "id": "herbert/katters_australian_party/colin_dwyer",
       "name": "Colin Dwyer",
       "links": [
@@ -7879,7 +8726,14 @@
     },
     {
       "id": "moreton/katters_australian_party/shan_ju_lin",
-      "name": "Shan Ju Lin",
+      "name": "Shan-Ju Lin",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "/katters_australian_party/rob_katter",
+      "name": "Rob Katter",
       "links": [
 
       ]
@@ -7887,6 +8741,13 @@
     {
       "id": "new_south_wales/katters_australian_party/tom_harris",
       "name": "Tom Harris",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "oxley/katters_australian_party/stephen_lacaze",
+      "name": "Stephen Lacaze",
       "links": [
 
       ]
@@ -7906,8 +8767,50 @@
       ]
     },
     {
+      "id": "rankin/katters_australian_party/shane_holley",
+      "name": "Shane Holley",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "western_australia/katters_australian_party/susan_hoddinott",
+      "name": "Susan Hoddinott",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "wide_bay/katters_australian_party/barry_cook",
+      "name": "Barry Cook",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "adelaide/liberal_democratic_party/tyrone_lock",
+      "name": "Tyrone Lock",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "aston/liberal_democratic_party/joel_moore",
+      "name": "Joel Moore",
+      "links": [
+
+      ]
+    },
+    {
       "id": "australian_capital_territory/liberal_democratic_party/cawley_hennings",
       "name": "Cawley Hennings",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "australian_capital_territory/liberal_democratic_party/matt_donnelly",
+      "name": "Matt Donnelly",
       "links": [
 
       ]
@@ -7920,6 +8823,13 @@
       ]
     },
     {
+      "id": "braddon/liberal_democratic_party/joshua_boag",
+      "name": "Joshua Boag",
+      "links": [
+
+      ]
+    },
+    {
       "id": "brisbane/liberal_democratic_party/john_humphreys",
       "name": "John Humphreys",
       "links": [
@@ -7927,8 +8837,127 @@
       ]
     },
     {
+      "id": "calare/liberal_democratic_party/glen_davis",
+      "name": "Glen Davis",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "corangamite/liberal_democratic_party/louis_rowe",
+      "name": "Louis Rowe",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "cowan/liberal_democratic_party/neil_hamilton",
+      "name": "Neil Hamilton",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "dickson/liberal_democratic_party/doug_nicholson",
+      "name": "Doug Nicholson",
+      "links": [
+
+      ]
+    },
+    {
       "id": "dunkley/liberal_democratic_party/tim_wilms",
       "name": "Tim Wilms",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "gippsland/liberal_democratic_party/ben_buckley",
+      "name": "Ben Buckley",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "greenway/liberal_democratic_party/timothy_mak",
+      "name": "Timothy Mak",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "griffith/liberal_democratic_party/bronwyn_ablett",
+      "name": "Bronwyn Ablett",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "herbert/liberal_democratic_party/david_harris",
+      "name": "David Harris",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "higgins/liberal_democratic_party/robert_kennedy",
+      "name": "Robert Kennedy",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "indi/liberal_democratic_party/tim_quilty",
+      "name": "Tim Quilty",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "la_trobe/liberal_democratic_party/leslie_hughes",
+      "name": "Leslie Hughes",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "lilley/liberal_democratic_party/simon_james_holmick",
+      "name": "Simon James Holmick",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "macquarie/liberal_democratic_party/olya_shornikov",
+      "name": "Olya Shornikov",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "mayo/liberal_democratic_party/luke_dzivinski",
+      "name": "Luke Dzivinski",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "mcmillan/liberal_democratic_party/jim_mcdonald",
+      "name": "Jim McDonald",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "moreton/liberal_democratic_party/andrew_cooper",
+      "name": "Andrew Cooper",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "new_england/liberal_democratic_party/peter_whelan",
+      "name": "Peter Whelan",
       "links": [
 
       ]
@@ -7948,6 +8977,41 @@
       ]
     },
     {
+      "id": "north_sydney/liberal_democratic_party/daniel_leahy",
+      "name": "Daniel Leahy",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "page/liberal_democratic_party/mark_ellis",
+      "name": "Mark Ellis",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "parramatta/liberal_democratic_party/mark_guest",
+      "name": "Mark Guest",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "perth/liberal_democratic_party/mark_robert_walmsley",
+      "name": "Mark Robert Walmsley",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "petrie/liberal_democratic_party/catherine_buckley",
+      "name": "Catherine Buckley",
+      "links": [
+
+      ]
+    },
+    {
       "id": "queensland/liberal_democratic_party/gabe_buckley",
       "name": "Gabe Buckley",
       "links": [
@@ -7955,8 +9019,29 @@
       ]
     },
     {
+      "id": "rankin/liberal_democratic_party/ric_davies",
+      "name": "Ric Davies",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "robertson/liberal_democratic_party/matthew_craig",
+      "name": "Matthew Craig",
+      "links": [
+
+      ]
+    },
+    {
       "id": "ryan/liberal_democratic_party/sly_gryphon",
       "name": "Sly Gryphon",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "solomon/liberal_democratic_party/robert_dawes",
+      "name": "Robert Dawes",
       "links": [
 
       ]
@@ -7985,6 +9070,13 @@
     {
       "id": "western_australia/liberal_democratic_party/graeme_klass",
       "name": "Graeme Klass",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "wright/liberal_democratic_party/mark_m_stone",
+      "name": "Mark M Stone",
       "links": [
 
       ]
@@ -8252,6 +9344,13 @@
       ]
     },
     {
+      "id": "blaxland/liberal_party_of_australia/felicity_findlay",
+      "name": "Felicity Findlay",
+      "links": [
+
+      ]
+    },
+    {
       "id": "bonner/liberal_party_of_australia/ross_vasta",
       "name": "Ross Vasta",
       "links": [
@@ -8416,6 +9515,13 @@
           "url": "http://osullivanforburt.com/",
           "note": "webpage"
         }
+      ]
+    },
+    {
+      "id": "calwell/liberal_party_of_australia/john_hsu",
+      "name": "John Hsu",
+      "links": [
+
       ]
     },
     {
@@ -8979,6 +10085,13 @@
           "url": "https://theyvoteforyou.org.au/people/representatives/forrest/nola_marino",
           "note": "tvfy"
         }
+      ]
+    },
+    {
+      "id": "fowler/liberal_party_of_australia/adam_farhan",
+      "name": "Adam Farhan",
+      "links": [
+
       ]
     },
     {
@@ -9776,6 +10889,13 @@
       ]
     },
     {
+      "id": "mcmahon/liberal_party_of_australia/george_bilic",
+      "name": "George Bilic",
+      "links": [
+
+      ]
+    },
+    {
       "id": "mcmillan/liberal_party_of_australia/russell_broadbent",
       "name": "Russell Broadbent",
       "links": [
@@ -9828,8 +10948,8 @@
       ]
     },
     {
-      "id": "melbourne/liberal_party_of_australia/philip_liu",
-      "name": "Philip Liu",
+      "id": "melbourne/liberal_party_of_australia/le_philip_liu",
+      "name": "Le (Philip) Liu",
       "links": [
         {
           "url": "https://www.facebook.com/Philip-Liu-Liberal-for-Melbourne-995428290547442",
@@ -11086,6 +12206,13 @@
       ]
     },
     {
+      "id": "watson/liberal_party_of_australia/mohammad_shahe_zaman",
+      "name": "Mohammad Shahe Zaman",
+      "links": [
+
+      ]
+    },
+    {
       "id": "wentworth/liberal_party_of_australia/malcolm_turnbull",
       "name": "Malcolm Turnbull",
       "links": [
@@ -11274,6 +12401,13 @@
       ]
     },
     {
+      "id": "whitlam/liberal_party_of_australia/marcus_hewitt",
+      "name": "Marcus Hewitt",
+      "links": [
+
+      ]
+    },
+    {
       "id": "wide_bay/liberal_party_of_australia/llew_obrien",
       "name": "Llew O'Brien",
       "links": [
@@ -11284,10 +12418,13 @@
       ]
     },
     {
-      "id": "wills/liberal_party_of_australia/kevin_hong",
-      "name": "Kevin Hong",
+      "id": "wills/liberal_party_of_australia/kyung_kevin_hong",
+      "name": "Kyung (Kevin) Hong",
       "links": [
-
+        {
+          "url": "https://www.facebook.com/KevinHongForWills",
+          "note": "facebook"
+        }
       ]
     },
     {
@@ -11364,6 +12501,13 @@
           "url": "http://nationals.org.au/team-members/33-andrew-gee/",
           "note": "webpage"
         }
+      ]
+    },
+    {
+      "id": "canning/national_party_of_australia/jason_turner",
+      "name": "Jason Turner",
+      "links": [
+
       ]
     },
     {
@@ -11455,20 +12599,6 @@
       ]
     },
     {
-      "id": "forrest/national_party_of_australia/luke_pilkington",
-      "name": "Luke Pilkington",
-      "links": [
-        {
-          "url": "https://www.facebook.com/Luke-Pilkington-for-Forrest-1079606558767263/",
-          "note": "facebook"
-        },
-        {
-          "url": "http://nationals.org.au/team-members/luke-pilkington/",
-          "note": "webpage"
-        }
-      ]
-    },
-    {
       "id": "flynn/national_party_of_australia/ken_odowd",
       "name": "Ken O'Dowd",
       "links": [
@@ -11495,8 +12625,29 @@
       ]
     },
     {
+      "id": "forrest/national_party_of_australia/luke_pilkington",
+      "name": "Luke Pilkington",
+      "links": [
+        {
+          "url": "https://www.facebook.com/Luke-Pilkington-for-Forrest-1079606558767263/",
+          "note": "facebook"
+        },
+        {
+          "url": "http://nationals.org.au/team-members/luke-pilkington/",
+          "note": "webpage"
+        }
+      ]
+    },
+    {
       "id": "gippsland/national_party_of_australia/darren_chester",
       "name": "Darren Chester",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "hunter/national_party_of_australia/ruth_rogers",
+      "name": "Ruth Rogers",
       "links": [
 
       ]
@@ -12207,6 +13358,27 @@
       ]
     },
     {
+      "id": "new_south_wales/online_direct_democracy_empowering_the_people/berge_anthony_der_sarkissian",
+      "name": "Berge Anthony Der Sarkissian",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "new_south_wales/online_direct_democracy_empowering_the_people/arthur_john_emmett",
+      "name": "Arthur John Emmett",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "northern_territory/online_direct_democracy_empowering_the_people/tristan_marshall",
+      "name": "Tristan Marshall",
+      "links": [
+
+      ]
+    },
+    {
       "id": "parkes/online_direct_democracy_empowering_the_people/john_ayton",
       "name": "John Ayton",
       "links": [
@@ -12216,6 +13388,13 @@
     {
       "id": "parramatta/online_direct_democracy_empowering_the_people/andrew_driessen",
       "name": "Andrew Driessen",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "perth/online_direct_democracy_empowering_the_people/andrew_david_chambers",
+      "name": "Andrew David Chambers",
       "links": [
 
       ]
@@ -12249,8 +13428,78 @@
       ]
     },
     {
+      "id": "herbert/palmer_united_party/martin_brewster",
+      "name": "Martin Brewster",
+      "links": [
+
+      ]
+    },
+    {
       "id": "new_south_wales/palmer_united_party/suellen_wrightson",
       "name": "Suellen Wrightson",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "queensland/palmer_united_party/craig_gunnis",
+      "name": "Craig Gunnis",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "queensland/palmer_united_party/james_mcdonald",
+      "name": "James McDonald",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "south_australia/palmer_united_party/carlo_filingeri",
+      "name": "Carlo Filingeri",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "south_australia/palmer_united_party/kristian_rees",
+      "name": "Kristian Rees",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "tasmania/palmer_united_party/kevin_morgan",
+      "name": "Kevin Morgan",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "tasmania/palmer_united_party/justin_leigh_stringer",
+      "name": "Justin Leigh Stringer",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "tasmania/palmer_united_party/quentin_von_stieglitz",
+      "name": "Quentin Von Stieglitz",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "victoria/palmer_united_party/cameron_hickey",
+      "name": "Cameron Hickey",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "victoria/palmer_united_party/catriona_cecilia_thoolen",
+      "name": "Catriona Cecilia Thoolen",
       "links": [
 
       ]
@@ -12298,8 +13547,15 @@
       ]
     },
     {
-      "id": "herbert//jeff_virgo",
-      "name": "Jeff Virgo",
+      "id": "flynn//phil_baker",
+      "name": "Phil Baker",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "herbert//geoff_virgo",
+      "name": "Geoff Virgo",
       "links": [
 
       ]
@@ -12307,6 +13563,20 @@
     {
       "id": "hinkler//damian_huxham",
       "name": "Damian Huxham",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "leichhardt//peter_leonard_rogers",
+      "name": "Peter Leonard Rogers",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "longman//michelle_pedersen",
+      "name": "Michelle Pedersen",
       "links": [
 
       ]
@@ -12335,6 +13605,13 @@
     {
       "id": "oxley//brad_trussell",
       "name": "Brad Trussell",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "paterson//graham_burston",
+      "name": "Graham Burston",
       "links": [
 
       ]
@@ -12452,6 +13729,13 @@
       ]
     },
     {
+      "id": "bass/renewable_energy_party/roy_ramage",
+      "name": "Roy Ramage",
+      "links": [
+
+      ]
+    },
+    {
       "id": "batman/renewable_energy_party/maurice_oldis",
       "name": "Maurice Oldis",
       "links": [
@@ -12459,8 +13743,36 @@
       ]
     },
     {
+      "id": "braddon/renewable_energy_party/clinton_rice",
+      "name": "Clinton Rice",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "bruce/renewable_energy_party/jill_jarvis_wills",
+      "name": "Jill Jarvis-Wills",
+      "links": [
+
+      ]
+    },
+    {
       "id": "gippsland/renewable_energy_party/peter_gardner",
       "name": "Peter Gardner",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "grayndler/renewable_energy_party/chris_mclachlan",
+      "name": "Chris McLachlan",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "lyons/renewable_energy_party/duncan_livingston",
+      "name": "Duncan Livingston",
       "links": [
 
       ]
@@ -12494,6 +13806,20 @@
       ]
     },
     {
+      "id": "tasmania/renewable_energy_party/sharon_joyce",
+      "name": "Sharon Joyce",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "tasmania/renewable_energy_party/rob_manson",
+      "name": "Rob Manson",
+      "links": [
+
+      ]
+    },
+    {
       "id": "victoria/renewable_energy_party/graham_askey",
       "name": "Graham Askey",
       "links": [
@@ -12522,6 +13848,27 @@
       ]
     },
     {
+      "id": "wills/renewable_energy_party/dougal_gillman",
+      "name": "Dougal Gillman",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "australian_capital_territory/rise_up_australia_party/sandie_oconnor",
+      "name": "Sandie O'Connor",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "australian_capital_territory/rise_up_australia_party/jess_wyatt",
+      "name": "Jess Wyatt",
+      "links": [
+
+      ]
+    },
+    {
       "id": "ballarat/rise_up_australia_party/tran_tran",
       "name": "Tran Tran",
       "links": [
@@ -12529,8 +13876,15 @@
       ]
     },
     {
-      "id": "brand/rise_up_australia_party/phillip_scott",
-      "name": "Phillip Scott",
+      "id": "bendigo/rise_up_australia_party/sandy_caddy",
+      "name": "Sandy Caddy",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "brand/rise_up_australia_party/philip_scott",
+      "name": "Philip Scott",
       "links": [
 
       ]
@@ -12543,8 +13897,50 @@
       ]
     },
     {
+      "id": "chisholm/rise_up_australia_party/melanie_vassiliou",
+      "name": "Melanie Vassiliou",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "corangamite/rise_up_australia_party/nick_steel",
+      "name": "Nick Steel",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "corio/rise_up_australia_party/ash_puvimanasinghe",
+      "name": "Ash Puvimanasinghe",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "dunkley/rise_up_australia_party/lin_tregenza",
+      "name": "Lin Tregenza",
+      "links": [
+
+      ]
+    },
+    {
       "id": "durack/rise_up_australia_party/mitchell_sambell",
       "name": "Mitchell Sambell",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "fisher/rise_up_australia_party/tracey_bell_henselin",
+      "name": "Tracey Bell-Henselin",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "flinders/rise_up_australia_party/yvonne_gentle",
+      "name": "Yvonne Gentle",
       "links": [
 
       ]
@@ -12557,6 +13953,13 @@
       ]
     },
     {
+      "id": "gippsland/rise_up_australia_party/peter_dorian",
+      "name": "Peter Dorian",
+      "links": [
+
+      ]
+    },
+    {
       "id": "hasluck/rise_up_australia_party/henry_barnard",
       "name": "Henry Barnard",
       "links": [
@@ -12564,8 +13967,85 @@
       ]
     },
     {
+      "id": "holt/rise_up_australia_party/colin_robertson",
+      "name": "Colin Robertson",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "hotham/rise_up_australia_party/peter_vassiliou",
+      "name": "Peter Vassiliou",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "indi/rise_up_australia_party/vincent_ferrando",
+      "name": "Vincent Ferrando",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "la_trobe/rise_up_australia_party/margaret_quinn",
+      "name": "Margaret Quinn",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "lalor/rise_up_australia_party/marion_vale",
+      "name": "Marion Vale",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "leichhardt/rise_up_australia_party/john_kelly",
+      "name": "John Kelly",
+      "links": [
+
+      ]
+    },
+    {
       "id": "lingiari/rise_up_australia_party/regina_mccarthy",
       "name": "Regina McCarthy",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "mallee/rise_up_australia_party/tim_middleton",
+      "name": "Tim Middleton",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "maranoa/rise_up_australia_party/sherrilyn_church",
+      "name": "Sherrilyn Church",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "mcewen/rise_up_australia_party/jeff_truscott",
+      "name": "Jeff Truscott",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "mcmillan/rise_up_australia_party/norman_baker",
+      "name": "Norman Baker",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "murray/rise_up_australia_party/yasmin_gunasekera",
+      "name": "Yasmin Gunasekera",
       "links": [
 
       ]
@@ -12606,8 +14086,15 @@
       ]
     },
     {
-      "id": "pearce/rise_up_australia_party/taffy_vuntarde",
-      "name": "Taffy Vuntarde",
+      "id": "paterson/rise_up_australia_party/brian_clare",
+      "name": "Brian Clare",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "pearce/rise_up_australia_party/taffy_samuriwo_vuntarde",
+      "name": "Taffy Samuriwo-Vuntarde",
       "links": [
 
       ]
@@ -12622,6 +14109,13 @@
     {
       "id": "queensland/rise_up_australia_party/paul_taylor",
       "name": "Paul Taylor",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "solomon/rise_up_australia_party/silvija_majetic",
+      "name": "Silvija Majetic",
       "links": [
 
       ]
@@ -12683,6 +14177,13 @@
       ]
     },
     {
+      "id": "greenway/science_party/vivek_singha",
+      "name": "Vivek Singha",
+      "links": [
+
+      ]
+    },
+    {
       "id": "kingsford_smith/science_party/andrea_leong",
       "name": "Andrea Leong",
       "links": [
@@ -12706,6 +14207,13 @@
     {
       "id": "north_sydney/science_party/james_coffey",
       "name": "James Coffey",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "sydney/science_party/tom_geiser",
+      "name": "Tom Geiser",
       "links": [
 
       ]
@@ -12797,6 +14305,20 @@
     {
       "id": "sydney/socialist_alliance/peter_boyle",
       "name": "Peter Boyle",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "victoria/socialist_alliance/lalitha_chelliah",
+      "name": "Lalitha Chelliah",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "victoria/socialist_alliance/tim_gooden",
+      "name": "Tim Gooden",
       "links": [
 
       ]
@@ -12935,6 +14457,13 @@
       ]
     },
     {
+      "id": "petrie/the_arts_party/andrew_charles_tyrrell",
+      "name": "Andrew Charles Tyrrell",
+      "links": [
+
+      ]
+    },
+    {
       "id": "queensland/the_arts_party/neil_fainges",
       "name": "Neil Fainges",
       "links": [
@@ -13068,6 +14597,13 @@
       ]
     },
     {
+      "id": "australian_capital_territory/votefluxorg_upgrade_democracy/michael_gerard_hay",
+      "name": "Michael Gerard Hay",
+      "links": [
+
+      ]
+    },
+    {
       "id": "new_south_wales/votefluxorg_upgrade_democracy/steven_lopez",
       "name": "Steven Lopez",
       "links": [
@@ -13159,8 +14695,85 @@
       ]
     },
     {
+      "id": "australian_capital_territory//david_edwards",
+      "name": "David Edwards",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "australian_capital_territory//john_haydon",
+      "name": "John Haydon",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "australian_capital_territory//denis_mihaljevic",
+      "name": "Denis Mihaljevic",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "australian_capital_territory//martin_tye",
+      "name": "Martin Tye",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "ballarat//bren_eckel",
+      "name": "Bren Eckel",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "banks//bob_spanswick",
+      "name": "Bob Spanswick",
+      "links": [
+
+      ]
+    },
+    {
       "id": "barton//rasmus_torkel",
       "name": "Rasmus Torkel",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "bass//mark_tapsell",
+      "name": "Mark Tapsell",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "batman//geoffrey_cicuto",
+      "name": "Geoffrey Cicuto",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "batman//franco_guardiani",
+      "name": "Franco Guardiani",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "batman//philip_sutton",
+      "name": "Philip Sutton",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "batman//elizabeth_syber",
+      "name": "Elizabeth Syber",
       "links": [
 
       ]
@@ -13180,6 +14793,20 @@
       ]
     },
     {
+      "id": "berowra//mick_gallagher",
+      "name": "Mick Gallagher",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "berowra//roger_woodward",
+      "name": "Roger Woodward",
+      "links": [
+
+      ]
+    },
+    {
       "id": "blair//patricia_petersen",
       "name": "Patricia Petersen",
       "links": [
@@ -13189,6 +14816,20 @@
     {
       "id": "blair//sandy_turner",
       "name": "Sandy Turner",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "blair//jonathan_emms",
+      "name": "Jonathan Emms",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "bonner//jarrod_john_wirth",
+      "name": "Jarrod John Wirth",
       "links": [
 
       ]
@@ -13208,6 +14849,13 @@
       ]
     },
     {
+      "id": "braddon//glen_saltmarsh",
+      "name": "Glen Saltmarsh",
+      "links": [
+
+      ]
+    },
+    {
       "id": "bradfield//christine_berman",
       "name": "Christine Berman",
       "links": [
@@ -13222,8 +14870,36 @@
       ]
     },
     {
+      "id": "burt//ian_blevin",
+      "name": "Ian Blevin",
+      "links": [
+
+      ]
+    },
+    {
       "id": "calare//anthony_craig",
       "name": "Anthony Craig",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "calwell//michael_amon_lakkis",
+      "name": "Michael Amon Lakkis",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "canberra//christopher_darcy_bucknell",
+      "name": "Christopher D'Arcy Bucknell",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "capricornia//ken_murray",
+      "name": "Ken Murray",
       "links": [
 
       ]
@@ -13243,6 +14919,76 @@
       ]
     },
     {
+      "id": "corangamite//michael_lawrence",
+      "name": "Michael Lawrence",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "corio//jeff_moran",
+      "name": "Jeff Moran",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "cowan//jamie_chester",
+      "name": "Jamie Chester",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "cowan//steve_veness",
+      "name": "Steve Veness",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "cowper//rob_oakeshott",
+      "name": "Rob Oakeshott",
+      "links": [
+        {
+          "url": "https://twitter.com/RobOakeshott1",
+          "note": "twitter"
+        },
+        {
+          "url": "https://www.facebook.com/Oakeshottforcowper/",
+          "note": "facebook"
+        }
+      ]
+    },
+    {
+      "id": "cowper//john_arkan",
+      "name": "John Arkan",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "cowper//robert_james_murray_oakeshott",
+      "name": "Robert James Murray Oakeshott",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "curtin//sandra_boulter",
+      "name": "Sandra Boulter",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "dawson//steven_large",
+      "name": "Steven Large",
+      "links": [
+
+      ]
+    },
+    {
       "id": "denison//andrew_wilkie",
       "name": "Andrew Wilkie",
       "links": [
@@ -13257,8 +15003,134 @@
       ]
     },
     {
+      "id": "dickson//thor_prohaska",
+      "name": "Thor Prohaska",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "dobell//paul_baker",
+      "name": "Paul Baker",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "dobell//gregory_f_stephenson",
+      "name": "Gregory F Stephenson",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "dunkley//joseph_toscano",
+      "name": "Joseph Toscano",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "eden_monaro//ray_buckley",
+      "name": "Ray Buckley",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "eden_monaro//daniel_grosmaire",
+      "name": "Daniel Grosmaire",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "eden_monaro//andrew_evan_thaler",
+      "name": "Andrew Evan Thaler",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "fairfax//keith_alexander_campbell",
+      "name": "Keith Alexander Campbell",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "fairfax//robert_dickson",
+      "name": "Robert Dickson",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "farrer//brian_mills",
+      "name": "Brian Mills",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "farrer//trevor_obrien",
+      "name": "Trevor O'Brien",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "fenner//tim_bohm",
+      "name": "Tim Bohm",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "fenner//andrew_woodman",
+      "name": "Andrew Woodman",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "fisher//mike_jessop",
+      "name": "Mike Jessop",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "flinders//shane_w_lewis",
+      "name": "Shane W Lewis",
+      "links": [
+
+      ]
+    },
+    {
       "id": "flynn//nathan_fletcher",
       "name": "Nathan Fletcher",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "flynn//jordan_ryan_puku",
+      "name": "Jordan Ryan Puku",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "flynn//duncan_scott",
+      "name": "Duncan Scott",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "forde//david_wilks",
+      "name": "David Wilks",
       "links": [
 
       ]
@@ -13271,6 +15143,34 @@
       ]
     },
     {
+      "id": "forrest//david_fishlock",
+      "name": "David Fishlock",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "fowler//joaquim_de_lima",
+      "name": "Joaquim De Lima",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "fremantle//mick_connolly",
+      "name": "Mick Connolly",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "gellibrand//david_tran",
+      "name": "David Tran",
+      "links": [
+
+      ]
+    },
+    {
       "id": "gippsland//christine_sindt",
       "name": "Christine Sindt",
       "links": [
@@ -13278,8 +15178,85 @@
       ]
     },
     {
+      "id": "gippsland//cherie_smith",
+      "name": "Cherie Smith",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "grayndler//noel_mcfarlane",
+      "name": "Noel McFarlane",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "greenway//avtar_singh_billu",
+      "name": "Avtar Singh Billu",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "grey//phillip_gourlay",
+      "name": "Phillip Gourlay",
+      "links": [
+
+      ]
+    },
+    {
       "id": "griffith//karel_boele",
       "name": "Karel Boele",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "higgins//rebecca_obrien",
+      "name": "Rebecca O'Brien",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "hinkler//bill_foster",
+      "name": "Bill Foster",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "hume//trevor_anthoney",
+      "name": "Trevor Anthoney",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "hunter//john_harvey",
+      "name": "John Harvey",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "hunter//arjay_rase_martin",
+      "name": "Arjay Rase Martin",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "hunter//cordelia_troy",
+      "name": "Cordelia Troy",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "hunter//john_warham",
+      "name": "John Warham",
       "links": [
 
       ]
@@ -13318,8 +15295,36 @@
       ]
     },
     {
+      "id": "indi//ray_dyer",
+      "name": "Ray Dyer",
+      "links": [
+
+      ]
+    },
+    {
       "id": "kooyong//angelina_zubac",
       "name": "Angelina Zubac",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "la_trobe//david_fent",
+      "name": "David Fent",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "leichhardt//daniel_mccarthy",
+      "name": "Daniel McCarthy",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "leichhardt//michael_newie",
+      "name": "Michael Newie",
       "links": [
 
       ]
@@ -13332,8 +15337,71 @@
       ]
     },
     {
-      "id": "lingiari//rex_granites_japanangka",
-      "name": "Rex Granites Japanangka",
+      "id": "lingiari//chris_righton",
+      "name": "Chris Righton",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "lingiari//braedon_earley",
+      "name": "Braedon Earley",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "lingiari//alfred_gould",
+      "name": "Alfred Gould",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "lingiari//yingiya_mark_guyula",
+      "name": "Yingiya Mark Guyula",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "longman//rob_law",
+      "name": "Rob Law",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "longman//greg_riddell",
+      "name": "Greg Riddell",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "longman//caleb_wells",
+      "name": "Caleb Wells",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "lyne//brad_christensen",
+      "name": "Brad Christensen",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "lyne//rodger_john_riach",
+      "name": "Rodger John Riach",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "lyons//shelley_shay",
+      "name": "Shelley Shay",
       "links": [
 
       ]
@@ -13353,8 +15421,71 @@
       ]
     },
     {
+      "id": "mackellar//julie_hegarty",
+      "name": "Julie Hegarty",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "macquarie//jake_grizelj",
+      "name": "Jake Grizelj",
+      "links": [
+
+      ]
+    },
+    {
       "id": "makin//mark_aldridge",
       "name": "Mark Aldridge",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "maribyrnong//catherine_cumming",
+      "name": "Catherine Cumming",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "mcewen//ross_lee",
+      "name": "Ross Lee",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "mcmahon//fadhel_shamasha",
+      "name": "Fadhel Shamasha",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "mcpherson//rob_jones",
+      "name": "Rob Jones",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "melbourne_ports//peter_holland",
+      "name": "Peter Holland",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "melbourne_ports//john_b_myers",
+      "name": "John B Myers",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "melbourne_ports//henry_von_doussa",
+      "name": "Henry Von Doussa",
       "links": [
 
       ]
@@ -13367,8 +15498,36 @@
       ]
     },
     {
+      "id": "menzies//ramon_robinson",
+      "name": "Ramon Robinson",
+      "links": [
+
+      ]
+    },
+    {
       "id": "murray//nigel_hicks",
       "name": "Nigel Hicks",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "murray//andrew_bock",
+      "name": "Andrew Bock",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "murray//fern_summer",
+      "name": "Fern Summer",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "murray//diane_teasdale",
+      "name": "Diane Teasdale",
       "links": [
 
       ]
@@ -13428,8 +15587,50 @@
       ]
     },
     {
+      "id": "newcastle//rod_holding",
+      "name": "Rod Holding",
+      "links": [
+
+      ]
+    },
+    {
       "id": "north_sydney//stephen_ruff",
       "name": "Stephen Ruff",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "northern_territory//ts_lee",
+      "name": "TS Lee",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "northern_territory//marney_macdonald",
+      "name": "Marney MacDonald",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "northern_territory//maurie_japarta_ryan",
+      "name": "Maurie Japarta Ryan",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "northern_territory//greg_strettles",
+      "name": "Greg Strettles",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "parramatta//mahesh_raj",
+      "name": "Mahesh Raj",
       "links": [
 
       ]
@@ -13463,6 +15664,48 @@
       ]
     },
     {
+      "id": "rankin//jeffrey_dale_hodges",
+      "name": "Jeffrey Dale Hodges",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "riverina//richard_foley",
+      "name": "Richard Foley",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "robertson//van_davy",
+      "name": "Van Davy",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "robertson//lawrie_higgins",
+      "name": "Lawrie Higgins",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "solomon//mark_garner",
+      "name": "Mark Garner",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "solomon//marty_reinhold",
+      "name": "Marty Reinhold",
+      "links": [
+
+      ]
+    },
+    {
       "id": "south_australia//darryl_bothe",
       "name": "Darryl Bothe",
       "links": [
@@ -13472,6 +15715,27 @@
     {
       "id": "south_australia//lyndal_denny",
       "name": "Lyndal Denny",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "stirling//kim_mubarak",
+      "name": "Kim Mubarak",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "sturt//neil_aitchison",
+      "name": "Neil Aitchison",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "sydney//kris_spike",
+      "name": "Kris Spike",
       "links": [
 
       ]
@@ -13512,6 +15776,20 @@
       ]
     },
     {
+      "id": "wannon//bernardine_atkinson",
+      "name": "Bernardine Atkinson",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "wannon//michael_john_mccluskey",
+      "name": "Michael John Mccluskey",
+      "links": [
+
+      ]
+    },
+    {
       "id": "warringah//james_mathison",
       "name": "James Mathison",
       "links": [
@@ -13532,6 +15810,27 @@
     {
       "id": "warringah//david_barrow",
       "name": "David Barrow",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "warringah//tony_backhouse",
+      "name": "Tony Backhouse",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "wentworth//david_allen",
+      "name": "David Allen",
+      "links": [
+
+      ]
+    },
+    {
+      "id": "wentworth//marc_aussie_stone",
+      "name": "Marc Aussie-Stone",
       "links": [
 
       ]
@@ -13565,17 +15864,17 @@
       ]
     },
     {
-      "id": "cowper//rob_oakeshott",
-      "name": "Rob Oakeshott",
+      "id": "wills//francesco_timpano",
+      "name": "Francesco Timpano",
       "links": [
-        {
-          "url": "https://twitter.com/RobOakeshott1",
-          "note": "twitter"
-        },
-        {
-          "url": "https://www.facebook.com/Oakeshottforcowper/",
-          "note": "facebook"
-        }
+
+      ]
+    },
+    {
+      "id": "wright//john_cox",
+      "name": "John Cox",
+      "links": [
+
       ]
     }
   ],
@@ -14096,7 +16395,7 @@
       "on_behalf_of_id": "party/animal_justice_party"
     },
     {
-      "person_id": "hindmarsh/animal_justice_party/alyssa_liu",
+      "person_id": "hindmarsh/animal_justice_party/bin_alyssa_liu",
       "organization_id": "electorate/hindmarsh",
       "role": "candidate",
       "on_behalf_of_id": "party/animal_justice_party"
@@ -14258,6 +16557,24 @@
       "on_behalf_of_id": "party/animal_justice_party"
     },
     {
+      "person_id": "sydney/animal_justice_party/mark_berriman",
+      "organization_id": "electorate/sydney",
+      "role": "candidate",
+      "on_behalf_of_id": "party/animal_justice_party"
+    },
+    {
+      "person_id": "tasmania/animal_justice_party/alison_baker",
+      "organization_id": "electorate/tasmania",
+      "role": "candidate",
+      "on_behalf_of_id": "party/animal_justice_party"
+    },
+    {
+      "person_id": "tasmania/animal_justice_party/karen_bevis",
+      "organization_id": "electorate/tasmania",
+      "role": "candidate",
+      "on_behalf_of_id": "party/animal_justice_party"
+    },
+    {
       "person_id": "victoria/animal_justice_party/jacqui_edgecombe",
       "organization_id": "electorate/victoria",
       "role": "candidate",
@@ -14300,8 +16617,62 @@
       "on_behalf_of_id": "party/australia_first_party_nsw_incorporated"
     },
     {
+      "person_id": "mcmahon/australia_first_party_nsw_incorporated/victor_waterson",
+      "organization_id": "electorate/mcmahon",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australia_first_party_nsw_incorporated"
+    },
+    {
+      "person_id": "solomon/australia_first_party_nsw_incorporated/john_kearney",
+      "organization_id": "electorate/solomon",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australia_first_party_nsw_incorporated"
+    },
+    {
+      "person_id": "western_australia/australia_first_party_nsw_incorporated/brian_mcrea",
+      "organization_id": "electorate/western_australia",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australia_first_party_nsw_incorporated"
+    },
+    {
+      "person_id": "western_australia/australia_first_party_nsw_incorporated/lyn_vickery",
+      "organization_id": "electorate/western_australia",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australia_first_party_nsw_incorporated"
+    },
+    {
+      "person_id": "batman/australian_antipaedophile_party/russell_hayward",
+      "organization_id": "electorate/batman",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_antipaedophile_party"
+    },
+    {
+      "person_id": "new_south_wales/australian_antipaedophile_party/allan_quartly",
+      "organization_id": "electorate/new_south_wales",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_antipaedophile_party"
+    },
+    {
+      "person_id": "new_south_wales/australian_antipaedophile_party/ash_rose",
+      "organization_id": "electorate/new_south_wales",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_antipaedophile_party"
+    },
+    {
       "person_id": "northern_territory/australian_antipaedophile_party/marney_macdonald",
       "organization_id": "electorate/northern_territory",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_antipaedophile_party"
+    },
+    {
+      "person_id": "queensland/australian_antipaedophile_party/jo_mccormack",
+      "organization_id": "electorate/queensland",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_antipaedophile_party"
+    },
+    {
+      "person_id": "queensland/australian_antipaedophile_party/ken_stevens",
+      "organization_id": "electorate/queensland",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_antipaedophile_party"
     },
@@ -14330,6 +16701,18 @@
       "on_behalf_of_id": "party/australian_antipaedophile_party"
     },
     {
+      "person_id": "victoria/australian_antipaedophile_party/josh_gilmore",
+      "organization_id": "electorate/victoria",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_antipaedophile_party"
+    },
+    {
+      "person_id": "victoria/australian_antipaedophile_party/david_knight",
+      "organization_id": "electorate/victoria",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_antipaedophile_party"
+    },
+    {
       "person_id": "western_australia/australian_antipaedophile_party/tamarra_moody",
       "organization_id": "electorate/western_australia",
       "role": "candidate",
@@ -14354,6 +16737,12 @@
       "on_behalf_of_id": "party/australian_christians"
     },
     {
+      "person_id": "canning/australian_christians/janine_joy_vander_ven",
+      "organization_id": "electorate/canning",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_christians"
+    },
+    {
       "person_id": "cowan/australian_christians/rex_host",
       "organization_id": "electorate/cowan",
       "role": "candidate",
@@ -14366,8 +16755,20 @@
       "on_behalf_of_id": "party/australian_christians"
     },
     {
+      "person_id": "dunkley/australian_christians/jeff_reaney",
+      "organization_id": "electorate/dunkley",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_christians"
+    },
+    {
       "person_id": "durack/australian_christians/grahame_gould",
       "organization_id": "electorate/durack",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_christians"
+    },
+    {
+      "person_id": "forrest/australian_christians/edward_dabrowski",
+      "organization_id": "electorate/forrest",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_christians"
     },
@@ -14378,8 +16779,20 @@
       "on_behalf_of_id": "party/australian_christians"
     },
     {
+      "person_id": "hasluck/australian_christians/phil_twiss",
+      "organization_id": "electorate/hasluck",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_christians"
+    },
+    {
       "person_id": "maribyrnong/australian_christians/anthony_oneill",
       "organization_id": "electorate/maribyrnong",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_christians"
+    },
+    {
+      "person_id": "mcmillan/australian_christians/kathleen_ipsen",
+      "organization_id": "electorate/mcmillan",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_christians"
     },
@@ -14404,6 +16817,12 @@
     {
       "person_id": "stirling/australian_christians/kevin_host",
       "organization_id": "electorate/stirling",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_christians"
+    },
+    {
+      "person_id": "swan/australian_christians/steve_klomp",
+      "organization_id": "electorate/swan",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_christians"
     },
@@ -14456,6 +16875,12 @@
       "on_behalf_of_id": "party/australian_country_party"
     },
     {
+      "person_id": "mcewen/australian_country_party/tracey_andrew",
+      "organization_id": "electorate/mcewen",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_country_party"
+    },
+    {
       "person_id": "murray/australian_country_party/robert_danieli",
       "organization_id": "electorate/murray",
       "role": "candidate",
@@ -14476,6 +16901,24 @@
     {
       "person_id": "brisbane/australian_defence_veterans_party/bridget_clinch",
       "organization_id": "electorate/brisbane",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_defence_veterans_party"
+    },
+    {
+      "person_id": "eden_monaro/australian_defence_veterans_party/don_friend",
+      "organization_id": "electorate/eden_monaro",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_defence_veterans_party"
+    },
+    {
+      "person_id": "fadden/australian_defence_veterans_party/sean_macnamara",
+      "organization_id": "electorate/fadden",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_defence_veterans_party"
+    },
+    {
+      "person_id": "fisher/australian_defence_veterans_party/jason_burgess",
+      "organization_id": "electorate/fisher",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_defence_veterans_party"
     },
@@ -14536,6 +16979,12 @@
     {
       "person_id": "banks/australian_greens/philippa_clark",
       "organization_id": "electorate/banks",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "barker/australian_greens/mark_keough",
+      "organization_id": "electorate/barker",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_greens"
     },
@@ -14666,6 +17115,12 @@
       "on_behalf_of_id": "party/australian_greens"
     },
     {
+      "person_id": "capricornia/australian_greens/kate_giamarelos",
+      "organization_id": "electorate/capricornia",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
       "person_id": "casey/australian_greens/elissa_sutherland",
       "organization_id": "electorate/casey",
       "role": "candidate",
@@ -14726,7 +17181,7 @@
       "on_behalf_of_id": "party/australian_greens"
     },
     {
-      "person_id": "dawson/australian_greens/jonathon_dykjy",
+      "person_id": "dawson/australian_greens/jonathon_dykyj",
       "organization_id": "electorate/dawson",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_greens"
@@ -14900,7 +17355,7 @@
       "on_behalf_of_id": "party/australian_greens"
     },
     {
-      "person_id": "groom/australian_greens/antonio_van_geuns",
+      "person_id": "groom/australian_greens/antonia_van_geuns",
       "organization_id": "electorate/groom",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_greens"
@@ -15224,6 +17679,18 @@
       "on_behalf_of_id": "party/australian_greens"
     },
     {
+      "person_id": "northern_territory/australian_greens/kathy_bannister",
+      "organization_id": "electorate/northern_territory",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "northern_territory/australian_greens/michael_connard",
+      "organization_id": "electorate/northern_territory",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
       "person_id": "oconnor/australian_greens/giz_watson",
       "organization_id": "electorate/oconnor",
       "role": "candidate",
@@ -15322,6 +17789,12 @@
     {
       "person_id": "richmond/australian_greens/dawn_walker",
       "organization_id": "electorate/richmond",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_greens"
+    },
+    {
+      "person_id": "riverina/australian_greens/kevin_poynter",
+      "organization_id": "electorate/riverina",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_greens"
     },
@@ -15716,7 +18189,7 @@
       "on_behalf_of_id": "party/australian_labor_party_alp"
     },
     {
-      "person_id": "canning/australian_labor_party_alp/barrie_winmar",
+      "person_id": "canning/australian_labor_party_alp/barry_winmar",
       "organization_id": "electorate/canning",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_labor_party_alp"
@@ -15776,7 +18249,7 @@
       "on_behalf_of_id": "party/australian_labor_party_alp"
     },
     {
-      "person_id": "cowper/australian_labor_party_alp/damian_woods",
+      "person_id": "cowper/australian_labor_party_alp/damian_wood",
       "organization_id": "electorate/cowper",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_labor_party_alp"
@@ -15850,6 +18323,12 @@
     {
       "person_id": "fairfax/australian_labor_party_alp/scott_anderson",
       "organization_id": "electorate/fairfax",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_labor_party_alp"
+    },
+    {
+      "person_id": "farrer/australian_labor_party_alp/christian_kunde",
+      "organization_id": "electorate/farrer",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_labor_party_alp"
     },
@@ -16232,8 +18711,20 @@
       "on_behalf_of_id": "party/australian_labor_party_alp"
     },
     {
+      "person_id": "moore/australian_labor_party_alp/tony_walker",
+      "organization_id": "electorate/moore",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_labor_party_alp"
+    },
+    {
       "person_id": "moreton/australian_labor_party_alp/graham_perrett",
       "organization_id": "electorate/moreton",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_labor_party_alp"
+    },
+    {
+      "person_id": "murray/australian_labor_party_alp/alan_john_williams",
+      "organization_id": "electorate/murray",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_labor_party_alp"
     },
@@ -16712,14 +19203,50 @@
       "on_behalf_of_id": "party/australian_labor_party_alp"
     },
     {
+      "person_id": "bowman/australian_liberty_alliance/tony_duncan",
+      "organization_id": "electorate/bowman",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_liberty_alliance"
+    },
+    {
+      "person_id": "bradfield/australian_liberty_alliance/peter_kelly",
+      "organization_id": "electorate/bradfield",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_liberty_alliance"
+    },
+    {
+      "person_id": "curtin/australian_liberty_alliance/david_archibald",
+      "organization_id": "electorate/curtin",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_liberty_alliance"
+    },
+    {
       "person_id": "farrer/australian_liberty_alliance/ron_pike",
       "organization_id": "electorate/farrer",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_liberty_alliance"
     },
     {
+      "person_id": "fisher/australian_liberty_alliance/john_spellman",
+      "organization_id": "electorate/fisher",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_liberty_alliance"
+    },
+    {
       "person_id": "forde/australian_liberty_alliance/shaun_spain",
       "organization_id": "electorate/forde",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_liberty_alliance"
+    },
+    {
+      "person_id": "griffith/australian_liberty_alliance/matt_darragh",
+      "organization_id": "electorate/griffith",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_liberty_alliance"
+    },
+    {
+      "person_id": "hinkler/australian_liberty_alliance/robert_owen_windred",
+      "organization_id": "electorate/hinkler",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_liberty_alliance"
     },
@@ -16768,6 +19295,18 @@
     {
       "person_id": "south_australia/australian_liberty_alliance/wanda_marsh",
       "organization_id": "electorate/south_australia",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_liberty_alliance"
+    },
+    {
+      "person_id": "tasmania/australian_liberty_alliance/susan_horwood",
+      "organization_id": "electorate/tasmania",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_liberty_alliance"
+    },
+    {
+      "person_id": "tasmania/australian_liberty_alliance/tony_robinson",
+      "organization_id": "electorate/tasmania",
       "role": "candidate",
       "on_behalf_of_id": "party/australian_liberty_alliance"
     },
@@ -16910,6 +19449,18 @@
       "on_behalf_of_id": "party/australian_sex_party"
     },
     {
+      "person_id": "south_australia/australian_sex_party/margaret_saunders",
+      "organization_id": "electorate/south_australia",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_sex_party"
+    },
+    {
+      "person_id": "sydney/australian_sex_party/rebecca_lanning",
+      "organization_id": "electorate/sydney",
+      "role": "candidate",
+      "on_behalf_of_id": "party/australian_sex_party"
+    },
+    {
       "person_id": "tasmania/australian_sex_party/francesca_collins",
       "organization_id": "electorate/tasmania",
       "role": "candidate",
@@ -16946,6 +19497,12 @@
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
     },
     {
+      "person_id": "australian_capital_territory/christian_democratic_party_fred_nile_group/elizabeth_tadros",
+      "organization_id": "electorate/australian_capital_territory",
+      "role": "candidate",
+      "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
+    },
+    {
       "person_id": "banks/christian_democratic_party_fred_nile_group/greg_bondar",
       "organization_id": "electorate/banks",
       "role": "candidate",
@@ -16954,6 +19511,12 @@
     {
       "person_id": "barton/christian_democratic_party_fred_nile_group/sonny_susilo",
       "organization_id": "electorate/barton",
+      "role": "candidate",
+      "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
+    },
+    {
+      "person_id": "bass/christian_democratic_party_fred_nile_group/malcolm_peter_beattie",
+      "organization_id": "electorate/bass",
       "role": "candidate",
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
     },
@@ -16976,6 +19539,12 @@
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
     },
     {
+      "person_id": "braddon/christian_democratic_party_fred_nile_group/graham_hodge",
+      "organization_id": "electorate/braddon",
+      "role": "candidate",
+      "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
+    },
+    {
       "person_id": "bradfield/christian_democratic_party_fred_nile_group/chris_vale",
       "organization_id": "electorate/bradfield",
       "role": "candidate",
@@ -16994,7 +19563,7 @@
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
     },
     {
-      "person_id": "cook/christian_democratic_party_fred_nile_group/beth_smith",
+      "person_id": "cook/christian_democratic_party_fred_nile_group/george_capsis",
       "organization_id": "electorate/cook",
       "role": "candidate",
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
@@ -17008,6 +19577,12 @@
     {
       "person_id": "cunningham/christian_democratic_party_fred_nile_group/michelle_ryan",
       "organization_id": "electorate/cunningham",
+      "role": "candidate",
+      "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
+    },
+    {
+      "person_id": "denison/christian_democratic_party_fred_nile_group/amanda_excell",
+      "organization_id": "electorate/denison",
       "role": "candidate",
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
     },
@@ -17030,8 +19605,14 @@
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
     },
     {
-      "person_id": "fowler/christian_democratic_party_fred_nile_group/don_modarelli",
+      "person_id": "fowler/christian_democratic_party_fred_nile_group/craig_hall",
       "organization_id": "electorate/fowler",
+      "role": "candidate",
+      "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
+    },
+    {
+      "person_id": "franklin/christian_democratic_party_fred_nile_group/george_james_muskett",
+      "organization_id": "electorate/franklin",
       "role": "candidate",
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
     },
@@ -17054,6 +19635,12 @@
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
     },
     {
+      "person_id": "hindmarsh/christian_democratic_party_fred_nile_group/marina_william",
+      "organization_id": "electorate/hindmarsh",
+      "role": "candidate",
+      "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
+    },
+    {
       "person_id": "hughes/christian_democratic_party_fred_nile_group/michael_caudre",
       "organization_id": "electorate/hughes",
       "role": "candidate",
@@ -17072,13 +19659,13 @@
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
     },
     {
-      "person_id": "kingsford_smith/christian_democratic_party_fred_nile_group/shawn_arbeau",
+      "person_id": "kingsford_smith/christian_democratic_party_fred_nile_group/andrew_weatherstone",
       "organization_id": "electorate/kingsford_smith",
       "role": "candidate",
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
     },
     {
-      "person_id": "lindsay/christian_democratic_party_fred_nile_group/maurice_girotto",
+      "person_id": "lindsay/christian_democratic_party_fred_nile_group/warren_wormald",
       "organization_id": "electorate/lindsay",
       "role": "candidate",
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
@@ -17086,6 +19673,12 @@
     {
       "person_id": "lyne/christian_democratic_party_fred_nile_group/elaine_carter",
       "organization_id": "electorate/lyne",
+      "role": "candidate",
+      "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
+    },
+    {
+      "person_id": "lyons/christian_democratic_party_fred_nile_group/gene_mawer",
+      "organization_id": "electorate/lyons",
       "role": "candidate",
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
     },
@@ -17120,7 +19713,7 @@
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
     },
     {
-      "person_id": "new_england/christian_democratic_party_fred_nile_group/archie_lea",
+      "person_id": "new_england/christian_democratic_party_fred_nile_group/stan_colefax",
       "organization_id": "electorate/new_england",
       "role": "candidate",
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
@@ -17138,8 +19731,20 @@
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
     },
     {
-      "person_id": "north_sydney/christian_democratic_party_fred_nile_group/katherine_hawken",
+      "person_id": "north_sydney/christian_democratic_party_fred_nile_group/sharon_martin",
       "organization_id": "electorate/north_sydney",
+      "role": "candidate",
+      "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
+    },
+    {
+      "person_id": "northern_territory/christian_democratic_party_fred_nile_group/carol_ordish",
+      "organization_id": "electorate/northern_territory",
+      "role": "candidate",
+      "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
+    },
+    {
+      "person_id": "northern_territory/christian_democratic_party_fred_nile_group/john_ordish",
+      "organization_id": "electorate/northern_territory",
       "role": "candidate",
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
     },
@@ -17168,13 +19773,19 @@
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
     },
     {
+      "person_id": "port_adelaide/christian_democratic_party_fred_nile_group/jenalie_salt",
+      "organization_id": "electorate/port_adelaide",
+      "role": "candidate",
+      "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
+    },
+    {
       "person_id": "queensland/christian_democratic_party_fred_nile_group/wayne_solomon",
       "organization_id": "electorate/queensland",
       "role": "candidate",
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
     },
     {
-      "person_id": "reid/christian_democratic_party_fred_nile_group/chris_kang",
+      "person_id": "reid/christian_democratic_party_fred_nile_group/ju_chris_kang",
       "organization_id": "electorate/reid",
       "role": "candidate",
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
@@ -17186,7 +19797,7 @@
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
     },
     {
-      "person_id": "riverina/christian_democratic_party_fred_nile_group/phillip_langfield",
+      "person_id": "riverina/christian_democratic_party_fred_nile_group/philip_langfield",
       "organization_id": "electorate/riverina",
       "role": "candidate",
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
@@ -17198,7 +19809,7 @@
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
     },
     {
-      "person_id": "shortland/christian_democratic_party_fred_nile_group/andrew_weatherstone",
+      "person_id": "shortland/christian_democratic_party_fred_nile_group/morgan_cox",
       "organization_id": "electorate/shortland",
       "role": "candidate",
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
@@ -17212,6 +19823,36 @@
     {
       "person_id": "sydney/christian_democratic_party_fred_nile_group/ula_falanga",
       "organization_id": "electorate/sydney",
+      "role": "candidate",
+      "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
+    },
+    {
+      "person_id": "tasmania/christian_democratic_party_fred_nile_group/mishka_gora",
+      "organization_id": "electorate/tasmania",
+      "role": "candidate",
+      "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
+    },
+    {
+      "person_id": "tasmania/christian_democratic_party_fred_nile_group/silvana_nero_nile",
+      "organization_id": "electorate/tasmania",
+      "role": "candidate",
+      "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
+    },
+    {
+      "person_id": "victoria/christian_democratic_party_fred_nile_group/stephanie_botros",
+      "organization_id": "electorate/victoria",
+      "role": "candidate",
+      "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
+    },
+    {
+      "person_id": "victoria/christian_democratic_party_fred_nile_group/may_hanna",
+      "organization_id": "electorate/victoria",
+      "role": "candidate",
+      "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
+    },
+    {
+      "person_id": "wakefield/christian_democratic_party_fred_nile_group/ralph_anderson",
+      "organization_id": "electorate/wakefield",
       "role": "candidate",
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
     },
@@ -17234,7 +19875,7 @@
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
     },
     {
-      "person_id": "werriwa/christian_democratic_party_fred_nile_group/john_ramsay",
+      "person_id": "werriwa/christian_democratic_party_fred_nile_group/daniel_edwards",
       "organization_id": "electorate/werriwa",
       "role": "candidate",
       "on_behalf_of_id": "party/christian_democratic_party_fred_nile_group"
@@ -17324,7 +19965,7 @@
       "on_behalf_of_id": "party/citizens_electoral_council_of_australia"
     },
     {
-      "person_id": "solomon/citizens_electoral_council_of_australia/brigis_mccullough",
+      "person_id": "solomon/citizens_electoral_council_of_australia/brigid_mccullough",
       "organization_id": "electorate/solomon",
       "role": "candidate",
       "on_behalf_of_id": "party/citizens_electoral_council_of_australia"
@@ -17402,8 +20043,26 @@
       "on_behalf_of_id": "party/country_liberals_northern_territory"
     },
     {
+      "person_id": "maranoa/countryminded/luke_arbuckle",
+      "organization_id": "electorate/maranoa",
+      "role": "candidate",
+      "on_behalf_of_id": "party/countryminded"
+    },
+    {
       "person_id": "new_england/countryminded/david_mailler",
       "organization_id": "electorate/new_england",
+      "role": "candidate",
+      "on_behalf_of_id": "party/countryminded"
+    },
+    {
+      "person_id": "new_south_wales/countryminded/christopher_buckman",
+      "organization_id": "electorate/new_south_wales",
+      "role": "candidate",
+      "on_behalf_of_id": "party/countryminded"
+    },
+    {
+      "person_id": "new_south_wales/countryminded/methuen_morgan",
+      "organization_id": "electorate/new_south_wales",
       "role": "candidate",
       "on_behalf_of_id": "party/countryminded"
     },
@@ -17418,6 +20077,30 @@
       "organization_id": "electorate/queensland",
       "role": "candidate",
       "on_behalf_of_id": "party/countryminded"
+    },
+    {
+      "person_id": "denison/democratic_labour_party_dlp/wayne_williams",
+      "organization_id": "electorate/denison",
+      "role": "candidate",
+      "on_behalf_of_id": "party/democratic_labour_party_dlp"
+    },
+    {
+      "person_id": "new_south_wales/democratic_labour_party_dlp/paul_mccormack",
+      "organization_id": "electorate/new_south_wales",
+      "role": "candidate",
+      "on_behalf_of_id": "party/democratic_labour_party_dlp"
+    },
+    {
+      "person_id": "new_south_wales/democratic_labour_party_dlp/dawn_willis",
+      "organization_id": "electorate/new_south_wales",
+      "role": "candidate",
+      "on_behalf_of_id": "party/democratic_labour_party_dlp"
+    },
+    {
+      "person_id": "newcastle/democratic_labour_party_dlp/stuart_southwell",
+      "organization_id": "electorate/newcastle",
+      "role": "candidate",
+      "on_behalf_of_id": "party/democratic_labour_party_dlp"
     },
     {
       "person_id": "queensland/democratic_labour_party_dlp/terri_bell",
@@ -17442,6 +20125,54 @@
       "organization_id": "electorate/victoria",
       "role": "candidate",
       "on_behalf_of_id": "party/democratic_labour_party_dlp"
+    },
+    {
+      "person_id": "western_australia/democratic_labour_party_dlp/fernando_bove",
+      "organization_id": "electorate/western_australia",
+      "role": "candidate",
+      "on_behalf_of_id": "party/democratic_labour_party_dlp"
+    },
+    {
+      "person_id": "western_australia/democratic_labour_party_dlp/troy_kiernan",
+      "organization_id": "electorate/western_australia",
+      "role": "candidate",
+      "on_behalf_of_id": "party/democratic_labour_party_dlp"
+    },
+    {
+      "person_id": "corangamite/derryn_hinchs_justice_party/patrice_nelson",
+      "organization_id": "electorate/corangamite",
+      "role": "candidate",
+      "on_behalf_of_id": "party/derryn_hinchs_justice_party"
+    },
+    {
+      "person_id": "dunkley/derryn_hinchs_justice_party/ruth_stanfield",
+      "organization_id": "electorate/dunkley",
+      "role": "candidate",
+      "on_behalf_of_id": "party/derryn_hinchs_justice_party"
+    },
+    {
+      "person_id": "higgins/derryn_hinchs_justice_party/jessica_tregear",
+      "organization_id": "electorate/higgins",
+      "role": "candidate",
+      "on_behalf_of_id": "party/derryn_hinchs_justice_party"
+    },
+    {
+      "person_id": "la_trobe/derryn_hinchs_justice_party/julieanne_lynette_doidge",
+      "organization_id": "electorate/la_trobe",
+      "role": "candidate",
+      "on_behalf_of_id": "party/derryn_hinchs_justice_party"
+    },
+    {
+      "person_id": "lindsay/derryn_hinchs_justice_party/scott_grimley",
+      "organization_id": "electorate/lindsay",
+      "role": "candidate",
+      "on_behalf_of_id": "party/derryn_hinchs_justice_party"
+    },
+    {
+      "person_id": "macquarie/derryn_hinchs_justice_party/liz_cooper",
+      "organization_id": "electorate/macquarie",
+      "role": "candidate",
+      "on_behalf_of_id": "party/derryn_hinchs_justice_party"
     },
     {
       "person_id": "new_south_wales/derryn_hinchs_justice_party/ken_stevens",
@@ -17516,6 +20247,54 @@
       "on_behalf_of_id": "party/derryn_hinchs_justice_party"
     },
     {
+      "person_id": "bruce/drug_law_reform_australia/alan_roncan",
+      "organization_id": "electorate/bruce",
+      "role": "candidate",
+      "on_behalf_of_id": "party/drug_law_reform_australia"
+    },
+    {
+      "person_id": "corangamite/drug_law_reform_australia/courtney_dalton",
+      "organization_id": "electorate/corangamite",
+      "role": "candidate",
+      "on_behalf_of_id": "party/drug_law_reform_australia"
+    },
+    {
+      "person_id": "goldstein/drug_law_reform_australia/lee_kavanagh",
+      "organization_id": "electorate/goldstein",
+      "role": "candidate",
+      "on_behalf_of_id": "party/drug_law_reform_australia"
+    },
+    {
+      "person_id": "grayndler/drug_law_reform_australia/chris_hindi",
+      "organization_id": "electorate/grayndler",
+      "role": "candidate",
+      "on_behalf_of_id": "party/drug_law_reform_australia"
+    },
+    {
+      "person_id": "griffith/drug_law_reform_australia/john_jiggens",
+      "organization_id": "electorate/griffith",
+      "role": "candidate",
+      "on_behalf_of_id": "party/drug_law_reform_australia"
+    },
+    {
+      "person_id": "longman/drug_law_reform_australia/frances_mcdonald",
+      "organization_id": "electorate/longman",
+      "role": "candidate",
+      "on_behalf_of_id": "party/drug_law_reform_australia"
+    },
+    {
+      "person_id": "melbourne/drug_law_reform_australia/matt_riley",
+      "organization_id": "electorate/melbourne",
+      "role": "candidate",
+      "on_behalf_of_id": "party/drug_law_reform_australia"
+    },
+    {
+      "person_id": "melbourne_ports/drug_law_reform_australia/levi_mckenzie_kirkbright",
+      "organization_id": "electorate/melbourne_ports",
+      "role": "candidate",
+      "on_behalf_of_id": "party/drug_law_reform_australia"
+    },
+    {
       "person_id": "new_south_wales/drug_law_reform_australia/stacey_dowson",
       "organization_id": "electorate/new_south_wales",
       "role": "candidate",
@@ -17528,8 +20307,38 @@
       "on_behalf_of_id": "party/drug_law_reform_australia"
     },
     {
+      "person_id": "newcastle/drug_law_reform_australia/karen_burge",
+      "organization_id": "electorate/newcastle",
+      "role": "candidate",
+      "on_behalf_of_id": "party/drug_law_reform_australia"
+    },
+    {
+      "person_id": "queensland/drug_law_reform_australia/deb_lynch",
+      "organization_id": "electorate/queensland",
+      "role": "candidate",
+      "on_behalf_of_id": "party/drug_law_reform_australia"
+    },
+    {
+      "person_id": "queensland/drug_law_reform_australia/lorraine_smith",
+      "organization_id": "electorate/queensland",
+      "role": "candidate",
+      "on_behalf_of_id": "party/drug_law_reform_australia"
+    },
+    {
+      "person_id": "scullin/drug_law_reform_australia/adriana_buccianti",
+      "organization_id": "electorate/scullin",
+      "role": "candidate",
+      "on_behalf_of_id": "party/drug_law_reform_australia"
+    },
+    {
       "person_id": "victoria/drug_law_reform_australia/john_sherman",
       "organization_id": "electorate/victoria",
+      "role": "candidate",
+      "on_behalf_of_id": "party/drug_law_reform_australia"
+    },
+    {
+      "person_id": "wills/drug_law_reform_australia/ash_blackwell",
+      "organization_id": "electorate/wills",
       "role": "candidate",
       "on_behalf_of_id": "party/drug_law_reform_australia"
     },
@@ -17540,13 +20349,37 @@
       "on_behalf_of_id": "party/family_first_party"
     },
     {
+      "person_id": "aston/family_first_party/daniel_edward_martin",
+      "organization_id": "electorate/aston",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "ballarat/family_first_party/graham_howard",
+      "organization_id": "electorate/ballarat",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "banks/family_first_party/sharon_wu",
+      "organization_id": "electorate/banks",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
       "person_id": "barker/family_first_party/yvonne_zeppel",
       "organization_id": "electorate/barker",
       "role": "candidate",
       "on_behalf_of_id": "party/family_first_party"
     },
     {
-      "person_id": "blair/family_first_party/tracey_hilton",
+      "person_id": "bendigo/family_first_party/alan_howard",
+      "organization_id": "electorate/bendigo",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "blair/family_first_party/geoff_darr",
       "organization_id": "electorate/blair",
       "role": "candidate",
       "on_behalf_of_id": "party/family_first_party"
@@ -17576,8 +20409,26 @@
       "on_behalf_of_id": "party/family_first_party"
     },
     {
+      "person_id": "bruce/family_first_party/nathan_foggie",
+      "organization_id": "electorate/bruce",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
       "person_id": "capricornia/family_first_party/lindsay_temple",
       "organization_id": "electorate/capricornia",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "chisholm/family_first_party/craig_mccracken",
+      "organization_id": "electorate/chisholm",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "corangamite/family_first_party/alan_barron",
+      "organization_id": "electorate/corangamite",
       "role": "candidate",
       "on_behalf_of_id": "party/family_first_party"
     },
@@ -17588,14 +20439,32 @@
       "on_behalf_of_id": "party/family_first_party"
     },
     {
+      "person_id": "deakin/family_first_party/gary_john_coombes",
+      "organization_id": "electorate/deakin",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
       "person_id": "dickson/family_first_party/ray_hutchinson",
       "organization_id": "electorate/dickson",
       "role": "candidate",
       "on_behalf_of_id": "party/family_first_party"
     },
     {
+      "person_id": "dunkley/family_first_party/michael_rathbone",
+      "organization_id": "electorate/dunkley",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
       "person_id": "fadden/family_first_party/lyn_rees",
       "organization_id": "electorate/fadden",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "fairfax/family_first_party/david_rees",
+      "organization_id": "electorate/fairfax",
       "role": "candidate",
       "on_behalf_of_id": "party/family_first_party"
     },
@@ -17614,6 +20483,24 @@
     {
       "person_id": "forde/family_first_party/annelise_hellberg",
       "organization_id": "electorate/forde",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "gippsland/family_first_party/brian_heath",
+      "organization_id": "electorate/gippsland",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "goldstein/family_first_party/trevor_bishop",
+      "organization_id": "electorate/goldstein",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "greenway/family_first_party/rohan_salins",
+      "organization_id": "electorate/greenway",
       "role": "candidate",
       "on_behalf_of_id": "party/family_first_party"
     },
@@ -17654,7 +20541,25 @@
       "on_behalf_of_id": "party/family_first_party"
     },
     {
-      "person_id": "kennedy/family_first_party/andrea_campbell",
+      "person_id": "holt/family_first_party/neil_bull",
+      "organization_id": "electorate/holt",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "hotham/family_first_party/tatiana_rathbone",
+      "organization_id": "electorate/hotham",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "jagajaga/family_first_party/jessica_ward",
+      "organization_id": "electorate/jagajaga",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "kennedy/family_first_party/donna_gallehawk",
       "organization_id": "electorate/kennedy",
       "role": "candidate",
       "on_behalf_of_id": "party/family_first_party"
@@ -17662,6 +20567,12 @@
     {
       "person_id": "kingston/family_first_party/geoff_doecke",
       "organization_id": "electorate/kingston",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "la_trobe/family_first_party/jeffrey_bartram",
+      "organization_id": "electorate/la_trobe",
       "role": "candidate",
       "on_behalf_of_id": "party/family_first_party"
     },
@@ -17674,6 +20585,12 @@
     {
       "person_id": "lilley/family_first_party/sharan_hall",
       "organization_id": "electorate/lilley",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "lindsay/family_first_party/linda_la_brooy",
+      "organization_id": "electorate/lindsay",
       "role": "candidate",
       "on_behalf_of_id": "party/family_first_party"
     },
@@ -17702,8 +20619,26 @@
       "on_behalf_of_id": "party/family_first_party"
     },
     {
+      "person_id": "mcewen/family_first_party/dorothy_lorraine_long",
+      "organization_id": "electorate/mcewen",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "mcmillan/family_first_party/nathan_harding",
+      "organization_id": "electorate/mcmillan",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
       "person_id": "mcpherson/family_first_party/simon_green",
       "organization_id": "electorate/mcpherson",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "menzies/family_first_party/david_clark",
+      "organization_id": "electorate/menzies",
       "role": "candidate",
       "on_behalf_of_id": "party/family_first_party"
     },
@@ -17726,8 +20661,20 @@
       "on_behalf_of_id": "party/family_first_party"
     },
     {
+      "person_id": "north_sydney/family_first_party/eddy_ku",
+      "organization_id": "electorate/north_sydney",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
       "person_id": "oxley/family_first_party/caroline_mccormack",
       "organization_id": "electorate/oxley",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "parramatta/family_first_party/mikaela_wu",
+      "organization_id": "electorate/parramatta",
       "role": "candidate",
       "on_behalf_of_id": "party/family_first_party"
     },
@@ -17756,8 +20703,20 @@
       "on_behalf_of_id": "party/family_first_party"
     },
     {
-      "person_id": "rankin/family_first_party/julie_caroline",
+      "person_id": "rankin/family_first_party/chris_lawrie",
       "organization_id": "electorate/rankin",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "reid/family_first_party/marylou_carter",
+      "organization_id": "electorate/reid",
+      "role": "candidate",
+      "on_behalf_of_id": "party/family_first_party"
+    },
+    {
+      "person_id": "riverina/family_first_party/glenn_orourke",
+      "organization_id": "electorate/riverina",
       "role": "candidate",
       "on_behalf_of_id": "party/family_first_party"
     },
@@ -17828,8 +20787,14 @@
       "on_behalf_of_id": "party/family_first_party"
     },
     {
-      "person_id": "dawson/glenn_lazarus_team/michael",
+      "person_id": "dawson/glenn_lazarus_team/michael_hall",
       "organization_id": "electorate/dawson",
+      "role": "candidate",
+      "on_behalf_of_id": "party/glenn_lazarus_team"
+    },
+    {
+      "person_id": "herbert/glenn_lazarus_team/aaron_raffin",
+      "organization_id": "electorate/herbert",
       "role": "candidate",
       "on_behalf_of_id": "party/glenn_lazarus_team"
     },
@@ -17848,6 +20813,12 @@
     {
       "person_id": "queensland/glenn_lazarus_team/kerrod_walters",
       "organization_id": "electorate/queensland",
+      "role": "candidate",
+      "on_behalf_of_id": "party/glenn_lazarus_team"
+    },
+    {
+      "person_id": "wide_bay/glenn_lazarus_team/jannean_dean",
+      "organization_id": "electorate/wide_bay",
       "role": "candidate",
       "on_behalf_of_id": "party/glenn_lazarus_team"
     },
@@ -17960,6 +20931,24 @@
       "on_behalf_of_id": "party/john_madigans_manufacturing_and_farming_party"
     },
     {
+      "person_id": "capricornia/katters_australian_party/laurel_carter",
+      "organization_id": "electorate/capricornia",
+      "role": "candidate",
+      "on_behalf_of_id": "party/katters_australian_party"
+    },
+    {
+      "person_id": "dawson/katters_australian_party/ashley_dodd",
+      "organization_id": "electorate/dawson",
+      "role": "candidate",
+      "on_behalf_of_id": "party/katters_australian_party"
+    },
+    {
+      "person_id": "flynn/katters_australian_party/richard_love",
+      "organization_id": "electorate/flynn",
+      "role": "candidate",
+      "on_behalf_of_id": "party/katters_australian_party"
+    },
+    {
       "person_id": "herbert/katters_australian_party/colin_dwyer",
       "organization_id": "electorate/herbert",
       "role": "candidate",
@@ -17996,8 +20985,20 @@
       "on_behalf_of_id": "party/katters_australian_party"
     },
     {
+      "person_id": "/katters_australian_party/rob_katter",
+      "organization_id": "electorate/",
+      "role": "candidate",
+      "on_behalf_of_id": "party/katters_australian_party"
+    },
+    {
       "person_id": "new_south_wales/katters_australian_party/tom_harris",
       "organization_id": "electorate/new_south_wales",
+      "role": "candidate",
+      "on_behalf_of_id": "party/katters_australian_party"
+    },
+    {
+      "person_id": "oxley/katters_australian_party/stephen_lacaze",
+      "organization_id": "electorate/oxley",
       "role": "candidate",
       "on_behalf_of_id": "party/katters_australian_party"
     },
@@ -18014,7 +21015,43 @@
       "on_behalf_of_id": "party/katters_australian_party"
     },
     {
+      "person_id": "rankin/katters_australian_party/shane_holley",
+      "organization_id": "electorate/rankin",
+      "role": "candidate",
+      "on_behalf_of_id": "party/katters_australian_party"
+    },
+    {
+      "person_id": "western_australia/katters_australian_party/susan_hoddinott",
+      "organization_id": "electorate/western_australia",
+      "role": "candidate",
+      "on_behalf_of_id": "party/katters_australian_party"
+    },
+    {
+      "person_id": "wide_bay/katters_australian_party/barry_cook",
+      "organization_id": "electorate/wide_bay",
+      "role": "candidate",
+      "on_behalf_of_id": "party/katters_australian_party"
+    },
+    {
+      "person_id": "adelaide/liberal_democratic_party/tyrone_lock",
+      "organization_id": "electorate/adelaide",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
+      "person_id": "aston/liberal_democratic_party/joel_moore",
+      "organization_id": "electorate/aston",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
       "person_id": "australian_capital_territory/liberal_democratic_party/cawley_hennings",
+      "organization_id": "electorate/australian_capital_territory",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
+      "person_id": "australian_capital_territory/liberal_democratic_party/matt_donnelly",
       "organization_id": "electorate/australian_capital_territory",
       "role": "candidate",
       "on_behalf_of_id": "party/liberal_democratic_party"
@@ -18026,8 +21063,38 @@
       "on_behalf_of_id": "party/liberal_democratic_party"
     },
     {
+      "person_id": "braddon/liberal_democratic_party/joshua_boag",
+      "organization_id": "electorate/braddon",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
       "person_id": "brisbane/liberal_democratic_party/john_humphreys",
       "organization_id": "electorate/brisbane",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
+      "person_id": "calare/liberal_democratic_party/glen_davis",
+      "organization_id": "electorate/calare",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
+      "person_id": "corangamite/liberal_democratic_party/louis_rowe",
+      "organization_id": "electorate/corangamite",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
+      "person_id": "cowan/liberal_democratic_party/neil_hamilton",
+      "organization_id": "electorate/cowan",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
+      "person_id": "dickson/liberal_democratic_party/doug_nicholson",
+      "organization_id": "electorate/dickson",
       "role": "candidate",
       "on_behalf_of_id": "party/liberal_democratic_party"
     },
@@ -18038,8 +21105,116 @@
       "on_behalf_of_id": "party/liberal_democratic_party"
     },
     {
+      "person_id": "gippsland/liberal_democratic_party/ben_buckley",
+      "organization_id": "electorate/gippsland",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
+      "person_id": "greenway/liberal_democratic_party/timothy_mak",
+      "organization_id": "electorate/greenway",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
+      "person_id": "griffith/liberal_democratic_party/bronwyn_ablett",
+      "organization_id": "electorate/griffith",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
+      "person_id": "herbert/liberal_democratic_party/david_harris",
+      "organization_id": "electorate/herbert",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
+      "person_id": "higgins/liberal_democratic_party/robert_kennedy",
+      "organization_id": "electorate/higgins",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
+      "person_id": "indi/liberal_democratic_party/tim_quilty",
+      "organization_id": "electorate/indi",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
+      "person_id": "la_trobe/liberal_democratic_party/leslie_hughes",
+      "organization_id": "electorate/la_trobe",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
+      "person_id": "lilley/liberal_democratic_party/simon_james_holmick",
+      "organization_id": "electorate/lilley",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
+      "person_id": "macquarie/liberal_democratic_party/olya_shornikov",
+      "organization_id": "electorate/macquarie",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
+      "person_id": "mayo/liberal_democratic_party/luke_dzivinski",
+      "organization_id": "electorate/mayo",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
+      "person_id": "mcmillan/liberal_democratic_party/jim_mcdonald",
+      "organization_id": "electorate/mcmillan",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
+      "person_id": "moreton/liberal_democratic_party/andrew_cooper",
+      "organization_id": "electorate/moreton",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
+      "person_id": "new_england/liberal_democratic_party/peter_whelan",
+      "organization_id": "electorate/new_england",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
       "person_id": "new_south_wales/liberal_democratic_party/david_leyonhjelm",
       "organization_id": "electorate/new_south_wales",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
+      "person_id": "north_sydney/liberal_democratic_party/daniel_leahy",
+      "organization_id": "electorate/north_sydney",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
+      "person_id": "page/liberal_democratic_party/mark_ellis",
+      "organization_id": "electorate/page",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
+      "person_id": "parramatta/liberal_democratic_party/mark_guest",
+      "organization_id": "electorate/parramatta",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
+      "person_id": "perth/liberal_democratic_party/mark_robert_walmsley",
+      "organization_id": "electorate/perth",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
+      "person_id": "petrie/liberal_democratic_party/catherine_buckley",
+      "organization_id": "electorate/petrie",
       "role": "candidate",
       "on_behalf_of_id": "party/liberal_democratic_party"
     },
@@ -18050,8 +21225,26 @@
       "on_behalf_of_id": "party/liberal_democratic_party"
     },
     {
+      "person_id": "rankin/liberal_democratic_party/ric_davies",
+      "organization_id": "electorate/rankin",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
+      "person_id": "robertson/liberal_democratic_party/matthew_craig",
+      "organization_id": "electorate/robertson",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
       "person_id": "ryan/liberal_democratic_party/sly_gryphon",
       "organization_id": "electorate/ryan",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
+      "person_id": "solomon/liberal_democratic_party/robert_dawes",
+      "organization_id": "electorate/solomon",
       "role": "candidate",
       "on_behalf_of_id": "party/liberal_democratic_party"
     },
@@ -18076,6 +21269,12 @@
     {
       "person_id": "western_australia/liberal_democratic_party/graeme_klass",
       "organization_id": "electorate/western_australia",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_democratic_party"
+    },
+    {
+      "person_id": "wright/liberal_democratic_party/mark_m_stone",
+      "organization_id": "electorate/wright",
       "role": "candidate",
       "on_behalf_of_id": "party/liberal_democratic_party"
     },
@@ -18164,6 +21363,12 @@
       "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
+      "person_id": "blaxland/liberal_party_of_australia/felicity_findlay",
+      "organization_id": "electorate/blaxland",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_party_of_australia"
+    },
+    {
       "person_id": "bonner/liberal_party_of_australia/ross_vasta",
       "organization_id": "electorate/bonner",
       "role": "candidate",
@@ -18214,6 +21419,12 @@
     {
       "person_id": "burt/liberal_party_of_australia/matt_osullivan",
       "organization_id": "electorate/burt",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_party_of_australia"
+    },
+    {
+      "person_id": "calwell/liberal_party_of_australia/john_hsu",
+      "organization_id": "electorate/calwell",
       "role": "candidate",
       "on_behalf_of_id": "party/liberal_party_of_australia"
     },
@@ -18388,6 +21599,12 @@
     {
       "person_id": "forrest/liberal_party_of_australia/nola_marino",
       "organization_id": "electorate/forrest",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_party_of_australia"
+    },
+    {
+      "person_id": "fowler/liberal_party_of_australia/adam_farhan",
+      "organization_id": "electorate/fowler",
       "role": "candidate",
       "on_behalf_of_id": "party/liberal_party_of_australia"
     },
@@ -18656,6 +21873,12 @@
       "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
+      "person_id": "mcmahon/liberal_party_of_australia/george_bilic",
+      "organization_id": "electorate/mcmahon",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_party_of_australia"
+    },
+    {
       "person_id": "mcmillan/liberal_party_of_australia/russell_broadbent",
       "organization_id": "electorate/mcmillan",
       "role": "candidate",
@@ -18668,7 +21891,7 @@
       "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
-      "person_id": "melbourne/liberal_party_of_australia/philip_liu",
+      "person_id": "melbourne/liberal_party_of_australia/le_philip_liu",
       "organization_id": "electorate/melbourne",
       "role": "candidate",
       "on_behalf_of_id": "party/liberal_party_of_australia"
@@ -19076,6 +22299,12 @@
       "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
+      "person_id": "watson/liberal_party_of_australia/mohammad_shahe_zaman",
+      "organization_id": "electorate/watson",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_party_of_australia"
+    },
+    {
       "person_id": "wentworth/liberal_party_of_australia/malcolm_turnbull",
       "organization_id": "electorate/wentworth",
       "role": "candidate",
@@ -19130,13 +22359,19 @@
       "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
+      "person_id": "whitlam/liberal_party_of_australia/marcus_hewitt",
+      "organization_id": "electorate/whitlam",
+      "role": "candidate",
+      "on_behalf_of_id": "party/liberal_party_of_australia"
+    },
+    {
       "person_id": "wide_bay/liberal_party_of_australia/llew_obrien",
       "organization_id": "electorate/wide_bay",
       "role": "candidate",
       "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
-      "person_id": "wills/liberal_party_of_australia/kevin_hong",
+      "person_id": "wills/liberal_party_of_australia/kyung_kevin_hong",
       "organization_id": "electorate/wills",
       "role": "candidate",
       "on_behalf_of_id": "party/liberal_party_of_australia"
@@ -19166,6 +22401,12 @@
       "on_behalf_of_id": "party/national_party_of_australia"
     },
     {
+      "person_id": "canning/national_party_of_australia/jason_turner",
+      "organization_id": "electorate/canning",
+      "role": "candidate",
+      "on_behalf_of_id": "party/national_party_of_australia"
+    },
+    {
       "person_id": "capricornia/national_party_of_australia/michelle_landry",
       "organization_id": "electorate/capricornia",
       "role": "candidate",
@@ -19190,20 +22431,26 @@
       "on_behalf_of_id": "party/national_party_of_australia"
     },
     {
-      "person_id": "forrest/national_party_of_australia/luke_pilkington",
-      "organization_id": "electorate/forrest",
-      "role": "candidate",
-      "on_behalf_of_id": "party/national_party_of_australia"
-    },
-    {
       "person_id": "flynn/national_party_of_australia/ken_odowd",
       "organization_id": "electorate/flynn",
       "role": "candidate",
       "on_behalf_of_id": "party/national_party_of_australia"
     },
     {
+      "person_id": "forrest/national_party_of_australia/luke_pilkington",
+      "organization_id": "electorate/forrest",
+      "role": "candidate",
+      "on_behalf_of_id": "party/national_party_of_australia"
+    },
+    {
       "person_id": "gippsland/national_party_of_australia/darren_chester",
       "organization_id": "electorate/gippsland",
+      "role": "candidate",
+      "on_behalf_of_id": "party/national_party_of_australia"
+    },
+    {
+      "person_id": "hunter/national_party_of_australia/ruth_rogers",
+      "organization_id": "electorate/hunter",
       "role": "candidate",
       "on_behalf_of_id": "party/national_party_of_australia"
     },
@@ -19592,6 +22839,24 @@
       "on_behalf_of_id": "party/online_direct_democracy_empowering_the_people"
     },
     {
+      "person_id": "new_south_wales/online_direct_democracy_empowering_the_people/berge_anthony_der_sarkissian",
+      "organization_id": "electorate/new_south_wales",
+      "role": "candidate",
+      "on_behalf_of_id": "party/online_direct_democracy_empowering_the_people"
+    },
+    {
+      "person_id": "new_south_wales/online_direct_democracy_empowering_the_people/arthur_john_emmett",
+      "organization_id": "electorate/new_south_wales",
+      "role": "candidate",
+      "on_behalf_of_id": "party/online_direct_democracy_empowering_the_people"
+    },
+    {
+      "person_id": "northern_territory/online_direct_democracy_empowering_the_people/tristan_marshall",
+      "organization_id": "electorate/northern_territory",
+      "role": "candidate",
+      "on_behalf_of_id": "party/online_direct_democracy_empowering_the_people"
+    },
+    {
       "person_id": "parkes/online_direct_democracy_empowering_the_people/john_ayton",
       "organization_id": "electorate/parkes",
       "role": "candidate",
@@ -19600,6 +22865,12 @@
     {
       "person_id": "parramatta/online_direct_democracy_empowering_the_people/andrew_driessen",
       "organization_id": "electorate/parramatta",
+      "role": "candidate",
+      "on_behalf_of_id": "party/online_direct_democracy_empowering_the_people"
+    },
+    {
+      "person_id": "perth/online_direct_democracy_empowering_the_people/andrew_david_chambers",
+      "organization_id": "electorate/perth",
       "role": "candidate",
       "on_behalf_of_id": "party/online_direct_democracy_empowering_the_people"
     },
@@ -19628,8 +22899,68 @@
       "on_behalf_of_id": "party/online_direct_democracy_empowering_the_people"
     },
     {
+      "person_id": "herbert/palmer_united_party/martin_brewster",
+      "organization_id": "electorate/herbert",
+      "role": "candidate",
+      "on_behalf_of_id": "party/palmer_united_party"
+    },
+    {
       "person_id": "new_south_wales/palmer_united_party/suellen_wrightson",
       "organization_id": "electorate/new_south_wales",
+      "role": "candidate",
+      "on_behalf_of_id": "party/palmer_united_party"
+    },
+    {
+      "person_id": "queensland/palmer_united_party/craig_gunnis",
+      "organization_id": "electorate/queensland",
+      "role": "candidate",
+      "on_behalf_of_id": "party/palmer_united_party"
+    },
+    {
+      "person_id": "queensland/palmer_united_party/james_mcdonald",
+      "organization_id": "electorate/queensland",
+      "role": "candidate",
+      "on_behalf_of_id": "party/palmer_united_party"
+    },
+    {
+      "person_id": "south_australia/palmer_united_party/carlo_filingeri",
+      "organization_id": "electorate/south_australia",
+      "role": "candidate",
+      "on_behalf_of_id": "party/palmer_united_party"
+    },
+    {
+      "person_id": "south_australia/palmer_united_party/kristian_rees",
+      "organization_id": "electorate/south_australia",
+      "role": "candidate",
+      "on_behalf_of_id": "party/palmer_united_party"
+    },
+    {
+      "person_id": "tasmania/palmer_united_party/kevin_morgan",
+      "organization_id": "electorate/tasmania",
+      "role": "candidate",
+      "on_behalf_of_id": "party/palmer_united_party"
+    },
+    {
+      "person_id": "tasmania/palmer_united_party/justin_leigh_stringer",
+      "organization_id": "electorate/tasmania",
+      "role": "candidate",
+      "on_behalf_of_id": "party/palmer_united_party"
+    },
+    {
+      "person_id": "tasmania/palmer_united_party/quentin_von_stieglitz",
+      "organization_id": "electorate/tasmania",
+      "role": "candidate",
+      "on_behalf_of_id": "party/palmer_united_party"
+    },
+    {
+      "person_id": "victoria/palmer_united_party/cameron_hickey",
+      "organization_id": "electorate/victoria",
+      "role": "candidate",
+      "on_behalf_of_id": "party/palmer_united_party"
+    },
+    {
+      "person_id": "victoria/palmer_united_party/catriona_cecilia_thoolen",
+      "organization_id": "electorate/victoria",
       "role": "candidate",
       "on_behalf_of_id": "party/palmer_united_party"
     },
@@ -19660,13 +22991,28 @@
       "role": "candidate"
     },
     {
-      "person_id": "herbert//jeff_virgo",
+      "person_id": "flynn//phil_baker",
+      "organization_id": "electorate/flynn",
+      "role": "candidate"
+    },
+    {
+      "person_id": "herbert//geoff_virgo",
       "organization_id": "electorate/herbert",
       "role": "candidate"
     },
     {
       "person_id": "hinkler//damian_huxham",
       "organization_id": "electorate/hinkler",
+      "role": "candidate"
+    },
+    {
+      "person_id": "leichhardt//peter_leonard_rogers",
+      "organization_id": "electorate/leichhardt",
+      "role": "candidate"
+    },
+    {
+      "person_id": "longman//michelle_pedersen",
+      "organization_id": "electorate/longman",
       "role": "candidate"
     },
     {
@@ -19687,6 +23033,11 @@
     {
       "person_id": "oxley//brad_trussell",
       "organization_id": "electorate/oxley",
+      "role": "candidate"
+    },
+    {
+      "person_id": "paterson//graham_burston",
+      "organization_id": "electorate/paterson",
       "role": "candidate"
     },
     {
@@ -19777,14 +23128,44 @@
       "on_behalf_of_id": "party/pirate_party_australia"
     },
     {
+      "person_id": "bass/renewable_energy_party/roy_ramage",
+      "organization_id": "electorate/bass",
+      "role": "candidate",
+      "on_behalf_of_id": "party/renewable_energy_party"
+    },
+    {
       "person_id": "batman/renewable_energy_party/maurice_oldis",
       "organization_id": "electorate/batman",
       "role": "candidate",
       "on_behalf_of_id": "party/renewable_energy_party"
     },
     {
+      "person_id": "braddon/renewable_energy_party/clinton_rice",
+      "organization_id": "electorate/braddon",
+      "role": "candidate",
+      "on_behalf_of_id": "party/renewable_energy_party"
+    },
+    {
+      "person_id": "bruce/renewable_energy_party/jill_jarvis_wills",
+      "organization_id": "electorate/bruce",
+      "role": "candidate",
+      "on_behalf_of_id": "party/renewable_energy_party"
+    },
+    {
       "person_id": "gippsland/renewable_energy_party/peter_gardner",
       "organization_id": "electorate/gippsland",
+      "role": "candidate",
+      "on_behalf_of_id": "party/renewable_energy_party"
+    },
+    {
+      "person_id": "grayndler/renewable_energy_party/chris_mclachlan",
+      "organization_id": "electorate/grayndler",
+      "role": "candidate",
+      "on_behalf_of_id": "party/renewable_energy_party"
+    },
+    {
+      "person_id": "lyons/renewable_energy_party/duncan_livingston",
+      "organization_id": "electorate/lyons",
       "role": "candidate",
       "on_behalf_of_id": "party/renewable_energy_party"
     },
@@ -19813,6 +23194,18 @@
       "on_behalf_of_id": "party/renewable_energy_party"
     },
     {
+      "person_id": "tasmania/renewable_energy_party/sharon_joyce",
+      "organization_id": "electorate/tasmania",
+      "role": "candidate",
+      "on_behalf_of_id": "party/renewable_energy_party"
+    },
+    {
+      "person_id": "tasmania/renewable_energy_party/rob_manson",
+      "organization_id": "electorate/tasmania",
+      "role": "candidate",
+      "on_behalf_of_id": "party/renewable_energy_party"
+    },
+    {
       "person_id": "victoria/renewable_energy_party/graham_askey",
       "organization_id": "electorate/victoria",
       "role": "candidate",
@@ -19837,13 +23230,37 @@
       "on_behalf_of_id": "party/renewable_energy_party"
     },
     {
+      "person_id": "wills/renewable_energy_party/dougal_gillman",
+      "organization_id": "electorate/wills",
+      "role": "candidate",
+      "on_behalf_of_id": "party/renewable_energy_party"
+    },
+    {
+      "person_id": "australian_capital_territory/rise_up_australia_party/sandie_oconnor",
+      "organization_id": "electorate/australian_capital_territory",
+      "role": "candidate",
+      "on_behalf_of_id": "party/rise_up_australia_party"
+    },
+    {
+      "person_id": "australian_capital_territory/rise_up_australia_party/jess_wyatt",
+      "organization_id": "electorate/australian_capital_territory",
+      "role": "candidate",
+      "on_behalf_of_id": "party/rise_up_australia_party"
+    },
+    {
       "person_id": "ballarat/rise_up_australia_party/tran_tran",
       "organization_id": "electorate/ballarat",
       "role": "candidate",
       "on_behalf_of_id": "party/rise_up_australia_party"
     },
     {
-      "person_id": "brand/rise_up_australia_party/phillip_scott",
+      "person_id": "bendigo/rise_up_australia_party/sandy_caddy",
+      "organization_id": "electorate/bendigo",
+      "role": "candidate",
+      "on_behalf_of_id": "party/rise_up_australia_party"
+    },
+    {
+      "person_id": "brand/rise_up_australia_party/philip_scott",
       "organization_id": "electorate/brand",
       "role": "candidate",
       "on_behalf_of_id": "party/rise_up_australia_party"
@@ -19855,8 +23272,44 @@
       "on_behalf_of_id": "party/rise_up_australia_party"
     },
     {
+      "person_id": "chisholm/rise_up_australia_party/melanie_vassiliou",
+      "organization_id": "electorate/chisholm",
+      "role": "candidate",
+      "on_behalf_of_id": "party/rise_up_australia_party"
+    },
+    {
+      "person_id": "corangamite/rise_up_australia_party/nick_steel",
+      "organization_id": "electorate/corangamite",
+      "role": "candidate",
+      "on_behalf_of_id": "party/rise_up_australia_party"
+    },
+    {
+      "person_id": "corio/rise_up_australia_party/ash_puvimanasinghe",
+      "organization_id": "electorate/corio",
+      "role": "candidate",
+      "on_behalf_of_id": "party/rise_up_australia_party"
+    },
+    {
+      "person_id": "dunkley/rise_up_australia_party/lin_tregenza",
+      "organization_id": "electorate/dunkley",
+      "role": "candidate",
+      "on_behalf_of_id": "party/rise_up_australia_party"
+    },
+    {
       "person_id": "durack/rise_up_australia_party/mitchell_sambell",
       "organization_id": "electorate/durack",
+      "role": "candidate",
+      "on_behalf_of_id": "party/rise_up_australia_party"
+    },
+    {
+      "person_id": "fisher/rise_up_australia_party/tracey_bell_henselin",
+      "organization_id": "electorate/fisher",
+      "role": "candidate",
+      "on_behalf_of_id": "party/rise_up_australia_party"
+    },
+    {
+      "person_id": "flinders/rise_up_australia_party/yvonne_gentle",
+      "organization_id": "electorate/flinders",
       "role": "candidate",
       "on_behalf_of_id": "party/rise_up_australia_party"
     },
@@ -19867,14 +23320,86 @@
       "on_behalf_of_id": "party/rise_up_australia_party"
     },
     {
+      "person_id": "gippsland/rise_up_australia_party/peter_dorian",
+      "organization_id": "electorate/gippsland",
+      "role": "candidate",
+      "on_behalf_of_id": "party/rise_up_australia_party"
+    },
+    {
       "person_id": "hasluck/rise_up_australia_party/henry_barnard",
       "organization_id": "electorate/hasluck",
       "role": "candidate",
       "on_behalf_of_id": "party/rise_up_australia_party"
     },
     {
+      "person_id": "holt/rise_up_australia_party/colin_robertson",
+      "organization_id": "electorate/holt",
+      "role": "candidate",
+      "on_behalf_of_id": "party/rise_up_australia_party"
+    },
+    {
+      "person_id": "hotham/rise_up_australia_party/peter_vassiliou",
+      "organization_id": "electorate/hotham",
+      "role": "candidate",
+      "on_behalf_of_id": "party/rise_up_australia_party"
+    },
+    {
+      "person_id": "indi/rise_up_australia_party/vincent_ferrando",
+      "organization_id": "electorate/indi",
+      "role": "candidate",
+      "on_behalf_of_id": "party/rise_up_australia_party"
+    },
+    {
+      "person_id": "la_trobe/rise_up_australia_party/margaret_quinn",
+      "organization_id": "electorate/la_trobe",
+      "role": "candidate",
+      "on_behalf_of_id": "party/rise_up_australia_party"
+    },
+    {
+      "person_id": "lalor/rise_up_australia_party/marion_vale",
+      "organization_id": "electorate/lalor",
+      "role": "candidate",
+      "on_behalf_of_id": "party/rise_up_australia_party"
+    },
+    {
+      "person_id": "leichhardt/rise_up_australia_party/john_kelly",
+      "organization_id": "electorate/leichhardt",
+      "role": "candidate",
+      "on_behalf_of_id": "party/rise_up_australia_party"
+    },
+    {
       "person_id": "lingiari/rise_up_australia_party/regina_mccarthy",
       "organization_id": "electorate/lingiari",
+      "role": "candidate",
+      "on_behalf_of_id": "party/rise_up_australia_party"
+    },
+    {
+      "person_id": "mallee/rise_up_australia_party/tim_middleton",
+      "organization_id": "electorate/mallee",
+      "role": "candidate",
+      "on_behalf_of_id": "party/rise_up_australia_party"
+    },
+    {
+      "person_id": "maranoa/rise_up_australia_party/sherrilyn_church",
+      "organization_id": "electorate/maranoa",
+      "role": "candidate",
+      "on_behalf_of_id": "party/rise_up_australia_party"
+    },
+    {
+      "person_id": "mcewen/rise_up_australia_party/jeff_truscott",
+      "organization_id": "electorate/mcewen",
+      "role": "candidate",
+      "on_behalf_of_id": "party/rise_up_australia_party"
+    },
+    {
+      "person_id": "mcmillan/rise_up_australia_party/norman_baker",
+      "organization_id": "electorate/mcmillan",
+      "role": "candidate",
+      "on_behalf_of_id": "party/rise_up_australia_party"
+    },
+    {
+      "person_id": "murray/rise_up_australia_party/yasmin_gunasekera",
+      "organization_id": "electorate/murray",
       "role": "candidate",
       "on_behalf_of_id": "party/rise_up_australia_party"
     },
@@ -19909,7 +23434,13 @@
       "on_behalf_of_id": "party/rise_up_australia_party"
     },
     {
-      "person_id": "pearce/rise_up_australia_party/taffy_vuntarde",
+      "person_id": "paterson/rise_up_australia_party/brian_clare",
+      "organization_id": "electorate/paterson",
+      "role": "candidate",
+      "on_behalf_of_id": "party/rise_up_australia_party"
+    },
+    {
+      "person_id": "pearce/rise_up_australia_party/taffy_samuriwo_vuntarde",
       "organization_id": "electorate/pearce",
       "role": "candidate",
       "on_behalf_of_id": "party/rise_up_australia_party"
@@ -19923,6 +23454,12 @@
     {
       "person_id": "queensland/rise_up_australia_party/paul_taylor",
       "organization_id": "electorate/queensland",
+      "role": "candidate",
+      "on_behalf_of_id": "party/rise_up_australia_party"
+    },
+    {
+      "person_id": "solomon/rise_up_australia_party/silvija_majetic",
+      "organization_id": "electorate/solomon",
       "role": "candidate",
       "on_behalf_of_id": "party/rise_up_australia_party"
     },
@@ -19975,6 +23512,12 @@
       "on_behalf_of_id": "party/science_party"
     },
     {
+      "person_id": "greenway/science_party/vivek_singha",
+      "organization_id": "electorate/greenway",
+      "role": "candidate",
+      "on_behalf_of_id": "party/science_party"
+    },
+    {
       "person_id": "kingsford_smith/science_party/andrea_leong",
       "organization_id": "electorate/kingsford_smith",
       "role": "candidate",
@@ -19995,6 +23538,12 @@
     {
       "person_id": "north_sydney/science_party/james_coffey",
       "organization_id": "electorate/north_sydney",
+      "role": "candidate",
+      "on_behalf_of_id": "party/science_party"
+    },
+    {
+      "person_id": "sydney/science_party/tom_geiser",
+      "organization_id": "electorate/sydney",
       "role": "candidate",
       "on_behalf_of_id": "party/science_party"
     },
@@ -20073,6 +23622,18 @@
     {
       "person_id": "sydney/socialist_alliance/peter_boyle",
       "organization_id": "electorate/sydney",
+      "role": "candidate",
+      "on_behalf_of_id": "party/socialist_alliance"
+    },
+    {
+      "person_id": "victoria/socialist_alliance/lalitha_chelliah",
+      "organization_id": "electorate/victoria",
+      "role": "candidate",
+      "on_behalf_of_id": "party/socialist_alliance"
+    },
+    {
+      "person_id": "victoria/socialist_alliance/tim_gooden",
+      "organization_id": "electorate/victoria",
       "role": "candidate",
       "on_behalf_of_id": "party/socialist_alliance"
     },
@@ -20191,6 +23752,12 @@
       "on_behalf_of_id": "party/the_arts_party"
     },
     {
+      "person_id": "petrie/the_arts_party/andrew_charles_tyrrell",
+      "organization_id": "electorate/petrie",
+      "role": "candidate",
+      "on_behalf_of_id": "party/the_arts_party"
+    },
+    {
       "person_id": "queensland/the_arts_party/neil_fainges",
       "organization_id": "electorate/queensland",
       "role": "candidate",
@@ -20305,6 +23872,12 @@
       "on_behalf_of_id": "party/voluntary_euthanasia_party"
     },
     {
+      "person_id": "australian_capital_territory/votefluxorg_upgrade_democracy/michael_gerard_hay",
+      "organization_id": "electorate/australian_capital_territory",
+      "role": "candidate",
+      "on_behalf_of_id": "party/votefluxorg_upgrade_democracy"
+    },
+    {
       "person_id": "new_south_wales/votefluxorg_upgrade_democracy/steven_lopez",
       "organization_id": "electorate/new_south_wales",
       "role": "candidate",
@@ -20381,8 +23954,63 @@
       "role": "candidate"
     },
     {
+      "person_id": "australian_capital_territory//david_edwards",
+      "organization_id": "electorate/australian_capital_territory",
+      "role": "candidate"
+    },
+    {
+      "person_id": "australian_capital_territory//john_haydon",
+      "organization_id": "electorate/australian_capital_territory",
+      "role": "candidate"
+    },
+    {
+      "person_id": "australian_capital_territory//denis_mihaljevic",
+      "organization_id": "electorate/australian_capital_territory",
+      "role": "candidate"
+    },
+    {
+      "person_id": "australian_capital_territory//martin_tye",
+      "organization_id": "electorate/australian_capital_territory",
+      "role": "candidate"
+    },
+    {
+      "person_id": "ballarat//bren_eckel",
+      "organization_id": "electorate/ballarat",
+      "role": "candidate"
+    },
+    {
+      "person_id": "banks//bob_spanswick",
+      "organization_id": "electorate/banks",
+      "role": "candidate"
+    },
+    {
       "person_id": "barton//rasmus_torkel",
       "organization_id": "electorate/barton",
+      "role": "candidate"
+    },
+    {
+      "person_id": "bass//mark_tapsell",
+      "organization_id": "electorate/bass",
+      "role": "candidate"
+    },
+    {
+      "person_id": "batman//geoffrey_cicuto",
+      "organization_id": "electorate/batman",
+      "role": "candidate"
+    },
+    {
+      "person_id": "batman//franco_guardiani",
+      "organization_id": "electorate/batman",
+      "role": "candidate"
+    },
+    {
+      "person_id": "batman//philip_sutton",
+      "organization_id": "electorate/batman",
+      "role": "candidate"
+    },
+    {
+      "person_id": "batman//elizabeth_syber",
+      "organization_id": "electorate/batman",
       "role": "candidate"
     },
     {
@@ -20396,6 +24024,16 @@
       "role": "candidate"
     },
     {
+      "person_id": "berowra//mick_gallagher",
+      "organization_id": "electorate/berowra",
+      "role": "candidate"
+    },
+    {
+      "person_id": "berowra//roger_woodward",
+      "organization_id": "electorate/berowra",
+      "role": "candidate"
+    },
+    {
       "person_id": "blair//patricia_petersen",
       "organization_id": "electorate/blair",
       "role": "candidate"
@@ -20403,6 +24041,16 @@
     {
       "person_id": "blair//sandy_turner",
       "organization_id": "electorate/blair",
+      "role": "candidate"
+    },
+    {
+      "person_id": "blair//jonathan_emms",
+      "organization_id": "electorate/blair",
+      "role": "candidate"
+    },
+    {
+      "person_id": "bonner//jarrod_john_wirth",
+      "organization_id": "electorate/bonner",
       "role": "candidate"
     },
     {
@@ -20416,6 +24064,11 @@
       "role": "candidate"
     },
     {
+      "person_id": "braddon//glen_saltmarsh",
+      "organization_id": "electorate/braddon",
+      "role": "candidate"
+    },
+    {
       "person_id": "bradfield//christine_berman",
       "organization_id": "electorate/bradfield",
       "role": "candidate"
@@ -20426,8 +24079,28 @@
       "role": "candidate"
     },
     {
+      "person_id": "burt//ian_blevin",
+      "organization_id": "electorate/burt",
+      "role": "candidate"
+    },
+    {
       "person_id": "calare//anthony_craig",
       "organization_id": "electorate/calare",
+      "role": "candidate"
+    },
+    {
+      "person_id": "calwell//michael_amon_lakkis",
+      "organization_id": "electorate/calwell",
+      "role": "candidate"
+    },
+    {
+      "person_id": "canberra//christopher_darcy_bucknell",
+      "organization_id": "electorate/canberra",
+      "role": "candidate"
+    },
+    {
+      "person_id": "capricornia//ken_murray",
+      "organization_id": "electorate/capricornia",
       "role": "candidate"
     },
     {
@@ -20441,8 +24114,128 @@
       "role": "candidate"
     },
     {
+      "person_id": "corangamite//michael_lawrence",
+      "organization_id": "electorate/corangamite",
+      "role": "candidate"
+    },
+    {
+      "person_id": "corio//jeff_moran",
+      "organization_id": "electorate/corio",
+      "role": "candidate"
+    },
+    {
+      "person_id": "cowan//jamie_chester",
+      "organization_id": "electorate/cowan",
+      "role": "candidate"
+    },
+    {
+      "person_id": "cowan//steve_veness",
+      "organization_id": "electorate/cowan",
+      "role": "candidate"
+    },
+    {
+      "person_id": "cowper//rob_oakeshott",
+      "organization_id": "electorate/cowper",
+      "role": "candidate"
+    },
+    {
+      "person_id": "cowper//john_arkan",
+      "organization_id": "electorate/cowper",
+      "role": "candidate"
+    },
+    {
+      "person_id": "cowper//robert_james_murray_oakeshott",
+      "organization_id": "electorate/cowper",
+      "role": "candidate"
+    },
+    {
+      "person_id": "curtin//sandra_boulter",
+      "organization_id": "electorate/curtin",
+      "role": "candidate"
+    },
+    {
+      "person_id": "dawson//steven_large",
+      "organization_id": "electorate/dawson",
+      "role": "candidate"
+    },
+    {
       "person_id": "denison//andrew_wilkie",
       "organization_id": "electorate/denison",
+      "role": "candidate"
+    },
+    {
+      "person_id": "dickson//thor_prohaska",
+      "organization_id": "electorate/dickson",
+      "role": "candidate"
+    },
+    {
+      "person_id": "dobell//paul_baker",
+      "organization_id": "electorate/dobell",
+      "role": "candidate"
+    },
+    {
+      "person_id": "dobell//gregory_f_stephenson",
+      "organization_id": "electorate/dobell",
+      "role": "candidate"
+    },
+    {
+      "person_id": "dunkley//joseph_toscano",
+      "organization_id": "electorate/dunkley",
+      "role": "candidate"
+    },
+    {
+      "person_id": "eden_monaro//ray_buckley",
+      "organization_id": "electorate/eden_monaro",
+      "role": "candidate"
+    },
+    {
+      "person_id": "eden_monaro//daniel_grosmaire",
+      "organization_id": "electorate/eden_monaro",
+      "role": "candidate"
+    },
+    {
+      "person_id": "eden_monaro//andrew_evan_thaler",
+      "organization_id": "electorate/eden_monaro",
+      "role": "candidate"
+    },
+    {
+      "person_id": "fairfax//keith_alexander_campbell",
+      "organization_id": "electorate/fairfax",
+      "role": "candidate"
+    },
+    {
+      "person_id": "fairfax//robert_dickson",
+      "organization_id": "electorate/fairfax",
+      "role": "candidate"
+    },
+    {
+      "person_id": "farrer//brian_mills",
+      "organization_id": "electorate/farrer",
+      "role": "candidate"
+    },
+    {
+      "person_id": "farrer//trevor_obrien",
+      "organization_id": "electorate/farrer",
+      "role": "candidate"
+    },
+    {
+      "person_id": "fenner//tim_bohm",
+      "organization_id": "electorate/fenner",
+      "role": "candidate"
+    },
+    {
+      "person_id": "fenner//andrew_woodman",
+      "organization_id": "electorate/fenner",
+      "role": "candidate"
+    },
+    {
+      "person_id": "fisher//mike_jessop",
+      "organization_id": "electorate/fisher",
+      "role": "candidate"
+    },
+    {
+      "person_id": "flinders//shane_w_lewis",
+      "organization_id": "electorate/flinders",
       "role": "candidate"
     },
     {
@@ -20451,8 +24244,43 @@
       "role": "candidate"
     },
     {
+      "person_id": "flynn//jordan_ryan_puku",
+      "organization_id": "electorate/flynn",
+      "role": "candidate"
+    },
+    {
+      "person_id": "flynn//duncan_scott",
+      "organization_id": "electorate/flynn",
+      "role": "candidate"
+    },
+    {
+      "person_id": "forde//david_wilks",
+      "organization_id": "electorate/forde",
+      "role": "candidate"
+    },
+    {
       "person_id": "forrest//ross_slater",
       "organization_id": "electorate/forrest",
+      "role": "candidate"
+    },
+    {
+      "person_id": "forrest//david_fishlock",
+      "organization_id": "electorate/forrest",
+      "role": "candidate"
+    },
+    {
+      "person_id": "fowler//joaquim_de_lima",
+      "organization_id": "electorate/fowler",
+      "role": "candidate"
+    },
+    {
+      "person_id": "fremantle//mick_connolly",
+      "organization_id": "electorate/fremantle",
+      "role": "candidate"
+    },
+    {
+      "person_id": "gellibrand//david_tran",
+      "organization_id": "electorate/gellibrand",
       "role": "candidate"
     },
     {
@@ -20461,8 +24289,63 @@
       "role": "candidate"
     },
     {
+      "person_id": "gippsland//cherie_smith",
+      "organization_id": "electorate/gippsland",
+      "role": "candidate"
+    },
+    {
+      "person_id": "grayndler//noel_mcfarlane",
+      "organization_id": "electorate/grayndler",
+      "role": "candidate"
+    },
+    {
+      "person_id": "greenway//avtar_singh_billu",
+      "organization_id": "electorate/greenway",
+      "role": "candidate"
+    },
+    {
+      "person_id": "grey//phillip_gourlay",
+      "organization_id": "electorate/grey",
+      "role": "candidate"
+    },
+    {
       "person_id": "griffith//karel_boele",
       "organization_id": "electorate/griffith",
+      "role": "candidate"
+    },
+    {
+      "person_id": "higgins//rebecca_obrien",
+      "organization_id": "electorate/higgins",
+      "role": "candidate"
+    },
+    {
+      "person_id": "hinkler//bill_foster",
+      "organization_id": "electorate/hinkler",
+      "role": "candidate"
+    },
+    {
+      "person_id": "hume//trevor_anthoney",
+      "organization_id": "electorate/hume",
+      "role": "candidate"
+    },
+    {
+      "person_id": "hunter//john_harvey",
+      "organization_id": "electorate/hunter",
+      "role": "candidate"
+    },
+    {
+      "person_id": "hunter//arjay_rase_martin",
+      "organization_id": "electorate/hunter",
+      "role": "candidate"
+    },
+    {
+      "person_id": "hunter//cordelia_troy",
+      "organization_id": "electorate/hunter",
+      "role": "candidate"
+    },
+    {
+      "person_id": "hunter//john_warham",
+      "organization_id": "electorate/hunter",
       "role": "candidate"
     },
     {
@@ -20476,8 +24359,28 @@
       "role": "candidate"
     },
     {
+      "person_id": "indi//ray_dyer",
+      "organization_id": "electorate/indi",
+      "role": "candidate"
+    },
+    {
       "person_id": "kooyong//angelina_zubac",
       "organization_id": "electorate/kooyong",
+      "role": "candidate"
+    },
+    {
+      "person_id": "la_trobe//david_fent",
+      "organization_id": "electorate/la_trobe",
+      "role": "candidate"
+    },
+    {
+      "person_id": "leichhardt//daniel_mccarthy",
+      "organization_id": "electorate/leichhardt",
+      "role": "candidate"
+    },
+    {
+      "person_id": "leichhardt//michael_newie",
+      "organization_id": "electorate/leichhardt",
       "role": "candidate"
     },
     {
@@ -20486,8 +24389,53 @@
       "role": "candidate"
     },
     {
-      "person_id": "lingiari//rex_granites_japanangka",
+      "person_id": "lingiari//chris_righton",
       "organization_id": "electorate/lingiari",
+      "role": "candidate"
+    },
+    {
+      "person_id": "lingiari//braedon_earley",
+      "organization_id": "electorate/lingiari",
+      "role": "candidate"
+    },
+    {
+      "person_id": "lingiari//alfred_gould",
+      "organization_id": "electorate/lingiari",
+      "role": "candidate"
+    },
+    {
+      "person_id": "lingiari//yingiya_mark_guyula",
+      "organization_id": "electorate/lingiari",
+      "role": "candidate"
+    },
+    {
+      "person_id": "longman//rob_law",
+      "organization_id": "electorate/longman",
+      "role": "candidate"
+    },
+    {
+      "person_id": "longman//greg_riddell",
+      "organization_id": "electorate/longman",
+      "role": "candidate"
+    },
+    {
+      "person_id": "longman//caleb_wells",
+      "organization_id": "electorate/longman",
+      "role": "candidate"
+    },
+    {
+      "person_id": "lyne//brad_christensen",
+      "organization_id": "electorate/lyne",
+      "role": "candidate"
+    },
+    {
+      "person_id": "lyne//rodger_john_riach",
+      "organization_id": "electorate/lyne",
+      "role": "candidate"
+    },
+    {
+      "person_id": "lyons//shelley_shay",
+      "organization_id": "electorate/lyons",
       "role": "candidate"
     },
     {
@@ -20501,8 +24449,53 @@
       "role": "candidate"
     },
     {
+      "person_id": "mackellar//julie_hegarty",
+      "organization_id": "electorate/mackellar",
+      "role": "candidate"
+    },
+    {
+      "person_id": "macquarie//jake_grizelj",
+      "organization_id": "electorate/macquarie",
+      "role": "candidate"
+    },
+    {
       "person_id": "makin//mark_aldridge",
       "organization_id": "electorate/makin",
+      "role": "candidate"
+    },
+    {
+      "person_id": "maribyrnong//catherine_cumming",
+      "organization_id": "electorate/maribyrnong",
+      "role": "candidate"
+    },
+    {
+      "person_id": "mcewen//ross_lee",
+      "organization_id": "electorate/mcewen",
+      "role": "candidate"
+    },
+    {
+      "person_id": "mcmahon//fadhel_shamasha",
+      "organization_id": "electorate/mcmahon",
+      "role": "candidate"
+    },
+    {
+      "person_id": "mcpherson//rob_jones",
+      "organization_id": "electorate/mcpherson",
+      "role": "candidate"
+    },
+    {
+      "person_id": "melbourne_ports//peter_holland",
+      "organization_id": "electorate/melbourne_ports",
+      "role": "candidate"
+    },
+    {
+      "person_id": "melbourne_ports//john_b_myers",
+      "organization_id": "electorate/melbourne_ports",
+      "role": "candidate"
+    },
+    {
+      "person_id": "melbourne_ports//henry_von_doussa",
+      "organization_id": "electorate/melbourne_ports",
       "role": "candidate"
     },
     {
@@ -20511,7 +24504,27 @@
       "role": "candidate"
     },
     {
+      "person_id": "menzies//ramon_robinson",
+      "organization_id": "electorate/menzies",
+      "role": "candidate"
+    },
+    {
       "person_id": "murray//nigel_hicks",
+      "organization_id": "electorate/murray",
+      "role": "candidate"
+    },
+    {
+      "person_id": "murray//andrew_bock",
+      "organization_id": "electorate/murray",
+      "role": "candidate"
+    },
+    {
+      "person_id": "murray//fern_summer",
+      "organization_id": "electorate/murray",
+      "role": "candidate"
+    },
+    {
+      "person_id": "murray//diane_teasdale",
       "organization_id": "electorate/murray",
       "role": "candidate"
     },
@@ -20541,8 +24554,38 @@
       "role": "candidate"
     },
     {
+      "person_id": "newcastle//rod_holding",
+      "organization_id": "electorate/newcastle",
+      "role": "candidate"
+    },
+    {
       "person_id": "north_sydney//stephen_ruff",
       "organization_id": "electorate/north_sydney",
+      "role": "candidate"
+    },
+    {
+      "person_id": "northern_territory//ts_lee",
+      "organization_id": "electorate/northern_territory",
+      "role": "candidate"
+    },
+    {
+      "person_id": "northern_territory//marney_macdonald",
+      "organization_id": "electorate/northern_territory",
+      "role": "candidate"
+    },
+    {
+      "person_id": "northern_territory//maurie_japarta_ryan",
+      "organization_id": "electorate/northern_territory",
+      "role": "candidate"
+    },
+    {
+      "person_id": "northern_territory//greg_strettles",
+      "organization_id": "electorate/northern_territory",
+      "role": "candidate"
+    },
+    {
+      "person_id": "parramatta//mahesh_raj",
+      "organization_id": "electorate/parramatta",
       "role": "candidate"
     },
     {
@@ -20566,6 +24609,36 @@
       "role": "candidate"
     },
     {
+      "person_id": "rankin//jeffrey_dale_hodges",
+      "organization_id": "electorate/rankin",
+      "role": "candidate"
+    },
+    {
+      "person_id": "riverina//richard_foley",
+      "organization_id": "electorate/riverina",
+      "role": "candidate"
+    },
+    {
+      "person_id": "robertson//van_davy",
+      "organization_id": "electorate/robertson",
+      "role": "candidate"
+    },
+    {
+      "person_id": "robertson//lawrie_higgins",
+      "organization_id": "electorate/robertson",
+      "role": "candidate"
+    },
+    {
+      "person_id": "solomon//mark_garner",
+      "organization_id": "electorate/solomon",
+      "role": "candidate"
+    },
+    {
+      "person_id": "solomon//marty_reinhold",
+      "organization_id": "electorate/solomon",
+      "role": "candidate"
+    },
+    {
       "person_id": "south_australia//darryl_bothe",
       "organization_id": "electorate/south_australia",
       "role": "candidate"
@@ -20573,6 +24646,21 @@
     {
       "person_id": "south_australia//lyndal_denny",
       "organization_id": "electorate/south_australia",
+      "role": "candidate"
+    },
+    {
+      "person_id": "stirling//kim_mubarak",
+      "organization_id": "electorate/stirling",
+      "role": "candidate"
+    },
+    {
+      "person_id": "sturt//neil_aitchison",
+      "organization_id": "electorate/sturt",
+      "role": "candidate"
+    },
+    {
+      "person_id": "sydney//kris_spike",
+      "organization_id": "electorate/sydney",
       "role": "candidate"
     },
     {
@@ -20601,6 +24689,16 @@
       "role": "candidate"
     },
     {
+      "person_id": "wannon//bernardine_atkinson",
+      "organization_id": "electorate/wannon",
+      "role": "candidate"
+    },
+    {
+      "person_id": "wannon//michael_john_mccluskey",
+      "organization_id": "electorate/wannon",
+      "role": "candidate"
+    },
+    {
       "person_id": "warringah//james_mathison",
       "organization_id": "electorate/warringah",
       "role": "candidate"
@@ -20608,6 +24706,21 @@
     {
       "person_id": "warringah//david_barrow",
       "organization_id": "electorate/warringah",
+      "role": "candidate"
+    },
+    {
+      "person_id": "warringah//tony_backhouse",
+      "organization_id": "electorate/warringah",
+      "role": "candidate"
+    },
+    {
+      "person_id": "wentworth//david_allen",
+      "organization_id": "electorate/wentworth",
+      "role": "candidate"
+    },
+    {
+      "person_id": "wentworth//marc_aussie_stone",
+      "organization_id": "electorate/wentworth",
       "role": "candidate"
     },
     {
@@ -20631,8 +24744,13 @@
       "role": "candidate"
     },
     {
-      "person_id": "cowper//rob_oakeshott",
-      "organization_id": "electorate/cowper",
+      "person_id": "wills//francesco_timpano",
+      "organization_id": "electorate/wills",
+      "role": "candidate"
+    },
+    {
+      "person_id": "wright//john_cox",
+      "organization_id": "electorate/wright",
       "role": "candidate"
     }
   ],
