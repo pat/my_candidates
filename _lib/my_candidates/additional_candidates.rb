@@ -49,6 +49,16 @@ class MyCandidates::AdditionalCandidates
     "TAP"  => "The Arts Party",
     "VEP"  => "Voluntary Euthanasia Party"
   }
+  REGIONS = [
+    'A.C.T.',
+    'New South Wales',
+    'Northern Territory',
+    'Queensland',
+    'South Australia',
+    'Tasmania',
+    'Victoria',
+    'Western Australia'
+  ]
 
   def self.call
     new.call
@@ -90,6 +100,7 @@ class MyCandidates::AdditionalCandidates
 
     return true if matching_name && matching_electorate && abc[:partycode] == 'IND'
     return true if matching_name && matching_electorate && matching_party
+    return true if matching_electorate && matching_party && REGIONS.include?(abc[:electoratename])
 
     if !matching_name && matching_electorate && matching_party && abc[:partycode] != 'IND'
       puts "Mismatch: #{abc[:name]} / #{known[:name]} for #{known[:electorate]} / #{known[:party]}"
