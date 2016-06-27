@@ -1,1122 +1,1626 @@
 partyCode,partyName,name,familyName,givenName,sitting,electorateCode,electorateState,electorateName,electorateChamber
-LIB,Liberal,Tony Abbott,Abbott,Tony,1,warr,NSW,Warringah,house
-TAP,The Arts Party,Anthony Ackroyd,Ackroyd,Anthony,0,went,NSW,Wentworth,house
-LIB,Liberal Party,Jessica Adelan-Langford,Adelan-Langford,Jessica,0,canb,ACT,Canberra,house
+LIB,Liberal,Tony Abbott,Abbott,Tony,0,warr,NSW,Warringah,house
+LDP,Liberal Democrats,Bronwyn Ablett,Ablett,Bronwyn,0,grif,QLD,Griffith,house
+TAP,The Arts Party,Anthony Michael Ackroyd,Ackroyd,Anthony Michael,0,went,NSW,Wentworth,house
+LIB,Liberal,Jessica Adelan-Langford,Adelan-Langford,Jessica,0,canb,ACT,Canberra,house
 ONP,Pauline Hanson's One Nation,Troy Aggett,Aggett,Troy,0,blai,QLD,Blair,house
-GRN,Greens,Pietro Agnoletto,Agnoletto,Pietro,0,wrig,QLD,Wright,house
-21CP,21st Century Party,Fernando Alba,Alba,Fernando,0,bowm,QLD,Bowman,house
-ALP,Labor,Anthony Albanese,Albanese,Anthony,1,gray,NSW,Grayndler,house
+CDP,Christian Democratic Party (Fred Nile Group),Violet Abdulla,Abdulla,Violet,0,wats,NSW,Watson,house
+IND,Independent,Neil Aitchison,Aitchison,Neil,0,stur,SA,Sturt,house
+ALP,Labor,Anthony Albanese,Albanese,Anthony,0,gray,NSW,Grayndler,house
 SAL,Socialist Alliance,Zane Alcorn,Alcorn,Zane,0,will,VIC,Wills,house
+GRN,The Greens,Jennifer Alden,Alden,Jennifer,0,svic,VIC,Victoria,senate
 IND,Independent,Mark Aldridge,Aldridge,Mark,0,maki,SA,Makin,house
-LIB,Liberal,John Alexander,Alexander,John,1,benn,NSW,Bennelong,house
-GRN,Greens,Justin Alick,Alick,Justin,0,benn,NSW,Bennelong,house
-LIB,Liberal Party,Marcus Allan,Allan,Marcus,0,deni,TAS,Denison,house
-CDP,Christian Democratic Party,Darryl Allen,Allen,Darryl,0,mitc,NSW,Mitchell,house
-ALP,Australian Labor Party,Peter Alley,Alley,Peter,0,lyne,NSW,Lyne,house
+LIB,Liberal,John Alexander,Alexander,John,0,benn,NSW,Bennelong,house
+IND,Independent,Mohammad Ali,Ali,Mohammad,0,ssa,SA,South Australia,senate
+GRN,The Greens,Justin Alick,Alick,Justin,0,benn,NSW,Bennelong,house
+LIB,Liberal,Marcus Allan,Allan,Marcus,0,deni,TAS,Denison,house
+CDP,Christian Democratic Party (Fred Nile Group),Darryl Allen,Allen,Darryl,0,mitc,NSW,Mitchell,house
+IND,Independent,David Allen,Allen,David,0,went,NSW,Wentworth,house
+SFP,"Shooters, Fishers and Farmers",Matthew Allen,Allen,Matthew,0,stas,TAS,Tasmania,senate
+ALP,Labor,Peter Alley,Alley,Peter,0,lyne,NSW,Lyne,house
 ALP,Australian Labor Party,Michael Allison,Allison,Michael,0,ssa,SA,South Australia,senate
-ALP,Labor Party,Anne Aly,Aly,Anne,0,cowa,WA,Cowan,house
+LDP,Liberal Democrats,Ian Alston,Alston,Ian,0,stas,TAS,Tasmania,senate
+ALP,Australian Labor Party,Anne Aly,Aly,Anne,0,cowa,WA,Cowan,house
+GRN,The Greens,Fiona Anderson,Anderson,Fiona,0,sqld,QLD,Queensland,senate
 ALA,Australian Liberty Alliance,Gary Anderson,Anderson,Gary,0,snsw,NSW,New South Wales,senate
 NAT,The Nationals,James Anderson,Anderson,James,0,mcew,VIC,McEwen,house
-GRN,Greens,Karen Anderson,Anderson,Karen,0,grif,QLD,Griffith,house
-ALP,Labor Party,Scott Anderson,Anderson,Scott,0,fair,QLD,Fairfax,house
-TAP,Arts Party,Maureen Andrew,Andrew,Maureen,0,svic,VIC,Victoria,senate
-ALP,Australian Labor Party,Josh Andrews,Andrews,Josh,0,bero,NSW,Berowra,house
-LNP,Liberal National Party of Queensland,Karen Andrews,Andrews,Karen,1,mcph,QLD,McPherson,house
-LIB,Liberal,Kevin Andrews,Andrews,Kevin,1,menz,VIC,Menzies,house
+GRN,The Greens,Karen Anderson,Anderson,Karen,0,grif,QLD,Griffith,house
+LIB,Liberal,Eric Abetz,Abetz,Eric,0,stas,TAS,Tasmania,senate
+GRN,The Greens,Meg Anderson,Anderson,Meg,0,sqld,QLD,Queensland,senate
+CDP,Christian Democratic Party (Fred Nile Group),Ralph Anderson,Anderson,Ralph,0,wake,SA,Wakefield,house
+ALP,Australian Labor Party,Scott Anderson,Anderson,Scott,0,fair,QLD,Fairfax,house
+TAP,The Arts Party,Maureen J Andrew,Andrew,Maureen J,0,svic,VIC,Victoria,senate
+ACP,Australian Country Party,Tracey Andrew,Andrew,Tracey,0,mcew,VIC,McEwen,house
+ALP,Labor,Josh Andrews,Andrews,Josh,0,bero,NSW,Berowra,house
+LNP,Liberal National Party of Queensland,Karen Andrews,Andrews,Karen,0,mcph,QLD,McPherson,house
+LIB,Liberal,Kevin Andrews,Andrews,Kevin,0,menz,VIC,Menzies,house
+ONP,Pauline Hanson's One Nation,Fraser Anning,Anning,Fraser,0,sqld,QLD,Queensland,senate
+BTA,Bullet Train For Australia,Trevor Anthoney,Anthoney,Trevor,0,hume,NSW,Hume,house
 AUC,Australian Christians,Eleni Arapoglou,Arapoglou,Eleni,0,svic,VIC,Victoria,senate
-CDP,Christian Democratic Party,Shawn Arbeau,Arbeau,Shawn,0,ksmi,NSW,Kingsford Smith,house
-CDP,Christian Democratic Party,Peter Arena,Arena,Peter,0,pate,NSW,Paterson,house
+IND,Independent,Karthik Arasu,Arasu,Karthik,0,svic,VIC,Victoria,senate
+CM,CountryMinded,Luke Arbuckle,Arbuckle,Luke,0,mara,QLD,Maranoa,house
+ALA,Australian Liberty Alliance,David Archibald,Archibald,David,0,curt,WA,Curtin,house
+CDP,Christian Democratic Party (Fred Nile Group),Peter Arena,Arena,Peter,0,pate,NSW,Paterson,house
+IND,Independent,John Arkan,Arkan,John,0,cowp,NSW,Cowper,house
 IND,Independent,Jamie Armfield,Armfield,Jamie,0,boot,SA,Boothby,house
-FFP,Family First Party,Caroline Ashlin,Ashlin,Caroline,0,fish,QLD,Fisher,house
-REP,Renewable Energy Party,Graham Askey,Askey,Graham,0,svic,VIC,Victoria,senate
-ALP,Australian Labor Party,David Atkins,Atkins,David,0,cook,NSW,Cook,house
-CDP,Christian Democratic Party,Matt Attia,Attia,Matt,0,ssa,SA,South Australia,senate
-PIR,Pirate Party Australia,John August,August,John,0,benn,NSW,Bennelong,house
-FFP,Family First Party,Barry Austin,Austin,Barry,0,wrig,QLD,Wright,house
-ALP,Labor Party,Jane Austin,Austin,Jane,0,deni,TAS,Denison,house
-GRN,Greens,Ken Austin,Austin,Ken,0,bonn,QLD,Bonner,house
-ODD,Online Direct Democracy,John Ayton,Ayton,John,0,park,NSW,Parkes,house
-LIB,Liberal Party of Australia,Chris Back,Back,Chris,1,swa,WA,Western Australia,senate
+GRN,The Greens,Pietro Agnoletto,Agnoletto,Pietro,0,wrig,QLD,Wright,house
+IND,Independent,David Ash,Ash,David,0,snsw,NSW,New South Wales,senate
+FFP,Family First,Caroline Ashlin,Ashlin,Caroline,0,fish,QLD,Fisher,house
+GRN,The Greens,Natalie Abboud,Abboud,Natalie,0,calw,VIC,Calwell,house
+ALP,Labor,David Atkins,Atkins,David,0,cook,NSW,Cook,house
+IND,Independent,Bernardine Atkinson,Atkinson,Bernardine,0,wann,VIC,Wannon,house
+CDP,Christian Democratic Party (Fred Nile Group),Matt Attia,Attia,Matt,0,ssa,SA,South Australia,senate
+PIR,Pirate Party Australia,John Peter August,August,John Peter,0,benn,NSW,Bennelong,house
+IND,Independent,Marc Aussie-Stone,Aussie-Stone,Marc,0,went,NSW,Wentworth,house
+FFP,Family First,Barry Austin,Austin,Barry,0,wrig,QLD,Wright,house
+ALP,Australian Labor Party,Jane Austin,Austin,Jane,0,deni,TAS,Denison,house
+GRN,The Greens,Ken Austin,Austin,Ken,0,bonn,QLD,Bonner,house
+CDP,Christian Democratic Party (Fred Nile Group),Rhonda Avasalu,Avasalu,Rhonda,0,snsw,NSW,New South Wales,senate
+ODD,Online Direct Democracy - (Empowering the People!),Philip John Ayton,Ayton,Philip John,0,park,NSW,Parkes,house
+LIB,Liberal,Chris Back,Back,Chris,0,swa,WA,Western Australia,senate
+IND,Independent,Tony Backhouse,Backhouse,Tony,0,warr,NSW,Warringah,house
 AJP,Animal Justice Party,Kristin Bacon,Bacon,Kristin,0,case,VIC,Casey,house
 ASXP,Australian Sex Party,Steven Bailey,Bailey,Steven,0,sact,ACT,A.C.T.,senate
 TAP,The Arts Party,Sally Baillieu,Baillieu,Sally,0,dunk,VIC,Dunkley,house
-FFP,Family First Party,Peter Bain,Bain,Peter,0,svic,VIC,Victoria,senate
-DHJ,Derry Hinch Justice Party,Daniel Baker,Baker,Daniel,0,stas,TAS,Tasmania,senate
-FLX,Flux.org,Jeff Baker,Baker,Jeff,0,ssa,SA,South Australia,senate
-NXT,Nick Xenophon Team,Richard Bakoss,Bakoss,Richard,0,maca,NSW,Macarthur,house
-HMP,Help End Marijuana Prohibition,Michael Balderstone,Balderstone,Michael,0,swa,WA,Western Australia,senate
+FFP,Family First Party,Peter Timothy Bain,Bain,Peter Timothy,0,svic,VIC,Victoria,senate
+AJP,Animal Justice Party,Alison Baker,Baker,Alison,0,stas,TAS,Tasmania,senate
+DHJ,Derryn Hinch's Justice Party,Daniel Baker,Baker,Daniel,0,stas,TAS,Tasmania,senate
+FLX,VOTEFLUX.ORG | Upgrade Democracy!,Jeff Baker,Baker,Jeff,0,ssa,SA,South Australia,senate
+RUA,Rise Up Australia Party,Norman Baker,Baker,Norman,0,mcmi,VIC,McMillan,house
+IND,Independent,Paul Baker,Baker,Paul,0,dobe,NSW,Dobell,house
+ONP,Pauline Hanson's One Nation,Phil Baker,Baker,Phil,0,flyn,QLD,Flynn,house
+NXT,Nick Xenophon Team,Richard Heltay Bakoss,Bakoss,Richard Heltay,0,maca,NSW,Macarthur,house
+HMP,Marijuana (HEMP) Party,Michael Balderstone,Balderstone,Michael,0,swa,WA,Western Australia,senate
+GRN,The Greens (WA),Michael Baldock,Baldock,Michael,0,swa,WA,Western Australia,senate
 ONP,Pauline Hanson's One Nation,Brenden Ball,Ball,Brenden,0,fadd,QLD,Fadden,house
 GRN,The Greens,Jason Ball,Ball,Jason,0,higg,VIC,Higgins,house
 IND,Independent,Jim Ball,Ball,Jim,0,mack,NSW,Mackellar,house
 GRN,The Greens,Olivia Ball,Ball,Olivia,0,mari,VIC,Maribyrnong,house
-GRN,The Greens,Adam Bandt,Bandt,Adam,1,melb,VIC,Melbourne,house
-GRN,Greens,Jane Bange,Bange,Jane,0,boot,SA,Boothby,house
-LIB,Liberal Party,Julia Banks,Banks,Julia,0,chis,VIC,Chisholm,house
+ALP,Labor,Jagath Bandara,Bandara,Jagath,0,snsw,NSW,New South Wales,senate
+GRN,The Greens,Adam Bandt,Bandt,Adam,0,melb,VIC,Melbourne,house
+GRN,The Greens,Jane Bange,Bange,Jane,0,boot,SA,Boothby,house
+LIB,Liberal,Julia Banks,Banks,Julia,0,chis,VIC,Chisholm,house
+GRN,The Greens,Kathy Bannister,Bannister,Kathy,0,snt,NT,Northern Territory,senate
 GRN,The Greens,Neil Barker,Barker,Neil,0,mcew,VIC,McEwen,house
-ALP,Labor Party,Michael Barling,Barling,Michael,0,wann,VIC,Wannon,house
-RUA,Rise Up Australia,Henry Barnard,Barnard,Henry,0,hasl,WA,Hasluck,house
+ALP,Australian Labor Party,Michael David Barling,Barling,Michael David,0,wann,VIC,Wannon,house
+RUA,Rise Up Australia Party,Henry John Barnard,Barnard,Henry John,0,hasl,WA,Hasluck,house
 GRN,The Greens,Alice Barnes,Barnes,Alice,0,ball,VIC,Ballarat,house
-AJP,Animal Justice Party,Roy Barnes,Barnes,Roy,0,bank,NSW,Banks,house
-FFP,Family First Party,Heather Barnett,Barnett,Heather,0,flyn,QLD,Flynn,house
-LIB,Liberal Party,Jennifer Barrie,Barrie,Jennifer,0,shor,NSW,Shortland,house
+AJP,Animal Justice Party,Roy Owen Barnes,Barnes,Roy Owen,0,bank,NSW,Banks,house
+FFP,Family First,Heather Barnett,Barnett,Heather,0,flyn,QLD,Flynn,house
+LIB,Liberal,Jenny Barrie,Barrie,Jenny,0,shor,NSW,Shortland,house
+IND,Independent,Marshal Anderson,Anderson,Marshal,0,sqld,QLD,Queensland,senate
 IND,Independent,David Barrow,Barrow,David,0,warr,NSW,Warringah,house
 CEC,Citizens Electoral Council,Ian Barry,Barry,Ian,0,snt,NT,Northern Territory,senate
-GRN,Australian Greens,Andrew Bartlett,Bartlett,Andrew,0,sqld,QLD,Queensland,senate
+GRN,The Greens,Andrew Bartlett,Bartlett,Andrew,0,sqld,QLD,Queensland,senate
+FFP,Family First Party,Jeffrey Bartram,Bartram,Jeffrey,0,ltro,VIC,La Trobe,house
 NXT,Nick Xenophon Team,Nancy Bassett,Bassett,Nancy,0,higg,VIC,Higgins,house
-GRN,Greens,Stefanie Bauer,Bauer,Stefanie,0,bruc,VIC,Bruce,house
-GRN,Greens,Sandra Bayley,Bayley,Sandra,0,ryan,QLD,Ryan,house
-FFP,Family First Party,Sue Baynes,Baynes,Sue,0,sqld,QLD,Queensland,senate
+GRN,The Greens,Stefanie Bauer,Bauer,Stefanie,0,bruc,VIC,Bruce,house
+GRN,The Greens,Sandra Bayley,Bayley,Sandra,0,ryan,QLD,Ryan,house
+FFP,Family First,Sue Baynes,Baynes,Sue,0,sqld,QLD,Queensland,senate
+IND,Independent,Greg Beattie,Beattie,Greg,0,sqld,QLD,Queensland,senate
+CDP,Christian Democratic Party (Fred Nile Group),Malcolm Peter Beattie,Beattie,Malcolm Peter,0,bass,TAS,Bass,house
 TAP,The Arts Party,Stephen Beck,Beck,Stephen,0,long,QLD,Longman,house
-LIB,Liberal Party,Michael Beckwith,Beckwith,Michael,0,parr,NSW,Parramatta,house
+LIB,Liberal,Michael Beckwith,Beckwith,Michael,0,parr,NSW,Parramatta,house
 ALP,Australian Labor Party,Zac Beers,Beers,Zac,0,flyn,QLD,Flynn,house
-GRN,Greens,Ian Bell,Bell,Ian,0,long,QLD,Longman,house
-DLP,Democratic Labour Party,Terri Bell,Bell,Terri,0,sqld,QLD,Queensland,senate
-GRN,Greens,Michael Bellstedt,Bellstedt,Michael,0,mitc,NSW,Mitchell,house
-AUC,Australian Christian Party,Ashleigh Belsar,Belsar,Ashleigh,0,gipp,VIC,Gippsland,house
+KAP,Katter's Australian Party,Anthony Geno Belcastro,Belcastro,Anthony Geno,0,snsw,NSW,New South Wales,senate
+GRN,The Greens,Ian Bell,Bell,Ian,0,long,QLD,Longman,house
+SPA,Secular Party of Australia,Trevor Bell,Bell,Trevor,0,sqld,QLD,Queensland,senate
+RUA,Rise Up Australia Party,Tracey Bell-Henselin,Bell-Henselin,Tracey,0,fish,QLD,Fisher,house
+GRN,The Greens,Michael Bellstedt,Bellstedt,Michael,0,mitc,NSW,Mitchell,house
+FFP,Family First Party,Alan Barron,Barron,Alan,0,cora,VIC,Corangamite,house
+IND,Independent,Colin Bennett,Bennett,Colin,0,snsw,NSW,New South Wales,senate
 GRN,The Greens,James Bennett,Bennett,James,0,hoth,VIC,Hotham,house
-CDP,Christian Democratic Party,Ursula Bennett,Bennett,Ursula,0,emon,NSW,Eden-Monaro,house
-ADVP,Australian Defence Veterans Party,Raymond Bennie,Bennie,Raymond,0,snsw,NSW,New South Wales,senate
-GRN,Greens,Michael Berkman,Berkman,Michael,0,dick,QLD,Dickson,house
+CDP,Christian Democratic Party (Fred Nile Group),Ursula Bennett,Bennett,Ursula,0,emon,NSW,Eden-Monaro,house
+ADVP,Veterans Party,Raymond Bennie,Bennie,Raymond,0,snsw,NSW,New South Wales,senate
+GRN,The Greens,Michael Berkman,Berkman,Michael,0,dick,QLD,Dickson,house
 IND,Independent,Christine Berman,Berman,Christine,0,brfd,NSW,Bradfield,house
-LIB,Liberal Party of Australia,Cory Bernardi,Bernardi,Cory,1,ssa,SA,South Australia,senate
+LIB,Liberal,Cory Bernardi,Bernardi,Cory,0,ssa,SA,South Australia,senate
+ONP,Pauline Hanson's One Nation,Christine Pamela Bernier,Bernier,Christine Pamela,0,snsw,NSW,New South Wales,senate
+AJP,Animal Justice Party,Mark Berriman,Berriman,Mark,0,sydn,NSW,Sydney,house
+IND,Independent,Christopher Beslis,Beslis,Christopher,0,svic,VIC,Victoria,senate
 AJP,Animal Justice Party,Paul Bevan,Bevan,Paul,0,sqld,QLD,Queensland,senate
+AJP,Animal Justice Party,Karen Bevis,Bevis,Karen,0,stas,TAS,Tasmania,senate
 GRN,The Greens,Alex Bhathal,Bhathal,Alex,0,batm,VIC,Batman,house
 ALP,Australian Labor Party,Shashi Bhatti,Bhatti,Shashi,0,gipp,VIC,Gippsland,house
 ALA,Australian Liberty Alliance,Alan Biggs,Biggs,Alan,0,sqld,QLD,Queensland,senate
-ALP,Australian Labor Party,Catryna Bilyk,Bilyk,Catryna,1,stas,TAS,Tasmania,senate
-LIB,Liberal Party,Kelvin Binns,Binns,Kelvin,0,king,SA,Kingston,house
-FLX,Flux.org,Adam Bird,Bird,Adam,0,ssa,SA,South Australia,senate
-ALP,Labor,Sharon Bird,Bird,Sharon,1,cunn,NSW,Cunningham,house
-LIB,Liberal Party of Australia,Simon Birmingham,Birmingham,Simon,1,ssa,SA,South Australia,senate
-LIB,Liberal,Julie Bishop,Bishop,Julie,1,curt,WA,Curtin,house
-GRN,Greens,Cath Blakey,Blakey,Cath,0,cunn,NSW,Cunningham,house
-21CP,21st Century Party,Peter Bland,Bland,Peter,0,mcew,VIC,McEwen,house
-LIB,Liberal Party,Michelle Blicavs,Blicavs,Michelle,0,cunn,NSW,Cunningham,house
-GRN,Greens,Barbara Bloch,Bloch,Barbara,0,wats,NSW,Watson,house
+LIB,Liberal,George Bilic,Bilic,George,0,mcma,NSW,McMahon,house
+IND,Independent,Avtar Singh Billu,Billu,Avtar Singh,0,gree,NSW,Greenway,house
+CYC,Australian Cyclists Party,Sundance Bilson-Thompson,Bilson-Thompson,Sundance,0,ssa,SA,South Australia,senate
+ALP,Australian Labor Party,Catryna Bilyk,Bilyk,Catryna,0,stas,TAS,Tasmania,senate
+LIB,Liberal,Kelvin Binns,Binns,Kelvin,0,king,SA,Kingston,house
+FLX,VOTEFLUX.ORG | Upgrade Democracy!,Adam Anthony Bird,Bird,Adam Anthony,0,ssa,SA,South Australia,senate
+ALP,Labor,Sharon Bird,Bird,Sharon,0,cunn,NSW,Cunningham,house
+LIB,Liberal,Simon Birmingham,Birmingham,Simon,0,ssa,SA,South Australia,senate
+LIB,Liberal,Julie Bishop,Bishop,Julie,0,curt,WA,Curtin,house
+FFP,Family First Party,Trevor Bishop,Bishop,Trevor,0,gold,VIC,Goldstein,house
+DLF,Drug Law Reform,Ash Blackwell,Blackwell,Ash,0,will,VIC,Wills,house
+GRN,The Greens,Cath Blakey,Blakey,Cath,0,cunn,NSW,Cunningham,house
+SFP,"Shooters, Fishers and Farmers",Ian Blevin,Blevin,Ian,0,burt,WA,Burt,house
+LIB,Liberal,Michelle Blicavs,Blicavs,Michelle,0,cunn,NSW,Cunningham,house
+GRN,The Greens,Barbara Bloch,Bloch,Barbara,0,wats,NSW,Watson,house
 NXT,Nick Xenophon Team,Rod Bloomfield,Bloomfield,Rod,0,cala,NSW,Calare,house
-AJP,Animal Justice Party,Deborah Blundell,Blundell,Deborah,0,lind,NSW,Lindsay,house
-GRN,Greens,Aeron Blundell-Camden,Blundell-Camden,Aeron,0,cann,WA,Canning,house
+AJP,Animal Justice Party,Deborah May Blundell,Blundell,Deborah May,0,lind,NSW,Lindsay,house
+GRN,The Greens (WA),Aeron Blundell-Camden,Blundell-Camden,Aeron,0,cann,WA,Canning,house
+SA,Sustainable Australia,Steven Armstrong,Armstrong,Steven,0,svic,VIC,Victoria,senate
+IND,Independent,Andrew Bock,Bock,Andrew,0,murr,VIC,Murray,house
 IND,Independent,Karel Boele,Boele,Karel,0,grif,QLD,Griffith,house
+REP,Renewable Energy Party,Graham Askey,Askey,Graham,0,svic,VIC,Victoria,senate
 IND,Independent,John Bolton,Bolton,John,0,wake,SA,Wakefield,house
 NXT,Nick Xenophon Team,Luke Bolton,Bolton,Luke,0,swa,WA,Western Australia,senate
-CDP,Christian Democratic Party,Greg Bondar,Bondar,Greg,0,bank,NSW,Banks,house
+AEQ,Marriage Equality,Alex Bond,Bond,Alex,0,ssa,SA,South Australia,senate
+CDP,Christian Democratic Party (Fred Nile Group),Greg Bondar,Bondar,Greg,0,bank,NSW,Banks,house
 NXT,Nick Xenophon Team,Craig Bossie,Bossie,Craig,0,maki,SA,Makin,house
 ALP,Australian Labor Party,Marion Boswell,Boswell,Marion,0,tang,WA,Tangney,house
-MAP,Mature Australia Party,Darryl Bothe,Bothe,Darryl,0,ssa,SA,South Australia,senate
-SPP,Sustainable Australia,William Bourke,Bourke,William,0,snsw,NSW,New South Wales,senate
-LIB,Liberal Party,Kathleen Bourne,Bourne,Kathleen,0,wake,SA,Wakefield,house
+MAP,Mature Australia,Darryl Bothe,Bothe,Darryl,0,ssa,SA,South Australia,senate
+CDP,Christian Democratic Party (Fred Nile Group),Stephanie Botros,Botros,Stephanie,0,svic,VIC,Victoria,senate
+IND,Independent,Sandra Boulter,Boulter,Sandra,0,curt,WA,Curtin,house
+SA,Sustainable Australia,William Bourke,Bourke,William,0,snsw,NSW,New South Wales,senate
+LIB,Liberal,Kathleen Bourne,Bourne,Kathleen,0,wake,SA,Wakefield,house
+DLP,Democratic Labour Party (DLP),Fernando Bove,Bove,Fernando,0,swa,WA,Western Australia,senate
 NXT,Nick Xenophon Team,Michael Bovell,Bovell,Michael,0,swa,WA,Western Australia,senate
-ALP,Labor,Chris Bowen,Bowen,Chris,1,mcma,NSW,McMahon,house
+ALP,Labor,Chris Bowen,Bowen,Chris,0,mcma,NSW,McMahon,house
 ALP,Australian Labor Party,Susan Bowers,Bowers,Susan,0,swa,WA,Western Australia,senate
-FFP,Family First Party,Craig Bowyer,Bowyer,Craig,0,stur,SA,Sturt,house
-GRN,Greens,Abigail Boyd,Boyd,Abigail,0,dobe,NSW,Dobell,house
+BTA,Bullet Train For Australia,Tim Bohm,Bohm,Tim,0,fenn,ACT,Fenner,house
+GRN,The Greens,Abigail Boyd,Boyd,Abigail,0,dobe,NSW,Dobell,house
+AUC,Australian Christians,Ashleigh Belsar,Belsar,Ashleigh,0,gipp,VIC,Gippsland,house
 SAL,Socialist Alliance,Peter Boyle,Boyle,Peter,0,sydn,NSW,Sydney,house
-GRN,Greens,Phil Bradley,Bradley,Phil,0,parr,NSW,Parramatta,house
-MAP,Mature Australia Party,Patti Bradshaw,Bradshaw,Patti,0,swa,WA,Western Australia,senate
-LNP,Liberal National Party,George Brandis,Brandis,George,1,sqld,QLD,Queensland,senate
+ADVP,Veterans Party,Mark Bradbury,Bradbury,Mark,0,snsw,NSW,New South Wales,senate
+GRN,The Greens,Phil Bradley,Bradley,Phil,0,parr,NSW,Parramatta,house
+MAP,Mature Australia,Patti Bradshaw,Bradshaw,Patti,0,swa,WA,Western Australia,senate
+LNP,Liberal National Party of Queensland,George Brandis,Brandis,George,0,sqld,QLD,Queensland,senate
 AJP,Animal Justice Party,Emma Breagan,Breagan,Emma,0,ssa,SA,South Australia,senate
+HAP,Health Australia Party,Kathryn Breakwell,Breakwell,Kathryn,0,svic,VIC,Victoria,senate
 REP,Renewable Energy Party,Peter Breen,Breen,Peter,0,snsw,NSW,New South Wales,senate
 GRN,The Greens,Alex Breskin,Breskin,Alex,0,isaa,VIC,Isaacs,house
 IND,Independent,John Brett,Brett,John,0,cook,NSW,Cook,house
+PUP,Palmer United Party,Martin Brewster,Brewster,Martin,0,herb,QLD,Herbert,house
+AUC,Australian Christians,Malcolm Brice,Brice,Malcolm,0,sqld,QLD,Queensland,senate
 GRN,The Greens,Joshua Briers,Briers,Joshua,0,deak,VIC,Deakin,house
-LIB,Liberal,Jamie Briggs,Briggs,Jamie,1,mayo,SA,Mayo,house
-GRN,Greens,Roger Brisbane,Brisbane,Roger,0,monc,QLD,Moncrieff,house
+LIB,Liberal,Jamie Briggs,Briggs,Jamie,0,mayo,SA,Mayo,house
+GRN,The Greens,Roger Brisbane,Brisbane,Roger,0,monc,QLD,Moncrieff,house
 ASXP,Australian Sex Party,Robin Bristow,Bristow,Robin,0,sqld,QLD,Queensland,senate
-NAT,The Nationals,Andrew Broad,Broad,Andrew,1,mall,VIC,Mallee,house
-LIB,Liberal,Russell Broadbent,Broadbent,Russell,1,mcmi,VIC,McMillan,house
+NAT,The Nationals,Andrew Broad,Broad,Andrew,0,mall,VIC,Mallee,house
+LIB,Liberal,Russell Broadbent,Broadbent,Russell,0,mcmi,VIC,McMillan,house
+CDP,Christian Democratic Party (Fred Nile Group),Colin Broadbridge,Broadbridge,Colin,0,snsw,NSW,New South Wales,senate
 NXT,Nick Xenophon Team,Andrea Broadfoot,Broadfoot,Andrea,0,grey,SA,Grey,house
-ALP,Australian Labor Party,Gai Brodtmann,Brodtmann,Gai,1,canb,ACT,Canberra,house
-FFP,Family First Party,Andrew Broughton,Broughton,Andrew,0,bonn,QLD,Bonner,house
-ALP,Australian Labor Party,Carol Brown,Brown,Carol,1,stas,TAS,Tasmania,senate
-GRN,Greens,Jen Brown,Brown,Jen,0,deni,TAS,Denison,house
-GRN,Greens,John Brown,Brown,John,0,pate,NSW,Paterson,house
-AJP,Animal Justice Party,Vanessa Browne,Browne,Vanessa,0,deak,VIC,Deakin,house
+ALP,Australian Labor Party,Gai Brodtmann,Brodtmann,Gai,0,canb,ACT,Canberra,house
+FFP,Family First,Andrew Broughton,Broughton,Andrew,0,bonn,QLD,Bonner,house
+ALP,Australian Labor Party,Carol Brown,Brown,Carol,0,stas,TAS,Tasmania,senate
+GRN,The Greens,Jen Brown,Brown,Jen,0,deni,TAS,Denison,house
+GRN,The Greens,John Brown,Brown,John,0,pate,NSW,Paterson,house
+IND,Independent,Leonard Brown,Brown,Leonard,0,snsw,NSW,New South Wales,senate
+FFP,Family First,Craig Bowyer,Bowyer,Craig,0,stur,SA,Sturt,house
+GRN,The Greens,Gareth Bryant,Bryant,Gareth,0,snsw,NSW,New South Wales,senate
+SPA,Secular Party of Australia,Ian Robert Bryce,Bryce,Ian Robert,0,snsw,NSW,New South Wales,senate
 AMEP,Australian Motoring Enthusiast Party,Rob Bryden,Bryden,Rob,0,snsw,NSW,New South Wales,senate
-LIB,Liberal Party,Craig Buchanan,Buchanan,Craig,0,bran,WA,Brand,house
-LNP,Liberal National Party of Queensland,Scott Buchholz,Buchholz,Scott,1,wrig,QLD,Wright,house
-ALP,Labor Party,Chris Buckingham,Buckingham,Chris,0,mcmi,VIC,McMillan,house
+DLF,Drug Law Reform,Adriana Buccianti,Buccianti,Adriana,0,scul,VIC,Scullin,house
+LIB,Liberal,Craig Buchanan,Buchanan,Craig,0,bran,WA,Brand,house
+LNP,Liberal National Party of Queensland,Scott Buchholz,Buchholz,Scott,0,wrig,QLD,Wright,house
+ALP,Australian Labor Party,Chris Buckingham,Buckingham,Chris,0,mcmi,VIC,McMillan,house
+LDP,Liberal Democrats,Ben Buckley,Buckley,Ben,0,gipp,VIC,Gippsland,house
+LDP,Liberal Democrats,Catherine Buckley,Buckley,Catherine,0,petr,QLD,Petrie,house
 LDP,Liberal Democrats,Gabe Buckley,Buckley,Gabe,0,sqld,QLD,Queensland,senate
+VEP,Voluntary Euthanasia Party,Kym Buckley,Buckley,Kym,0,ssa,SA,South Australia,senate
+IND,Independent,Ray Buckley,Buckley,Ray,0,emon,NSW,Eden-Monaro,house
+CM,CountryMinded,Christopher Buckman,Buckman,Christopher,0,snsw,NSW,New South Wales,senate
+BTA,Bullet Train For Australia,Christopher D'Arcy Bucknell,Bucknell,Christopher D'Arcy,0,canb,ACT,Canberra,house
+FFP,Family First Party,Neil Bull,Bull,Neil,0,holt,VIC,Holt,house
 SAL,Socialist Alliance,Sue Bull,Bull,Sue,0,cori,VIC,Corio,house
-ODD,Online Direct Democracy,Kris Bullen,Bullen,Kris,0,fair,QLD,Fairfax,house
-TAP,Arts Party,Robert Buratti,Buratti,Robert,0,swa,WA,Western Australia,senate
-AUC,Australian Christian Party,Bob Burdett,Burdett,Bob,0,bran,WA,Brand,house
-ONP,Pauline Hanson's One Nation,Steven Burgess,Burgess,Steven,0,ssa,SA,South Australia,senate
-GRN,Greens,Peter Burgoyne,Burgoyne,Peter,0,mcph,QLD,McPherson,house
-ALP,Labor,Tony Burke,Burke,Tony,1,wats,NSW,Watson,house
-PIR,Pirate Party Australia,Richard Burleigh,Burleigh,Richard,0,svic,VIC,Victoria,senate
-ALP,Australian Labor Party,Linda Burney,Burney,Linda,0,bart,NSW,Barton,house
+ODD,Online Direct Democracy - (Empowering the People!),Kris Bullen,Bullen,Kris,0,fair,QLD,Fairfax,house
+IND,Independent,David Bundy,Bundy,David,0,sqld,QLD,Queensland,senate
+TAP,The Arts Party,Robert Buratti,Buratti,Robert,0,swa,WA,Western Australia,senate
+AUC,Australian Christians,Robert Burdett,Burdett,Robert,0,bran,WA,Brand,house
+DLF,Drug Law Reform,Karen Burge,Burge,Karen,0,newc,NSW,Newcastle,house
+ADVP,Veterans Party,Jason Burgess,Burgess,Jason,0,fish,QLD,Fisher,house
+ONP,Pauline Hanson's One Nation,Steven David Burgess,Burgess,Steven David,0,ssa,SA,South Australia,senate
+GRN,The Greens,Peter Burgoyne,Burgoyne,Peter,0,mcph,QLD,McPherson,house
+ALP,Labor,Tony Burke,Burke,Tony,0,wats,NSW,Watson,house
+PIR,Pirate Party,Richard Burleigh,Burleigh,Richard,0,svic,VIC,Victoria,senate
+ALP,Labor,Linda Burney,Burney,Linda,0,bart,NSW,Barton,house
 ONP,Pauline Hanson's One Nation,Brian Burston,Burston,Brian,0,snsw,NSW,New South Wales,senate
-LIB,Liberal Party of Australia,David Bushby,Bushby,David,1,stas,TAS,Tasmania,senate
-ALP,Australian Labor Party,Mark Butler,Butler,Mark,1,pade,SA,Port Adelaide,house
+ONP,Pauline Hanson's One Nation,Graham Burston,Burston,Graham,0,pate,NSW,Paterson,house
+LIB,Liberal,David Bushby,Bushby,David,0,stas,TAS,Tasmania,senate
+IND,Independent,Julie Boyd,Boyd,Julie,0,sqld,QLD,Queensland,senate
 CEC,Citizens Electoral Council,Robert Butler,Butler,Robert,0,snsw,NSW,New South Wales,senate
-ALP,Labor Party,Terri Butler,Butler,Terri,1,grif,QLD,Griffith,house
-ALP,Australian Labor Party,Anthony Byrne,Byrne,Anthony,1,holt,VIC,Holt,house
+ALP,Australian Labor Party,Terri Butler,Butler,Terri,0,grif,QLD,Griffith,house
+ALP,Australian Labor Party,Anthony Byrne,Byrne,Anthony,0,holt,VIC,Holt,house
 SEP,Socialist Equality Party,Peter Byrne,Byrne,Peter,0,svic,VIC,Victoria,senate
 SAL,Socialist Alliance,Howard Byrnes,Byrnes,Howard,0,snsw,NSW,New South Wales,senate
+RUA,Rise Up Australia Party,Sandy Caddy,Caddy,Sandy,0,bend,VIC,Bendigo,house
 GRN,The Greens,Patricia Cahill,Cahill,Patricia,0,canb,ACT,Canberra,house
-CDP,Christian Democratic Party,Milton Caine,Caine,Milton,0,newc,NSW,Newcastle,house
-ALP,Labor Party,Melissa Callanan,Callanan,Melissa,0,curt,WA,Curtin,house
-MAP,Mature Australia Party,Belinda Cameron,Cameron,Belinda,0,sqld,QLD,Queensland,senate
-ALP,Australian Labor Party,Doug Cameron,Cameron,Doug,1,snsw,NSW,New South Wales,senate
+CDP,Christian Democratic Party (Fred Nile Group),Milton Caine,Caine,Milton,0,newc,NSW,Newcastle,house
+ALP,Australian Labor Party,Melissa Callanan,Callanan,Melissa,0,curt,WA,Curtin,house
+MAP,Mature Australia,Belinda Cameron,Cameron,Belinda,0,sqld,QLD,Queensland,senate
+ALP,Labor,Doug Cameron,Cameron,Doug,0,snsw,NSW,New South Wales,senate
+ONP,Pauline Hanson's One Nation,Ian John Cameron,Cameron,Ian John,0,svic,VIC,Victoria,senate
+GRN,The Greens,Judy Cameron,Cameron,Judy,0,svic,VIC,Victoria,senate
 AUC,Australian Christians,Lindsay Cameron,Cameron,Lindsay,0,swa,WA,Western Australia,senate
-FFP,Family First Party,Andrea Campbell,Campbell,Andrea,0,kenn,QLD,Kennedy,house
-GRN,Greens,Thomas Campbell,Campbell,Thomas,0,wann,VIC,Wannon,house
+IND,Independent,Keith Alexander Campbell,Campbell,Keith Alexander,0,fair,QLD,Fairfax,house
+GRN,The Greens,Thomas Campbell,Campbell,Thomas,0,wann,VIC,Wannon,house
 CEC,Citizens Electoral Council,Trudy Campbell,Campbell,Trudy,0,snt,NT,Northern Territory,senate
-LNP,Liberal National Party,Matthew Canavan,Canavan,Matthew,1,sqld,QLD,Queensland,senate
+LNP,Liberal National Party of Queensland,Matthew Canavan,Canavan,Matthew,0,sqld,QLD,Queensland,senate
 SAL,Socialist Alliance,Ken Canning,Canning,Ken,0,snsw,NSW,New South Wales,senate
 TAP,The Arts Party,Shea Caplice,Caplice,Shea,0,warr,NSW,Warringah,house
+CDP,Christian Democratic Party (Fred Nile Group),George Capsis,Capsis,George,0,cook,NSW,Cook,house
 NXT,Nick Xenophon Team,Damian Carey,Carey,Damian,0,king,SA,Kingston,house
-GRN,Greens,Matthew Carey,Carey,Matthew,0,pade,SA,Port Adelaide,house
-FFP,Family First Party,Julie Caroline,Caroline,Julie,0,rank,QLD,Rankin,house
-ALP,Australian Labor Party,Kim Carr,Carr,Kim,1,svic,VIC,Victoria,senate
-JLN,Jacqui Lambie Network,Mitchell Carr,Carr,Mitchell,0,snsw,NSW,New South Wales,senate
+GRN,The Greens,Matthew Carey,Carey,Matthew,0,pade,SA,Port Adelaide,house
+SPA,Secular Party of Australia,Alice Carr,Carr,Alice,0,svic,VIC,Victoria,senate
+ALP,Australian Labor Party,Kim Carr,Carr,Kim,0,svic,VIC,Victoria,senate
+JLN,Jacqui Lambie Network,Mitch Carr,Carr,Mitch,0,snsw,NSW,New South Wales,senate
 AJP,Animal Justice Party,Evelyn Carroll,Carroll,Evelyn,0,boot,SA,Boothby,house
-RUA,Rise Up Australia,Stephen Carson,Carson,Stephen,0,ocon,WA,O'Connor,house
-CDP,Christian Democratic Party,Elaine Carter,Carter,Elaine,0,lyne,NSW,Lyne,house
-ODD,Online Direct Democracy,Nevin Cartwright,Cartwright,Nevin,0,solo,NT,Solomon,house
-AMEP,Australian Motoring Enthusiast Party,Max Caruso,Caruso,Max,0,svic,VIC,Victoria,senate
+RUA,Rise Up Australia Party,Stephen Carson,Carson,Stephen,0,ocon,WA,O'Connor,house
+CDP,Christian Democratic Party (Fred Nile Group),Elaine Carter,Carter,Elaine,0,lyne,NSW,Lyne,house
+KAP,Katter's Australian Party,Laurel Carter,Carter,Laurel,0,capr,QLD,Capricornia,house
+FFP,Family First,Marylou Carter,Carter,Marylou,0,reid,NSW,Reid,house
+SFP,"Shooters, Fishers and Farmers",Nick Carter,Carter,Nick,0,ssa,SA,South Australia,senate
+ODD,Online Direct Democracy - (Empowering the People!),Nevin Cartwright,Cartwright,Nevin,0,solo,NT,Solomon,house
 ALP,Australian Labor Party,Jane Casey,Casey,Jane,0,sqld,QLD,Queensland,senate
 GRN,The Greens,Jim Casey,Casey,Jim,0,gray,NSW,Grayndler,house
-LIB,Liberal Party of Australia,Michaelia Cash,Cash,Michaelia,1,swa,WA,Western Australia,senate
-GRN,Greens,Bill Cashman,Cashman,Bill,0,fowl,NSW,Fowler,house
+LIB,Liberal,Michaelia Cash,Cash,Michaelia,0,swa,WA,Western Australia,senate
+GRN,The Greens,Bill Cashman,Cashman,Bill,0,fowl,NSW,Fowler,house
 DHJ,Derryn Hinch's Justice Party,Suzanne Cass,Cass,Suzanne,0,stas,TAS,Tasmania,senate
-CDP,Christian Democratic Party,Michael Caudre,Caudre,Michael,0,hugh,NSW,Hughes,house
-ALP,Australian Labor Party,Jim Chalmers,Chalmers,Jim,1,rank,QLD,Rankin,house
-ALP,Australian Labor Party,Aoife Champion,Champion,Aoife,0,hume,NSW,Hume,house
-ALP,Australian Labor Party,Nick Champion,Champion,Nick,1,wake,SA,Wakefield,house
+IND,Independent,Peter Castieau,Castieau,Peter,0,swa,WA,Western Australia,senate
+CDP,Christian Democratic Party (Fred Nile Group),Michael Caudre,Caudre,Michael,0,hugh,NSW,Hughes,house
+ALP,Australian Labor Party,Jim Chalmers,Chalmers,Jim,0,rank,QLD,Rankin,house
+ODD,Online Direct Democracy - (Empowering the People!),Andrew David Chambers,Chambers,Andrew David,0,pert,WA,Perth,house
+ALP,Australian Labor Party,Nick Champion,Champion,Nick,0,wake,SA,Wakefield,house
+ALP,Labor,Aoife Champion-Fashoyin,Champion-Fashoyin,Aoife,0,hume,NSW,Hume,house
+IND,Independent,Nick Chapman,Chapman,Nick,0,snsw,NSW,New South Wales,senate
 IND,Independent,Peter Charleton,Charleton,Peter,0,case,VIC,Casey,house
-ALP,Labor Party,Anne Charlton,Charlton,Anne,0,robe,NSW,Robertson,house
+ALP,Labor,Anne Charlton,Charlton,Anne,0,robe,NSW,Robertson,house
 AJP,Animal Justice Party,Naren Chellappah,Chellappah,Naren,0,gold,VIC,Goldstein,house
 ASXP,Australian Sex Party,Tristram Chellew,Chellew,Tristram,0,will,VIC,Wills,house
-NAT,The Nationals,Darren Chester,Chester,Darren,1,gipp,VIC,Gippsland,house
-GRN,Greens,Arthur Chesterfield-Evans,Chesterfield-Evans,Arthur,0,nsyd,NSW,North Sydney,house
-ALP,Australian Labor Party,Lisa Chesters,Chesters,Lisa,1,bend,VIC,Bendigo,house
-DHJ,Drug Law Reform Australia,Greg Chipp,Chipp,Greg,0,svic,VIC,Victoria,senate
-ALP,Australian Labor Party,Anthony Chisholm,Chisholm,Anthony,0,sqld,QLD,Queensland,senate
-SCP,Science Party,Jin-oh Choi,Choi,Jin-oh,0,stas,TAS,Tasmania,senate
-LNP,Liberal National Party of Queensland,George Christensen,Christensen,George,1,daws,QLD,Dawson,house
-21CP,21st Century Party,Stuart Christie,Christie,Stuart,0,dobe,NSW,Dobell,house
-GRN,Greens,Ian Christoe,Christoe,Ian,0,murr,VIC,Murray,house
-LNP,Liberal National Party of Queensland,Steven Ciobo,Ciobo,Steven,1,monc,QLD,Moncrieff,house
-ALP,Labor,Jason Clare,Clare,Jason,1,blax,NSW,Blaxland,house
-GRN,Greens,Philippa Clark,Clark,Philippa,0,bank,NSW,Banks,house
-ALP,Labor Party,Tony Clark,Clark,Tony,0,deak,VIC,Deakin,house
-SCP,Science Party,Brendan Clarke,Clarke,Brendan,0,bero,NSW,Berowra,house
-ALP,Labor,Sharon Claydon,Claydon,Sharon,1,newc,NSW,Newcastle,house
-GRN,Greens,Tim Clifford,Clifford,Tim,0,pert,WA,Perth,house
-ADVP,Australian Defence Veterans Party,Bridget Clinch,Clinch,Bridget,0,bris,QLD,Brisbane,house
+SAL,Socialist Alliance,Lalitha Chelliah,Chelliah,Lalitha,0,svic,VIC,Victoria,senate
+NAT,The Nationals,Darren Chester,Chester,Darren,0,gipp,VIC,Gippsland,house
+SFP,"Shooters, Fishers and Farmers",Jamie Chester,Chester,Jamie,0,cowa,WA,Cowan,house
+GRN,The Greens,Arthur Chesterfield-Evans,Chesterfield-Evans,Arthur,0,nsyd,NSW,North Sydney,house
+ALP,Australian Labor Party,Lisa Chesters,Chesters,Lisa,0,bend,VIC,Bendigo,house
+DLF,Drug Law Reform,Greg Chipp,Chipp,Greg,0,svic,VIC,Victoria,senate
+ALP,Australian Labor Party,Mark Butler,Butler,Mark,0,pade,SA,Port Adelaide,house
+AJP,Animal Justice Party,Vanessa Browne,Browne,Vanessa,0,deak,VIC,Deakin,house
+IND,Independent,Brad Christensen,Christensen,Brad,0,lyne,NSW,Lyne,house
+LDP,Liberal Democrats,Joshua Boag,Boag,Joshua,0,brad,TAS,Braddon,house
+GRN,The Greens,Ian Christoe,Christoe,Ian,0,murr,VIC,Murray,house
+RUA,Rise Up Australia Party,Sherrilyn Church,Church,Sherrilyn,0,mara,QLD,Maranoa,house
+CYC,Australian Cyclists Party,Geoffrey Cicuto,Cicuto,Geoffrey,0,batm,VIC,Batman,house
+LNP,Liberal National Party of Queensland,Steven Ciobo,Ciobo,Steven,0,monc,QLD,Moncrieff,house
+RUA,Rise Up Australia Party,Brian Clare,Clare,Brian,0,pate,NSW,Paterson,house
+ALP,Labor,Jason Clare,Clare,Jason,0,blax,NSW,Blaxland,house
+FFP,Family First Party,David Clark,Clark,David,0,menz,VIC,Menzies,house
+GRN,The Greens,Philippa Clark,Clark,Philippa,0,bank,NSW,Banks,house
+SPA,Secular Party of Australia,Scott Clark,Clark,Scott,0,sqld,QLD,Queensland,senate
+ALP,Australian Labor Party,Tony Clark,Clark,Tony,0,deak,VIC,Deakin,house
+SCP,Science Party,Brendan Michael Clarke,Clarke,Brendan Michael,0,bero,NSW,Berowra,house
+ALP,Labor,Sharon Claydon,Claydon,Sharon,0,newc,NSW,Newcastle,house
+GRN,The Greens (WA),Tim Clifford,Clifford,Tim,0,pert,WA,Perth,house
+ADVP,Veterans Party,Bridget Clinch,Clinch,Bridget,0,bris,QLD,Brisbane,house
 AJP,Animal Justice Party,Janine Clipstone,Clipstone,Janine,0,pade,SA,Port Adelaide,house
-21CP,21st Century Australia,Grace May Cobb,Cobb,Grace May,0,sqld,QLD,Queensland,senate
+IND,Independent,Christopher Mark Cochrane,Cochrane,Christopher Mark,0,ssa,SA,South Australia,senate
 SCP,Science Party,James Coffey,Coffey,James,0,nsyd,NSW,North Sydney,house
 SEP,Socialist Equality Party,James Cogan,Cogan,James,0,snsw,NSW,New South Wales,senate
 NXT,Nick Xenophon Team,Nicky Cohen,Cohen,Nicky,0,stas,TAS,Tasmania,senate
-GRN,Greens,Amanda Cohn,Cohn,Amanda,0,farr,NSW,Farrer,house
-ALP,Labor Party,Libby Coker,Coker,Libby,0,cora,VIC,Corangamite,house
-LIB,Liberal Party of Australia,Richard Colbeck,Colbeck,Richard,1,stas,TAS,Tasmania,senate
-AUC,Australian Christian Party,Dianne Colbert,Colbert,Dianne,0,ball,VIC,Ballarat,house
+GRN,The Greens,Amanda Cohn,Cohn,Amanda,0,farr,NSW,Farrer,house
+ALP,Australian Labor Party,Libby Coker,Coker,Libby,0,cora,VIC,Corangamite,house
+LIB,Liberal,Richard Colbeck,Colbeck,Richard,0,stas,TAS,Tasmania,senate
+AUC,Australian Christians,Dianne Colbert,Colbert,Dianne,0,ball,VIC,Ballarat,house
 NAT,The Nationals,Lisa Cole,Cole,Lisa,0,dura,WA,Durack,house
-LIB,Liberal,David Coleman,Coleman,David,1,bank,NSW,Banks,house
-GRN,Greens,Misha Coleman,Coleman,Misha,0,svic,VIC,Victoria,senate
+CDP,Christian Democratic Party (Fred Nile Group),Stan Colefax,Colefax,Stan,0,neng,NSW,New England,house
+LIB,Liberal,David Coleman,Coleman,David,0,bank,NSW,Banks,house
+GRN,The Greens,Misha Coleman,Coleman,Misha,0,svic,VIC,Victoria,senate
 ASXP,Australian Sex Party,Francesca Collins,Collins,Francesca,0,stas,TAS,Tasmania,senate
-ALP,Australian Labor Party,Jacinta Collins,Collins,Jacinta,1,svic,VIC,Victoria,senate
-ALP,Australian Labor Party,Julie Collins,Collins,Julie,1,fran,TAS,Franklin,house
-LIB,Liberal Party,David Colovic,Colovic,David,0,adel,SA,Adelaide,house
-LIB,Liberal Party,David Compton,Compton,David,0,newc,NSW,Newcastle,house
-MAP,Mature Australia Party,Michael Connolly,Connolly,Michael,0,swa,WA,Western Australia,senate
-ALP,Labor,Pat Conroy,Conroy,Pat,1,shor,NSW,Shortland,house
-ALP,Australian Labor Party,Stephen Conroy,Conroy,Stephen,1,svic,VIC,Victoria,senate
+ALP,Australian Labor Party,Jacinta Collins,Collins,Jacinta,0,svic,VIC,Victoria,senate
+ALP,Australian Labor Party,Julie Collins,Collins,Julie,0,fran,TAS,Franklin,house
+IND,Independent,David Collyer,Collyer,David,0,svic,VIC,Victoria,senate
+LIB,Liberal,David Colovic,Colovic,David,0,adel,SA,Adelaide,house
+LIB,Liberal,David Compton,Compton,David,0,newc,NSW,Newcastle,house
+GRN,The Greens,Michael Connard,Connard,Michael,0,snt,NT,Northern Territory,senate
+FLX,VOTEFLUX.ORG | Upgrade Democracy!,Mark Connolly,Connolly,Mark,0,swa,WA,Western Australia,senate
+MAP,Mature Australia,Mick Connolly,Connolly,Mick,0,frem,WA,Fremantle,house
+ALP,Labor,Pat Conroy,Conroy,Pat,0,shor,NSW,Shortland,house
+ALP,Australian Labor Party,Stephen Michael Conroy,Conroy,Stephen Michael,0,svic,VIC,Victoria,senate
+SFP,"Shooters, Fishers and Farmers",Ethan Constantinou,Constantinou,Ethan,0,svic,VIC,Victoria,senate
+KAP,Katter's Australian Party,Barry Cook,Cook,Barry,0,wbay,QLD,Wide Bay,house
 SEP,Socialist Equality Party,Erin Cooke,Cooke,Erin,0,sqld,QLD,Queensland,senate
-FFP,Family First Party,Paul Coombe,Coombe,Paul,0,maki,SA,Makin,house
-ALP,Labor Party,Matthew Coote,Coote,Matthew,0,gold,VIC,Goldstein,house
+FFP,Family First,Paul Coombe,Coombe,Paul,0,maki,SA,Makin,house
+FFP,Family First Party,Gary John Coombes,Coombes,Gary John,0,deak,VIC,Deakin,house
+LDP,Liberal Democrats,Andrew Cooper,Cooper,Andrew,0,more,QLD,Moreton,house
+CYC,Australian Cyclists Party,Jai Cooper,Cooper,Jai,0,snsw,NSW,New South Wales,senate
+IND,Independent,John Cooper,Cooper,John,0,snsw,NSW,New South Wales,senate
+DHJ,Derryn Hinch's Justice Party,Liz Cooper,Cooper,Liz,0,macq,NSW,Macquarie,house
+ALP,Australian Labor Party,Matthew Ross Coote,Coote,Matthew Ross,0,gold,VIC,Goldstein,house
 NAT,The Nationals,Marty Corboy,Corboy,Marty,0,indi,VIC,Indi,house
-LIB,Liberal Party of Australia,Mathias Cormann,Cormann,Mathias,1,swa,WA,Western Australia,senate
+LIB,Liberal,Mathias Cormann,Cormann,Mathias,0,swa,WA,Western Australia,senate
 IND,Independent,Marcus Cornish,Cornish,Marcus,0,lind,NSW,Lindsay,house
-CEC,Citizens Electoral Council,Lindsay Cosgrove,Cosgrove,Lindsay,0,hume,NSW,Hume,house
-ONP,Pauline Hanson's One Nation,Elise Cottam,Cottam,Elise,0,wbay,QLD,Wide Bay,house
+CEC,Citizens Electoral Council,Lindsay D Cosgrove,Cosgrove,Lindsay D,0,hume,NSW,Hume,house
+ALP,Labor,Alexandra Costello,Costello,Alexandra,0,snsw,NSW,New South Wales,senate
+ONP,Pauline Hanson's One Nation,Elise Anne Cottam,Cottam,Elise Anne,0,wbay,QLD,Wide Bay,house
 DHJ,Derryn Hinch's Justice Party,Deb Cotter,Cotter,Deb,0,sqld,QLD,Queensland,senate
-GRN,Greens,Neill Cotter,Cotter,Neill,0,rank,QLD,Rankin,house
-NAT,The Nationals,Mark Coulton,Coulton,Mark,1,park,NSW,Parkes,house
-MAP,Mature Australia Party,John Cox,Cox,John,0,sqld,QLD,Queensland,senate
-IND,Independent,Philip Cox,Cox,Philip,0,neng,NSW,New England,house
-GRN,Greens,Anna Crabb,Crabb,Anna,0,svic,VIC,Victoria,senate
-IND,Independent,Anthony Craig,Craig,Anthony,0,cala,NSW,Calare,house
+GRN,The Greens,Neil Cotter,Cotter,Neil,0,rank,QLD,Rankin,house
+NAT,The Nationals,Mark Coulton,Coulton,Mark,0,park,NSW,Parkes,house
+CYC,Australian Cyclists Party,Chris Cox,Cox,Chris,0,sqld,QLD,Queensland,senate
+MAP,Mature Australia,John Cox,Cox,John,0,wrig,QLD,Wright,house
+CDP,Christian Democratic Party (Fred Nile Group),Morgan Cox,Cox,Morgan,0,shor,NSW,Shortland,house
+IND,Independent,Philip Gordon Cox,Cox,Philip Gordon,0,neng,NSW,New England,house
+GRN,The Greens,Anna Crabb,Crabb,Anna,0,svic,VIC,Victoria,senate
+IND,Independent,Anthony Gerard Craig,Craig,Anthony Gerard,0,cala,NSW,Calare,house
+LDP,Liberal Democrats,Matthew Craig,Craig,Matthew,0,robe,NSW,Robertson,house
 GRN,The Greens,Richard Cranston,Cranston,Richard,0,menz,VIC,Menzies,house
-APP,Anti-paedophile Party,David Crawford,Crawford,David,0,stas,TAS,Tasmania,senate
-TAP,Arts Party,Terence Crawford,Crawford,Terence,0,ssa,SA,South Australia,senate
+AAP,Antipaedophile Party,David Crawford,Crawford,David,0,stas,TAS,Tasmania,senate
+TAP,The Arts Party,Terence Michael Crawford,Crawford,Terence Michael,0,ssa,SA,South Australia,senate
 RUA,Rise Up Australia Party,Rosalie Crestani,Crestani,Rosalie,0,svic,VIC,Victoria,senate
-LIB,Liberal Party,Chris Crewther,Crewther,Chris,0,dunk,VIC,Dunkley,house
+LIB,Liberal,Chris Crewther,Crewther,Chris,0,dunk,VIC,Dunkley,house
 NXT,Nick Xenophon Team,Daniel Crow,Crow,Daniel,0,sqld,QLD,Queensland,senate
-ONP,Pauline Hanson's One Nation,Rod Culleton,Culleton,Rod,0,swa,WA,Western Australia,senate
+LNP,Liberal National Party of Queensland,George Christensen,Christensen,George,0,daws,QLD,Dawson,house
+AAP,Antipaedophile Party,Maree Ann Cruze,Cruze,Maree Ann,0,snsw,NSW,New South Wales,senate
+ONP,Pauline Hanson's One Nation,Ioanna Culleton,Culleton,Ioanna,0,swa,WA,Western Australia,senate
+ONP,Pauline Hanson's One Nation,Rodney Norman Culleton,Culleton,Rodney Norman,0,swa,WA,Western Australia,senate
 GRN,The Greens,Tom Cummings,Cummings,Tom,0,ltro,VIC,La Trobe,house
-21CP,21st Century Australia,Cameron Curtis,Curtis,Cameron,0,snsw,NSW,New South Wales,senate
-ALP,Labor Party,Simon Curtis,Curtis,Simon,0,ltro,VIC,La Trobe,house
+ALP,Australian Labor Party,Simon Curtis,Curtis,Simon,0,ltro,VIC,La Trobe,house
+AUC,Australian Christians,Edward Dabrowski,Dabrowski,Edward,0,forr,WA,Forrest,house
 NXT,Nick Xenophon Team,Aidan Dalgliesh,Dalgliesh,Aidan,0,snsw,NSW,New South Wales,senate
 ALP,Australian Labor Party,Glen Dallimore,Dallimore,Glen,0,mayo,SA,Mayo,house
-ALP,Australian Labor Party,Michael Danby,Danby,Michael,1,mpor,VIC,Melbourne Ports,house
-ACP,Australian Country party,Robert Danieli,Danieli,Robert,0,murr,VIC,Murray,house
+DLF,Drug Law Reform,Courtney Dalton,Dalton,Courtney,0,cora,VIC,Corangamite,house
+ALP,Australian Labor Party,Michael Danby,Danby,Michael,0,mpor,VIC,Melbourne Ports,house
+ACP,Australian Country Party,Robert Danieli,Danieli,Robert,0,murr,VIC,Murray,house
 GRN,The Greens,Nathan Daniell,Daniell,Nathan,0,mayo,SA,Mayo,house
-ALP,Labor Party,Marg D'Arcy,D'Arcy,Marg,0,kooy,VIC,Kooyong,house
-ALP,Australian Labor Party,Sam Dastyari,Dastyari,Sam,1,snsw,NSW,New South Wales,senate
-ADVP,Australian Defence Veterans Party,Jeremy Davey,Davey,Jeremy,0,sqld,QLD,Queensland,senate
-JLN,Jacqui Lambie Network,Bob Davis,Davis,Bob,0,sqld,QLD,Queensland,senate
+ALP,Australian Labor Party,Marg D'Arcy,D'Arcy,Marg,0,kooy,VIC,Kooyong,house
+SCP,Science Party,Jin-oh Choi,Choi,Jin-oh,0,stas,TAS,Tasmania,senate
+ALA,Australian Liberty Alliance,Matt Darragh,Darragh,Matt,0,grif,QLD,Griffith,house
+ALP,Labor,Sam Dastyari,Dastyari,Sam,0,snsw,NSW,New South Wales,senate
+ADVP,Veterans Party,Jeremy Davey,Davey,Jeremy,0,sqld,QLD,Queensland,senate
+IND,Independent,Malcolm Lloyd Davey,Davey,Malcolm Lloyd,0,ssa,SA,South Australia,senate
+ALP,Australian Labor Party,Anthony Chisholm,Chisholm,Anthony,0,sqld,QLD,Queensland,senate
+LDP,Liberal Democrats,Glen Davis,Davis,Glen,0,cala,NSW,Calare,house
 SEP,Socialist Equality Party,John Davis,Davis,John,0,snsw,NSW,New South Wales,senate
-GRN,Greens,Kate Davis,Davis,Kate,0,frem,WA,Fremantle,house
+GRN,The Greens (WA),Kate Davis,Davis,Kate,0,frem,WA,Fremantle,house
 CEC,Citizens Electoral Council,Peter Davis,Davis,Peter,0,pate,NSW,Paterson,house
 CEC,Citizens Electoral Council,Jeff Davy,Davy,Jeff,0,murr,VIC,Murray,house
-FFP,Family First,Bob Day,Day,Bob,1,ssa,SA,South Australia,senate
-DHJ,Derryn Hinch's Justice Party,Rachael Day,Day,Rachael,0,swa,WA,Western Australia,senate
-IND,Independent,Rob de Jonge,de Jonge,Rob,0,boot,SA,Boothby,house
-GRN,Australian Greens,Harriet de Kok,de Kok,Harriet,0,ssa,SA,South Australia,senate
+IND,Independent,Van Davy,Davy,Van,0,robe,NSW,Robertson,house
+LDP,Liberal Democrats,Robert Dawes,Dawes,Robert,0,solo,NT,Solomon,house
+FFP,Family First,Bob Day,Day,Bob,0,ssa,SA,South Australia,senate
+IND,Independent,Robert de Jonge,de Jonge,Robert,0,boot,SA,Boothby,house
+GRN,The Greens,Harriet De Kok,De Kok,Harriet,0,ssa,SA,South Australia,senate
+SMK,Smokers Rights,Joaquim De Lima,De Lima,Joaquim,0,fowl,NSW,Fowler,house
+GLT,Glenn Lazarus Team,Jannean Dean,Dean,Jannean,0,wbay,QLD,Wide Bay,house
 GRN,The Greens,Martine Delaney,Delaney,Martine,0,fran,TAS,Franklin,house
-MAP,Mature Australia Party,Lyndal Denny,Denny,Lyndal,0,ssa,SA,South Australia,senate
-ALP,Labor Party,Milton Dick,Dick,Milton,0,oxle,QLD,Oxley,house
-GRN,Australian Greens,Richard DiNatale,DiNatale,Richard,1,svic,VIC,Victoria,senate
-AUC,Australian Christian Party,Karen Dobby,Dobby,Karen,0,deak,VIC,Deakin,house
+MAP,Mature Australia,Lyndal Denny,Denny,Lyndal,0,ssa,SA,South Australia,senate
+ODD,Online Direct Democracy - (Empowering the People!),Berge Anthony Der Sarkissian,Der Sarkissian,Berge Anthony,0,snsw,NSW,New South Wales,senate
+GRN,The Greens,Richard Di Natale,Di Natale,Richard,0,svic,VIC,Victoria,senate
+ALP,Australian Labor Party,Milton Dick,Dick,Milton,0,oxle,QLD,Oxley,house
+IND,Independent,Mark Francis Dickenson,Dickenson,Mark Francis,0,svic,VIC,Victoria,senate
+IND,Independent,Robert Dickson,Dickson,Robert,0,fair,QLD,Fairfax,house
+AUC,Australian Christians,Karen Dobby,Dobby,Karen,0,deak,VIC,Deakin,house
 ALA,Australian Liberty Alliance,Chelle Dobson,Dobson,Chelle,0,sqld,QLD,Queensland,senate
-ALP,Australian Labor Party,Pat Dodson,Dodson,Pat,1,swa,WA,Western Australia,senate
-FFP,Family First Party,Geoff Doecke,Doecke,Geoff,0,king,SA,Kingston,house
+KAP,Katter's Australian Party,Ash Dodd,Dodd,Ash,0,daws,QLD,Dawson,house
+ALP,Australian Labor Party,Patrick Dodson,Dodson,Patrick,0,swa,WA,Western Australia,senate
+FFP,Family First,Geoff Doecke,Doecke,Geoff,0,king,SA,Kingston,house
 SAL,Socialist Alliance,Seamus Doherty,Doherty,Seamus,0,swa,WA,Western Australia,senate
-ASXP,Sex Party,Meredith Doig,Doig,Meredith,0,svic,VIC,Victoria,senate
+DHJ,Derryn Hinch's Justice Party,Julieanne Lynette Doidge,Doidge,Julieanne Lynette,0,ltro,VIC,La Trobe,house
+ASXP,Australian Sex Party,Meredith Doig,Doig,Meredith,0,svic,VIC,Victoria,senate
 JLN,Jacqui Lambie Network,Hugh Dolan,Dolan,Hugh,0,svic,VIC,Victoria,senate
 NXT,Nick Xenophon Team,Anthony Dona,Dona,Anthony,0,snsw,NSW,New South Wales,senate
-MAP,Mature Australia Party,Stuart Donald,Donald,Stuart,0,swa,WA,Western Australia,senate
-IND,Independent,Anita Donlon,Donlon,Anita,0,bend,VIC,Bendigo,house
-RUA,Rise Up Australia,Angela Dorian,Dorian,Angela,0,case,VIC,Casey,house
-DLF,Drug Law Reform Australia,Stacey Dowson,Dowson,Stacey,0,snsw,NSW,New South Wales,senate
-ALP,Australian Labor Party,Mark Dreyfus,Dreyfus,Mark,1,isaa,VIC,Isaacs,house
-ODD,Online Direct Democracy,Andrew Driessen,Driessen,Andrew,0,parr,NSW,Parramatta,house
+MAP,Mature Australia,Stuart Donald,Donald,Stuart,0,swa,WA,Western Australia,senate
+GRN,The Greens,Christine Donayre,Donayre,Christine,0,snsw,NSW,New South Wales,senate
+IND,Independent,Anita Erika Donlon,Donlon,Anita Erika,0,bend,VIC,Bendigo,house
+PUP,Palmer United Party,Cara Melissa Donnelly,Donnelly,Cara Melissa,0,snsw,NSW,New South Wales,senate
+LDP,Liberal Democrats,Matt Donnelly,Donnelly,Matt,0,sact,ACT,A.C.T.,senate
+RUA,Rise Up Australia Party,Angela Dorian,Dorian,Angela,0,case,VIC,Casey,house
+RUA,Rise Up Australia Party,Peter Dorian,Dorian,Peter,0,gipp,VIC,Gippsland,house
+CYC,Australian Cyclists Party,Nik Dow,Dow,Nik,0,svic,VIC,Victoria,senate
+DLF,Drug Law Reform,Stacey Dowson,Dowson,Stacey,0,snsw,NSW,New South Wales,senate
+ALP,Australian Labor Party,Mark Dreyfus,Dreyfus,Mark,0,isaa,VIC,Isaacs,house
+ODD,Online Direct Democracy - (Empowering the People!),Andrew Driessen,Driessen,Andrew,0,parr,NSW,Parramatta,house
 NAT,The Nationals,Damian Drum,Drum,Damian,0,murr,VIC,Murray,house
-LIB,Liberal Party of Australia,Jonathan Duniam,Duniam,Jonathan,0,stas,TAS,Tasmania,senate
-LNP,Liberal National Party of Queensland,Peter Dutton,Dutton,Peter,1,dick,QLD,Dickson,house
+ALA,Australian Liberty Alliance,Tony Duncan,Duncan,Tony,0,bowm,QLD,Bowman,house
+LIB,Liberal,Jonathon Duniam,Duniam,Jonathon,0,stas,TAS,Tasmania,senate
+LNP,Liberal National Party of Queensland,Peter Dutton,Dutton,Peter,0,dick,QLD,Dickson,house
 KAP,Katter's Australian Party,Colin Dwyer,Dwyer,Colin,0,herb,QLD,Herbert,house
+IND,Independent,Ray Dyer,Dyer,Ray,0,indi,VIC,Indi,house
 GRN,The Greens,Jonathon Dykyj,Dykyj,Jonathon,0,daws,QLD,Dawson,house
-ACP,Australian Country party,Phil Edge,Edge,Phil,0,cora,VIC,Corangamite,house
-AJP,Animal Justice Party,Jacqui Edgecombe,Edgecombe,Jacqui,0,svic,VIC,Victoria,senate
-ONP,One Nation,Carter Edwards,Edwards,Carter,0,dobe,NSW,Dobell,house
-LIB,Liberal Party of Australia,Sean Edwards,Edwards,Sean,1,ssa,SA,South Australia,senate
+LDP,Liberal Democrats,Luke Dzivinski,Dzivinski,Luke,0,mayo,SA,Mayo,house
+IND,Independent,Braedon Earley,Earley,Braedon,0,ling,NT,Lingiari,house
+IND,Independent,Bren Eckel,Eckel,Bren,0,ball,VIC,Ballarat,house
+AJP,Animal Justice Party,Jacqueline Edgecombe,Edgecombe,Jacqueline,0,svic,VIC,Victoria,senate
+ONP,Pauline Hanson's One Nation,Carter Edwards,Edwards,Carter,0,dobe,NSW,Dobell,house
+CDP,Christian Democratic Party (Fred Nile Group),Daniel Edwards,Edwards,Daniel,0,werr,NSW,Werriwa,house
+SPA,Secular Party of Australia,David Edwards,Edwards,David,0,sact,ACT,A.C.T.,senate
+LIB,Liberal,Sean Edwards,Edwards,Sean,0,ssa,SA,South Australia,senate
+CDP,Christian Democratic Party (Fred Nile Group),Lena El-Daghl,El-Daghl,Lena,0,snsw,NSW,New South Wales,senate
 AJP,Animal Justice Party,Gordon Elkington,Elkington,Gordon,0,snsw,NSW,New South Wales,senate
-ALP,Labor,Justine Elliot,Elliot,Justine,1,rich,NSW,Richmond,house
-ALP,Australian Labor Party,Kate Ellis,Ellis,Kate,1,adel,SA,Adelaide,house
-GRN,Greens,Sylvie Ellsmore,Ellsmore,Sylvie,0,sydn,NSW,Sydney,house
-CDP,Christian Democratic Party,Jamie Elvy,Elvy,Jamie,0,gray,NSW,Grayndler,house
+ALP,Labor,Justine Elliot,Elliot,Justine,0,rich,NSW,Richmond,house
+SPA,Secular Party of Australia,Dee Ellis,Ellis,Dee,0,snsw,NSW,New South Wales,senate
+ALP,Australian Labor Party,Kate Ellis,Ellis,Kate,0,adel,SA,Adelaide,house
+LDP,Liberal Democrats,Mark Ellis,Ellis,Mark,0,page,NSW,Page,house
+GRN,The Greens,Sylvie Ellsmore,Ellsmore,Sylvie,0,sydn,NSW,Sydney,house
+CDP,Christian Democratic Party (Fred Nile Group),Jamie Elvy,Elvy,Jamie,0,gray,NSW,Grayndler,house
 SAL,Socialist Alliance,Kamala Emanuel,Emanuel,Kamala,0,swa,WA,Western Australia,senate
-LNP,Liberal National Party of Queensland,Warren Entsch,Entsch,Warren,1,leic,QLD,Leichhardt,house
-CDP,Christian Democratic Party,Hadden Ervin,Ervin,Hadden,0,dobe,NSW,Dobell,house
-GRN,Greens,Sue Etheridge,Etheridge,Sue,0,fair,QLD,Fairfax,house
+ODD,Online Direct Democracy - (Empowering the People!),Arthur John Emmett,Emmett,Arthur John,0,snsw,NSW,New South Wales,senate
+IND,Independent,Jonathan Emms,Emms,Jonathan,0,blai,QLD,Blair,house
+LNP,Liberal National Party of Queensland,Warren Entsch,Entsch,Warren,0,leic,QLD,Leichhardt,house
+CDP,Christian Democratic Party (Fred Nile Group),Hadden Robert Ervin,Ervin,Hadden Robert,0,dobe,NSW,Dobell,house
+GRN,The Greens,Susan Etheridge,Etheridge,Susan,0,fair,QLD,Fairfax,house
+IND,Independent,Ian Eugarde,Eugarde,Ian,0,sqld,QLD,Queensland,senate
 AJP,Animal Justice Party,Caitlin Evans,Evans,Caitlin,0,batm,VIC,Batman,house
-LNP,Liberal National Party,Trevor Evans,Evans,Trevor,0,bris,QLD,Brisbane,house
-ALP,Australian Labor Party,David Ewings,Ewings,David,0,neng,NSW,New England,house
-TAP,Arts Party,Neil Fainges,Fainges,Neil,0,sqld,QLD,Queensland,senate
-CDP,Christian Democratic Party,Ula Falanga,Falanga,Ula,0,sydn,NSW,Sydney,house
-LIB,Liberal Party,Jason Falinski,Falinski,Jason,0,mack,NSW,Mackellar,house
-GRN,Greens,Kudra Falla-Ricketts,Falla-Ricketts,Kudra,0,page,NSW,Page,house
+RFP,Australian Recreational Fishers Party,Carmen Evans,Evans,Carmen,0,stas,TAS,Tasmania,senate
+SUP,Seniors United Party of Australia,Gillian Evans,Evans,Gillian,0,snsw,NSW,New South Wales,senate
+LNP,Liberal National Party of Queensland,Trevor Evans,Evans,Trevor,0,bris,QLD,Brisbane,house
+ALP,Labor,David Ewings,Ewings,David,0,neng,NSW,New England,house
+CDP,Christian Democratic Party (Fred Nile Group),Amanda Excell,Excell,Amanda,0,deni,TAS,Denison,house
+TAP,The Arts Party,Neil Fainges,Fainges,Neil,0,sqld,QLD,Queensland,senate
+CDP,Christian Democratic Party (Fred Nile Group),Ula Falanga,Falanga,Ula,0,sydn,NSW,Sydney,house
+LIB,Liberal,Jason Falinski,Falinski,Jason,0,mack,NSW,Mackellar,house
+GRN,The Greens,Kudra Falla-Ricketts,Falla-Ricketts,Kudra,0,page,NSW,Page,house
 NAT,The Nationals,Wes Fang,Fang,Wes,0,snsw,NSW,New South Wales,senate
-NAT,National Party of Australia,Nick Fardell,Fardell,Nick,0,swa,WA,Western Australia,senate
+NAT,The Nationals,Nick Fardell,Fardell,Nick,0,swa,WA,Western Australia,senate
+HAP,Health Australia Party,Sara Fargher,Fargher,Sara,0,swa,WA,Western Australia,senate
+LIB,Liberal,Adam Farhan,Farhan,Adam,0,fowl,NSW,Fowler,house
 ALP,Australian Labor Party,Don Farrell,Farrell,Don,0,ssa,SA,South Australia,senate
 VEP,Voluntary Euthanasia Party,Janise Farrell,Farrell,Janise,0,snsw,NSW,New South Wales,senate
-LIB,Liberal Party of Australia,David Fawcett,Fawcett,David,1,ssa,SA,South Australia,senate
-ALP,Australian Labor Party,David Feeney,Feeney,David,1,batm,VIC,Batman,house
-LIB,Liberal Party,Michael Feneley,Feneley,Michael,0,ksmi,NSW,Kingsford Smith,house
+LIB,Liberal,David Fawcett,Fawcett,David,0,ssa,SA,South Australia,senate
+ALP,Australian Labor Party,David Feeney,Feeney,David,0,batm,VIC,Batman,house
+LIB,Liberal,Michael Feneley,Feneley,Michael,0,ksmi,NSW,Kingsford Smith,house
+SFP,"Shooters, Fishers and Farmers",David Fent,Fent,David,0,ltro,VIC,La Trobe,house
 GRN,The Greens,Josh Fergeus,Fergeus,Josh,0,chis,VIC,Chisholm,house
-ACP,Australian Country party,Julian Fidge,Fidge,Julian,0,indi,VIC,Indi,house
+GRN,The Greens,Sarah Fernandes,Fernandes,Sarah,0,snsw,NSW,New South Wales,senate
+RUA,Rise Up Australia Party,Vincent Ferrando,Ferrando,Vincent,0,indi,VIC,Indi,house
+ACP,Australian Country Party,Julian Fidge,Fidge,Julian,0,indi,VIC,Indi,house
 AJP,Animal Justice Party,Deborah Field,Field,Deborah,0,sact,ACT,A.C.T.,senate
-LIB,Liberal Party of Australia,Concetta Fierravanti-Wells,Fierravanti-Wells,Concetta,1,snsw,NSW,New South Wales,senate
-LIB,Liberal Party of Australia,Mitch Fifield,Fifield,Mitch,1,svic,VIC,Victoria,senate
+LIB,Liberal,Concetta Fierravanti-Wells,Fierravanti-Wells,Concetta,0,snsw,NSW,New South Wales,senate
+LIB,Liberal,Mitch Fifield,Fifield,Mitch,0,svic,VIC,Victoria,senate
+PUP,Palmer United Party,Carlo Filingeri,Filingeri,Carlo,0,ssa,SA,South Australia,senate
+LIB,Liberal,Felicity Findlay,Findlay,Felicity,0,blax,NSW,Blaxland,house
+ORP,Outdoor Recreation Party (Stop The Greens),David Fishlock,Fishlock,David,0,forr,WA,Forrest,house
 ASXP,Australian Sex Party,Ross Fitzgerald,Fitzgerald,Ross,0,snsw,NSW,New South Wales,senate
-ALP,Labor,Joel Fitzgibbon,Fitzgibbon,Joel,1,hunt,NSW,Hunter,house
+ALP,Labor,Joel Fitzgibbon,Fitzgibbon,Joel,0,hunt,NSW,Hunter,house
 NCP,Non-Custodial Parents Party (Equal Parenting),John Flanagan,Flanagan,John,0,cunn,NSW,Cunningham,house
-IND,Independent,Nathan Fletcher,Fletcher,Nathan,0,flyn,QLD,Flynn,house
-LIB,Liberal,Paul Fletcher,Fletcher,Paul,1,brfd,NSW,Bradfield,house
-LIB,Liberal Party,Nicolle Flint,Flint,Nicolle,0,boot,SA,Boothby,house
-LIB,Liberal Party,Emma Jane Flowerdew,Flowerdew,Emma Jane,0,pade,SA,Port Adelaide,house
-FLX,Flux.org,Reece Flowers,Flowers,Reece,0,sqld,QLD,Queensland,senate
+IND,Independent,Nathan Joel David Fletcher,Fletcher,Nathan Joel David,0,flyn,QLD,Flynn,house
+LIB,Liberal,Paul Fletcher,Fletcher,Paul,0,brfd,NSW,Bradfield,house
+LIB,Liberal,Nicolle Flint,Flint,Nicolle,0,boot,SA,Boothby,house
+LIB,Liberal,Emma Flowerdew,Flowerdew,Emma,0,pade,SA,Port Adelaide,house
+FLX,VOTEFLUX.ORG | Upgrade Democracy!,Reece Flowers,Flowers,Reece,0,sqld,QLD,Queensland,senate
+IND,Independent,Glenn Floyd,Floyd,Glenn,0,svic,VIC,Victoria,senate
 CEC,Citizens Electoral Council,Peter Flynn,Flynn,Peter,0,ling,NT,Lingiari,house
+FFP,Family First Party,Nathan Foggie,Foggie,Nathan,0,bruc,VIC,Bruce,house
+IND,Independent,Richard Foley,Foley,Richard,0,rive,NSW,Riverina,house
 AJP,Animal Justice Party,Leah Folloni,Folloni,Leah,0,ltro,VIC,La Trobe,house
 ALP,Australian Labor Party,Jon Ford,Ford,Jon,0,ocon,WA,O'Connor,house
+IND,Independent,Bill Foster,Foster,Bill,0,hink,QLD,Hinkler,house
 VEP,Voluntary Euthanasia Party,Jay Franklin,Franklin,Jay,0,menz,VIC,Menzies,house
 NAT,The Nationals,Matthew Fraser,Fraser,Matthew,0,rich,NSW,Richmond,house
-ALP,Labor Party,Laura Fraser Hardy,Fraser Hardy,Laura,0,bonn,QLD,Bonner,house
-MAP,Mature Australia Party,Greg Frearson,Frearson,Greg,0,snsw,NSW,New South Wales,senate
-ALP,Australian Labor Party,Michael Freelander,Freelander,Michael,0,maca,NSW,Macarthur,house
+ALP,Australian Labor Party,Laura Fraser Hardy,Fraser Hardy,Laura,0,bonn,QLD,Bonner,house
+MAP,Mature Australia,Gregory Frearson,Frearson,Gregory,0,snsw,NSW,New South Wales,senate
+ALP,Labor,Mike Freelander,Freelander,Mike,0,maca,NSW,Macarthur,house
+DLP,DLP Democratic Labour,Michael Freeman,Freeman,Michael,0,svic,VIC,Victoria,senate
 ASXP,Australian Sex Party,Lewis Freeman-Harrison,Freeman-Harrison,Lewis,0,melb,VIC,Melbourne,house
 ALP,Australian Labor Party,Thomas French,French,Thomas,0,pear,WA,Pearce,house
-LIB,Liberal,Josh Frydenberg,Frydenberg,Josh,1,kooy,VIC,Kooyong,house
+ADVP,Veterans Party,Don Friend,Friend,Don,0,emon,NSW,Eden-Monaro,house
+LIB,Liberal,Josh Frydenberg,Frydenberg,Josh,0,kooy,VIC,Kooyong,house
 SEP,Socialist Equality Party,Will Fulgenzi,Fulgenzi,Will,0,will,VIC,Wills,house
-ALP,Australian Labor Party,Rhonda Funnell,Funnell,Rhonda,0,mack,NSW,Mackellar,house
+ALP,Labor,Rhonda Funnell,Funnell,Rhonda,0,mack,NSW,Mackellar,house
 ALP,Australian Labor Party,Sandy Gadd,Gadd,Sandy,0,mcph,QLD,McPherson,house
-GRN,Greens,Rebecca Galdies,Galdies,Rebecca,0,stur,SA,Sturt,house
-ALP,Australian Labor Party,Alex Gallacher,Gallacher,Alex,1,ssa,SA,South Australia,senate
+GRN,The Greens,Rebecca Galdies,Galdies,Rebecca,0,stur,SA,Sturt,house
+ALP,Australian Labor Party,Alex Gallacher,Gallacher,Alex,0,ssa,SA,South Australia,senate
 ALP,Australian Labor Party,Bronwyn Gallacher,Gallacher,Bronwyn,0,ssa,SA,South Australia,senate
-ALP,Australian Labor Party,Katy Gallagher,Gallagher,Katy,1,sact,ACT,A.C.T.,senate
-ALP,Australian Labor Party,Chris Gambian,Gambian,Chris,0,bank,NSW,Banks,house
-FLX,Flux,Mark Gardener,Gardener,Mark,0,sqld,QLD,Queensland,senate
+ALP,Australian Labor Party,Katy Gallagher,Gallagher,Katy,0,sact,ACT,A.C.T.,senate
+IND,Independent,Mick Gallagher,Gallagher,Mick,0,bero,NSW,Berowra,house
+FFP,Family First,Donna Maree Gallehawk,Gallehawk,Donna Maree,0,kenn,QLD,Kennedy,house
+ALP,Labor,Chris Gambian,Gambian,Chris,0,bank,NSW,Banks,house
+FLX,VOTEFLUX.ORG | Upgrade Democracy!,Mark Gardner,Gardner,Mark,0,sqld,QLD,Queensland,senate
 REP,Renewable Energy Party,Peter Gardner,Gardner,Peter,0,gipp,VIC,Gippsland,house
+IND,Independent,Mark Garner,Garner,Mark,0,solo,NT,Solomon,house
 IND,Independent,Liam Gavin,Gavin,Liam,0,mack,NSW,Mackellar,house
-ALA,Australian Liberty Alliance,Bernard Gaynor,Gaynor,Bernard,0,sqld,QLD,Queensland,senate
-FFP,Family First Party,Ned Gebadi,Gebadi,Ned,0,leic,QLD,Leichhardt,house
+ALA,Australian Liberty Alliance,Bernard William Gaynor,Gaynor,Bernard William,0,sqld,QLD,Queensland,senate
+FFP,Family First,Ned Kelly Gebadi,Gebadi,Ned Kelly,0,leic,QLD,Leichhardt,house
 NAT,The Nationals,Andrew Gee,Gee,Andrew,0,cala,NSW,Calare,house
-CDP,Christian Democratic Party,James Gent,Gent,James,0,maca,NSW,Macarthur,house
-ALP,Labor Party,Steve Georganas,Georganas,Steve,0,hind,SA,Hindmarsh,house
-ODD,Online Direct Democracy,Paul Gerantonis,Gerantonis,Paul,0,wats,NSW,Watson,house
-CDP,Christian Democratic Party,Bernie Gesling,Gesling,Bernie,0,cala,NSW,Calare,house
-GRN,Greens,Tony Gibson,Gibson,Tony,0,fish,QLD,Fisher,house
+SFP,"Shooters, Fishers and Farmers",Michael Anthony Gee,Gee,Michael Anthony,0,sqld,QLD,Queensland,senate
+SCP,Science Party,Tom Geiser,Geiser,Tom,0,sydn,NSW,Sydney,house
+CDP,Christian Democratic Party (Fred Nile Group),James Gent,Gent,James,0,maca,NSW,Macarthur,house
+RUA,Rise Up Australia Party,Yvonne Gentle,Gentle,Yvonne,0,flin,VIC,Flinders,house
+ALP,Australian Labor Party,Steve Georganas,Georganas,Steve,0,hind,SA,Hindmarsh,house
+MFP,MFP,Mark George,George,Mark,0,svic,VIC,Victoria,senate
+ONP,Pauline Hanson's One Nation,Peter Georgiou,Georgiou,Peter,0,swa,WA,Western Australia,senate
+ODD,Online Direct Democracy - (Empowering the People!),Paul Geran,Geran,Paul,0,wats,NSW,Watson,house
+FFP,Family First,Geoff Darr,Darr,Geoff,0,blai,QLD,Blair,house
+GRN,The Greens,Kate Giamarelos,Giamarelos,Kate,0,capr,QLD,Capricornia,house
+IND,Independent,John Gibson,Gibson,John,0,sqld,QLD,Queensland,senate
+GRN,The Greens,Tony Gibson,Gibson,Tony,0,fish,QLD,Fisher,house
 FFP,Family First,Lucy Gichuhi,Gichuhi,Lucy,0,ssa,SA,South Australia,senate
-ALP,Labor Party,Frank Gilbert,Gilbert,Frank,0,daws,QLD,Dawson,house
-ALP,Australian Labor Party,Andrew Giles,Giles,Andrew,1,scul,VIC,Scullin,house
-NAT,The Nationals,David Gillespie,Gillespie,David,1,lyne,NSW,Lyne,house
-RUA,Rise Up Australia Party,Jimmy Baia Gimini,Gimini,Jimmy Baia,0,snt,NT,Northern Territory,senate
-AJP,Animal Justice Party,Hal Ginges,Ginges,Hal,0,macq,NSW,Macquarie,house
+ALP,Australian Labor Party,Frank Gilbert,Gilbert,Frank,0,daws,QLD,Dawson,house
+ALP,Australian Labor Party,Andrew Giles,Giles,Andrew,0,scul,VIC,Scullin,house
+NAT,The Nationals,David Gillespie,Gillespie,David,0,lyne,NSW,Lyne,house
+REP,Renewable Energy Party,Dougal Gillman,Gillman,Dougal,0,will,VIC,Wills,house
+APP,Australian Progressives,Josh Gilmore,Gilmore,Josh,0,svic,VIC,Victoria,senate
+RUA,Rise Up Australia Party,Jimmy Gimini,Gimini,Jimmy,0,snt,NT,Northern Territory,senate
+IND,Independent,Catherine Cumming,Cumming,Catherine,0,mari,VIC,Maribyrnong,house
 SCP,Science Party,Marc Giordano,Giordano,Marc,0,warr,NSW,Warringah,house
-CDP,Christian Democratic Party,Maurice Girotto,Girotto,Maurice,0,lind,NSW,Lindsay,house
-ALP,Labor Party,Bill Gissane,Gissane,Bill,0,fish,QLD,Fisher,house
+ALP,Australian Labor Party,Bill Gissane,Gissane,Bill,0,fish,QLD,Fisher,house
 GRN,The Greens,Rosemary Glaisher,Glaisher,Rosemary,0,bend,VIC,Bendigo,house
-GRN,Greens,Viv Glance,Glance,Viv,0,curt,WA,Curtin,house
-TAP,Arts Party,Nicholas Gledhill,Gledhill,Nicholas,0,snsw,NSW,New South Wales,senate
+GRN,The Greens (WA),Viv Glance,Glance,Viv,0,curt,WA,Curtin,house
+TAP,The Arts Party,Nicholas Gledhill,Gledhill,Nicholas,0,snsw,NSW,New South Wales,senate
 ALP,Australian Labor Party,Carolyn Gleixner,Gleixner,Carolyn,0,flin,VIC,Flinders,house
-TAP,Arts Party,Rose Godde,Godde,Rose,0,svic,VIC,Victoria,senate
+TAP,The Arts Party,Rose Godde,Godde,Rose,0,svic,VIC,Victoria,senate
+HAP,Health Australia Party,Isaac Golden,Golden,Isaac,0,svic,VIC,Victoria,senate
+HAP,Health Australia Party,Sarinah Golden,Golden,Sarinah,0,sqld,QLD,Queensland,senate
 GRN,The Greens,Mercurius Goldstein,Goldstein,Mercurius,0,neng,NSW,New England,house
-ALP,Australian Labor Party,Katie Gompertz,Gompertz,Katie,0,brfd,NSW,Bradfield,house
-LIB,Liberal,Ian Goodenough,Goodenough,Ian,1,moor,WA,Moore,house
+ALP,Labor,Katie Gompertz,Gompertz,Katie,0,brfd,NSW,Bradfield,house
+SAL,Socialist Alliance,Tim Gooden,Gooden,Tim,0,svic,VIC,Victoria,senate
+LIB,Liberal,Ian Goodenough,Goodenough,Ian,0,moor,WA,Moore,house
+GRN,The Greens,Ray Goodlass,Goodlass,Ray,0,snsw,NSW,New South Wales,senate
+IND,Independent,Peter Gooley,Gooley,Peter,0,snsw,NSW,New South Wales,senate
+CDP,Christian Democratic Party (Fred Nile Group),Mishka Gora,Gora,Mishka,0,stas,TAS,Tasmania,senate
 TAP,The Arts Party,Christopher Gordon,Gordon,Christopher,0,benn,NSW,Bennelong,house
 SCP,Science Party,Tom Gordon,Gordon,Tom,0,wats,NSW,Watson,house
-ALP,Labor Party,Luke Gosling,Gosling,Luke,0,solo,NT,Solomon,house
+ALP,Australian Labor Party (Northern Territory) Branch,Luke Gosling,Gosling,Luke,0,solo,NT,Solomon,house
 CEC,Citizens Electoral Council,Michael Gough,Gough,Michael,0,cowp,NSW,Cowper,house
-AUC,Australian Christian Party,Grahame Gould,Gould,Grahame,0,dura,WA,Durack,house
-FFP,Family First Party,Theresa Graham,Graham,Theresa,0,grif,QLD,Griffith,house
+IND,Independent,Alfred Gould,Gould,Alfred,0,ling,NT,Lingiari,house
+AUC,Australian Christians,Grahame Gould,Gould,Grahame,0,dura,WA,Durack,house
+IND,Independent,Phillip Gourlay,Gourlay,Phillip,0,grey,SA,Grey,house
+SA,Sustainable Australia,Greg Graham,Graham,Greg,0,snsw,NSW,New South Wales,senate
+FFP,Family First,Theresa Graham,Graham,Theresa,0,grif,QLD,Griffith,house
 NXT,Nick Xenophon Team,Suzanne Grant,Grant,Suzanne,0,sqld,QLD,Queensland,senate
-CDP,Christian Democratic Party,Josh Green,Green,Josh,0,chif,NSW,Chifley,house
+CDP,Christian Democratic Party (Fred Nile Group),Joshua Green,Green,Joshua,0,chif,NSW,Chifley,house
 AMEP,Australian Motoring Enthusiast Party,Nathan Green,Green,Nathan,0,ssa,SA,South Australia,senate
-FFP,Family First Party,Simon Green,Green,Simon,0,mcph,QLD,McPherson,house
+FFP,Family First Party,Randell Green,Green,Randell,0,svic,VIC,Victoria,senate
+FFP,Family First,Simon Green,Green,Simon,0,mcph,QLD,McPherson,house
 AJP,Animal Justice Party,Zarina Greenberg,Greenberg,Zarina,0,maki,SA,Makin,house
 NCP,Non-Custodial Parents Party (Equal Parenting),Eric Greening,Greening,Eric,0,snsw,NSW,New South Wales,senate
 SEP,Socialist Equality Party,Oscar Grenfell,Grenfell,Oscar,0,gray,NSW,Grayndler,house
 NXT,Nick Xenophon Team,Stirling Griff,Griff,Stirling,0,ssa,SA,South Australia,senate
-CLP,Country Liberals (NT),Natasha Griggs,Griggs,Natasha,1,solo,NT,Solomon,house
+CLP,Country Liberals (NT),Natasha Griggs,Griggs,Natasha,0,solo,NT,Solomon,house
+DHJ,Derryn Hinch's Justice Party,Scott Grimley,Grimley,Scott,0,lind,NSW,Lindsay,house
 DHJ,Derryn Hinch's Justice Party,Stuart Grimley,Grimley,Stuart,0,svic,VIC,Victoria,senate
-AUC,Australian Christian Party,Maryka Groenewald,Groenewald,Maryka,0,moor,WA,Moore,house
-DHJ,Derryn Hinch's Justice Party,Lyn Grosser,Grosser,Lyn,0,ssa,SA,South Australia,senate
-LDP,Liberal Democratic Party,Sly Gryphon,Gryphon,Sly,0,ryan,QLD,Ryan,house
-LIB,Liberal Party,Owen Guest,Guest,Owen,0,mpor,VIC,Melbourne Ports,house
+SFP,"Shooters, Fishers and Farmers",Jake Grizelj,Grizelj,Jake,0,macq,NSW,Macquarie,house
+AUC,Australian Christians,Maryka Groenewald,Groenewald,Maryka,0,moor,WA,Moore,house
+IND,Independent,Daniel Grosmaire,Grosmaire,Daniel,0,emon,NSW,Eden-Monaro,house
+DHJ,Derryn Hinch's Justice Party,Lynn-Marie Grosser,Grosser,Lynn-Marie,0,ssa,SA,South Australia,senate
+LDP,Liberal Democrats,S Gryphon,Gryphon,S,0,ryan,QLD,Ryan,house
+IND,Independent,Warren Grzic,Grzic,Warren,0,snsw,NSW,New South Wales,senate
+IND,Independent,Franco Guardiani,Guardiani,Franco,0,batm,VIC,Batman,house
+LDP,Liberal Democrats,Mark Guest,Guest,Mark,0,parr,NSW,Parramatta,house
+LIB,Liberal,Owen Guest,Guest,Owen,0,mpor,VIC,Melbourne Ports,house
 AJP,Animal Justice Party,Eleonora Gullone,Gullone,Eleonora,0,higg,VIC,Higgins,house
-REP,Renewable Energy Party,Marybeth Gundrum,Gundrum,Marybeth,0,sqld,QLD,Queensland,senate
-LIB,Liberal Party,Robert Gunning,Gunning,Robert,0,fenn,ACT,Fenner,house
-21CP,21st Century Party,Bill Gupta,Gupta,Bill,0,batm,VIC,Batman,house
+RUA,Rise Up Australia Party,Yasmin Gunasekera,Gunasekera,Yasmin,0,murr,VIC,Murray,house
+REP,Renewable Energy Party,MaryBeth Gundrum,Gundrum,MaryBeth,0,sqld,QLD,Queensland,senate
+LIB,Liberal,Robert Gunning,Gunning,Robert,0,fenn,ACT,Fenner,house
+PUP,Palmer United Party,Craig Gunnis,Gunnis,Craig,0,sqld,QLD,Queensland,senate
 KAP,Katter's Australian Party,Rick Gurnett,Gurnett,Rick,0,mara,QLD,Maranoa,house
-GRN,Greens,Sophie Guy,Guy,Sophie,0,adel,SA,Adelaide,house
-GLT,Glenn Lazarus Team,Michael,Hall,Michael,0,daws,QLD,Dawson,house
-GRN,Greens,Mike Hall,Hall,Mike,0,mack,NSW,Mackellar,house
-CDP,Christian Democratic Party,Nella Hall,Hall,Nella,0,snsw,NSW,New South Wales,senate
-FFP,Family First Party,Sharan Hall,Hall,Sharan,0,lill,QLD,Lilley,house
+GRN,The Greens,Sophie Guy,Guy,Sophie,0,adel,SA,Adelaide,house
+IND,Independent,Yingiya Mark Guyula,Guyula,Yingiya Mark,0,ling,NT,Lingiari,house
+SFP,"Shooters, Fishers and Farmers",John Hahn,Hahn,John,0,ssa,SA,South Australia,senate
+CDP,Christian Democratic Party (Fred Nile Group),Craig Hall,Hall,Craig,0,fowl,NSW,Fowler,house
+IND,Independent,Dennis Hall,Hall,Dennis,0,svic,VIC,Victoria,senate
+GLT,Glenn Lazarus Team,Michael Hall,Hall,Michael,0,daws,QLD,Dawson,house
+AJP,Animal Justice Party,Hal Jon Ginges,Ginges,Hal Jon,0,macq,NSW,Macquarie,house
+GRN,The Greens,Mike Hall,Hall,Mike,0,mack,NSW,Mackellar,house
+FFP,Family First,Sharan Hall,Hall,Sharan,0,lill,QLD,Lilley,house
 ALA,Australian Liberty Alliance,Carl Halley,Halley,Carl,0,macq,NSW,Macquarie,house
 NXT,Nick Xenophon Team,Naomi Halpern,Halpern,Naomi,0,svic,VIC,Victoria,senate
-FFP,Family First Party,Bruce Hambour,Hambour,Bruce,0,pade,SA,Port Adelaide,house
+FFP,Family First,Bruce Hambour,Hambour,Bruce,0,pade,SA,Port Adelaide,house
+LDP,Liberal Democrats,Neil Hamilton,Hamilton,Neil,0,cowa,WA,Cowan,house
 ALP,Australian Labor Party,Tim Hammond,Hammond,Tim,0,pert,WA,Perth,house
-DHJ,Derry Hinch Justice Party,Karin Hanbidge,Hanbidge,Karin,0,sqld,QLD,Queensland,senate
-MAP,Mature Australia Party,Anthony Hanson,Hanson,Anthony,0,sact,ACT,A.C.T.,senate
+ALP,Labor,Paul Yi-Wen Han,Han,Paul Yi-Wen,0,snsw,NSW,New South Wales,senate
+DHJ,Derryn Hinch's Justice Party,Karin Hanbidge,Hanbidge,Karin,0,sqld,QLD,Queensland,senate
+CDP,Christian Democratic Party (Fred Nile Group),May Hanna,Hanna,May,0,svic,VIC,Victoria,senate
+IND,Independent,Leeanne Hanna-McGuffie,Hanna-McGuffie,Leeanne,0,sqld,QLD,Queensland,senate
+MAP,Mature Australia,Anthony Hanson,Hanson,Anthony,0,sact,ACT,A.C.T.,senate
 ONP,Pauline Hanson's One Nation,Pauline Hanson,Hanson,Pauline,0,sqld,QLD,Queensland,senate
-GRN,Australian Greens,Sarah Hanson-Young,Hanson-Young,Sarah,1,ssa,SA,South Australia,senate
-HMP,Help End Marijuana Prohibition,Michael Harding,Harding,Michael,0,sqld,QLD,Queensland,senate
+GRN,The Greens,Sarah Hanson-Young,Hanson-Young,Sarah,0,ssa,SA,South Australia,senate
+FFP,Family First Party,Nathan Harding,Harding,Nathan,0,mcmi,VIC,McMillan,house
 CEC,Citizens Electoral Council,Stephen Harding,Harding,Stephen,0,sqld,QLD,Queensland,senate
-LNP,LNP,Teresa Harding,Harding,Teresa,0,blai,QLD,Blair,house
-ALP,Labor Party,Des Hardman,Hardman,Des,0,ford,QLD,Forde,house
+LNP,Liberal National Party of Queensland,Teresa Harding,Harding,Teresa,0,blai,QLD,Blair,house
+ALP,Australian Labor Party,Des Hardman,Hardman,Des,0,ford,QLD,Forde,house
 RUA,Rise Up Australia Party,Anthony Hardwick,Hardwick,Anthony,0,swa,WA,Western Australia,senate
+CYC,Australian Cyclists Party,Angus Harker-Smith,Harker-Smith,Angus,0,ssa,SA,South Australia,senate
+RFP,Australian Recreational Fishers Party,Kevin Harkins,Harkins,Kevin,0,stas,TAS,Tasmania,senate
+LDP,Liberal Democrats,David Harris,Harris,David,0,herb,QLD,Herbert,house
 KAP,Katter's Australian Party,Tom Harris,Harris,Tom,0,snsw,NSW,New South Wales,senate
-ALP,Labor Party,Ross Hart,Hart,Ross,0,bass,TAS,Bass,house
+IND,Independent,Zoemaree Harris,Harris,Zoemaree,0,sqld,QLD,Queensland,senate
+ALP,Australian Labor Party,Ross Hart,Hart,Ross,0,bass,TAS,Bass,house
 NCP,Non-Custodial Parents Party (Equal Parenting),Wayne Hartman,Hartman,Wayne,0,whit,NSW,Whitlam,house
-NAT,The Nationals,Luke Hartsuyker,Hartsuyker,Luke,1,cowp,NSW,Cowper,house
+NAT,The Nationals,Luke Hartsuyker,Hartsuyker,Luke,0,cowp,NSW,Cowper,house
+IND,Independent,John Harvey,Harvey,John,0,hunt,NSW,Hunter,house
 NAT,The Nationals,John Hassell,Hassell,John,0,ocon,WA,O'Connor,house
-LIB,Liberal Party,Andrew Hastie,Hastie,Andrew,1,cann,WA,Canning,house
-LIB,Liberal Party,Ted Hatzakortzian,Hatzakortzian,Ted,0,mari,VIC,Maribyrnong,house
-LIB,Liberal,Alex Hawke,Hawke,Alex,1,mitc,NSW,Mitchell,house
-CDP,Christian Democratic Party,Katherine Hawken,Hawken,Katherine,0,nsyd,NSW,North Sydney,house
-SPP,Sustainable Australia,John Haydon,Haydon,John,0,sact,ACT,A.C.T.,senate
-ALP,Labor,Chris Hayes,Hayes,Chris,1,fowl,NSW,Fowler,house
-ALP,Australian Labor Party,Peter Hayes,Hayes,Peter,0,nsyd,NSW,North Sydney,house
-PROG,Australian Progressive Party,Russell Hayward,Hayward,Russell,0,svic,VIC,Victoria,senate
+LIB,Liberal,Andrew Hastie,Hastie,Andrew,0,cann,WA,Canning,house
+LIB,Liberal,Ted Hatzakortzian,Hatzakortzian,Ted,0,mari,VIC,Maribyrnong,house
+LIB,Liberal,Alex Hawke,Hawke,Alex,0,mitc,NSW,Mitchell,house
+IND,Independent,Peter John Hawks,Hawks,Peter John,0,svic,VIC,Victoria,senate
+FLX,VOTEFLUX.ORG | Upgrade Democracy!,Michael Gerard Hay,Hay,Michael Gerard,0,sact,ACT,A.C.T.,senate
+SA,Sustainable Australia,John Haydon,Haydon,John,0,sact,ACT,A.C.T.,senate
+ALP,Labor,Chris Hayes,Hayes,Chris,0,fowl,NSW,Fowler,house
+ALP,Labor,Peter Hayes,Hayes,Peter,0,nsyd,NSW,North Sydney,house
+APP,Australian Progressives,Russell Hayward,Hayward,Russell,0,batm,VIC,Batman,house
 SEP,Socialist Equality Party,Mike Head,Head,Mike,0,sqld,QLD,Queensland,senate
 GRN,The Greens,Helen Healy,Healy,Helen,0,mall,VIC,Mallee,house
-GRN,Greens,Brent Heber,Heber,Brent,0,bart,NSW,Barton,house
+FFP,Family First Party,Brian Heath,Heath,Brian,0,gipp,VIC,Gippsland,house
+GRN,The Greens,Brent Heber,Heber,Brent,0,bart,NSW,Barton,house
+IND,Independent,Julie Hegarty,Hegarty,Julie,0,mack,NSW,Mackellar,house
 ALP,Australian Labor Party,Stephen Hegedus,Hegedus,Stephen,0,ryan,QLD,Ryan,house
-FFP,Family First Party,Florian Heise,Heise,Florian,0,more,QLD,Moreton,house
-FFP,Family First Party,Annelise Hellberg,Hellberg,Annelise,0,ford,QLD,Forde,house
-LIB,Liberal,Sarah Henderson,Henderson,Sarah,1,cora,VIC,Corangamite,house
-LIB,Liberal,Peter Hendy,Hendy,Peter,1,emon,NSW,Eden-Monaro,house
-LDP,Liberal Democratic Party,Cawley Hennings,Hennings,Cawley,0,sact,ACT,A.C.T.,senate
-TAP,Arts Party,Jamie Henson,Henson,Jamie,0,svic,VIC,Victoria,senate
-ALP,Labor Party,Bronwyn Herbertson,Herbertson,Bronwyn,0,groo,QLD,Groom,house
+FFP,Family First,Florian Heise,Heise,Florian,0,more,QLD,Moreton,house
+FFP,Family First,Annelise Hellberg,Hellberg,Annelise,0,ford,QLD,Forde,house
+LIB,Liberal,Sarah Henderson,Henderson,Sarah,0,cora,VIC,Corangamite,house
+LIB,Liberal,Peter Hendy,Hendy,Peter,0,emon,NSW,Eden-Monaro,house
+FFP,Family First Party,Henry Heng,Heng,Henry,0,swa,WA,Western Australia,senate
+LDP,Liberal Democrats,Cawley Hennings,Hennings,Cawley,0,sact,ACT,A.C.T.,senate
+TAP,The Arts Party,Jamie Christopher Henson,Henson,Jamie Christopher,0,svic,VIC,Victoria,senate
+ALP,Australian Labor Party,Bronwyn Herbertson,Herbertson,Bronwyn,0,groo,QLD,Groom,house
 ALA,Australian Liberty Alliance,Marion Hercock,Hercock,Marion,0,swa,WA,Western Australia,senate
 GRN,The Greens,Cheryl Hercus,Hercus,Cheryl,0,gold,VIC,Goldstein,house
-GRN,Greens,Emma Heyde,Heyde,Emma,0,bero,NSW,Berowra,house
-LIB,Liberal Party of Australia,Jane Hiatt,Hiatt,Jane,0,sact,ACT,A.C.T.,senate
-FFP,Family First Party,Bruce Hicks,Hicks,Bruce,0,mayo,SA,Mayo,house
+LIB,Liberal,Marcus Hewitt,Hewitt,Marcus,0,whit,NSW,Whitlam,house
+GRN,The Greens,Emma Heyde,Heyde,Emma,0,bero,NSW,Berowra,house
+LIB,Liberal,Jane Hiatt,Hiatt,Jane,0,sact,ACT,A.C.T.,senate
+PUP,Palmer United Party,Cameron Hickey,Hickey,Cameron,0,svic,VIC,Victoria,senate
+FFP,Family First,Bruce Hicks,Hicks,Bruce,0,mayo,SA,Mayo,house
 IND,Independent,Nigel Hicks,Hicks,Nigel,0,murr,VIC,Murray,house
-DHJ,Derry Hinch Justice Party,Nicki Hide,Hide,Nicki,0,swa,WA,Western Australia,senate
+DHJ,Derryn Hinch's Justice Party,Nicki Hide,Hide,Nicki,0,swa,WA,Western Australia,senate
+AAP,Antipaedophile Party,Lawrie Higgins,Higgins,Lawrie,0,robe,NSW,Robertson,house
+DHJ,Derryn Hinch's Justice Party,Rachael Higgins,Higgins,Rachael,0,swa,WA,Western Australia,senate
 VEP,Voluntary Euthanasia Party,Shayne Higson,Higson,Shayne,0,snsw,NSW,New South Wales,senate
 NXT,Nick Xenophon Team,Joe Hill,Hill,Joe,0,adel,SA,Adelaide,house
-ALP,Labor Party,Julian Hill,Hill,Julian,0,bruc,VIC,Bruce,house
-FFP,Family First Party,Tracey Hilton,Hilton,Tracey,0,blai,QLD,Blair,house
+ALP,Australian Labor Party,Julian Hill,Hill,Julian,0,bruc,VIC,Bruce,house
 DHJ,Derryn Hinch's Justice Party,Derryn Hinch,Hinch,Derryn,0,svic,VIC,Victoria,senate
-GRN,Greens,Rob Hoad,Hoad,Rob,0,ling,NT,Lingiari,house
-GRN,Australian Greens,Christina Hobbs,Hobbs,Christina,0,sact,ACT,A.C.T.,senate
+DLF,Drug Law Reform,Chris Hindi,Hindi,Chris,0,gray,NSW,Grayndler,house
+GRN,The Greens,Christina Ho,Ho,Christina,0,snsw,NSW,New South Wales,senate
+GRN,The Greens,Rob Hoad,Hoad,Rob,0,ling,NT,Lingiari,house
+GRN,The Greens,Christina Hobbs,Hobbs,Christina,0,sact,ACT,A.C.T.,senate
 NXT,Nick Xenophon Team,Karen Hockley,Hockley,Karen,0,boot,SA,Boothby,house
+KAP,Katter's Australian Party,Susan Hoddinott,Hoddinott,Susan,0,swa,WA,Western Australia,senate
+CDP,Christian Democratic Party (Fred Nile Group),Graham Hodge,Hodge,Graham,0,brad,TAS,Braddon,house
+CRT,Consumer Rights & No-Tolls,Jeffrey Dale Hodges,Hodges,Jeffrey Dale,0,rank,QLD,Rankin,house
 GRN,The Greens,Steph Hodgins-May,Hodgins-May,Steph,0,mpor,VIC,Melbourne Ports,house
-ADVP,Australian Defence Veterans Party,Darryl Hodkinson,Hodkinson,Darryl,0,sqld,QLD,Queensland,senate
-NAT,The Nationals,Kevin Hogan,Hogan,Kevin,1,page,NSW,Page,house
+ADVP,Veterans Party,Darryl Hodkinson,Hodkinson,Darryl,0,sqld,QLD,Queensland,senate
+NAT,The Nationals,Kevin Hogan,Hogan,Kevin,0,page,NSW,Page,house
 GRN,The Greens,Willisa Hogarth,Hogarth,Willisa,0,flin,VIC,Flinders,house
-GRN,Greens,Robyn Holtham,Holtham,Robyn,0,king,SA,Kingston,house
-GRN,Greens,Katherine Hompes,Hompes,Katherine,0,mara,QLD,Maranoa,house
-ALP,Australian Labor Party,Pat Honan,Honan,Pat,0,snt,NT,Northern Territory,senate
-LIB,Liberal Party,Kevin Hong,Hong,Kevin,0,will,VIC,Wills,house
-ASXP,Australian Sex Party,Ange Hopkins,Hopkins,Ange,0,higg,VIC,Higgins,house
-21CP,21st Century Australia,Jonathan Horne,Horne,Jonathan,0,svic,VIC,Victoria,senate
-AUC,Australian Christian Party,Kevin Host,Host,Kevin,0,stir,WA,Stirling,house
-AUC,Australian Christian Party,Rex Host,Host,Rex,0,cowa,WA,Cowan,house
+IND,Independent,Rod Holding,Holding,Rod,0,newc,NSW,Newcastle,house
+IND,Independent,Peter Holland,Holland,Peter,0,mpor,VIC,Melbourne Ports,house
+KAP,Katter's Australian Party,Shane Holley,Holley,Shane,0,rank,QLD,Rankin,house
+LDP,Liberal Democrats,Simon James Holmick,Holmick,Simon James,0,lill,QLD,Lilley,house
+GRN,The Greens,Robyn Holtham,Holtham,Robyn,0,king,SA,Kingston,house
+GRN,The Greens,Katherine Hompes,Hompes,Katherine,0,mara,QLD,Maranoa,house
+ALP,Australian Labor Party (Northern Territory) Branch,Pat Honan,Honan,Pat,0,snt,NT,Northern Territory,senate
+LIB,Liberal,Kyung Hong,Hong,Kyung,0,will,VIC,Wills,house
+FFP,Family First,Kate Horan,Horan,Kate,0,sqld,QLD,Queensland,senate
+ALA,Australian Liberty Alliance,Andrew Horwood,Horwood,Andrew,0,ssa,SA,South Australia,senate
+ALA,Australian Liberty Alliance,Susan Horwood,Horwood,Susan,0,stas,TAS,Tasmania,senate
+AUC,Australian Christians,Kevin Host,Host,Kevin,0,stir,WA,Stirling,house
+LDP,Liberal Democrats,Ric Davies,Davies,Ric,0,rank,QLD,Rankin,house
 NXT,Nick Xenophon Team,Michelle Hoult,Hoult,Michelle,0,stas,TAS,Tasmania,senate
-LIB,Liberal Party,Karen Howard,Howard,Karen,0,pate,NSW,Paterson,house
-LNP,Liberal National Party of Queensland,Luke Howarth,Howarth,Luke,1,petr,QLD,Petrie,house
-ALP,Labor Party,Sharryn Howes,Howes,Sharryn,0,leic,QLD,Leichhardt,house
-ALP,Australian Labor Party,Lyndal Howison,Howison,Lyndal,0,benn,NSW,Bennelong,house
-LIB,Liberal Party,George Hua,Hua,George,0,hoth,VIC,Hotham,house
-ALP,Australian Labor Party,Evan Hughes,Hughes,Evan,0,went,NSW,Wentworth,house
-LIB,Liberal Party of Australia,Hollie Hughes,Hughes,Hollie,0,snsw,NSW,New South Wales,senate
-AJP,Animal Justice Party,Anthony Hulbert,Hulbert,Anthony,0,menz,VIC,Menzies,house
-LIB,Liberal Party of Australia,Jane Hume,Hume,Jane,0,svic,VIC,Victoria,senate
-LDP,Liberal Democratic Party,John Humphreys,Humphreys,John,0,bris,QLD,Brisbane,house
-LIB,Liberal,Greg Hunt,Hunt,Greg,1,flin,VIC,Flinders,house
-GRN,Greens,Nathan Hunt,Hunt,Nathan,0,cook,NSW,Cook,house
-GRN,Greens,Tom Hunt,Hunt,Tom,0,whit,NSW,Whitlam,house
+SFP,"Shooters, Fishers and Farmers",Karl Houseman,Houseman,Karl,0,snsw,NSW,New South Wales,senate
+FFP,Family First Party,Alan Howard,Howard,Alan,0,bend,VIC,Bendigo,house
+CYC,Australian Cyclists Party,Christopher John Howard,Howard,Christopher John,0,swa,WA,Western Australia,senate
+FFP,Family First Party,Graham Howard,Howard,Graham,0,ball,VIC,Ballarat,house
+LIB,Liberal,Karen Howard,Howard,Karen,0,pate,NSW,Paterson,house
+LNP,Liberal National Party of Queensland,Luke Howarth,Howarth,Luke,0,petr,QLD,Petrie,house
+ALP,Australian Labor Party,Sharryn Howes,Howes,Sharryn,0,leic,QLD,Leichhardt,house
+HMP,Marijuana (HEMP) Party,Therese Howes,Howes,Therese,0,sqld,QLD,Queensland,senate
+ALP,Labor,Lyndal Howison,Howison,Lyndal,0,benn,NSW,Bennelong,house
+LIB,Liberal,John Hsu,Hsu,John,0,calw,VIC,Calwell,house
+LIB,Liberal,George Hua,Hua,George,0,hoth,VIC,Hotham,house
+ALP,Labor,Evan Hughes,Hughes,Evan,0,went,NSW,Wentworth,house
+LIB,Liberal,Hollie Hughes,Hughes,Hollie,0,snsw,NSW,New South Wales,senate
+LDP,Liberal Democrats,Leslie Hughes,Hughes,Leslie,0,ltro,VIC,La Trobe,house
+AJP,Animal Justice Party,Antony John Hulbert,Hulbert,Antony John,0,menz,VIC,Menzies,house
+LIB,Liberal,Jane Hume,Hume,Jane,0,svic,VIC,Victoria,senate
+LDP,Liberal Democrats,John Humphreys,Humphreys,John,0,bris,QLD,Brisbane,house
+LIB,Liberal,Greg Hunt,Hunt,Greg,0,flin,VIC,Flinders,house
+GRN,The Greens,Nathan Hunt,Hunt,Nathan,0,cook,NSW,Cook,house
+GRN,The Greens,Tom Hunt,Hunt,Tom,0,whit,NSW,Whitlam,house
 IND,Independent,Daniel Huppert,Huppert,Daniel,0,asto,VIC,Aston,house
 ASXP,Australian Sex Party,James Hurley,Hurley,James,0,swa,WA,Western Australia,senate
 AJP,Animal Justice Party,Emma Hurst,Hurst,Emma,0,gray,NSW,Grayndler,house
-ALP,Labor Party,Emma Husar,Husar,Emma,0,lind,NSW,Lindsay,house
-ALP,Labor,Ed Husic,Husic,Ed,1,chif,NSW,Chifley,house
-LIB,Liberal,Eric Hutchinson,Hutchinson,Eric,1,lyon,TAS,Lyons,house
-FFP,Family First Party,Ray Hutchinson,Hutchinson,Ray,0,dick,QLD,Dickson,house
+ALP,Labor,Emma Husar,Husar,Emma,0,lind,NSW,Lindsay,house
+ALP,Labor,Ed Husic,Husic,Ed,0,chif,NSW,Chifley,house
+LIB,Liberal,Eric Hutchinson,Hutchinson,Eric,0,lyon,TAS,Lyons,house
+FFP,Family First,Ray Hutchinson,Hutchinson,Ray,0,dick,QLD,Dickson,house
 ONP,Pauline Hanson's One Nation,Damian Huxham,Huxham,Damian,0,hink,QLD,Hinkler,house
-GRN,Greens,Patrick Hyslop,Hyslop,Patrick,0,hasl,WA,Hasluck,house
-CDP,Christian Democratic Party,Mark Imisides,Imisides,Mark,0,swa,WA,Western Australia,senate
-LIB,Liberal Party of Australia,Sheridan Ingram,Ingram,Sheridan,0,swa,WA,Western Australia,senate
+GRN,The Greens (WA),Patrick Hyslop,Hyslop,Patrick,0,hasl,WA,Hasluck,house
+CDP,Christian Democratic Party (Fred Nile Group),Mark David Imisides,Imisides,Mark David,0,swa,WA,Western Australia,senate
+LIB,Liberal,Sheridan Ingram,Ingram,Sheridan,0,swa,WA,Western Australia,senate
 NXT,Nick Xenophon Team,Richard Inwood,Inwood,Richard,0,wake,SA,Wakefield,house
+AUC,Australian Christians,Kathleen Ipsen,Ipsen,Kathleen,0,mcmi,VIC,McMillan,house
 SAL,Socialist Alliance,Farida Iqbal,Iqbal,Farida,0,swa,WA,Western Australia,senate
-LIB,Liberal,Steve Irons,Irons,Steve,1,swan,WA,Swan,house
+LIB,Liberal,Steve Irons,Irons,Steve,0,swan,WA,Swan,house
 CEC,Citizens Electoral Council,Craig Isherwood,Isherwood,Craig,0,svic,VIC,Victoria,senate
-ALP,Labor Party,Sophie Ismail,Ismail,Sophie,0,melb,VIC,Melbourne,house
+GRN,The Greens (WA),Rai Ismail,Ismail,Rai,0,swa,WA,Western Australia,senate
+ALP,Australian Labor Party,Sophie Ismail,Ismail,Sophie,0,melb,VIC,Melbourne,house
 AJP,Animal Justice Party,Tyson Jack,Jack,Tyson,0,dunk,VIC,Dunkley,house
-ALP,Labor Party,Norm Jacobsen,Jacobsen,Norm,0,kenn,QLD,Kennedy,house
-AFN,Australia First,Sue Jakobi,Jakobi,Sue,0,lalo,VIC,Lalor,house
-GRN,Greens,Eliza James,James,Eliza,0,chif,NSW,Chifley,house
-GRN,Greens,Ian James,James,Ian,0,dura,WA,Durack,house
+ALP,Australian Labor Party,Norm Jacobsen,Jacobsen,Norm,0,kenn,QLD,Kennedy,house
+AFN,Australia First Party,Susan Jakobi,Jakobi,Susan,0,lalo,VIC,Lalor,house
+GRN,The Greens,Eliza James,James,Eliza,0,chif,NSW,Chifley,house
+GRN,The Greens (WA),Ian James,James,Ian,0,dura,WA,Durack,house
 SCP,Science Party,Luke James,James,Luke,0,svic,VIC,Victoria,senate
-TAP,Arts Party,Frances Jankowski,Jankowski,Frances,0,sqld,QLD,Queensland,senate
+GRN,The Greens,Jananie Janarthana,Janarthana,Jananie,0,snsw,NSW,New South Wales,senate
+TAP,The Arts Party,Frances Jankowski,Jankowski,Frances,0,sqld,QLD,Queensland,senate
 AUC,Australian Christians,Vickie Janson,Janson,Vickie,0,svic,VIC,Victoria,senate
 SCP,Science Party,James Jansson,Jansson,James,0,snsw,NSW,New South Wales,senate
-IND,Independent,Rex Granites Japanangka,Japanangka,Rex Granites,0,ling,NT,Lingiari,house
-GRN,Greens,Dawn Jecks,Jecks,Dawn,0,bran,WA,Brand,house
-AJP,Animal Justice Party,Helen Jeges,Jeges,Helen,0,hoth,VIC,Hotham,house
+REP,Renewable Energy Party,Jill Jarvis-Wills,Jarvis-Wills,Jill,0,bruc,VIC,Bruce,house
+GRN,The Greens (WA),Dawn Jecks,Jecks,Dawn,0,bran,WA,Brand,house
+AJP,Animal Justice Party,Helen Ann Jeges,Jeges,Helen Ann,0,hoth,VIC,Hotham,house
 SAL,Socialist Alliance,Chris Jenkins,Jenkins,Chris,0,frem,WA,Fremantle,house
-ALP,Australian Labor Party,Jess Jennings,Jennings,Jess,0,cala,NSW,Calare,house
-IND,Independent,Dennis Jensen,Jensen,Dennis,1,tang,WA,Tangney,house
-LIB,Liberal Party,Chris Jermyn,Jermyn,Chris,0,mcew,VIC,McEwen,house
+GRN,The Greens (WA),Samantha Jenkinson,Jenkinson,Samantha,0,swa,WA,Western Australia,senate
+ALP,Labor,Jess Jennings,Jennings,Jess,0,cala,NSW,Calare,house
+IND,Independent,Dennis Geoffrey Jensen,Jensen,Dennis Geoffrey,0,tang,WA,Tangney,house
+LIB,Liberal,Chris Jermyn,Jermyn,Chris,0,mcew,VIC,McEwen,house
+IND,Independent,Mike Jessop,Jessop,Mike,0,fish,QLD,Fisher,house
+DLF,Drug Law Reform,John Jiggens,Jiggens,John,0,grif,QLD,Griffith,house
 FFP,Family First,Phil Jobe,Jobe,Phil,0,snsw,NSW,New South Wales,senate
-LIB,Liberal Party of Australia,David Johnston,Johnston,David,1,swa,WA,Western Australia,senate
+SFP,"Shooters, Fishers and Farmers",Peter Johnson,Johnson,Peter,0,snsw,NSW,New South Wales,senate
+LIB,Liberal,David Johnston,Johnston,David,0,swa,WA,Western Australia,senate
 AJP,Animal Justice Party,Elizabeth Johnston,Johnston,Elizabeth,0,isaa,VIC,Isaacs,house
-GRN,Greens,Adrian Jones,Jones,Adrian,0,brfd,NSW,Bradfield,house
+GRN,The Greens,Adrian Jones,Jones,Adrian,0,brfd,NSW,Bradfield,house
 ALA,Australian Liberty Alliance,Daniel Jones,Jones,Daniel,0,svic,VIC,Victoria,senate
-LNP,Liberal National Party of Queensland,Ewen Jones,Jones,Ewen,1,herb,QLD,Herbert,house
+LNP,Liberal National Party of Queensland,Ewen Jones,Jones,Ewen,0,herb,QLD,Herbert,house
+IND,Independent,Kai Jones,Jones,Kai,0,swa,WA,Western Australia,senate
 VEP,Voluntary Euthanasia Party,Miranda Jones,Jones,Miranda,0,svic,VIC,Victoria,senate
-ALP,Labor,Stephen Jones,Jones,Stephen,1,whit,NSW,Whitlam,house
+IND,Independent,Rob Jones,Jones,Rob,0,mcph,QLD,McPherson,house
+ALP,Labor,Stephen Jones,Jones,Stephen,0,whit,NSW,Whitlam,house
 ASXP,Australian Sex Party,Timothy Jones,Jones,Timothy,0,snt,NT,Northern Territory,senate
-GRN,The Greens,Natalie Abboud,Abboud,Natalie,0,calw,VIC,Calwell,house
-ODD,Online Direct Democracy,LB Joum,Joum,LB,0,fish,QLD,Fisher,house
-NAT,The Nationals,Barnaby Joyce,Joyce,Barnaby,1,neng,NSW,New England,house
+GRN,The Greens,Scott Jordan,Jordan,Scott,0,brad,TAS,Braddon,house
+IND,Independent,Terry Jorgensen,Jorgensen,Terry,0,sqld,QLD,Queensland,senate
+ODD,Online Direct Democracy - (Empowering the People!),LB Joum,Joum,LB,0,fish,QLD,Fisher,house
+NAT,The Nationals,Barnaby Joyce,Joyce,Barnaby,0,neng,NSW,New England,house
+REP,Renewable Energy Party,Sharon Joyce,Joyce,Sharon,0,stas,TAS,Tasmania,senate
+IND,Independent,Stephen Juhasz,Juhasz,Stephen,0,svic,VIC,Victoria,senate
+IND,Independent,Michael Kaff,Kaff,Michael,0,sqld,QLD,Queensland,senate
 NXT,Nick Xenophon Team,Skye Kakoschke-Moore,Kakoschke-Moore,Skye,0,ssa,SA,South Australia,senate
-FFP,Family First Party,Cheryl Kaminski,Kaminski,Cheryl,0,grey,SA,Grey,house
-CDP,Christian Democratic Party,Chris Kang,Kang,Chris,0,reid,NSW,Reid,house
-KAP,Katter's Australian Party,Bob Katter,Katter,Bob,1,kenn,QLD,Kennedy,house
-ALP,Labor Party,Carl Katter,Katter,Carl,0,higg,VIC,Higgins,house
-HMP,Help End Marijuana Prohibition,Andrew Kavasilas,Kavasilas,Andrew,0,snt,NT,Northern Territory,senate
-FLX,Flux.org,Max Kaye,Kaye,Max,0,stas,TAS,Tasmania,senate
-LIB,Liberal Party,Yvonne Keane,Keane,Yvonne,0,gree,NSW,Greenway,house
+FFP,Family First,Cheryl Kaminski,Kaminski,Cheryl,0,grey,SA,Grey,house
+CDP,Christian Democratic Party (Fred Nile Group),Ju Kang,Kang,Ju,0,reid,NSW,Reid,house
+IND,Independent,John Karagiannidis,Karagiannidis,John,0,svic,VIC,Victoria,senate
+HMP,Marijuana (HEMP) Party,Andrew John Katelaris,Katelaris,Andrew John,0,snsw,NSW,New South Wales,senate
+KAP,Katter's Australian Party,Bob Katter,Katter,Bob,0,kenn,QLD,Kennedy,house
+ALP,Australian Labor Party,Carl Katter,Katter,Carl,0,higg,VIC,Higgins,house
+DLF,Drug Law Reform,Lee Kavanagh,Kavanagh,Lee,0,gold,VIC,Goldstein,house
+HMP,Marijuana (HEMP) Party,Andrew Kavasilas,Kavasilas,Andrew,0,snt,NT,Northern Territory,senate
+FLX,VOTEFLUX.ORG | Upgrade Democracy!,Max Kaye,Kaye,Max,0,stas,TAS,Tasmania,senate
+LIB,Liberal,Yvonne Keane,Keane,Yvonne,0,gree,NSW,Greenway,house
+AFN,Australia First Party,John Kearney,Kearney,John,0,solo,NT,Solomon,house
 PIR,Pirate Party Australia,Sam Kearns,Kearns,Sam,0,snsw,NSW,New South Wales,senate
-ALP,Labor Party,Justine Keay,Keay,Justine,0,brad,TAS,Braddon,house
+ALP,Australian Labor Party,Justine Keay,Keay,Justine,0,brad,TAS,Braddon,house
 ONP,Pauline Hanson's One Nation,Lynette Keehn,Keehn,Lynette,0,mara,QLD,Maranoa,house
-LIB,Liberal,Michael Keenan,Keenan,Michael,1,stir,WA,Stirling,house
-TAP,Arts Party,Barry Keldoulis,Keldoulis,Barry,0,snsw,NSW,New South Wales,senate
-LIB,Liberal,Craig Kelly,Kelly,Craig,1,hugh,NSW,Hughes,house
-ALP,Labor Party,Mike Kelly,Kelly,Mike,0,emon,NSW,Eden-Monaro,house
-LIB,Liberal Party,Pierrette Kelly,Kelly,Pierrette,0,frem,WA,Fremantle,house
+LIB,Liberal,Michael Keenan,Keenan,Michael,0,stir,WA,Stirling,house
+TAP,The Arts Party,Barry Keldoulis,Keldoulis,Barry,0,snsw,NSW,New South Wales,senate
+LIB,Liberal,Craig Kelly,Kelly,Craig,0,hugh,NSW,Hughes,house
+RUA,Rise Up Australia Party,John Kelly,Kelly,John,0,leic,QLD,Leichhardt,house
+ALP,Labor,Mike Kelly,Kelly,Mike,0,emon,NSW,Eden-Monaro,house
+ALA,Australian Liberty Alliance,Peter Kelly,Kelly,Peter,0,brfd,NSW,Bradfield,house
+LIB,Liberal,Pierrette Kelly,Kelly,Pierrette,0,frem,WA,Fremantle,house
+LDP,Liberal Democrats,Sam Kennard,Kennard,Sam,0,snsw,NSW,New South Wales,senate
 KAP,Katter's Australian Party,Brad Kennedy,Kennedy,Brad,0,long,QLD,Longman,house
+GRN,The Greens,Kirsten Kennedy,Kennedy,Kirsten,0,sqld,QLD,Queensland,senate
+LDP,Liberal Democrats,Robert Kennedy,Kennedy,Robert,0,higg,VIC,Higgins,house
 ALP,Australian Labor Party,Steve Kent,Kent,Steve,0,svic,VIC,Victoria,senate
-ALP,Labor Party,Matthew Keogh,Keogh,Matthew,0,burt,WA,Burt,house
-ALP,Labor Party,Eric Kerr,Kerr,Eric,0,indi,VIC,Indi,house
-ACP,Australian Country party,Garry Kerr,Kerr,Garry,0,svic,VIC,Victoria,senate
-GRN,Greens,Thor Kerr,Kerr,Thor,0,tang,WA,Tangney,house
-ALP,Labor Party,David Kerrigan,Kerrigan,David,0,mara,QLD,Maranoa,house
-ALP,Australian Labor Party,Chris Ketter,Ketter,Chris,1,sqld,QLD,Queensland,senate
-ODD,Online Direct Democracy,Paul Keyworth,Keyworth,Paul,0,sqld,QLD,Queensland,senate
+ALP,Australian Labor Party,Matt Keogh,Keogh,Matt,0,burt,WA,Burt,house
+GRN,The Greens,Mark Keough,Keough,Mark,0,bark,SA,Barker,house
+ALP,Australian Labor Party,Eric Kerr,Kerr,Eric,0,indi,VIC,Indi,house
+ACP,Australian Country Party,Garry Kerr,Kerr,Garry,0,svic,VIC,Victoria,senate
+GRN,The Greens (WA),Thor Kerr,Kerr,Thor,0,tang,WA,Tangney,house
+ALP,Australian Labor Party,Dave Kerrigan,Kerrigan,Dave,0,mara,QLD,Maranoa,house
+ALP,Australian Labor Party,Chris Ketter,Ketter,Chris,0,sqld,QLD,Queensland,senate
 ALP,Australian Labor Party,Peter Khalil,Khalil,Peter,0,will,VIC,Wills,house
-21CP,21st Century Party,Ammar Khan,Khan,Ammar,0,chif,NSW,Chifley,house
-CDP,Christian Democratic Party,Russell Kilarney,Kilarney,Russell,0,rich,NSW,Richmond,house
-CDP,Christian Democratic Party,David Kim,Kim,David,0,sact,ACT,A.C.T.,senate
-ALP,Australian Labor Party,Catherine King,King,Catherine,1,ball,VIC,Ballarat,house
+IND,Independent,Ammar Khan,Khan,Ammar,0,chif,NSW,Chifley,house
+DLP,Democratic Labour Party (DLP),Troy Kiernan,Kiernan,Troy,0,swa,WA,Western Australia,senate
+CDP,Christian Democratic Party (Fred Nile Group),Russell Kilarney,Kilarney,Russell,0,rich,NSW,Richmond,house
+CDP,Christian Democratic Party (Fred Nile Group),David William Kim,Kim,David William,0,sact,ACT,A.C.T.,senate
+ALP,Australian Labor Party,Catherine King,King,Catherine,0,ball,VIC,Ballarat,house
 ALP,Australian Labor Party,Madeleine King,King,Madeleine,0,bran,WA,Brand,house
-LNP,LNP,David Kingston,Kingston,David,0,lill,QLD,Lilley,house
+LNP,Liberal National Party of Queensland,David Kingston,Kingston,David,0,lill,QLD,Lilley,house
 NXT,Nick Xenophon Team,Daniel Kirk,Kirk,Daniel,0,hind,SA,Hindmarsh,house
-LDP,Liberal Democratic Party,Graeme Klass,Klass,Graeme,0,swa,WA,Western Australia,senate
-GRN,Greens,Elise Klein,Klein,Elise,0,svic,VIC,Victoria,senate
-ALP,Labor Party,Paul Klisaris,Klisaris,Paul,0,asto,VIC,Aston,house
-LIB,Liberal Party of Australia,Eric Abetz,Abetz,Eric,1,stas,TAS,Tasmania,senate
+AMEP,Australian Motoring Enthusiast Party,Daniel Kirkness,Kirkness,Daniel,0,snsw,NSW,New South Wales,senate
+LDP,Liberal Democrats,Graeme Michael Klass,Klass,Graeme Michael,0,swa,WA,Western Australia,senate
+GRN,The Greens,Elise Klein,Klein,Elise,0,svic,VIC,Victoria,senate
+ALP,Australian Labor Party,Paul Klisaris,Klisaris,Paul,0,asto,VIC,Aston,house
+AUC,Australian Christians,Steve Klomp,Klomp,Steve,0,swan,WA,Swan,house
+GRN,The Greens,Johanna Kloot,Kloot,Johanna,0,sqld,QLD,Queensland,senate
+APP,Australian Progressives,David Knight,Knight,David,0,svic,VIC,Victoria,senate
 VEP,Voluntary Euthanasia Party,Jessica Knight,Knight,Jessica,0,ssa,SA,South Australia,senate
+CDP,Christian Democratic Party (Fred Nile Group),Charles Knox,Knox,Charles,0,snsw,NSW,New South Wales,senate
+SUP,Seniors United Party of Australia,Kerry Koliadis,Koliadis,Kerry,0,snsw,NSW,New South Wales,senate
+GRN,The Greens,Marika Kontellis,Kontellis,Marika,0,snsw,NSW,New South Wales,senate
 CEC,Citizens Electoral Council,Alex Kozlow,Kozlow,Alex,0,ssa,SA,South Australia,senate
-LIB,Liberal Party,Helen Kroger,Kroger,Helen,0,bruc,VIC,Bruce,house
-CEC,Citizens Electoral Council,Stephen Kucina,Kucina,Stephen,0,stas,TAS,Tasmania,senate
+LIB,Liberal,Helen Kroger,Kroger,Helen,0,bruc,VIC,Bruce,house
+PUP,Palmer United Party,Jacque Kruger,Kruger,Jacque,0,swa,WA,Western Australia,senate
+FFP,Family First,Eddy Ku,Ku,Eddy,0,nsyd,NSW,North Sydney,house
+CEC,Citizens Electoral Council,Steve Kucina,Kucina,Steve,0,stas,TAS,Tasmania,senate
 AMEP,Australian Motoring Enthusiast Party,Judith Kuerschner,Kuerschner,Judith,0,ssa,SA,South Australia,senate
-LIB,Liberal Party,Mohit Kumar,Kumar,Mohit,0,chif,NSW,Chifley,house
-ALP,Australian Labor Party,Christian Kunde,Kunde,Christian,0,farr,NSW,Farrer,house
-ALP,Australian Labor Party,Tim Kurylowicz,Kurylowicz,Tim,0,rive,NSW,Riverina,house
-GRN,Greens,Daniel Kwon,Kwon,Daniel,0,fadd,QLD,Fadden,house
+LIB,Liberal,Mohit Kumar,Kumar,Mohit,0,chif,NSW,Chifley,house
+ALP,Labor,Christian Kunde,Kunde,Christian,0,farr,NSW,Farrer,house
+ALP,Labor,Tim Kurylowicz,Kurylowicz,Tim,0,rive,NSW,Riverina,house
+GRN,The Greens,Daniel Kwon,Kwon,Daniel,0,fadd,QLD,Fadden,house
+FFP,Family First,Linda La Brooy,La Brooy,Linda,0,lind,NSW,Lindsay,house
+KAP,Katter's Australian Party,Stephen Lacaze,Lacaze,Stephen,0,oxle,QLD,Oxley,house
 CEC,Citizens Electoral Council,Chris Lahy,Lahy,Chris,0,mall,VIC,Mallee,house
-ALP,Labor Party,Susan Lamb,Lamb,Susan,0,long,QLD,Longman,house
-JLN,Jacqui Lambie Network,Jacqui Lambie,Lambie,Jacqui,1,stas,TAS,Tasmania,senate
-LNP,Liberal National Party of Queensland,Andrew Laming,Laming,Andrew,1,bowm,QLD,Bowman,house
+IND,Independent,Michael Amon Lakkis,Lakkis,Michael Amon,0,calw,VIC,Calwell,house
+ALP,Australian Labor Party,Susan Lamb,Lamb,Susan,0,long,QLD,Longman,house
+IND,Independent,Bryan Lambert,Lambert,Bryan,0,snsw,NSW,New South Wales,senate
+JLN,Jacqui Lambie Network,Jacqui Lambie,Lambie,Jacqui,0,stas,TAS,Tasmania,senate
+LNP,Liberal National Party of Queensland,Andrew Laming,Laming,Andrew,0,bowm,QLD,Bowman,house
 GRN,The Greens,Donna Lancaster,Lancaster,Donna,0,mcmi,VIC,McMillan,house
-LNP,Liberal National Party of Queensland,Michelle Landry,Landry,Michelle,1,capr,QLD,Capricornia,house
-LIB,Liberal Party,Daryl Lang,Lang,Daryl,0,gort,VIC,Gorton,house
-LIB,Liberal Party,Richard Lange,Lange,Richard,0,cori,VIC,Corio,house
-CDP,Christian Democratic Party,Phillip Langfield,Langfield,Phillip,0,rive,NSW,Riverina,house
-IND,Independent,Alan Lappin,Lappin,Alan,0,indi,VIC,Indi,house
-ACP,Australian Country party,Phil Larkin,Larkin,Phil,0,svic,VIC,Victoria,senate
-LIB,Liberal,Craig Laundy,Laundy,Craig,1,reid,NSW,Reid,house
-ALP,Labor Party,Linda Lavarch,Lavarch,Linda,0,dick,QLD,Dickson,house
+LNP,Liberal National Party of Queensland,Michelle Landry,Landry,Michelle,0,capr,QLD,Capricornia,house
+IND,Independent,George Lane,Lane,George,0,stas,TAS,Tasmania,senate
+LIB,Liberal,Daryl Lang,Lang,Daryl,0,gort,VIC,Gorton,house
+LIB,Liberal,Richard Lange,Lange,Richard,0,cori,VIC,Corio,house
+CDP,Christian Democratic Party (Fred Nile Group),Philip Langfield,Langfield,Philip,0,rive,NSW,Riverina,house
+ASXP,Australian Sex Party,Rebecca Lanning,Lanning,Rebecca,0,sydn,NSW,Sydney,house
+IND,Independent,Alan James Lappin,Lappin,Alan James,0,indi,VIC,Indi,house
+IND,Independent,Steven Large,Large,Steven,0,daws,QLD,Dawson,house
+ACP,Australian Country Party,Phil Larkin,Larkin,Phil,0,svic,VIC,Victoria,senate
+LIB,Liberal,Craig Laundy,Laundy,Craig,0,reid,NSW,Reid,house
+ALP,Australian Labor Party,Linda Lavarch,Lavarch,Linda,0,dick,QLD,Dickson,house
 AJP,Animal Justice Party,Rosemary Lavin,Lavin,Rosemary,0,asto,VIC,Aston,house
+IND,Independent,Rob Law,Law,Rob,0,long,QLD,Longman,house
 CEC,Citizens Electoral Council,Ann Lawler,Lawler,Ann,0,snsw,NSW,New South Wales,senate
-HMP,Help End Marijuana Prohibition,Lance Lawrence,Lawrence,Lance,0,solo,NT,Solomon,house
-CDP,Christian Democratic Party,Wayne Lawrence,Lawrence,Wayne,0,cowp,NSW,Cowper,house
+HMP,Marijuana (HEMP) Party,Lance Lawrence,Lawrence,Lance,0,solo,NT,Solomon,house
+IND,Independent,Michael Lawrence,Lawrence,Michael,0,cora,VIC,Corangamite,house
+CDP,Christian Democratic Party (Fred Nile Group),Wayne Lawrence,Lawrence,Wayne,0,cowp,NSW,Cowper,house
+FFP,Family First,Christopher Lawrie,Lawrie,Christopher,0,rank,QLD,Rankin,house
 ALP,Australian Labor Party,Tim Lawson,Lawson,Tim,0,hink,QLD,Hinkler,house
-GLT,Glenn Lazarus Team,Glenn Lazarus,Lazarus,Glenn,1,sqld,QLD,Queensland,senate
-CDP,Christian Democratic Party,Archie Lea,Lea,Archie,0,neng,NSW,New England,house
-ALP,Labor Party,Bill Leadbetter,Leadbetter,Bill,0,hasl,WA,Hasluck,house
+GLT,Glenn Lazarus Team,Glenn Lazarus,Lazarus,Glenn,0,sqld,QLD,Queensland,senate
+CDP,Christian Democratic Party (Fred Nile Group),Archie Lea,Lea,Archie,0,snsw,NSW,New South Wales,senate
+ALP,Australian Labor Party,Bill Leadbetter,Leadbetter,Bill,0,hasl,WA,Hasluck,house
+LDP,Liberal Democrats,Daniel Leahy,Leahy,Daniel,0,nsyd,NSW,North Sydney,house
 ASXP,Australian Sex Party,Martin Leahy,Leahy,Martin,0,ltro,VIC,La Trobe,house
-IND,Independent,Leon Lechner,Lechner,Leon,0,bris,QLD,Brisbane,house
 NXT,Nick Xenophon Team,Justin Lee,Lee,Justin,0,svic,VIC,Victoria,senate
-LIB,Liberal Party,Julian Leeser,Leeser,Julian,0,bero,NSW,Berowra,house
-FLX,Flux,Danielle Lehrer,Lehrer,Danielle,0,svic,VIC,Victoria,senate
-ALP,Australian Labor Party,Andrew Leigh,Leigh,Andrew,1,fenn,ACT,Fenner,house
-AJP,Animal Justice Party,Doug Leith,Leith,Doug,0,bruc,VIC,Bruce,house
-21CP,21st Century Party,Kade Lengyel,Lengyel,Kade,0,isaa,VIC,Isaacs,house
+IND,Independent,Ross Lee,Lee,Ross,0,mcew,VIC,McEwen,house
+IND,Independent,TS Lee,Lee,TS,0,snt,NT,Northern Territory,senate
+LIB,Liberal,Julian Leeser,Leeser,Julian,0,bero,NSW,Berowra,house
+FLX,VOTEFLUX.ORG | Upgrade Democracy!,Danielle Lehrer,Lehrer,Danielle,0,svic,VIC,Victoria,senate
+ALP,Australian Labor Party,Andrew Keith Leigh,Leigh,Andrew Keith,0,fenn,ACT,Fenner,house
+AJP,Animal Justice Party,Douglas Ronald Leith,Leith,Douglas Ronald,0,bruc,VIC,Bruce,house
+GRN,The Greens,Janina Leo,Leo,Janina,0,sqld,QLD,Queensland,senate
 SCP,Science Party,Andrea Leong,Leong,Andrea,0,ksmi,NSW,Kingsford Smith,house
 SAL,Socialist Alliance,Sharlene Leroy-Dyer,Leroy-Dyer,Sharlene,0,snsw,NSW,New South Wales,senate
-LIB,Liberal,Sussan Ley,Ley,Sussan,1,farr,NSW,Farrer,house
-LDP,Liberal Democrats,David Leyonhjelm,Leyonhjelm,David,1,snsw,NSW,New South Wales,senate
-LIB,Liberal Party of Australia,Kerrynne Liddle,Liddle,Kerrynne,0,ssa,SA,South Australia,senate
-CLP,Country Liberal Party of Australia Party,Jenni Lillis,Lillis,Jenni,0,snt,NT,Northern Territory,senate
-KAP,Katter's Australian Party,Shan Ju Lin,Lin,Shan Ju,0,more,QLD,Moreton,house
-CDP,Christian Democratic Party,Catherine Lincoln,Lincoln,Catherine,0,macq,NSW,Macquarie,house
-LNP,Liberal National Party,Joanna Lindgren,Lindgren,Joanna,1,sqld,QLD,Queensland,senate
-GRN,Greens,Daniel Lindley,Lindley,Daniel,0,moor,WA,Moore,house
-ALP,Australian Labor Party,Sue Lines,Lines,Sue,1,swa,WA,Western Australia,senate
-LDP,Liberal Democratic Party,Matthew Linney,Linney,Matthew,0,bonn,QLD,Bonner,house
-LNP,LNP,David Littleproud,Littleproud,David,0,mara,QLD,Maranoa,house
-AJP,Animal Justice Party,Alyssa Liu,Liu,Alyssa,0,hind,SA,Hindmarsh,house
-GRN,Greens,Kingsley Liu,Liu,Kingsley,0,lind,NSW,Lindsay,house
-LIB,Liberal Party,Philip Liu,Liu,Philip,0,melb,VIC,Melbourne,house
-GRN,Greens,Rose Ljubicic,Ljubicic,Rose,0,scul,VIC,Scullin,house
+NAT,The Nationals,Fiona Leviny,Leviny,Fiona,0,snsw,NSW,New South Wales,senate
+IND,Independent,Shane W Lewis,Lewis,Shane W,0,flin,VIC,Flinders,house
+LIB,Liberal,Sussan Ley,Ley,Sussan,0,farr,NSW,Farrer,house
+LDP,Liberal Democrats,David Leyonhjelm,Leyonhjelm,David,0,snsw,NSW,New South Wales,senate
+LIB,Liberal,Kerrynne Liddle,Liddle,Kerrynne,0,ssa,SA,South Australia,senate
+CLP,Country Liberals (NT),Jenni Lillis,Lillis,Jenni,0,snt,NT,Northern Territory,senate
+IND,Independent,Danny Lim,Lim,Danny,0,snsw,NSW,New South Wales,senate
+LDP,Liberal Democrats,David Limbrick,Limbrick,David,0,svic,VIC,Victoria,senate
+KAP,Katter's Australian Party,Shan-Ju Lin,Lin,Shan-Ju,0,more,QLD,Moreton,house
+CDP,Christian Democratic Party (Fred Nile Group),Catherine Lincoln,Lincoln,Catherine,0,macq,NSW,Macquarie,house
+LNP,Liberal National Party of Queensland,Joanna Lindgren,Lindgren,Joanna,0,sqld,QLD,Queensland,senate
+GRN,The Greens (WA),Daniel Lindley,Lindley,Daniel,0,moor,WA,Moore,house
+ALP,Australian Labor Party,Sue Lines,Lines,Sue,0,swa,WA,Western Australia,senate
+LDP,Liberal Democrats,Matthew Linney,Linney,Matthew,0,bonn,QLD,Bonner,house
+CDP,Christian Democratic Party (Fred Nile Group),Deborah Ann Jane Lions,Lions,Deborah Ann Jane,0,snsw,NSW,New South Wales,senate
+LNP,Liberal National Party of Queensland,David Littleproud,Littleproud,David,0,mara,QLD,Maranoa,house
+AJP,Animal Justice Party,Bin Liu,Liu,Bin,0,hind,SA,Hindmarsh,house
+GRN,The Greens,Kingsley Liu,Liu,Kingsley,0,lind,NSW,Lindsay,house
+LIB,Liberal,Le Liu,Liu,Le,0,melb,VIC,Melbourne,house
+REP,Renewable Energy Party,Duncan Livingston,Livingston,Duncan,0,lyon,TAS,Lyons,house
+GRN,The Greens,Rose Ljubicic,Ljubicic,Rose,0,scul,VIC,Scullin,house
 ALP,Australian Labor Party,Matt Loader,Loader,Matt,0,stur,SA,Sturt,house
-FLX,Flux,Steven Lopez,Lopez,Steven,0,snsw,NSW,New South Wales,senate
+LDP,Liberal Democrats,Tyrone Lock,Lock,Tyrone,0,adel,SA,Adelaide,house
+FFP,Family First Party,Dorothy Lorraine Long,Long,Dorothy Lorraine,0,mcew,VIC,McEwen,house
+FLX,VOTEFLUX.ORG | Upgrade Democracy!,Steven Lopez,Lopez,Steven,0,snsw,NSW,New South Wales,senate
 ALP,Australian Labor Party,Lorrae Loud,Loud,Lorrae,0,forr,WA,Forrest,house
 GLT,Glenn Lazarus Team,Annette Lourigan,Lourigan,Annette,0,sqld,QLD,Queensland,senate
 AJP,Animal Justice Party,Katrina Love,Love,Katrina,0,swa,WA,Western Australia,senate
-ODD,Online Direct Democracy,Richard Love,Love,Richard,0,hink,QLD,Hinkler,house
-GRN,Greens,Kirsten Lovejoy,Lovejoy,Kirsten,0,bris,QLD,Brisbane,house
-GRN,Australian Greens,Scott Ludlam,Ludlam,Scott,1,swa,WA,Western Australia,senate
-AJP,Animal Justice Party,Anna Ludvick,Ludvick,Anna,0,page,NSW,Page,house
-GRN,Greens,Julie Lyford,Lyford,Julie,0,lyne,NSW,Lyne,house
-FFP,Family First Party,Stephen Lynch,Lynch,Stephen,0,hink,QLD,Hinkler,house
+KAP,Katter's Australian Party,Richard Love,Love,Richard,0,flyn,QLD,Flynn,house
+GRN,The Greens,Kirsten Lovejoy,Lovejoy,Kirsten,0,bris,QLD,Brisbane,house
+GRN,The Greens (WA),Scott Ludlam,Ludlam,Scott,0,swa,WA,Western Australia,senate
+AJP,Animal Justice Party,Anna Clare Ludvik,Ludvik,Anna Clare,0,page,NSW,Page,house
+IND,Independent,Geoff Lutz,Lutz,Geoff,0,svic,VIC,Victoria,senate
+GRN,The Greens,Julie Lyford,Lyford,Julie,0,lyne,NSW,Lyne,house
+DLF,Drug Law Reform,Deb Lynch,Lynch,Deb,0,sqld,QLD,Queensland,senate
+FFP,Family First,Stephen Lynch,Lynch,Stephen,0,hink,QLD,Hinkler,house
 NXT,Nick Xenophon Team,Stephen Lynch,Lynch,Stephen,0,lind,NSW,Lindsay,house
-GRN,Greens,Kristen Lyons,Lyons,Kristen,0,more,QLD,Moreton,house
-LNP,Liberal National Party,Ian Macdonald,Macdonald,Ian,1,sqld,QLD,Queensland,senate
+GRN,The Greens,Kristen Lyons,Lyons,Kristen,0,more,QLD,Moreton,house
+LNP,Liberal National Party of Queensland,Ian Macdonald,Macdonald,Ian,0,sqld,QLD,Queensland,senate
 GRN,The Greens,James Macdonald,Macdonald,James,0,ksmi,NSW,Kingsford Smith,house
-APP,Anti-paedophile Party,Marney MacDonald,MacDonald,Marney,0,snt,NT,Northern Territory,senate
-GRN,Greens,Ivan MacFadyen,MacFadyen,Ivan,0,shor,NSW,Shortland,house
-CLP,Country Liberals,Tina MacFarlane,MacFarlane,Tina,0,ling,NT,Lingiari,house
-GRN,Greens,John Mackenzie,Mackenzie,John,0,newc,NSW,Newcastle,house
+AAP,Antipaedophile Party,Marney MacDonald,MacDonald,Marney,0,snt,NT,Northern Territory,senate
+GRN,The Greens,Ivan MacFadyen,MacFadyen,Ivan,0,shor,NSW,Shortland,house
+CLP,Country Liberals (NT),Tina MacFarlane,MacFarlane,Tina,0,ling,NT,Lingiari,house
+GRN,The Greens,John Mackenzie,Mackenzie,John,0,newc,NSW,Newcastle,house
 ONP,Pauline Hanson's One Nation,Dean Mackin,Mackin,Dean,0,snsw,NSW,New South Wales,senate
-ALP,Australian Labor Party,Jenny Macklin,Macklin,Jenny,1,jaga,VIC,Jagajaga,house
+AMEP,Australian Motoring Enthusiast Party,Aaron Mackley,Mackley,Aaron,0,svic,VIC,Victoria,senate
+ALP,Australian Labor Party,Jenny Macklin,Macklin,Jenny,0,jaga,VIC,Jagajaga,house
+ADVP,Veterans Party,Sean Macnamara,Macnamara,Sean,0,fadd,QLD,Fadden,house
 FFP,Family First,Peter Madden,Madden,Peter,0,stas,TAS,Tasmania,senate
 NAT,The Nationals,Andy Maddison,Maddison,Andy,0,bend,VIC,Bendigo,house
-MFP,John Madigan's Manufacturing and Farming Party,John Madigan,Madigan,John,1,svic,VIC,Victoria,senate
-APP,Anti-Paedophile Party,Mia Madsen,Madsen,Mia,0,stas,TAS,Tasmania,senate
-CM,Countryminded,David Mailler,Mailler,David,0,neng,NSW,New England,house
-CM,Country Minded,Peter Mailler,Mailler,Peter,0,sqld,QLD,Queensland,senate
-CDP,Christian Democratic Party,Milan Maksimovic,Maksimovic,Milan,0,mcma,NSW,McMahon,house
+MFP,MFP,John Madigan,Madigan,John,0,svic,VIC,Victoria,senate
+CYC,Australian Cyclists Party,Peter Mah,Mah,Peter,0,swa,WA,Western Australia,senate
+GRN,The Greens,Kathryn Maiden,Maiden,Kathryn,0,snsw,NSW,New South Wales,senate
+CM,CountryMinded,David Mailler,Mailler,David,0,neng,NSW,New England,house
+CM,CountryMinded,Pete Mailler,Mailler,Pete,0,sqld,QLD,Queensland,senate
+RUA,Rise Up Australia Party,Silvija Majetic,Majetic,Silvija,0,solo,NT,Solomon,house
+DLP,Democratic Labour Party (DLP),Lucius Majoor,Majoor,Lucius,0,sqld,QLD,Queensland,senate
+LDP,Liberal Democrats,Timothy Mak,Mak,Timothy,0,gree,NSW,Greenway,house
+CDP,Christian Democratic Party (Fred Nile Group),Milan Maksimovic,Maksimovic,Milan,0,mcma,NSW,McMahon,house
 NAT,The Nationals,Jan Mandelson,Mandelson,Jan,0,whit,NSW,Whitlam,house
-LIB,Liberal Party,Ned Mannoun,Mannoun,Ned,0,werr,NSW,Werriwa,house
-GRN,Greens,Sarah Mansfield,Mansfield,Sarah,0,cori,VIC,Corio,house
-GRN,Greens,Alice Mantel,Mantel,Alice,0,reid,NSW,Reid,house
-LIB,Liberal,Nola Marino,Marino,Nola,1,forr,WA,Forrest,house
-LIB,Liberal Party,Amanda-Sue Markham,Markham,Amanda-Sue,0,fran,TAS,Franklin,house
-LIB,Liberal,Louise Markus,Markus,Louise,1,macq,NSW,Macquarie,house
-ALP,Australian Labor Party,Richard Marles,Marles,Richard,1,cori,VIC,Corio,house
+FFP,Family First Party,Craig Manners,Manners,Craig,0,svic,VIC,Victoria,senate
+LIB,Liberal,Ned Mannoun,Mannoun,Ned,0,werr,NSW,Werriwa,house
+GRN,The Greens,Sarah Mansfield,Mansfield,Sarah,0,cori,VIC,Corio,house
+REP,Renewable Energy Party,Rob Manson,Manson,Rob,0,stas,TAS,Tasmania,senate
+GRN,The Greens,Alice Mantel,Mantel,Alice,0,reid,NSW,Reid,house
+ONP,Pauline Hanson's One Nation,Natasia Manzi,Manzi,Natasia,0,stas,TAS,Tasmania,senate
+GRN,The Greens,Josephine Maguire-Rosier,Maguire-Rosier,Josephine,0,svic,VIC,Victoria,senate
+LIB,Liberal,Nola Marino,Marino,Nola,0,forr,WA,Forrest,house
+LIB,Liberal,Amanda-Sue Markham,Markham,Amanda-Sue,0,fran,TAS,Franklin,house
+PUP,Palmer United Party,Robert James Marks,Marks,Robert James,0,snsw,NSW,New South Wales,senate
+LIB,Liberal,Louise Markus,Markus,Louise,0,macq,NSW,Macquarie,house
+ALP,Australian Labor Party,Richard Marles,Marles,Richard,0,cori,VIC,Corio,house
+IND,Independent,Belinda Marriage,Marriage,Belinda,0,sqld,QLD,Queensland,senate
 KAP,Katter's Australian Party,Joy Marriott,Marriott,Joy,0,sqld,QLD,Queensland,senate
 GRN,The Greens,Jonathon Marsden,Marsden,Jonathon,0,gell,VIC,Gellibrand,house
-GRN,Greens,Bron Marsh,Marsh,Bron,0,wbay,QLD,Wide Bay,house
-GRN,Greens,Jillian Marsh,Marsh,Jillian,0,grey,SA,Grey,house
-ALA,Australian Liberty Alliance,Wanda Marsh,Marsh,Wanda,0,ssa,SA,South Australia,senate
-ALP,Australian Labor Party,Gavin Marshall,Marshall,Gavin,1,svic,VIC,Victoria,senate
-ALP,Labor Party,Carol Martin,Martin,Carol,0,dura,WA,Durack,house
+GRN,The Greens,Bron Marsh,Marsh,Bron,0,wbay,QLD,Wide Bay,house
+GRN,The Greens,Jillian Kay Marsh,Marsh,Jillian Kay,0,grey,SA,Grey,house
+ALA,Australian Liberty Alliance,Wanda Lee Marsh,Marsh,Wanda Lee,0,ssa,SA,South Australia,senate
+ALP,Australian Labor Party,Gavin Marshall,Marshall,Gavin,0,svic,VIC,Victoria,senate
+ODD,Online Direct Democracy - (Empowering the People!),Tristan Marshall,Marshall,Tristan,0,snt,NT,Northern Territory,senate
+IND,Independent,Kaye Marskell,Marskell,Kaye,0,stas,TAS,Tasmania,senate
+IND,Independent,Arjay Rase Martin,Martin,Arjay Rase,0,hunt,NSW,Hunter,house
+ALP,Australian Labor Party,Carol Martin,Martin,Carol,0,dura,WA,Durack,house
+AUC,Australian Christians,Rex Host,Host,Rex,0,cowa,WA,Cowan,house
 ALP,Australian Labor Party,Scott Martin,Martin,Scott,0,grey,SA,Grey,house
+CDP,Christian Democratic Party (Fred Nile Group),Sharon Martin,Martin,Sharon,0,nsyd,NSW,North Sydney,house
 JLN,Jacqui Lambie Network,Steve Martin,Martin,Steve,0,stas,TAS,Tasmania,senate
-LIB,Liberal,Russell Matheson,Matheson,Russell,1,maca,NSW,Macarthur,house
-LIB,Liberal Party,James Mathias,Mathias,James,0,holt,VIC,Holt,house
-IND,Independent,James Mathison,Mathison,James,0,warr,NSW,Warringah,house
+IND,Independent,Julie Matheson,Matheson,Julie,0,swa,WA,Western Australia,senate
+LIB,Liberal,Russell Matheson,Matheson,Russell,0,maca,NSW,Macarthur,house
+LIB,Liberal,James Mathias,Mathias,James,0,holt,VIC,Holt,house
+CDP,Christian Democratic Party (Fred Nile Group),Nella Hall,Hall,Nella,0,snsw,NSW,New South Wales,senate
 AJP,Animal Justice Party,John Matlen,Matlen,John,0,scul,VIC,Scullin,house
-21CP,21st Century Party,Kimberley Maurmo,Maurmo,Kimberley,0,maki,SA,Makin,house
-FFP,Family First Party,Bruce Mayer,Mayer,Bruce,0,wbay,QLD,Wide Bay,house
+CDP,Christian Democratic Party (Fred Nile Group),Gene Mawer,Mawer,Gene,0,lyon,TAS,Lyons,house
+FFP,Family First,Bruce Mayer,Mayer,Bruce,0,wbay,QLD,Wide Bay,house
 IND,Independent,Stephen Mayne,Mayne,Stephen,0,menz,VIC,Menzies,house
 AJP,Animal Justice Party,Jennifer McAdam,McAdam,Jennifer,0,mcmi,VIC,McMillan,house
-ALP,Australian Labor Party,Jenny McAllister,McAllister,Jenny,1,snsw,NSW,New South Wales,senate
-CDP,Christian Democratic Party,Beth McAlpine,McAlpine,Beth,0,page,NSW,Page,house
-ALP,Australian Labor Party,Emma McBride,McBride,Emma,0,dobe,NSW,Dobell,house
-GRN,Greens,Carmel McCallum,McCallum,Carmel,0,gilm,NSW,Gilmore,house
-MAP,Mature Australia Party,Graham McCarthy,McCarthy,Graham,0,svic,VIC,Victoria,senate
-ALP,Australian Labor Party,Malarndirri McCarthy,McCarthy,Malarndirri,0,snt,NT,Northern Territory,senate
-RUA,Rise Up Australia,Regina McCarthy,McCarthy,Regina,0,ling,NT,Lingiari,house
-FFP,Family First Party,Caroline McCormack,McCormack,Caroline,0,oxle,QLD,Oxley,house
-NAT,The Nationals,Michael McCormack,McCormack,Michael,1,rive,NSW,Riverina,house
+ALP,Labor,Jenny McAllister,McAllister,Jenny,0,snsw,NSW,New South Wales,senate
+CDP,Christian Democratic Party (Fred Nile Group),Bethany Rachael Mcalpine,Mcalpine,Bethany Rachael,0,page,NSW,Page,house
+ALP,Labor,Emma McBride,McBride,Emma,0,dobe,NSW,Dobell,house
+FFP,Family First,Simon McCaffrey,McCaffrey,Simon,0,snsw,NSW,New South Wales,senate
+GRN,The Greens,Carmel Mary McCallum,McCallum,Carmel Mary,0,gilm,NSW,Gilmore,house
+IND,Independent,Daniel McCarthy,McCarthy,Daniel,0,leic,QLD,Leichhardt,house
+MAP,Mature Australia,Graham McCarthy,McCarthy,Graham,0,svic,VIC,Victoria,senate
+ALP,Australian Labor Party (Northern Territory) Branch,Malarndirri McCarthy,McCarthy,Malarndirri,0,snt,NT,Northern Territory,senate
+RUA,Rise Up Australia Party,Regina McCarthy,McCarthy,Regina,0,ling,NT,Lingiari,house
+IND,Independent,Michael John Mccluskey,Mccluskey,Michael John,0,wann,VIC,Wannon,house
+FFP,Family First,Carrie McCormack,McCormack,Carrie,0,oxle,QLD,Oxley,house
+APP,Australian Progressives,Jo McCormack,McCormack,Jo,0,sqld,QLD,Queensland,senate
+NAT,The Nationals,Michael McCormack,McCormack,Michael,0,rive,NSW,Riverina,house
+DLP,Democratic Labour Party (DLP),Paul McCormack,McCormack,Paul,0,snsw,NSW,New South Wales,senate
+FFP,Family First Party,Craig McCracken,McCracken,Craig,0,chis,VIC,Chisholm,house
 ONP,Pauline Hanson's One Nation,Kate McCulloch,McCulloch,Kate,0,stas,TAS,Tasmania,senate
-CEC,Citizens Electoral Council,Brigis McCullough,McCullough,Brigis,0,solo,NT,Solomon,house
-ALP,Australian Labor Party,Anne McEwan,McEwan,Anne,1,ssa,SA,South Australia,senate
-LIB,Liberal Party,Vicky McGahey,McGahey,Vicky,0,snsw,NSW,New South Wales,senate
+CEC,Citizens Electoral Council,Brigid McCullough,McCullough,Brigid,0,solo,NT,Solomon,house
+DLF,Drug Law Reform,Frances McDonald,McDonald,Frances,0,long,QLD,Longman,house
+PUP,Palmer United Party,James McDonald,McDonald,James,0,sqld,QLD,Queensland,senate
+LDP,Liberal Democrats,Jim McDonald,McDonald,Jim,0,mcmi,VIC,McMillan,house
+ALP,Australian Labor Party,Anne McEwen,McEwen,Anne,0,ssa,SA,South Australia,senate
+CYC,Australian Cyclists Party,Noel McFarlane,McFarlane,Noel,0,gray,NSW,Grayndler,house
+LIB,Liberal,Victoria McGahey,McGahey,Victoria,0,snsw,NSW,New South Wales,senate
 FFP,Family First,Rod McGarvie,McGarvie,Rod,0,sqld,QLD,Queensland,senate
-LIB,Liberal Party,Duncan McGauchie,McGauchie,Duncan,0,murr,VIC,Murray,house
-IND,Independent,Cathy McGowan,McGowan,Cathy,1,indi,VIC,Indi,house
-LNP,Liberal National Party,James McGrath,McGrath,James,1,sqld,QLD,Queensland,senate
+LIB,Liberal,Duncan McGauchie,McGauchie,Duncan,0,murr,VIC,Murray,house
+IND,Independent,Cathy McGowan,McGowan,Cathy,0,indi,VIC,Indi,house
+LNP,Liberal National Party of Queensland,James McGrath,McGrath,James,0,sqld,QLD,Queensland,senate
 PIR,Pirate Party Australia,Darren McIntosh,McIntosh,Darren,0,snsw,NSW,New South Wales,senate
-21CP,21st Century Party,Jamie McIntyre,McIntyre,Jamie,0,neng,NSW,New England,house
-LIB,National Party of Australia,Bridget McKenzie,McKenzie,Bridget,1,svic,VIC,Victoria,senate
-GRN,Australian Greens,Nick McKim,McKim,Nick,1,stas,TAS,Tasmania,senate
+NAT,The Nationals,Bridget McKenzie,McKenzie,Bridget,0,svic,VIC,Victoria,senate
+DLF,Drug Law Reform,Levi McKenzie-Kirkbright,McKenzie-Kirkbright,Levi,0,mpor,VIC,Melbourne Ports,house
+GRN,The Greens,Nick McKim,McKim,Nick,0,stas,TAS,Tasmania,senate
 GRN,The Greens,Hugh McKinnon,McKinnon,Hugh,0,jaga,VIC,Jagajaga,house
-GRN,Greens,Helen McLeod,McLeod,Helen,0,kooy,VIC,Kooyong,house
-LIB,Liberal,Karen McNamara,McNamara,Karen,1,dobe,NSW,Dobell,house
+REP,Renewable Energy Party,Chris McLachlan,McLachlan,Chris,0,gray,NSW,Grayndler,house
+GRN,The Greens,Helen McLeod,McLeod,Helen,0,kooy,VIC,Kooyong,house
+IND,Independent,Greg McMahon,McMahon,Greg,0,sqld,QLD,Queensland,senate
+LIB,Liberal,Karen McNamara,McNamara,Karen,0,dobe,NSW,Dobell,house
+AFN,Australia First Party,Brian McRea,McRea,Brian,0,swa,WA,Western Australia,senate
 AJP,Animal Justice Party,Fiona McRostie,McRostie,Fiona,0,mari,VIC,Maribyrnong,house
-LNP,Liberal National Party,John McVeigh,McVeigh,John,0,groo,QLD,Groom,house
+LNP,Liberal National Party of Queensland,John McVeigh,McVeigh,John,0,groo,QLD,Groom,house
 LDP,Liberal Democrats,Clinton Mead,Mead,Clinton,0,stas,TAS,Tasmania,senate
 AJP,Animal Justice Party,Andy Meddick,Meddick,Andy,0,cora,VIC,Corangamite,house
-ALP,Labor Party,Hovig Melkonian,Melkonian,Hovig,0,case,VIC,Casey,house
-SCP,Science Party,Meow-Ludo Meow Meow,Meow Meow,Meow-Ludo,0,gray,NSW,Grayndler,house
-GRN,Greens,Lee-Anne Miles,Miles,Lee-Anne,0,pear,WA,Pearce,house
-FLX,Flux.org,Stuart Milne,Milne,Stuart,0,svic,VIC,Victoria,senate
-LIB,Liberal Party,Sophie Mirabella,Mirabella,Sophie,0,indi,VIC,Indi,house
-ALP,Labor Party,Brian Mitchell,Mitchell,Brian,0,lyon,TAS,Lyons,house
-ALP,Australian Labor Party,Rob Mitchell,Mitchell,Rob,1,mcew,VIC,McEwen,house
-GRN,Australian Greens,Judy Moate,Moate,Judy,0,ssa,SA,South Australia,senate
-CDP,Christian Democratic Party,Don Modarelli,Modarelli,Don,0,fowl,NSW,Fowler,house
-LIB,Liberal Party of Australia,Jim Molan,Molan,Jim,0,snsw,NSW,New South Wales,senate
-LNP,LNP,Nic Monsour,Monsour,Nic,0,more,QLD,Moreton,house
+ALP,Australian Labor Party,Hovig Melkonian,Melkonian,Hovig,0,case,VIC,Casey,house
+SCP,Science Party,Meow-Ludo Disco Gamma Meow-Meow,Meow-Meow,Meow-Ludo Disco Gamma,0,gray,NSW,Grayndler,house
+RUA,Rise Up Australia Party,Tim Middleton,Middleton,Tim,0,mall,VIC,Mallee,house
+SFP,"Shooters, Fishers and Farmers",Ricky Midson,Midson,Ricky,0,stas,TAS,Tasmania,senate
+SPA,Secular Party of Australia,Denis Mihaljevic,Mihaljevic,Denis,0,sact,ACT,A.C.T.,senate
+GRN,The Greens (WA),Lee-Anne Miles,Miles,Lee-Anne,0,pear,WA,Pearce,house
+IND,Independent,Brian Mills,Mills,Brian,0,farr,NSW,Farrer,house
+FLX,VOTEFLUX.ORG | Upgrade Democracy!,Stuart James Milne,Milne,Stuart James,0,svic,VIC,Victoria,senate
+GRN,The Greens,Tasma Minifie,Minifie,Tasma,0,svic,VIC,Victoria,senate
+LIB,Liberal,Sophie Mirabella,Mirabella,Sophie,0,indi,VIC,Indi,house
+ODD,Online Direct Democracy - (Empowering the People!),David Missingham,Missingham,David,0,sqld,QLD,Queensland,senate
+ALP,Australian Labor Party,Brian Mitchell,Mitchell,Brian,0,lyon,TAS,Lyons,house
+ALP,Australian Labor Party,Rob Mitchell,Mitchell,Rob,0,mcew,VIC,McEwen,house
+IND,Independent,Wanda Mitchell-Cook,Mitchell-Cook,Wanda,0,svic,VIC,Victoria,senate
+GRN,The Greens,Jody Moate,Moate,Jody,0,ssa,SA,South Australia,senate
+LIB,Liberal,Jim Molan,Molan,Jim,0,snsw,NSW,New South Wales,senate
+LNP,Liberal National Party of Queensland,Nic Monsour,Monsour,Nic,0,more,QLD,Moreton,house
 AJP,Animal Justice Party,Jessica Montagne,Montagne,Jessica,0,sact,ACT,A.C.T.,senate
-APP,Anti-paedophile Party,Tamarra Moody,Moody,Tamarra,0,swa,WA,Western Australia,senate
+AAP,Australian Antipaedophile Party,Tammara Moody,Moody,Tammara,0,swa,WA,Western Australia,senate
 RUA,Rise Up Australia Party,Neroli Mooney,Mooney,Neroli,0,sqld,QLD,Queensland,senate
-ALP,Australian Labor Party,Claire Moore,Moore,Claire,1,sqld,QLD,Queensland,senate
-IND,Independent,Tony Moore,Moore,Tony,0,sqld,QLD,Queensland,senate
-APP,Anti-paedophile Party,Rebecca Morgan,Morgan,Rebecca,0,ssa,SA,South Australia,senate
-GRN,Greens,Terry Morgan,Morgan,Terry,0,macq,NSW,Macquarie,house
-ALP,Australian Labor Party,Tara Moriarty,Moriarty,Tara,0,snsw,NSW,New South Wales,senate
-GRN,Greens,Ben Moroney,Moroney,Ben,0,maca,NSW,Macarthur,house
-GRN,Greens,Hillary Morris,Morris,Hillary,0,robe,NSW,Robertson,house
-GRN,Greens,Peter Morris,Morris,Peter,0,hunt,NSW,Hunter,house
-LIB,Liberal,Scott Morrison,Morrison,Scott,1,cook,NSW,Cook,house
-LIB,Liberal Party,Ben Morton,Morton,Ben,0,tang,WA,Tangney,house
+ALP,Australian Labor Party,Claire Moore,Moore,Claire,0,sqld,QLD,Queensland,senate
+LDP,Liberal Democrats,Joel Moore,Moore,Joel,0,asto,VIC,Aston,house
+IND,Independent,Tony R. Moore,Moore,Tony R.,0,sqld,QLD,Queensland,senate
+BTA,Bullet Train For Australia,Jeff Moran,Moran,Jeff,0,cori,VIC,Corio,house
+SA,Sustainable Australia,Matt Moran,Moran,Matt,0,sqld,QLD,Queensland,senate
+CM,CountryMinded,Methuen Morgan,Morgan,Methuen,0,snsw,NSW,New South Wales,senate
+GRN,The Greens,Terry Morgan,Morgan,Terry,0,macq,NSW,Macquarie,house
+ALP,Labor,Tara Moriarty,Moriarty,Tara,0,snsw,NSW,New South Wales,senate
+GRN,The Greens,Ben Moroney,Moroney,Ben,0,maca,NSW,Macarthur,house
+IND,Independent,Gary J Morris,Morris,Gary J,0,swa,WA,Western Australia,senate
+GRN,The Greens,Hillary Morris,Morris,Hillary,0,robe,NSW,Robertson,house
+GRN,The Greens,Peter Morris,Morris,Peter,0,hunt,NSW,Hunter,house
+LIB,Liberal,Scott Morrison,Morrison,Scott,0,cook,NSW,Cook,house
+LIB,Liberal,Ben Morton,Morton,Ben,0,tang,WA,Tangney,house
 REP,Renewable Energy Party,James Moylan,Moylan,James,0,sqld,QLD,Queensland,senate
+IND,Independent,Kim Mubarak,Mubarak,Kim,0,stir,WA,Stirling,house
 NAT,The Nationals,Kado Muir,Muir,Kado,0,swa,WA,Western Australia,senate
-AMEP,Australian Motoring Enthusiast Party,Ricky Muir,Muir,Ricky,1,svic,VIC,Victoria,senate
+AMEP,Australian Motoring Enthusiast Party,Ricky Muir,Muir,Ricky,0,svic,VIC,Victoria,senate
 ASXP,Australian Sex Party,Amy Mulcahy,Mulcahy,Amy,0,svic,VIC,Victoria,senate
 IND,Independent,Martin Mulcare,Mulcare,Martin,0,benn,NSW,Bennelong,house
-LIB,Liberal Party,David Mulholland,Mulholland,David,0,jaga,VIC,Jagajaga,house
+LIB,Liberal,David Mulholland,Mulholland,David,0,jaga,VIC,Jagajaga,house
+IND,Independent,Allan Mull,Mull,Allan,0,svic,VIC,Victoria,senate
+IND,Independent,Peter Muller,Muller,Peter,0,snsw,NSW,New South Wales,senate
+IND,Independent,Stephen Muller,Muller,Stephen,0,snsw,NSW,New South Wales,senate
+PUP,Palmer United Party,Kevin Morgan,Morgan,Kevin,0,stas,TAS,Tasmania,senate
+AEQ,Marriage Equality,William Moran,Moran,William,0,sqld,QLD,Queensland,senate
+IND,Independent,Liam Munday,Munday,Liam,0,snsw,NSW,New South Wales,senate
 RUA,Rise Up Australia Party,Sheila Mundy,Mundy,Sheila,0,swa,WA,Western Australia,senate
-LIB,Liberal Party,Gayle Murphy,Murphy,Gayle,0,lalo,VIC,Lalor,house
-ALP,Labor Party,Peta Murphy,Murphy,Peta,0,dunk,VIC,Dunkley,house
+LIB,Liberal,Gayle Murphy,Murphy,Gayle,0,lalo,VIC,Lalor,house
+ALP,Australian Labor Party,Peta Murphy,Murphy,Peta,0,dunk,VIC,Dunkley,house
 ASXP,Australian Sex Party,Joel Murray,Murray,Joel,0,batm,VIC,Batman,house
+IND,Independent,Ken Murray,Murray,Ken,0,capr,QLD,Capricornia,house
+CDP,Christian Democratic Party (Fred Nile Group),George James Muskett,Muskett,George James,0,fran,TAS,Franklin,house
+IND,Independent,John B Myers,Myers,John B,0,mpor,VIC,Melbourne Ports,house
 RUA,Rise Up Australia Party,Daniel Nalliah,Nalliah,Daniel,0,svic,VIC,Victoria,senate
-NAT,National Party of Australia,Fiona Nash,Nash,Fiona,1,snsw,NSW,New South Wales,senate
-GRN,Greens,Scott Jordan,Jordan,Scott,0,brad,TAS,Braddon,house
-ALP,Labor Party,Leisa Neaton,Neaton,Leisa,0,capr,QLD,Capricornia,house
-ALP,Australian Labor Party,Shayne Neumann,Neumann,Shayne,1,blai,QLD,Blair,house
-SPP,Sustainable Australia,Georgia Nicholls,Nicholls,Georgia,0,svic,VIC,Victoria,senate
+NAT,The Nationals,Fiona Nash,Nash,Fiona,0,snsw,NSW,New South Wales,senate
+CDP,Christian Democratic Party (Fred Nile Group),Clint Nasr,Nasr,Clint,0,blax,NSW,Blaxland,house
+ALP,Australian Labor Party,Leisa Neaton,Neaton,Leisa,0,capr,QLD,Capricornia,house
+DHJ,Derryn Hinch's Justice Party,Patrice Nelson,Nelson,Patrice,0,cora,VIC,Corangamite,house
+CDP,Christian Democratic Party (Fred Nile Group),Silvana Nero-Nile,Nero-Nile,Silvana,0,stas,TAS,Tasmania,senate
+ALP,Australian Labor Party,Shayne Neumann,Neumann,Shayne,0,blai,QLD,Blair,house
+IND,Independent,Michael Newie,Newie,Michael,0,leic,QLD,Leichhardt,house
+SA,Sustainable Australia,Georgia Nicholls,Nicholls,Georgia,0,svic,VIC,Victoria,senate
+ALA,Australian Liberty Alliance,Kenneth Nicholls,Nicholls,Kenneth,0,svic,VIC,Victoria,senate
+ONP,Pauline Hanson's One Nation,Angelina Nicolis,Nicolis,Angelina,0,ssa,SA,South Australia,senate
+GRN,The Greens (WA),Sarah Nielsen-Harvey,Nielsen-Harvey,Sarah,0,swan,WA,Swan,house
+LIB,Liberal,Andrew Nikolic,Nikolic,Andrew,0,bass,TAS,Bass,house
+LDP,Liberal Democrats,Michael Noack,Noack,Michael,0,ssa,SA,South Australia,senate
+GRN,The Greens,Louise Noble,Noble,Louise,0,sqld,QLD,Queensland,senate
 RUA,Rise Up Australia Party,Maree Nichols,Nichols,Maree,0,snsw,NSW,New South Wales,senate
-FFP,Family First Party,Amanda Nickson,Nickson,Amanda,0,daws,QLD,Dawson,house
-GRN,Greens,Sarah Nielsen-Harvey,Nielsen-Harvey,Sarah,0,swan,WA,Swan,house
-LIB,Liberal,Andrew Nikolic,Nikolic,Andrew,1,bass,TAS,Bass,house
 AJP,Animal Justice Party,Tania Noble,Noble,Tania,0,ssa,SA,South Australia,senate
-GRN,Australian Greens,Jane Oakley,Oakley,Jane,0,snsw,NSW,New South Wales,senate
-LNP,Liberal National Party,Llew O'Brien,O'Brien,Llew,0,wbay,QLD,Wide Bay,house
+IND,Independent,Trevor William Nye,Nye,Trevor William,0,svic,VIC,Victoria,senate
+IND,Independent,Robert James Murray Oakeshott,Oakeshott,Robert James Murray,0,cowp,NSW,Cowper,house
+GRN,The Greens,Jane Oakley,Oakley,Jane,0,snsw,NSW,New South Wales,senate
+LNP,Liberal National Party of Queensland,Llew O'Brien,O'Brien,Llew,0,wbay,QLD,Wide Bay,house
 ALP,Australian Labor Party,Mat O'Brien,O'Brien,Mat,0,bark,SA,Barker,house
-LNP,LNP,Ted O'Brien,O'Brien,Ted,0,fair,QLD,Fairfax,house
-IND,Independent,Dean O'Callaghan,O'Callaghan,Dean,0,will,VIC,Wills,house
-ALP,Australian Labor Party,Brendan O'Connor,O'Connor,Brendan,1,gort,VIC,Gorton,house
+AEQ,Marriage Equality,Rebecca O'Brien,O'Brien,Rebecca,0,higg,VIC,Higgins,house
+LNP,Liberal National Party of Queensland,Ted O'Brien,O'Brien,Ted,0,fair,QLD,Fairfax,house
+MAP,Mature Australia,Trevor O'Brien,O'Brien,Trevor,0,farr,NSW,Farrer,house
+ALP,Australian Labor Party,Brendan O'Connor,O'Connor,Brendan,0,gort,VIC,Gorton,house
+LDP,Liberal Democrats,Doug Nicholson,Nicholson,Doug,0,dick,QLD,Dickson,house
+FFP,Family First,Amanda Nickson,Nickson,Amanda,0,daws,QLD,Dawson,house
 GRN,The Greens,Jenny O'Connor,O'Connor,Jenny,0,indi,VIC,Indi,house
-LNP,Liberal National Party of Queensland,Ken O'Dowd,O'Dowd,Ken,1,flyn,QLD,Flynn,house
-LIB,Liberal,Kelly O'Dwyer,O'Dwyer,Kelly,1,higg,VIC,Higgins,house
-GRN,Greens,Claire Ogden,Ogden,Claire,0,lill,QLD,Lilley,house
-TAP,Arts Party,Scott O'Hara,O'Hara,Scott,0,stas,TAS,Tasmania,senate
-LIB,Liberal Party,Sang Ok,Ok,Sang,0,snsw,NSW,New South Wales,senate
-LIB,Liberal Party of Australia,Karina Okotel,Okotel,Karina,0,svic,VIC,Victoria,senate
+LIB,Liberal,Kelly O'Dwyer,O'Dwyer,Kelly,0,higg,VIC,Higgins,house
+LNP,Liberal National Party of Queensland,Ken O'Dowd,O'Dowd,Ken,0,flyn,QLD,Flynn,house
+GRN,The Greens,Claire Ogden,Ogden,Claire,0,lill,QLD,Lilley,house
+RUA,Rise Up Australia Party,Sandie O'Connor,O'Connor,Sandie,0,sact,ACT,A.C.T.,senate
+TAP,The Arts Party,Scott O'Hara,O'Hara,Scott,0,stas,TAS,Tasmania,senate
+LIB,Liberal,Sang Ok,Ok,Sang,0,snsw,NSW,New South Wales,senate
+LIB,Liberal,Karina Okotel,Okotel,Karina,0,svic,VIC,Victoria,senate
 AUC,Australian Christians,Anne Okumu,Okumu,Anne,0,svic,VIC,Victoria,senate
-HMP,Help End Marijuana Prohibition,Jason Olbourne,Olbourne,Jason,0,snsw,NSW,New South Wales,senate
+HMP,Marijuana (HEMP) Party,Jason Mark Olbourne,Olbourne,Jason Mark,0,snsw,NSW,New South Wales,senate
 REP,Renewable Energy Party,Maurice Oldis,Oldis,Maurice,0,batm,VIC,Batman,house
-ALP,Australian Labor Party,Clare O'Neil,O'Neil,Clare,1,hoth,VIC,Hotham,house
-AUC,Australian Christian Party,Anthony O'Neill,O'Neill,Anthony,0,mari,VIC,Maribyrnong,house
-GRN,Greens,Astrid O'Neill,O'Neill,Astrid,0,mcma,NSW,McMahon,house
-ALP,Australian Labor Party,Deborah O'Neill,O'Neill,Deborah,1,snsw,NSW,New South Wales,senate
-ALP,Labor Party,Pat O'Neill,O'Neill,Pat,0,bris,QLD,Brisbane,house
-GRN,Greens,Ian Onley,Onley,Ian,0,gipp,VIC,Gippsland,house
-GRN,Australian Greens,Michael Osborne,Osborne,Michael,0,snsw,NSW,New South Wales,senate
-LNP,LNP,Freya Ostapovitch,Ostapovitch,Freya,0,rank,QLD,Rankin,house
-LNP,Liberal National Party,Barry O'Sullivan,O'Sullivan,Barry,1,sqld,QLD,Queensland,senate
-LIB,Liberal Party,Matt O'Sullivan,O'Sullivan,Matt,0,burt,WA,Burt,house
-GRN,Greens,Patrick O'Sullivan,O'Sullivan,Patrick,0,hind,SA,Hindmarsh,house
-ALP,Labor Party,Cathy O'Toole,O'Toole,Cathy,0,herb,QLD,Herbert,house
+ALP,Australian Labor Party,Clare O'Neil,O'Neil,Clare,0,hoth,VIC,Hotham,house
+AUC,Australian Christians,Anthony O'Neill,O'Neill,Anthony,0,mari,VIC,Maribyrnong,house
+GRN,The Greens,Astrid O'Neill,O'Neill,Astrid,0,mcma,NSW,McMahon,house
+ALP,Labor,Deborah O'Neill,O'Neill,Deborah,0,snsw,NSW,New South Wales,senate
+ALP,Australian Labor Party,Pat O'Neill,O'Neill,Pat,0,bris,QLD,Brisbane,house
+GRN,The Greens,Ian Onley,Onley,Ian,0,gipp,VIC,Gippsland,house
+CDP,Christian Democratic Party (Fred Nile Group),Carol Ordish,Ordish,Carol,0,snt,NT,Northern Territory,senate
+CDP,Christian Democratic Party (Fred Nile Group),John Ordish,Ordish,John,0,snt,NT,Northern Territory,senate
+FFP,Family First,Glenn O'Rourke,O'Rourke,Glenn,0,rive,NSW,Riverina,house
+SUP,Seniors United Party of Australia,Chris Osborne,Osborne,Chris,0,snsw,NSW,New South Wales,senate
+GRN,The Greens,Michael Osborne,Osborne,Michael,0,snsw,NSW,New South Wales,senate
+LNP,Liberal National Party of Queensland,Freya Ostapovitch,Ostapovitch,Freya,0,rank,QLD,Rankin,house
+LNP,Liberal National Party of Queensland,Barry O'Sullivan,O'Sullivan,Barry,0,sqld,QLD,Queensland,senate
+ALP,Labor,Mary O'Sullivan,O'Sullivan,Mary,0,snsw,NSW,New South Wales,senate
+ALP,Australian Labor Party,Mia Onorato,Onorato,Mia,0,swa,WA,Western Australia,senate
+LIB,Liberal,Matt O'Sullivan,O'Sullivan,Matt,0,burt,WA,Burt,house
+GRN,The Greens,Patrick O'Sullivan,O'Sullivan,Patrick,0,hind,SA,Hindmarsh,house
+ALP,Australian Labor Party,Cathy O'Toole,O'Toole,Cathy,0,herb,QLD,Herbert,house
 AJP,Animal Justice Party,Jamie Overend,Overend,Jamie,0,cori,VIC,Corio,house
-HMP,Help End Marijuana Prohibition,Matt Owen,Owen,Matt,0,stas,TAS,Tasmania,senate
-ALP,Labor,Julie Owens,Owens,Julie,1,parr,NSW,Parramatta,house
-HMP,Help End Marijuana Prohibition,Ryan Parker,Parker,Ryan,0,ssa,SA,South Australia,senate
-GRN,Greens,Matt Parmeter,Parmeter,Matt,0,park,NSW,Parkes,house
+HMP,Marijuana (HEMP) Party,Matt Owen,Owen,Matt,0,stas,TAS,Tasmania,senate
+ALP,Labor,Julie Owens,Owens,Julie,0,parr,NSW,Parramatta,house
+HAP,Health Australia Party,Leanne Paff,Paff,Leanne,0,snsw,NSW,New South Wales,senate
+GRN,The Greens,Matt Parmeter,Parmeter,Matt,0,park,NSW,Parkes,house
 AJP,Animal Justice Party,Ruth Parramore,Parramore,Ruth,0,bend,VIC,Bendigo,house
-LIB,Liberal Party of Australia,Stephen Parry,Parry,Stephen,1,stas,TAS,Tasmania,senate
-LIB,Liberal,Tony Pasin,Pasin,Tony,1,bark,SA,Barker,house
+LIB,Liberal,Stephen Parry,Parry,Stephen,0,stas,TAS,Tasmania,senate
+LIB,Liberal,Tony Pasin,Pasin,Tony,0,bark,SA,Barker,house
 ONP,Pauline Hanson's One Nation,Robert Pasquali,Pasquali,Robert,0,fair,QLD,Fairfax,house
-LIB,Liberal Party of Australia,James Paterson,Paterson,James,1,svic,VIC,Victoria,senate
+GRN,The Greens,Kate Parker,Parker,Kate,0,snsw,NSW,New South Wales,senate
+LIB,Liberal,James Paterson,Paterson,James,0,svic,VIC,Victoria,senate
 GRN,The Greens,Patchouli Paterson,Paterson,Patchouli,0,cora,VIC,Corangamite,house
 ASXP,Australian Sex Party,Kirsty Patten,Patten,Kirsty,0,sqld,QLD,Queensland,senate
-LNP,Liberal National Party,Jonathan Pavetto,Pavetto,Jonathan,0,kenn,QLD,Kennedy,house
-LIB,Liberal Party of Australia,Marise Payne,Payne,Marise,1,snsw,NSW,New South Wales,senate
+HAP,Health Australia Party,Andrew James Patterson,Patterson,Andrew James,0,snsw,NSW,New South Wales,senate
+HMP,Marijuana (HEMP) Party,Ryan Douglas Parker,Parker,Ryan Douglas,0,ssa,SA,South Australia,senate
+IND,Independent,Stuey Paull,Paull,Stuey,0,swa,WA,Western Australia,senate
+LNP,Liberal National Party of Queensland,Jonathan Pavetto,Pavetto,Jonathan,0,kenn,QLD,Kennedy,house
+LIB,Liberal,Marise Payne,Payne,Marise,0,snsw,NSW,New South Wales,senate
+APP,Australian Progressives,Sasha Pazeski-Nikoloski,Pazeski-Nikoloski,Sasha,0,ssa,SA,South Australia,senate
+IND,Independent,Gary James Pead,Pead,Gary James,0,sqld,QLD,Queensland,senate
 ALP,Australian Labor Party,Robert Pearson,Pearson,Robert,0,stir,WA,Stirling,house
 JLN,Jacqui Lambie Network,Crystal Peckett,Peckett,Crystal,0,sqld,QLD,Queensland,senate
-ALP,Labor Party,Jacqui Pedersen,Pedersen,Jacqui,0,petr,QLD,Petrie,house
-GRN,Australian Greens,Ben Pennings,Pennings,Ben,0,sqld,QLD,Queensland,senate
-ALP,Australian Labor Party,Graham Perrett,Perrett,Graham,1,more,QLD,Moreton,house
+ALP,Australian Labor Party,Jacqui Pedersen,Pedersen,Jacqui,0,petr,QLD,Petrie,house
+ONP,Pauline Hanson's One Nation,Michelle Pedersen,Pedersen,Michelle,0,long,QLD,Longman,house
+FFP,Family First,David Pellowe,Pellowe,David,0,sqld,QLD,Queensland,senate
+GRN,The Greens,Ben Pennings,Pennings,Ben,0,sqld,QLD,Queensland,senate
+SPA,Secular Party of Australia,John Perkins,Perkins,John,0,svic,VIC,Victoria,senate
+ALP,Australian Labor Party,Graham Perrett,Perrett,Graham,0,more,QLD,Moreton,house
 ALP,Australian Labor Party,Stefanie Perri,Perri,Stefanie,0,chis,VIC,Chisholm,house
 REP,Renewable Energy Party,Susan Perrow,Perrow,Susan,0,snsw,NSW,New South Wales,senate
 ALP,Australian Labor Party,Louise Persse,Persse,Louise,0,svic,VIC,Victoria,senate
 IND,Independent,Patricia Petersen,Petersen,Patricia,0,blai,QLD,Blair,house
 CEC,Citizens Electoral Council,Gabrielle Peut,Peut,Gabrielle,0,svic,VIC,Victoria,senate
-ALP,Australian Labor Party,Fiona Phillips,Phillips,Fiona,0,gilm,NSW,Gilmore,house
-FFP,Family First Party,Marilyn Phillips,Phillips,Marilyn,0,wake,SA,Wakefield,house
+CDP,Christian Democratic Party (Fred Nile Group),Andrew Phillips,Phillips,Andrew,0,snsw,NSW,New South Wales,senate
+ALP,Labor,Fiona Phillips,Phillips,Fiona,0,gilm,NSW,Gilmore,house
+FFP,Family First,Marilyn Phillips,Phillips,Marilyn,0,wake,SA,Wakefield,house
 ALA,Australian Liberty Alliance,Ron Pike,Pike,Ron,0,farr,NSW,Farrer,house
 RUA,Rise Up Australia Party,Jan Pile,Pile,Jan,0,snt,NT,Northern Territory,senate
-CDP,Christian Democratic Party,Susan Pinsuti,Pinsuti,Susan,0,whit,NSW,Whitlam,house
-CDP,Christian Democratic Party,Keith Piper,Piper,Keith,0,parr,NSW,Parramatta,house
-LNP,Liberal National Party of Queensland,Keith Pitt,Pitt,Keith,1,hink,QLD,Hinkler,house
-ALP,Labor,Tanya Plibersek,Plibersek,Tanya,1,sydn,NSW,Sydney,house
+NAT,The Nationals,Luke Pilkington,Pilkington,Luke,0,forr,WA,Forrest,house
+CDP,Christian Democratic Party (Fred Nile Group),Susan Pinsuti,Pinsuti,Susan,0,whit,NSW,Whitlam,house
+CDP,Christian Democratic Party (Fred Nile Group),Keith Piper,Piper,Keith,0,parr,NSW,Parramatta,house
+CDP,Christian Democratic Party (Fred Nile Group),Tania Stephanie Piper,Piper,Tania Stephanie,0,snsw,NSW,New South Wales,senate
+LNP,Liberal National Party of Queensland,Keith Pitt,Pitt,Keith,0,hink,QLD,Hinkler,house
+ALP,Labor,Tanya Plibersek,Plibersek,Tanya,0,sydn,NSW,Sydney,house
 AJP,Animal Justice Party,Angela Pollard,Pollard,Angela,0,rich,NSW,Richmond,house
-ALP,Australian Labor Party,Helen Polley,Polley,Helen,1,stas,TAS,Tasmania,senate
+ALP,Australian Labor Party,Helen Polley,Polley,Helen,0,stas,TAS,Tasmania,senate
 AJP,Animal Justice Party,Bruce Poon,Poon,Bruce,0,svic,VIC,Victoria,senate
-LIB,Liberal,Christian Porter,Porter,Christian,1,pear,WA,Pearce,house
-FFP,Family First Party,Mark Potter,Potter,Mark,0,hind,SA,Hindmarsh,house
-FLX,Flux,Adam Poulton,Poulton,Adam,0,stas,TAS,Tasmania,senate
+LIB,Liberal,Christian Porter,Porter,Christian,0,pear,WA,Pearce,house
+IND,Independent,Josephine Potter,Potter,Josephine,0,sqld,QLD,Queensland,senate
+FFP,Family First,Mark Potter,Potter,Mark,0,hind,SA,Hindmarsh,house
+IND,Independent,Ron Poulsen,Poulsen,Ron,0,snsw,NSW,New South Wales,senate
+FLX,VOTEFLUX.ORG | Upgrade Democracy!,Adam Poulton,Poulton,Adam,0,stas,TAS,Tasmania,senate
+GRN,The Greens,Kevin Poynter,Poynter,Kevin,0,rive,NSW,Riverina,house
 ALP,Australian Labor Party,Louise Pratt,Pratt,Louise,0,swa,WA,Western Australia,senate
-LNP,Liberal National Party of Queensland,Jane Prentice,Prentice,Jane,1,ryan,QLD,Ryan,house
-LIB,Liberal,Melissa Price,Price,Melissa,1,dura,WA,Durack,house
+LNP,Liberal National Party of Queensland,Jane Prentice,Prentice,Jane,0,ryan,QLD,Ryan,house
+LIB,Liberal,Melissa Price,Price,Melissa,0,dura,WA,Durack,house
 SAL,Socialist Alliance,Susan Price,Price,Susan,0,snsw,NSW,New South Wales,senate
-GRN,Greens,Kurt Pudniks,Pudniks,Kurt,0,leic,QLD,Leichhardt,house
-CEC,Citizens Electoral Council,Jan Pukallas,Pukallas,Jan,0,sqld,QLD,Queensland,senate
-ALP,Australian Labor Party,Andrew Punch,Punch,Andrew,0,mitc,NSW,Mitchell,house
-FFP,Family First Party,Michael Punshon,Punshon,Michael,0,herb,QLD,Herbert,house
-LIB,Liberal Party,Megan Purcell,Purcell,Megan,0,bend,VIC,Bendigo,house
-GRN,Greens,Steven Purcell,Purcell,Steven,0,oxle,QLD,Oxley,house
+APP,Australian Progressives,Jaz Priddey,Priddey,Jaz,0,ssa,SA,South Australia,senate
+IND,Independent,Thor Prohaska,Prohaska,Thor,0,dick,QLD,Dickson,house
+CEC,Citizens Electoral Council,Jan Pukallus,Pukallus,Jan,0,sqld,QLD,Queensland,senate
+GRN,The Greens,Kurt Pudniks,Pudniks,Kurt,0,leic,QLD,Leichhardt,house
+IND,Independent,Jordan Ryan Puku,Puku,Jordan Ryan,0,flyn,QLD,Flynn,house
+ALP,Labor,Andrew Punch,Punch,Andrew,0,mitc,NSW,Mitchell,house
+FFP,Family First,Michael Punshon,Punshon,Michael,0,herb,QLD,Herbert,house
+LIB,Liberal,Megan Purcell,Purcell,Megan,0,bend,VIC,Bendigo,house
+GRN,The Greens,Steven Purcell,Purcell,Steven,0,oxle,QLD,Oxley,house
 PIR,Pirate Party Australia,Isaac Pursehouse,Pursehouse,Isaac,0,sqld,QLD,Queensland,senate
-LIB,Liberal,Christopher Pyne,Pyne,Christopher,1,stur,SA,Sturt,house
-PROG,Australian Progressive Party,Allan Quartly,Quartly,Allan,0,snsw,NSW,New South Wales,senate
-LIB,Liberal Party,Jeremy Quinn,Quinn,Jeremy,0,pert,WA,Perth,house
-DLP,Democratic Labour Party,John Quinn,Quinn,John,0,ryan,QLD,Ryan,house
-MAP,Mature Australia Party,Paul Quinn,Quinn,Paul,0,snsw,NSW,New South Wales,senate
-CDP,Christian Democratic Party,John Ramsay,Ramsay,John,0,werr,NSW,Werriwa,house
-LIB,Liberal,Rowan Ramsey,Ramsey,Rowan,1,grey,SA,Grey,house
+RUA,Rise Up Australia Party,Ash Puvimanasinghe,Puvimanasinghe,Ash,0,cori,VIC,Corio,house
+LIB,Liberal,Christopher Pyne,Pyne,Christopher,0,stur,SA,Sturt,house
+APP,Australian Progressives,Allan Quartly,Quartly,Allan,0,snsw,NSW,New South Wales,senate
+LDP,Liberal Democrats,Tim Quilty,Quilty,Tim,0,indi,VIC,Indi,house
+LIB,Liberal,Jeremy Quinn,Quinn,Jeremy,0,pert,WA,Perth,house
+DLP,Democratic Labour Party (DLP),John Lawrence Quinn,Quinn,John Lawrence,0,ryan,QLD,Ryan,house
+RUA,Rise Up Australia Party,Margaret Quinn,Quinn,Margaret,0,ltro,VIC,La Trobe,house
+MAP,Mature Australia,Paul Quinn,Quinn,Paul,0,snsw,NSW,New South Wales,senate
+GRN,The Greens,Elena Quirk,Quirk,Elena,0,sqld,QLD,Queensland,senate
+ODD,Online Direct Democracy - (Empowering the People!),Peter Joseph Radic,Radic,Peter Joseph,0,sqld,QLD,Queensland,senate
+GLT,Glenn Lazarus Team,Aaron Raffin,Raffin,Aaron,0,herb,QLD,Herbert,house
+CDP,Christian Democratic Party (Fred Nile Group),Peter Rahme,Rahme,Peter,0,snsw,NSW,New South Wales,senate
+IND,Independent,Mahesh Raj,Raj,Mahesh,0,parr,NSW,Parramatta,house
+CYC,Australian Cyclists Party,Ingrid Ralph,Ralph,Ingrid,0,snsw,NSW,New South Wales,senate
+REP,Renewable Energy Party,Roy Ramage,Ramage,Roy,0,bass,TAS,Bass,house
+IND,Independent,Norm Ramsay,Ramsay,Norm,0,swa,WA,Western Australia,senate
+LIB,Liberal,Rowan Ramsey,Ramsey,Rowan,0,grey,SA,Grey,house
+FFP,Family First Party,Michael Rathbone,Rathbone,Michael,0,dunk,VIC,Dunkley,house
+FFP,Family First Party,Tatiana Rathbone,Rathbone,Tatiana,0,hoth,VIC,Hotham,house
 GRN,The Greens,Samantha Ratnam,Ratnam,Samantha,0,will,VIC,Wills,house
+ASXP,Australian Sex Party,Sue Raye,Raye,Sue,0,snsw,NSW,New South Wales,senate
 GRN,The Greens,Steve Raymond,Raymond,Steve,0,asto,VIC,Aston,house
+CYC,Australian Cyclists Party,Edward Re,Re,Edward,0,sqld,QLD,Queensland,senate
 NAT,The Nationals,Elizabeth Re,Re,Elizabeth,0,swa,WA,Western Australia,senate
-GRN,Greens,Jill Reading,Reading,Jill,0,forr,WA,Forrest,house
+CDP,Christian Democratic Party (Fred Nile Group),Philip Campbell Read,Read,Philip Campbell,0,swa,WA,Western Australia,senate
+GRN,The Greens,Rose Read,Read,Rose,0,svic,VIC,Victoria,senate
+GRN,The Greens (WA),Jill Reading,Reading,Jill,0,forr,WA,Forrest,house
+AUC,Australian Christians,Jeff Reaney,Reaney,Jeff,0,dunk,VIC,Dunkley,house
+IND,Independent,Shyamal Reddy,Reddy,Shyamal,0,sqld,QLD,Queensland,senate
 ALP,Australian Labor Party,Mark Reed,Reed,Mark,0,swa,WA,Western Australia,senate
-FFP,Family First Party,Lyn Rees,Rees,Lyn,0,fadd,QLD,Fadden,house
+FFP,Family First,David Rees,Rees,David,0,fair,QLD,Fairfax,house
+PUP,Palmer United Party,Kristian Rees,Rees,Kristian,0,ssa,SA,South Australia,senate
+FFP,Family First,Lyn Rees,Rees,Lyn,0,fadd,QLD,Fadden,house
+SFP,"Shooters, Fishers and Farmers",Marty Reinhold,Reinhold,Marty,0,solo,NT,Solomon,house
 JLN,Jacqui Lambie Network,Bruce Relph,Relph,Bruce,0,snsw,NSW,New South Wales,senate
-LNP,Liberal National Party,Gerard Rennick,Rennick,Gerard,0,sqld,QLD,Queensland,senate
-GRN,Australian Greens,Anna Reynolds,Reynolds,Anna,0,stas,TAS,Tasmania,senate
-LIB,Liberal Party,Graham Reynolds,Reynolds,Graham,0,maki,SA,Makin,house
-LIB,Liberal Party of Australia,Linda Reynolds,Reynolds,Linda,1,swa,WA,Western Australia,senate
-GRN,Australian Greens,Lee Rhiannon,Rhiannon,Lee,1,snsw,NSW,New South Wales,senate
-GRN,Australian Greens,Janet Rice,Rice,Janet,1,svic,VIC,Victoria,senate
-ALP,Labor Party,Kim Richards,Richards,Kim,0,bowm,QLD,Bowman,house
-LIB,Liberal Party,Sarah Richards,Richards,Sarah,0,snsw,NSW,New South Wales,senate
-MAP,Mature Australia Party,Roy Ridge,Ridge,Roy,0,svic,VIC,Victoria,senate
+LNP,Liberal National Party of Queensland,Gerard Rennick,Rennick,Gerard,0,sqld,QLD,Queensland,senate
+GRN,The Greens,Anna Reynolds,Reynolds,Anna,0,stas,TAS,Tasmania,senate
+LIB,Liberal,Graham Reynolds,Reynolds,Graham,0,maki,SA,Makin,house
+LIB,Liberal,Linda Reynolds,Reynolds,Linda,0,swa,WA,Western Australia,senate
+GRN,The Greens,Lee Rhiannon,Rhiannon,Lee,0,snsw,NSW,New South Wales,senate
+IND,Independent,Rodger John Riach,Riach,Rodger John,0,lyne,NSW,Lyne,house
+REP,Renewable Energy Party,Clinton Rice,Rice,Clinton,0,brad,TAS,Braddon,house
+GRN,The Greens,Janet Rice,Rice,Janet,0,svic,VIC,Victoria,senate
+IND,Independent,Adam Richards,Richards,Adam,0,ssa,SA,South Australia,senate
+ALP,Australian Labor Party,Kim Richards,Richards,Kim,0,bowm,QLD,Bowman,house
+LIB,Liberal,Sarah Richards,Richards,Sarah,0,snsw,NSW,New South Wales,senate
+IND,Independent,Greg Riddell,Riddell,Greg,0,long,QLD,Longman,house
+MAP,Mature Australia,Roy Ridge,Ridge,Roy,0,svic,VIC,Victoria,senate
+SFP,"Shooters, Fishers and Farmers",Chris Righton,Righton,Chris,0,ling,NT,Lingiari,house
+DLF,Drug Law Reform,Matt Riley,Riley,Matt,0,melb,VIC,Melbourne,house
 GRN,The Greens,Terrill Riley-Gibson,Riley-Gibson,Terrill,0,bass,TAS,Bass,house
-ALP,Australian Labor Party,Amanda Rishworth,Rishworth,Amanda,1,king,SA,Kingston,house
-FFP,Family First Party,Adrian Rivish,Rivish,Adrian,0,adel,SA,Adelaide,house
-LNP,Liberal National Party,Bibe Roadley,Roadley,Bibe,0,oxle,QLD,Oxley,house
-LNP,Liberal National Party of Queensland,Stuart Robert,Robert,Stuart,1,fadd,QLD,Fadden,house
-FFP,Family First Party,Andrew Roberts,Roberts,Andrew,0,stas,TAS,Tasmania,senate
+ALP,Australian Labor Party,Amanda Rishworth,Rishworth,Amanda,0,king,SA,Kingston,house
+IND,Independent,Sal Rivas,Rivas,Sal,0,sqld,QLD,Queensland,senate
+FFP,Family First,Adrian Rivish,Rivish,Adrian,0,adel,SA,Adelaide,house
+LNP,Liberal National Party of Queensland,Stuart Robert,Robert,Stuart,0,fadd,QLD,Fadden,house
+FFP,Family First,Andrew Roberts,Roberts,Andrew,0,stas,TAS,Tasmania,senate
 ONP,Pauline Hanson's One Nation,Malcolm Roberts,Roberts,Malcolm,0,sqld,QLD,Queensland,senate
-GRN,Greens,Tim Roberts,Roberts,Tim,0,hink,QLD,Hinkler,house
+GRN,The Greens,Tim Roberts,Roberts,Tim,0,hink,QLD,Hinkler,house
+RUA,Rise Up Australia Party,Colin Robertson,Robertson,Colin,0,holt,VIC,Holt,house
 AJP,Animal Justice Party,Ellie Robertson,Robertson,Ellie,0,hugh,NSW,Hughes,house
 ALA,Australian Liberty Alliance,Debbie Robinson,Robinson,Debbie,0,swa,WA,Western Australia,senate
+ALP,Labor,Miriam Rizvi,Rizvi,Miriam,0,snsw,NSW,New South Wales,senate
+LNP,Liberal National Party of Queensland,Bibe Roadley,Roadley,Bibe,0,oxle,QLD,Oxley,house
 CEC,Citizens Electoral Council,Jean Robinson,Robinson,Jean,0,swa,WA,Western Australia,senate
-ALA,Australian Liberty Alliance,Steve Roddick,Roddick,Steve,0,lind,NSW,Lindsay,house
-SPP,Sustainable Australia,John Roles,Roles,John,0,sqld,QLD,Queensland,senate
-PROG,Australian Progressive Party,Ash Rose,Rose,Ash,0,snsw,NSW,New South Wales,senate
-FFP,Family First Party,Julie Rose,Rose,Julie,0,monc,QLD,Moncrieff,house
-FFP,Family First,Linda Rose,Rose,Linda,0,swa,WA,Western Australia,senate
-CDP,Christian Democratic Party,Paul Rossetto,Rossetto,Paul,0,farr,NSW,Farrer,house
-RUA,Rise Up Australia,Alison Rowe,Rowe,Alison,0,stir,WA,Stirling,house
+IND,Independent,Ramon Robinson,Robinson,Ramon,0,menz,VIC,Menzies,house
+ALA,Australian Liberty Alliance,Tony Robinson,Robinson,Tony,0,stas,TAS,Tasmania,senate
+ALA,Australian Liberty Alliance,Stephen Roddick,Roddick,Stephen,0,lind,NSW,Lindsay,house
+ONP,Pauline Hanson's One Nation,Peter Leonard Rogers,Rogers,Peter Leonard,0,leic,QLD,Leichhardt,house
+NAT,The Nationals,Ruth Rogers,Rogers,Ruth,0,hunt,NSW,Hunter,house
+SA,Sustainable Australia,John Roles,Roles,John,0,sqld,QLD,Queensland,senate
+DLF,Drug Law Reform,Alan Roncan,Roncan,Alan,0,bruc,VIC,Bruce,house
+LDP,Liberal Democrats,John Rooth,Rooth,John,0,sqld,QLD,Queensland,senate
+APP,Australian Progressives,Ash Rose,Rose,Ash,0,snsw,NSW,New South Wales,senate
+FFP,Family First,Julie Rose,Rose,Julie,0,monc,QLD,Moncrieff,house
+FFP,Family First Party,Linda Rose,Rose,Linda,0,swa,WA,Western Australia,senate
+CDP,Christian Democratic Party (Fred Nile Group),Paul Rossetto,Rossetto,Paul,0,farr,NSW,Farrer,house
+RUA,Rise Up Australia Party,Alison L Rowe,Rowe,Alison L,0,stir,WA,Stirling,house
+LDP,Liberal Democrats,Louis Rowe,Rowe,Louis,0,cora,VIC,Corangamite,house
 NXT,Nick Xenophon Team,Marie Rowland,Rowland,Marie,0,warr,NSW,Warringah,house
-ALP,Labor,Michelle Rowland,Rowland,Michelle,1,gree,NSW,Greenway,house
-LNP,Liberal National Party of Queensland,Wyatt Roy,Roy,Wyatt,1,long,QLD,Longman,house
-ONP,Pauline Hanson's One Nation,Simon Roylance,Roylance,Simon,0,svic,VIC,Victoria,senate
-GRN,Greens,Hannah Rubenach-Quinn,Rubenach-Quinn,Hannah,0,lyon,TAS,Lyons,house
+ALP,Labor,Michelle Rowland,Rowland,Michelle,0,gree,NSW,Greenway,house
+LNP,Liberal National Party of Queensland,Wyatt Roy,Roy,Wyatt,0,long,QLD,Longman,house
+ONP,Pauline Hanson's One Nation,Simon Peter Roylance,Roylance,Simon Peter,0,svic,VIC,Victoria,senate
+GRN,The Greens,Hannah Rubenach-Quinn,Rubenach-Quinn,Hannah,0,lyon,TAS,Lyons,house
 IND,Independent,Stephen Ruff,Ruff,Stephen,0,nsyd,NSW,North Sydney,house
-ALP,Labor Party,Adam Rundell,Rundell,Adam,0,menz,VIC,Menzies,house
+ALP,Australian Labor Party,Adam Rundell,Rundell,Adam,0,menz,VIC,Menzies,house
 AJP,Animal Justice Party,Geoff Russell,Russell,Geoff,0,stur,SA,Sturt,house
-LIB,Liberal Party of Australia,Anne Ruston,Ruston,Anne,1,ssa,SA,South Australia,senate
-LNP,Liberal National Party,Dan Ryan,Ryan,Dan,0,sqld,QLD,Queensland,senate
-CDP,Christian Democratic Party,Glen Ryan,Ryan,Glen,0,park,NSW,Parkes,house
-ALP,Australian Labor Party,Joanne Ryan,Ryan,Joanne,1,lalo,VIC,Lalor,house
-CDP,Christian Democratic Party,Michelle Ryan,Ryan,Michelle,0,cunn,NSW,Cunningham,house
-LIB,Liberal Party of Australia,Scott Ryan,Ryan,Scott,1,svic,VIC,Victoria,senate
-CDP,Christian Democratic Party,Steve Ryan,Ryan,Steve,0,gilm,NSW,Gilmore,house
+IND,Independent,Grant Russell,Russell,Grant,0,stas,TAS,Tasmania,senate
+LIB,Liberal,Anne Ruston,Ruston,Anne,0,ssa,SA,South Australia,senate
+IND,Independent,Chris Ryan,Ryan,Chris,0,svic,VIC,Victoria,senate
+LNP,Liberal National Party of Queensland,Dan Ryan,Ryan,Dan,0,sqld,QLD,Queensland,senate
+CDP,Christian Democratic Party (Fred Nile Group),Glen Ryan,Ryan,Glen,0,park,NSW,Parkes,house
+ALP,Australian Labor Party,Joanne Ryan,Ryan,Joanne,0,lalo,VIC,Lalor,house
+IND,Independent,Maurie Japarta Ryan,Ryan,Maurie Japarta,0,snt,NT,Northern Territory,senate
+CDP,Christian Democratic Party (Fred Nile Group),Michelle Ryan,Ryan,Michelle,0,cunn,NSW,Cunningham,house
+LIB,Liberal,Scott Ryan,Ryan,Scott,0,svic,VIC,Victoria,senate
+CDP,Christian Democratic Party (Fred Nile Group),Steve Ryan,Ryan,Steve,0,gilm,NSW,Gilmore,house
 GRN,The Greens,Tamara Ryan,Ryan,Tamara,0,emon,NSW,Eden-Monaro,house
-LDP,Liberal Democratic Party,Roostam Sadri,Sadri,Roostam,0,ssa,SA,South Australia,senate
+IND,Independent,Joanna Rzetelski,Rzetelski,Joanna,0,snsw,NSW,New South Wales,senate
+IND,Independent,Dave Saddler,Saddler,Dave,0,ssa,SA,South Australia,senate
+LDP,Liberal Democrats,Roostam Sadri,Sadri,Roostam,0,ssa,SA,South Australia,senate
 GRN,The Greens,Carly Saeedi,Saeedi,Carly,0,fenn,ACT,Fenner,house
-ALP,Labor Party,Janelle Saffin,Saffin,Janelle,0,page,NSW,Page,house
-AFN,Australia First,Jim Saleam,Saleam,Jim,0,lind,NSW,Lindsay,house
-GRN,Greens,Muhammad Salman,Salman,Muhammad,0,burt,WA,Burt,house
-RUA,Rise Up Australia,Mitchell Sambell,Sambell,Mitchell,0,dura,WA,Durack,house
-TAP,Arts Party,Charles Sanders,Sanders,Charles,0,ssa,SA,South Australia,senate
+ALP,Labor,Janelle Saffin,Saffin,Janelle,0,page,NSW,Page,house
+AFN,Australia First Party,Jim Saleam,Saleam,Jim,0,lind,NSW,Lindsay,house
+FFP,Family First,Rohan Salins,Salins,Rohan,0,gree,NSW,Greenway,house
+GRN,The Greens (WA),Muhammad Salman,Salman,Muhammad,0,burt,WA,Burt,house
+FFP,Family First Party,Daniel Edward Martin,Martin,Daniel Edward,0,asto,VIC,Aston,house
+CDP,Christian Democratic Party (Fred Nile Group),Jenalie Salt,Salt,Jenalie,0,pade,SA,Port Adelaide,house
+JLN,Jacqui Lambie Network,Marcus Saltmarsh,Saltmarsh,Marcus,0,sqld,QLD,Queensland,senate
+RUA,Rise Up Australia Party,Mitchell Sambell,Sambell,Mitchell,0,dura,WA,Durack,house
+RUA,Rise Up Australia Party,Taffy Samuriwo-Vuntarde,Samuriwo-Vuntarde,Taffy,0,pear,WA,Pearce,house
+TAP,The Arts Party,Charles Andrew Laurence Sanders,Sanders,Charles Andrew Laurence,0,ssa,SA,South Australia,senate
 TAP,The Arts Party,Tim Sanderson,Sanderson,Tim,0,fran,TAS,Franklin,house
-FFP,Family First Party,John Sands,Sands,John,0,groo,QLD,Groom,house
-FFP,Family First Party,Brett Saunders,Saunders,Brett,0,bowm,QLD,Bowman,house
-VEP,Voluntary Euthanasia Party,David Scanlon,Scanlon,David,0,svic,VIC,Victoria,senate
+FFP,Family First,John Sands,Sands,John,0,groo,QLD,Groom,house
+FFP,Family First,Brett Saunders,Saunders,Brett,0,bowm,QLD,Bowman,house
+ASXP,Australian Sex Party,Margaret Saunders,Saunders,Margaret,0,ssa,SA,South Australia,senate
+IND,Independent,Jim Savage,Savage,Jim,0,sqld,QLD,Queensland,senate
+VEP,Voluntary Euthanasia Party,David James Scanlon,Scanlon,David James,0,svic,VIC,Victoria,senate
 ALP,Australian Labor Party,Meaghan Scanlon,Scanlon,Meaghan,0,fadd,QLD,Fadden,house
-AJP,Animal Justice Party,Louella Scanu,Scanu,Louella,0,holt,VIC,Holt,house
-FFP,Family First Party,Myfanwy Schenk,Schenk,Myfanwy,0,mara,QLD,Maranoa,house
-AJP,Animal Justice Party,Nathan Schram,Schram,Nathan,0,jaga,VIC,Jagajaga,house
+FFP,Family First,Myfanwy Schenk,Schenk,Myfanwy,0,mara,QLD,Maranoa,house
+AJP,Animal Justice Party,Nathan Peter Schram,Schram,Nathan Peter,0,jaga,VIC,Jagajaga,house
 REP,Renewable Energy Party,Pedro Schwindt,Schwindt,Pedro,0,swa,WA,Western Australia,senate
-CDP,Christian Democratic Party,June Scifo,Scifo,June,0,warr,NSW,Warringah,house
-GRN,Greens,Brad Scott,Scott,Brad,0,bowm,QLD,Bowman,house
-LIB,Liberal,Fiona Scott,Scott,Fiona,1,lind,NSW,Lindsay,house
-RUA,Rise Up Australia,Phillip Scott,Scott,Phillip,0,bran,WA,Brand,house
-CLP,Country Liberal Party of Australia Party,Nigel Scullion,Scullion,Nigel,1,snt,NT,Northern Territory,senate
-AJP,Animal Justice Party,Megan Searls,Searls,Megan,0,calw,VIC,Calwell,house
+CDP,Christian Democratic Party (Fred Nile Group),June Scifo,Scifo,June,0,warr,NSW,Warringah,house
+GRN,The Greens,Brad Scott,Scott,Brad,0,bowm,QLD,Bowman,house
+IND,Independent,Duncan Scott,Scott,Duncan,0,flyn,QLD,Flynn,house
+LIB,Liberal,Fiona Scott,Scott,Fiona,0,lind,NSW,Lindsay,house
+RUA,Rise Up Australia Party,Philip Scott,Scott,Philip,0,bran,WA,Brand,house
+CLP,Country Liberals (NT),Nigel Scullion,Scullion,Nigel,0,snt,NT,Northern Territory,senate
+GRN,The Greens,James Searle,Searle,James,0,svic,VIC,Victoria,senate
+AJP,Animal Justice Party,Megan Deanne Searls,Searls,Megan Deanne,0,calw,VIC,Calwell,house
+GRN,The Greens,Gurm Sekhon,Sekhon,Gurm,0,svic,VIC,Victoria,senate
 PIR,Pirate Party Australia,Brandon Selic,Selic,Brandon,0,sqld,QLD,Queensland,senate
-ALP,Labor Party,Lydia Senior,Senior,Lydia,0,mall,VIC,Mallee,house
-LIB,Liberal Party of Australia,Zed Seselja,Seselja,Zed,1,sact,ACT,A.C.T.,senate
+ALP,Australian Labor Party,Lydia Senior,Senior,Lydia,0,mall,VIC,Mallee,house
+LIB,Liberal,Zed Seselja,Seselja,Zed,0,sact,ACT,A.C.T.,senate
 AJP,Animal Justice Party,Frankie Seymour,Seymour,Frankie,0,emon,NSW,Eden-Monaro,house
+IND,Independent,Fadhel Shamasha,Shamasha,Fadhel,0,mcma,NSW,McMahon,house
 NXT,Nick Xenophon Team,Rebekha Sharkie,Sharkie,Rebekha,0,mayo,SA,Mayo,house
+RFP,Australian Recreational Fishers Party,Shelley Shay,Shay,Shelley,0,lyon,TAS,Lyons,house
 ASXP,Australian Sex Party,Pat Sheil,Sheil,Pat,0,gray,NSW,Grayndler,house
-ALP,Australian Labor Party,Hayden Sheppard,Sheppard,Hayden,0,monc,QLD,Moncrieff,house
-DLF,Drug Law Reform Australia,John Sherman,Sherman,John,0,svic,VIC,Victoria,senate
-GRN,Greens,Michaela Sherwood,Sherwood,Michaela,0,hume,NSW,Hume,house
+IND,Independent,James Mathison,Mathison,James,0,warr,NSW,Warringah,house
+DLF,Drug Law Reform,John Sherman,Sherman,John,0,svic,VIC,Victoria,senate
+GRN,The Greens,Michaela Sherwood,Sherwood,Michaela,0,hume,NSW,Hume,house
+IND,Independent,Immanuel Shmuel,Shmuel,Immanuel,0,svic,VIC,Victoria,senate
+LDP,Liberal Democrats,Olya Shornikov,Shornikov,Olya,0,macq,NSW,Macquarie,house
 ALP,Australian Labor Party,John Short,Short,John,0,stas,TAS,Tasmania,senate
-ALP,Australian Labor Party,Bill Shorten,Shorten,Bill,1,mari,VIC,Maribyrnong,house
+ALP,Australian Labor Party,Bill Shorten,Shorten,Bill,0,mari,VIC,Maribyrnong,house
 CEC,Citizens Electoral Council,Paul Siebert,Siebert,Paul,0,ssa,SA,South Australia,senate
-GRN,Australian Greens,Rachel Siewart,Siewart,Rachel,1,swa,WA,Western Australia,senate
-GRN,Australian Greens,Robert Simms,Simms,Robert,1,ssa,SA,South Australia,senate
-LIB,Liberal,Luke Simpkins,Simpkins,Luke,1,cowa,WA,Cowan,house
-PIR,Pirate Party Australia,Lachlan Simpson,Simpson,Lachlan,0,svic,VIC,Victoria,senate
+GRN,The Greens (WA),Rachel Siewert,Siewert,Rachel,0,swa,WA,Western Australia,senate
+NAT,The Nationals,Maddison Simmonds,Simmonds,Maddison,0,pear,WA,Pearce,house
+GRN,The Greens,Robert Simms,Simms,Robert,0,ssa,SA,South Australia,senate
+LIB,Liberal,Luke Simpkins,Simpkins,Luke,0,cowa,WA,Cowan,house
+PIR,Pirate Party,Lachlan Simpson,Simpson,Lachlan,0,svic,VIC,Victoria,senate
 IND,Independent,Christine Sindt,Sindt,Christine,0,gipp,VIC,Gippsland,house
-ALP,Australian Labor Party,Dilawar Singh,Singh,Dilawar,0,swa,WA,Western Australia,senate
-ALP,Australian Labor Party,Lisa Singh,Singh,Lisa,1,stas,TAS,Tasmania,senate
+ALP,Australian Labor Party,Lisa Singh,Singh,Lisa,0,stas,TAS,Tasmania,senate
+SCP,Science Party,Vivek Singha,Singha,Vivek,0,gree,NSW,Greenway,house
 SEP,Socialist Equality Party,Chris Sinnema,Sinnema,Chris,0,svic,VIC,Victoria,senate
-LIB,Liberal Party of Australia,Arthur Sinodinos,Sinodinos,Arthur,1,snsw,NSW,New South Wales,senate
-GRN,Greens,Delanie Sky,Sky,Delanie,0,cala,NSW,Calare,house
-IND,Independent,Ross Slater,Slater,Ross,0,forr,WA,Forrest,house
+LIB,Liberal,Arthur Sinodinos,Sinodinos,Arthur,0,snsw,NSW,New South Wales,senate
+SFP,"Shooters, Fishers and Farmers",Andrew Skerritt,Skerritt,Andrew,0,swa,WA,Western Australia,senate
+GRN,The Greens,Rainee Skinner,Skinner,Rainee,0,sqld,QLD,Queensland,senate
+GRN,The Greens,Delanie Sky,Sky,Delanie,0,cala,NSW,Calare,house
+IND,Independent,Ross Maitland Slater,Slater,Ross Maitland,0,forr,WA,Forrest,house
 NXT,Nick Xenophon Team,Michael Slattery,Slattery,Michael,0,pade,SA,Port Adelaide,house
 SCP,Science Party,Eve Slavich,Slavich,Eve,0,snsw,NSW,New South Wales,senate
-ALP,Labor Party,Allistair Smith,Smith,Allistair,0,wrig,QLD,Wright,house
-CDP,Christian Democratic Party,Beth Smith,Smith,Beth,0,cook,NSW,Cook,house
-21CP,21st Century Party,Daniel Smith,Smith,Daniel,0,gilm,NSW,Gilmore,house
+ALP,Australian Labor Party,Allistair Smith,Smith,Allistair,0,wrig,QLD,Wright,house
+CDP,Christian Democratic Party (Fred Nile Group),Beth Smith,Smith,Beth,0,snsw,NSW,New South Wales,senate
+IND,Independent,Cherie Smith,Smith,Cherie,0,gipp,VIC,Gippsland,house
 ALP,Australian Labor Party,David Smith,Smith,David,0,sact,ACT,A.C.T.,senate
-LIB,Liberal Party of Australia,Dean Smith,Smith,Dean,1,swa,WA,Western Australia,senate
-ALA,Australian Liberty Alliance,Kirralie Smith,Smith,Kirralie,0,snsw,NSW,New South Wales,senate
-AJP,Animal Justice Party,Miranda Smith,Smith,Miranda,0,melb,VIC,Melbourne,house
-ONP,Pauline Hanson's One Nation,Neil Smith,Smith,Neil,0,rich,NSW,Richmond,house
-GRN,Greens,Phil Smith,Smith,Phil,0,hugh,NSW,Hughes,house
+LIB,Liberal,Dean Smith,Smith,Dean,0,swa,WA,Western Australia,senate
+ONP,Pauline Hanson's One Nation,Judy Smith,Smith,Judy,0,sqld,QLD,Queensland,senate
+ALA,Australian Liberty Alliance,Kirralie Jane Smith,Smith,Kirralie Jane,0,snsw,NSW,New South Wales,senate
+DLF,Drug Law Reform,Lorraine Smith,Smith,Lorraine,0,sqld,QLD,Queensland,senate
+AJP,Animal Justice Party,Miranda Joyce Smith,Smith,Miranda Joyce,0,melb,VIC,Melbourne,house
+ONP,Pauline Hanson's One Nation,Neil Gordon Smith,Smith,Neil Gordon,0,rich,NSW,Richmond,house
+IND,Independent,Nigel James Smith,Smith,Nigel James,0,snsw,NSW,New South Wales,senate
+GRN,The Greens,Phil Smith,Smith,Phil,0,hugh,NSW,Hughes,house
 ONP,Pauline Hanson's One Nation,Rod Smith,Smith,Rod,0,wrig,QLD,Wright,house
-LIB,Liberal,Tony Smith,Smith,Tony,1,case,VIC,Casey,house
-FFP,Family First Party,Will Smith,Smith,Will,0,long,QLD,Longman,house
-AJP,Animal Justice Party,Rob Smyth,Smyth,Rob,0,mpor,VIC,Melbourne Ports,house
-GRN,Greens,Keiran Snape,Snape,Keiran,0,maki,SA,Makin,house
-MAP,Mature Australia Party,Terry Snell,Snell,Terry,0,sqld,QLD,Queensland,senate
-ALP,Australian Labor Party (Northern Territory) Branch,Warren Snowdon,Snowdon,Warren,1,ling,NT,Lingiari,house
+LIB,Liberal,Tony Smith,Smith,Tony,0,case,VIC,Casey,house
+FFP,Family First,Will Smith,Smith,Will,0,long,QLD,Longman,house
+AJP,Animal Justice Party,Robert Millen Smyth,Smyth,Robert Millen,0,mpor,VIC,Melbourne Ports,house
+GRN,The Greens,Keiran Snape,Snape,Keiran,0,maki,SA,Makin,house
+MAP,Mature Australia,Terry Snell,Snell,Terry,0,sqld,QLD,Queensland,senate
+ALP,Australian Labor Party (Northern Territory) Branch,Warren Snowdon,Snowdon,Warren,0,ling,NT,Lingiari,house
 NXT,Nick Xenophon Team,Des Soares,Soares,Des,0,more,QLD,Moreton,house
-CDP,Christian Democratic Party,Wayne Solomon,Solomon,Wayne,0,sqld,QLD,Queensland,senate
-ALP,Labor Party,Tammy Solonec,Solonec,Tammy,0,swan,WA,Swan,house
-LIB,Liberal Party,George Souris,Souris,George,0,batm,VIC,Batman,house
+CDP,Christian Democratic Party (Fred Nile Group),Wayne Solomon,Solomon,Wayne,0,sqld,QLD,Queensland,senate
+ALP,Australian Labor Party,Tammy Solonec,Solonec,Tammy,0,swan,WA,Swan,house
+LIB,Liberal,George Souris,Souris,George,0,batm,VIC,Batman,house
+AEQ,Marriage Equality,Marnie Southward,Southward,Marnie,0,sqld,QLD,Queensland,senate
+DLP,Democratic Labour Party (DLP),Stuart Southwell,Southwell,Stuart,0,newc,NSW,Newcastle,house
 GRN,The Greens,Daniel Sova,Sova,Daniel,0,lalo,VIC,Lalor,house
-GRN,Greens,Sally Spain,Spain,Sally,0,ford,QLD,Forde,house
-ALA,Australian Liberty Alliance,Shaun Spain,Spain,Shaun,0,ford,QLD,Forde,house
-FLX,Flux.org,Nathan Spataro,Spataro,Nathan,0,snsw,NSW,New South Wales,senate
-LIB,Liberal Party,Garry Spencer,Spencer,Garry,0,isaa,VIC,Isaacs,house
+GRN,The Greens,Sally Spain,Spain,Sally,0,ford,QLD,Forde,house
+ALA,Australian Liberty Alliance,Shaun Charles Spain,Spain,Shaun Charles,0,ford,QLD,Forde,house
+IND,Independent,Bob Spanswick,Spanswick,Bob,0,bank,NSW,Banks,house
+IND,Independent,Dana Spasojevic,Spasojevic,Dana,0,svic,VIC,Victoria,senate
+FLX,VOTEFLUX.ORG | Upgrade Democracy!,Nathan Spataro,Spataro,Nathan,0,snsw,NSW,New South Wales,senate
+ALA,Australian Liberty Alliance,John Spellman,Spellman,John,0,fish,QLD,Fisher,house
+LIB,Liberal,Garry Spencer,Spencer,Garry,0,isaa,VIC,Isaacs,house
 LDP,Liberal Democrats,Duncan Spender,Spender,Duncan,0,svic,VIC,Victoria,senate
-AUC,Australian Christian Party,Warnar Spyker,Spyker,Warnar,0,burt,WA,Burt,house
+SA,Sustainable Australia,Kris Spike,Spike,Kris,0,sydn,NSW,Sydney,house
+IND,Independent,Santa Spruce-Peet-Boyd,Spruce-Peet-Boyd,Santa,0,snsw,NSW,New South Wales,senate
+AUC,Australian Christians,Warnar Spyker,Spyker,Warnar,0,burt,WA,Burt,house
 NXT,Nick Xenophon Team,James Stacey,Stacey,James,0,bark,SA,Barker,house
-ALP,Australian Labor Party,Anne Stanley,Stanley,Anne,0,werr,NSW,Werriwa,house
-ALP,Labor Party,Lucy Stanton,Stanton,Lucy,0,wbay,QLD,Wide Bay,house
-GRN,Australian Greens,Jordan Steele-John,Steele-John,Jordan,0,swa,WA,Western Australia,senate
-ALP,Australian Labor Party,Diedree Steinwall,Steinwall,Diedree,0,hugh,NSW,Hughes,house
-ALP,Australian Labor Party,Glenn Sterle,Sterle,Glenn,1,swa,WA,Western Australia,senate
+DHJ,Derryn Hinch's Justice Party,Ruth Stanfield,Stanfield,Ruth,0,dunk,VIC,Dunkley,house
+ALP,Labor,Anne Stanley,Stanley,Anne,0,werr,NSW,Werriwa,house
+ALP,Australian Labor Party,Lucy Stanton,Stanton,Lucy,0,wbay,QLD,Wide Bay,house
+RUA,Rise Up Australia Party,Nick Steel,Steel,Nick,0,cora,VIC,Corangamite,house
+GRN,The Greens (WA),Jordon Steele-John,Steele-John,Jordon,0,swa,WA,Western Australia,senate
+ALP,Labor,Diedree Steinwall,Steinwall,Diedree,0,hugh,NSW,Hughes,house
+CDP,Christian Democratic Party (Fred Nile Group),Joseph Kelton Stephen,Stephen,Joseph Kelton,0,ssa,SA,South Australia,senate
+CDP,Christian Democratic Party (Fred Nile Group),Bernie Gesling,Gesling,Bernie,0,cala,NSW,Calare,house
+ALP,Australian Labor Party,Glenn Sterle,Sterle,Glenn,0,swa,WA,Western Australia,senate
 DHJ,Derryn Hinch's Justice Party,Ken Stevens,Stevens,Ken,0,snsw,NSW,New South Wales,senate
-ALP,Australian Labor Party,Kate Stewart,Stewart,Kate,0,park,NSW,Parkes,house
-CM,Country Minded,Sherrill Stivano,Stivano,Sherrill,0,sqld,QLD,Queensland,senate
-LIB,Liberal Party,Melanie Stockman,Stockman,Melanie,0,scul,VIC,Scullin,house
-CDP,Christian Democratic Party,Robert Stoddart,Stoddart,Robert,0,robe,NSW,Robertson,house
+APP,Australian Progressives,Ken Stevens,Stevens,Ken,0,sqld,QLD,Queensland,senate
+IND,Independent,Paul Joseph Stevenson,Stevenson,Paul Joseph,0,sqld,QLD,Queensland,senate
+ALP,Labor,Kate Stewart,Stewart,Kate,0,park,NSW,Parkes,house
+CM,CountryMinded,Sherrill Stivano,Stivano,Sherrill,0,sqld,QLD,Queensland,senate
+LIB,Liberal,Melanie Stockman,Stockman,Melanie,0,scul,VIC,Scullin,house
+CDP,Christian Democratic Party (Fred Nile Group),Robert Stoddart,Stoddart,Robert,0,robe,NSW,Robertson,house
+LDP,Liberal Democrats,Mark M Stone,Stone,Mark M,0,wrig,QLD,Wright,house
 AJP,Animal Justice Party,Lynda Stoner,Stoner,Lynda,0,snsw,NSW,New South Wales,senate
 NXT,Nick Xenophon Team,Tim Storer,Storer,Tim,0,ssa,SA,South Australia,senate
-CDP,Christian Democratic Party,Richard Stretton,Stretton,Richard,0,hunt,NSW,Hunter,house
+IND,Independent,Greg Strettles,Strettles,Greg,0,snt,NT,Northern Territory,senate
+CDP,Christian Democratic Party (Fred Nile Group),Richard Stretton,Stretton,Richard,0,hunt,NSW,Hunter,house
+PUP,Palmer United Party,Justin Leigh Stringer,Stringer,Justin Leigh,0,stas,TAS,Tasmania,senate
 CEC,Citizens Electoral Council,Judy Sudholz,Sudholz,Judy,0,swa,WA,Western Australia,senate
-LIB,Liberal,Ann Sudmalis,Sudmalis,Ann,1,gilm,NSW,Gilmore,house
-LIB,Liberal,Michael Sukkar,Sukkar,Michael,1,deak,VIC,Deakin,house
+LIB,Liberal,Ann Sudmalis,Sudmalis,Ann,0,gilm,NSW,Gilmore,house
+LIB,Liberal,Michael Sukkar,Sukkar,Michael,0,deak,VIC,Deakin,house
+IND,Independent,Fern Summer,Summer,Fern,0,murr,VIC,Murray,house
 REP,Renewable Energy Party,Camilla Sundbladh,Sundbladh,Camilla,0,swa,WA,Western Australia,senate
-CDP,Christian Democratic Party,Sonny Susilo,Susilo,Sonny,0,bart,NSW,Barton,house
-GRN,Greens,Elissa Sutherland,Sutherland,Elissa,0,case,VIC,Casey,house
+CDP,Christian Democratic Party (Fred Nile Group),Sonny Susilo,Susilo,Sonny,0,bart,NSW,Barton,house
+GRN,The Greens,Elissa Sutherland,Sutherland,Elissa,0,case,VIC,Casey,house
 AJP,Animal Justice Party,Alicia Sutton,Sutton,Alicia,0,swa,WA,Western Australia,senate
+IND,Independent,Philip Sutton,Sutton,Philip,0,batm,VIC,Batman,house
 GRN,The Greens,Jeanette Swain,Swain,Jeanette,0,dunk,VIC,Dunkley,house
 ASXP,Australian Sex Party,Robbie Swan,Swan,Robbie,0,sact,ACT,A.C.T.,senate
-ALP,Australian Labor Party,Wayne Swan,Swan,Wayne,1,lill,QLD,Lilley,house
-ALP,Australian Labor Party,Meryl Swanson,Swanson,Meryl,0,pate,NSW,Paterson,house
+ALP,Australian Labor Party,Wayne Swan,Swan,Wayne,0,lill,QLD,Lilley,house
+ALP,Labor,Meryl Swanson,Swanson,Meryl,0,pate,NSW,Paterson,house
+CDP,Christian Democratic Party (Fred Nile Group),Ludy Charles Sweeris-Sigrist,Sweeris-Sigrist,Ludy Charles,0,sqld,QLD,Queensland,senate
 GRN,The Greens,Rod Swift,Swift,Rod,0,gort,VIC,Gorton,house
+AEQ,Marriage Equality,Elizabeth Syber,Syber,Elizabeth,0,batm,VIC,Batman,house
 AJP,Animal Justice Party,Camille Sydow,Sydow,Camille,0,will,VIC,Wills,house
 IND,Independent,Rob Taber,Taber,Rob,0,neng,NSW,New England,house
+CDP,Christian Democratic Party (Fred Nile Group),Elizabeth Tadros,Tadros,Elizabeth,0,sact,ACT,A.C.T.,senate
+IND,Independent,Val Tanguilig,Tanguilig,Val,0,sqld,QLD,Queensland,senate
+RFP,Australian Recreational Fishers Party,Mark Tapsell,Tapsell,Mark,0,bass,TAS,Bass,house
 ALP,Australian Labor Party,Les Tarczon,Tarczon,Les,0,svic,VIC,Victoria,senate
 KAP,Katter's Australian Party,Brad Tassell,Tassell,Brad,0,leic,QLD,Leichhardt,house
 NAT,The Nationals,Paul Tatchell,Tatchell,Paul,0,ball,VIC,Ballarat,house
-LIB,Liberal,Angus Taylor,Taylor,Angus,1,hume,NSW,Hume,house
+LIB,Liberal,Angus Taylor,Taylor,Angus,0,hume,NSW,Hume,house
 RUA,Rise Up Australia Party,Paul Taylor,Taylor,Paul,0,sqld,QLD,Queensland,senate
-TAP,Arts Party,Robert Taylor,Taylor,Robert,0,swa,WA,Western Australia,senate
-AUC,Australian Christian Party,Shea Taylor,Taylor,Shea,0,sqld,QLD,Queensland,senate
-LIB,Liberal,Dan Tehan,Tehan,Dan,1,wann,VIC,Wannon,house
-MAP,Mature Australia Party,Richard Temby,Temby,Richard,0,stas,TAS,Tasmania,senate
-FFP,Family First Party,Lindsay Temple,Temple,Lindsay,0,capr,QLD,Capricornia,house
-ALP,Labor Party,Susan Templeman,Templeman,Susan,0,macq,NSW,Macquarie,house
-CDP,Christian Democratic Party,Leighton Thew,Thew,Leighton,0,bero,NSW,Berowra,house
-ALP,Labor,Matt Thistlethwaite,Thistlethwaite,Matt,1,ksmi,NSW,Kingsford Smith,house
+TAP,The Arts Party,Robert Kenneth Leslie Taylor,Taylor,Robert Kenneth Leslie,0,swa,WA,Western Australia,senate
+AUC,Australian Christians,Shea Taylor,Taylor,Shea,0,sqld,QLD,Queensland,senate
+IND,Independent,Diane Teasdale,Teasdale,Diane,0,murr,VIC,Murray,house
+LIB,Liberal,Dan Tehan,Tehan,Dan,0,wann,VIC,Wannon,house
+MAP,Mature Australia,Richard Temby,Temby,Richard,0,stas,TAS,Tasmania,senate
+FFP,Family First,Lindsay Temple,Temple,Lindsay,0,capr,QLD,Capricornia,house
+ALP,Labor,Susan Templeman,Templeman,Susan,0,macq,NSW,Macquarie,house
+IND,Independent,Andrew Evan Thaler,Thaler,Andrew Evan,0,emon,NSW,Eden-Monaro,house
+CDP,Christian Democratic Party (Fred Nile Group),Leighton Thew,Thew,Leighton,0,bero,NSW,Berowra,house
+ALP,Labor,Matt Thistlethwaite,Thistlethwaite,Matt,0,ksmi,NSW,Kingsford Smith,house
 JLN,Jacqui Lambie Network,Allan Thomas,Thomas,Allan,0,snsw,NSW,New South Wales,senate
-CDP,Christian Democratic Party,Beresford Thomas,Thomas,Beresford,0,went,NSW,Wentworth,house
-FLX,Flux,Ric Thomas,Thomas,Ric,0,swa,WA,Western Australia,senate
+CDP,Christian Democratic Party (Fred Nile Group),Beresford Thomas,Thomas,Beresford,0,went,NSW,Wentworth,house
+DHJ,Derryn Hinch's Justice Party,Colin Thomas,Thomas,Colin,0,ssa,SA,South Australia,senate
+FLX,VOTEFLUX.ORG | Upgrade Democracy!,Richard Thomas,Thomas,Richard,0,swa,WA,Western Australia,senate
 NCP,Non-Custodial Parents Party (Equal Parenting),Andy Thompson,Thompson,Andy,0,snsw,NSW,New South Wales,senate
 ALP,Australian Labor Party,Cheryl Thompson,Thompson,Cheryl,0,sqld,QLD,Queensland,senate
-ALP,Australian Labor Party,Vivien Thomson,Thomson,Vivien,0,snsw,NSW,New South Wales,senate
+ALP,Labor,Vivien Thomson,Thomson,Vivien,0,snsw,NSW,New South Wales,senate
+PUP,Palmer United Party,Catriona Cecilia Thoolen,Thoolen,Catriona Cecilia,0,svic,VIC,Victoria,senate
 CEC,Citizens Electoral Council,Meg Thornton,Thornton,Meg,0,stas,TAS,Tasmania,senate
-DLF,Drug Law Reform Australia,Ray Thorpe,Thorpe,Ray,0,snsw,NSW,New South Wales,senate
-APP,Anti-Paedophile Party,Shiree Thorsen,Thorsen,Shiree,0,ssa,SA,South Australia,senate
+DLF,Drug Law Reform,Ray Thorpe,Thorpe,Ray,0,snsw,NSW,New South Wales,senate
 AJP,Animal Justice Party,Matt Tidswell,Tidswell,Matt,0,adel,SA,Adelaide,house
+HAP,Health Australia Party,Samantha Tilbury,Tilbury,Samantha,0,swa,WA,Western Australia,senate
 GRN,The Greens,Jake Tilton,Tilton,Jake,0,holt,VIC,Holt,house
+IND,Independent,Francesco Timpano,Timpano,Francesco,0,will,VIC,Wills,house
 JLN,Jacqui Lambie Network,Matt Timson,Timson,Matt,0,svic,VIC,Victoria,senate
 GRN,The Greens,Dejay Toborek,Toborek,Dejay,0,went,NSW,Wentworth,house
-FFP,Family First Party,David Todd,Todd,David,0,ryan,QLD,Ryan,house
-GRN,Greens,Craig Tomsett,Tomsett,Craig,0,flyn,QLD,Flynn,house
+FFP,Family First,David Todd,Todd,David,0,ryan,QLD,Ryan,house
+AEQ,Marriage Equality,Jacqueline Tomlins,Tomlins,Jacqueline,0,svic,VIC,Victoria,senate
+GRN,The Greens,Craig Tomsett,Tomsett,Craig,0,flyn,QLD,Flynn,house
 IND,Independent,Rasmus Torkel,Torkel,Rasmus,0,bart,NSW,Barton,house
+IND,Independent,Joseph Toscano,Toscano,Joseph,0,dunk,VIC,Dunkley,house
 NXT,Nick Xenophon Team,Josie Townsend,Townsend,Josie,0,groo,QLD,Groom,house
-RUA,Rise Up Australia,Tran Tran,Tran,Tran,0,ball,VIC,Ballarat,house
+IND,Independent,David Tran,Tran,David,0,gell,VIC,Gellibrand,house
+RUA,Rise Up Australia Party,Tran Tran,Tran,Tran,0,ball,VIC,Ballarat,house
+DHJ,Derryn Hinch's Justice Party,Jessica Tregear,Tregear,Jessica,0,higg,VIC,Higgins,house
+RUA,Rise Up Australia Party,Lin Tregenza,Tregenza,Lin,0,dunk,VIC,Dunkley,house
+NAT,The Nationals,Rebecca Treloar,Treloar,Rebecca,0,svic,VIC,Victoria,senate
+IND,Independent,Cordelia Troy,Troy,Cordelia,0,hunt,NSW,Hunter,house
+RUA,Rise Up Australia Party,Jeff Truscott,Truscott,Jeff,0,mcew,VIC,McEwen,house
 ONP,Pauline Hanson's One Nation,Brad Trussell,Trussell,Brad,0,oxle,QLD,Oxley,house
-ALP,Australian Labor Party,Angelo Tsirekas,Tsirekas,Angelo,0,reid,NSW,Reid,house
-ODD,Online Direct Democracy,Harry Tsoukalas,Tsoukalas,Harry,0,bart,NSW,Barton,house
-AEP,Australian Equality Party,Jason Tuazon-McCheyne,Tuazon-McCheyne,Jason,0,svic,VIC,Victoria,senate
-GRN,Greens,Wendy Tubman,Tubman,Wendy,0,herb,QLD,Herbert,house
-RUA,Rise Up Australia Party,Brian Tucker,Tucker,Brian,0,snsw,NSW,New South Wales,senate
-LIB,Liberal Party of Australia,John Tucker,Tucker,John,0,stas,TAS,Tasmania,senate
-LIB,Liberal,Alan Tudge,Tudge,Alan,1,asto,VIC,Aston,house
-LIB,Liberal,Malcolm Turnbull,Turnbull,Malcolm,1,went,NSW,Wentworth,house
+IND,Independent,Richelle Girado Tsay,Tsay,Richelle Girado,0,snsw,NSW,New South Wales,senate
+ALP,Labor,Angelo Tsirekas,Tsirekas,Angelo,0,reid,NSW,Reid,house
+ODD,Online Direct Democracy - (Empowering the People!),Harry Tsoukalas,Tsoukalas,Harry,0,bart,NSW,Barton,house
+AEQ,Marriage Equality,Adrian Tuazon-McCheyne,Tuazon-McCheyne,Adrian,0,ssa,SA,South Australia,senate
+AEQ,Marriage Equality,Jason Tuazon-McCheyne,Tuazon-McCheyne,Jason,0,svic,VIC,Victoria,senate
+GRN,The Greens,Wendy Tubman,Tubman,Wendy,0,herb,QLD,Herbert,house
+RUA,Rise Up Australia Party,Brian Malcolm Tucker,Tucker,Brian Malcolm,0,snsw,NSW,New South Wales,senate
+LIB,Liberal,John Tucker,Tucker,John,0,stas,TAS,Tasmania,senate
+LIB,Liberal,Alan Tudge,Tudge,Alan,0,asto,VIC,Aston,house
+LIB,Liberal,Malcolm Turnbull,Turnbull,Malcolm,0,went,NSW,Wentworth,house
+NAT,The Nationals,Jason Turner,Turner,Jason,0,cann,WA,Canning,house
+SFP,"Shooters, Fishers and Farmers",Michael Turner,Turner,Michael,0,sqld,QLD,Queensland,senate
 IND,Independent,Sandy Turner,Turner,Sandy,0,blai,QLD,Blair,house
-SPP,Sustainable Australia,Martin Tye,Tye,Martin,0,sact,ACT,A.C.T.,senate
-ODD,Online Direct Democracy,Tula Tzoras,Tzoras,Tula,0,sydn,NSW,Sydney,house
-GRN,Australian Greens,Elizabeth Ure,Ure,Elizabeth,0,sqld,QLD,Queensland,senate
-ALP,Australian Labor Party,Anne Urquhart,Urquhart,Anne,1,stas,TAS,Tasmania,senate
+AUC,Australian Christians,Phil Twiss,Twiss,Phil,0,hasl,WA,Hasluck,house
+SA,Sustainable Australia,Martin Tye,Tye,Martin,0,sact,ACT,A.C.T.,senate
+TAP,The Arts Party,Andrew Charles Tyrrell,Tyrrell,Andrew Charles,0,petr,QLD,Petrie,house
+ODD,Online Direct Democracy - (Empowering the People!),Tula Tzoras,Tzoras,Tula,0,sydn,NSW,Sydney,house
+IND,Independent,Meredith Urie,Urie,Meredith,0,svic,VIC,Victoria,senate
+ALP,Australian Labor Party,Anne Urquhart,Urquhart,Anne,0,stas,TAS,Tasmania,senate
+IND,Independent,Eric Vadarlis,Vadarlis,Eric,0,svic,VIC,Victoria,senate
 AJP,Animal Justice Party,Cathy Vaina,Vaina,Cathy,0,mcew,VIC,McEwen,house
-CDP,Christian Democratic Party,Chris Vale,Vale,Chris,0,brfd,NSW,Bradfield,house
-ALP,Australian Labor Party,Maria Vamvakinou,Vamvakinou,Maria,1,calw,VIC,Calwell,house
-CDP,Christian Democratic Party,Adrian Van Der Byl,Van Der Byl,Adrian,0,hume,NSW,Hume,house
-GRN,Greens,Antonio van Geuns,van Geuns,Antonio,0,groo,QLD,Groom,house
-LIB,Liberal Party,David van Gogh,van Gogh,David,0,gray,NSW,Grayndler,house
-LNP,Liberal National Party of Queensland,Bert van Manen,van Manen,Bert,1,ford,QLD,Forde,house
-GRN,Greens,Craig Vanstone,Vanstone,Craig,0,wake,SA,Wakefield,house
-LIB,Liberal,Nickolas Varvaris,Varvaris,Nickolas,1,bart,NSW,Barton,house
-LNP,Liberal National Party of Queensland,Ross Vasta,Vasta,Ross,1,bonn,QLD,Bonner,house
-FFP,Family First Party,Mark Vegar,Vegar,Mark,0,bris,QLD,Brisbane,house
-DLP,Democratic Labour Party,Stephen Vereker,Vereker,Stephen,0,svic,VIC,Victoria,senate
+CDP,Christian Democratic Party (Fred Nile Group),Chris Vale,Vale,Chris,0,brfd,NSW,Bradfield,house
+RUA,Rise Up Australia Party,Marion Vale,Vale,Marion,0,lalo,VIC,Lalor,house
+ALP,Australian Labor Party,Maria Vamvakinou,Vamvakinou,Maria,0,calw,VIC,Calwell,house
+CDP,Christian Democratic Party (Fred Nile Group),Adrian Van Der Byl,Van Der Byl,Adrian,0,hume,NSW,Hume,house
+GRN,The Greens,Antonia van Geuns,van Geuns,Antonia,0,groo,QLD,Groom,house
+LIB,Liberal,David van Gogh,van Gogh,David,0,gray,NSW,Grayndler,house
+IND,Independent,Teresa Van Lieshout,Van Lieshout,Teresa,0,snsw,NSW,New South Wales,senate
+LNP,Liberal National Party of Queensland,Bert van Manen,van Manen,Bert,0,ford,QLD,Forde,house
+AUC,Australian Christians,Janine Joy Vander Ven,Vander Ven,Janine Joy,0,cann,WA,Canning,house
+GRN,The Greens,Craig Vanstone,Vanstone,Craig,0,wake,SA,Wakefield,house
+LIB,Liberal,Nickolas Varvaris,Varvaris,Nickolas,0,bart,NSW,Barton,house
+RUA,Rise Up Australia Party,Melanie Vassiliou,Vassiliou,Melanie,0,chis,VIC,Chisholm,house
+RUA,Rise Up Australia Party,Peter Vassiliou,Vassiliou,Peter,0,hoth,VIC,Hotham,house
+LNP,Liberal National Party of Queensland,Ross Vasta,Vasta,Ross,0,bonn,QLD,Bonner,house
+FFP,Family First,Mark Vegar,Vegar,Mark,0,bris,QLD,Brisbane,house
+MAP,Mature Australia,Steve Veness,Veness,Steve,0,cowa,WA,Cowan,house
+DLP,DLP Democratic Labour,Stephen Vereker,Vereker,Stephen,0,svic,VIC,Victoria,senate
 GRN,The Greens,Carol Vernon,Vernon,Carol,0,cowp,NSW,Cowper,house
-DLP,Democratic Labour Party,Sheila Vincent,Vincent,Sheila,0,sqld,QLD,Queensland,senate
-GRN,Greens,Susan Virago,Virago,Susan,0,blax,NSW,Blaxland,house
-ONP,Pauline Hanson's One Nation,Jeff Virgo,Virgo,Jeff,0,herb,QLD,Herbert,house
-TAP,Arts Party,Jo Anne Volta,Volta,Jo Anne,0,stas,TAS,Tasmania,senate
-RUA,Rise Up Australia,Taffy Vuntarde,Vuntarde,Taffy,0,pear,WA,Pearce,house
-LIB,Liberal Party,Sarah Wade,Wade,Sarah,0,ball,VIC,Ballarat,house
+AFN,Australia First Party,Lyn Vickery,Vickery,Lyn,0,swa,WA,Western Australia,senate
+CDP,Christian Democratic Party (Fred Nile Group),Dave Vincent,Vincent,Dave,0,snsw,NSW,New South Wales,senate
+FFP,Family First,Sally Vincent,Vincent,Sally,0,snsw,NSW,New South Wales,senate
+DLP,Democratic Labour Party (DLP),Sheila Vincent,Vincent,Sheila,0,sqld,QLD,Queensland,senate
+GRN,The Greens,Suzan Virago,Virago,Suzan,0,blax,NSW,Blaxland,house
+ONP,Pauline Hanson's One Nation,Geoff Virgo,Virgo,Geoff,0,herb,QLD,Herbert,house
+TAP,The Arts Party,JoAnne Volta,Volta,JoAnne,0,stas,TAS,Tasmania,senate
+AEQ,Marriage Equality,Henry Von Doussa,Von Doussa,Henry,0,mpor,VIC,Melbourne Ports,house
+PUP,Palmer United Party,Quentin Von Stieglitz,Von Stieglitz,Quentin,0,stas,TAS,Tasmania,senate
+IND,Independent,Kim Vuga,Vuga,Kim,0,sqld,QLD,Queensland,senate
+LIB,Liberal,Sarah Wade,Wade,Sarah,0,ball,VIC,Ballarat,house
 GRN,The Greens,Dawn Walker,Walker,Dawn,0,rich,NSW,Richmond,house
-ODD,Online Direct Democracy,Robert Walker,Walker,Robert,0,neng,NSW,New England,house
-LNP,Liberal National Party,Andrew Wallace,Wallace,Andrew,0,fish,QLD,Fisher,house
-GRN,Greens,Pat Walsh,Walsh,Pat,0,blai,QLD,Blair,house
+ODD,Online Direct Democracy - (Empowering the People!),Robert Henry Walker,Walker,Robert Henry,0,neng,NSW,New England,house
+ALP,Australian Labor Party,Tony Walker,Walker,Tony,0,moor,WA,Moore,house
+LNP,Liberal National Party of Queensland,Andrew Wallace,Wallace,Andrew,0,fish,QLD,Fisher,house
+IND,Independent,Peter Wallace,Wallace,Peter,0,snsw,NSW,New South Wales,senate
+LDP,Liberal Democrats,Mark Robert Walmsley,Walmsley,Mark Robert,0,pert,WA,Perth,house
+GRN,The Greens,Pat Walsh,Walsh,Pat,0,blai,QLD,Blair,house
 AJP,Animal Justice Party,Nyree Walshe,Walshe,Nyree,0,chis,VIC,Chisholm,house
 GLT,Glenn Lazarus Team,Kerrod Walters,Walters,Kerrod,0,sqld,QLD,Queensland,senate
 KAP,Katter's Australian Party,Rowell Walton,Walton,Rowell,0,sqld,QLD,Queensland,senate
-PUP,Palmer United Party,Dio Wang,Wang,Dio,1,swa,WA,Western Australia,senate
-LNP,LNP,Fiona Ward,Ward,Fiona,0,grif,QLD,Griffith,house
-ALP,Labor Party,Mark Ward,Ward,Mark,0,boot,SA,Boothby,house
-GRN,Australian Greens,Sue Wareham,Wareham,Sue,0,sact,ACT,A.C.T.,senate
+PUP,Palmer United Party,Zhenya Dio Wang,Wang,Zhenya Dio,0,swa,WA,Western Australia,senate
+LNP,Liberal National Party of Queensland,Fiona Ward,Ward,Fiona,0,grif,QLD,Griffith,house
+IND,Independent,Jane Ward,Ward,Jane,0,snsw,NSW,New South Wales,senate
+FFP,Family First Party,Jessica Ward,Ward,Jessica,0,jaga,VIC,Jagajaga,house
+ALP,Australian Labor Party,Mark Ward,Ward,Mark,0,boot,SA,Boothby,house
+GRN,The Greens,Sue Wareham,Wareham,Sue,0,sact,ACT,A.C.T.,senate
+IND,Independent,John Warham,Warham,John,0,hunt,NSW,Hunter,house
 DHJ,Derryn Hinch's Justice Party,Adam Washbourne,Washbourne,Adam,0,snsw,NSW,New South Wales,senate
-JLN,Jacqui Lambie Network,Robert Waterman,Waterman,Robert,0,stas,TAS,Tasmania,senate
-GRN,Australian Greens,Larissa Waters,Waters,Larissa,1,sqld,QLD,Queensland,senate
+JLN,Jacqui Lambie Network,Rob Waterman,Waterman,Rob,0,stas,TAS,Tasmania,senate
+GRN,The Greens,Larissa Waters,Waters,Larissa,0,sqld,QLD,Queensland,senate
 SCP,Science Party,Nathan Waters,Waters,Nathan,0,cunn,NSW,Cunningham,house
-GRN,Greens,Giz Watson,Watson,Giz,0,ocon,WA,O'Connor,house
+AAP,Antipaedophile Party,Ron Waters,Waters,Ron,0,ssa,SA,South Australia,senate
+AFN,Australia First Party,Victor Waterson,Waterson,Victor,0,mcma,NSW,McMahon,house
+ALP,Australian Labor Party,Hayden Sheppard,Sheppard,Hayden,0,monc,QLD,Moncrieff,house
 AJP,Animal Justice Party,Zade Watson,Watson,Zade,0,sqld,QLD,Queensland,senate
 ALP,Australian Labor Party,Murray Watt,Watt,Murray,0,sqld,QLD,Queensland,senate
-ALP,Australian Labor Party,Tim Watts,Watts,Tim,1,gell,VIC,Gellibrand,house
-CDP,Christian Democratic Party,Andrew Weatherstone,Weatherstone,Andrew,0,shor,NSW,Shortland,house
-GRN,Greens,Sue Weber,Weber,Sue,0,petr,QLD,Petrie,house
-GRN,Greens,Tom Webster,Webster,Tom,0,stir,WA,Stirling,house
-GRN,Greens,Valerie Weier,Weier,Valerie,0,kenn,QLD,Kennedy,house
-GRN,Greens,Signe Westerberg,Westerberg,Signe,0,werr,NSW,Werriwa,house
-RUA,Rise Up Australia,Jennifer Whately,Whately,Jennifer,0,forr,WA,Forrest,house
-FFP,Family First Party,Gary Wheatcroft,Wheatcroft,Gary,0,boot,SA,Boothby,house
-GRN,Australian Greens,Peter Whish-Wilson,Whish-Wilson,Peter,1,stas,TAS,Tasmania,senate
-FFP,Family First Party,Mark White,White,Mark,0,petr,QLD,Petrie,house
-LIB,Liberal,Brett Whiteley,Whiteley,Brett,1,brad,TAS,Braddon,house
-LIB,Liberal,Lucy Wicks,Wicks,Lucy,1,robe,NSW,Robertson,house
-AUC,Australian Christian Party,John Wieske,Wieske,John,0,tang,WA,Tangney,house
+ALP,Australian Labor Party,Tim Watts,Watts,Tim,0,gell,VIC,Gellibrand,house
+CDP,Christian Democratic Party (Fred Nile Group),Andrew Weatherstone,Weatherstone,Andrew,0,ksmi,NSW,Kingsford Smith,house
+GRN,The Greens,Sue Weber,Weber,Sue,0,petr,QLD,Petrie,house
+GRN,The Greens (WA),Tom Webster,Webster,Tom,0,stir,WA,Stirling,house
+GRN,The Greens,Valerie Weier,Weier,Valerie,0,kenn,QLD,Kennedy,house
+IND,Independent,Caleb Wells,Wells,Caleb,0,long,QLD,Longman,house
+GRN,The Greens,Signe Louise Westerberg,Westerberg,Signe Louise,0,werr,NSW,Werriwa,house
+RUA,Rise Up Australia Party,Jennifer Whately,Whately,Jennifer,0,forr,WA,Forrest,house
+FFP,Family First,Gary Wheatcroft,Wheatcroft,Gary,0,boot,SA,Boothby,house
+LDP,Liberal Democrats,Peter Whelan,Whelan,Peter,0,neng,NSW,New England,house
+GRN,The Greens,Peter Whish-Wilson,Whish-Wilson,Peter,0,stas,TAS,Tasmania,senate
+FFP,Family First,Mark A White,White,Mark A,0,petr,QLD,Petrie,house
+LIB,Liberal,Brett Whiteley,Whiteley,Brett,0,brad,TAS,Braddon,house
+LDP,Liberal Democrats,Connor Whittle,Whittle,Connor,0,swa,WA,Western Australia,senate
+LIB,Liberal,Lucy Wicks,Wicks,Lucy,0,robe,NSW,Robertson,house
+AUC,Australian Christians,John Wieske,Wieske,John,0,tang,WA,Tangney,house
 AJP,Animal Justice Party,Ben Wild,Wild,Ben,0,flin,VIC,Flinders,house
-IND,Independent,Andrew Wilkie,Wilkie,Andrew,1,deni,TAS,Denison,house
-NAT,National Party of Australia,John Williams,Williams,John,1,snsw,NSW,New South Wales,senate
-LIB,Liberal,Matt Williams,Williams,Matt,1,hind,SA,Hindmarsh,house
-GRN,Greens,Todd Williams,Williams,Todd,0,solo,NT,Solomon,house
-GRN,The Greens,Clara Williams-Roldan,Williams-Roldan,Clara,0,warr,NSW,Warringah,house
+IND,Independent,Andrew Wilkie,Wilkie,Andrew,0,deni,TAS,Denison,house
+IND,Independent,David Wilks,Wilks,David,0,ford,QLD,Forde,house
+CDP,Christian Democratic Party (Fred Nile Group),Marina William,William,Marina,0,hind,SA,Hindmarsh,house
+ALP,Australian Labor Party,Alan John Williams,Williams,Alan John,0,murr,VIC,Murray,house
+NAT,The Nationals,John Williams,Williams,John,0,snsw,NSW,New South Wales,senate
+LIB,Liberal,Matt Williams,Williams,Matt,0,hind,SA,Hindmarsh,house
+GRN,The Greens,Todd Williams,Williams,Todd,0,solo,NT,Solomon,house
+DLP,Democratic Labour Party (DLP),Wayne Williams,Williams,Wayne,0,deni,TAS,Denison,house
+GRN,The Greens,Clara Williams Roldan,Williams Roldan,Clara,0,warr,NSW,Warringah,house
+SFP,"Shooters, Fishers and Farmers",Ross Williamson,Williamson,Ross,0,swa,WA,Western Australia,senate
 SCP,Science Party,Hans Willink,Willink,Hans,0,stas,TAS,Tasmania,senate
-LIB,Liberal Party,Ben Willis,Willis,Ben,0,gell,VIC,Gellibrand,house
-LDP,Liberal Democratic Party,Tim Wilms,Wilms,Tim,0,dunk,VIC,Dunkley,house
+LIB,Liberal,Ben Willis,Willis,Ben,0,gell,VIC,Gellibrand,house
+DLP,Democratic Labour Party (DLP),Dawn Willis,Willis,Dawn,0,snsw,NSW,New South Wales,senate
+LDP,Liberal Democrats,Tim Wilms,Wilms,Tim,0,dunk,VIC,Dunkley,house
 REP,Renewable Energy Party,Gray Wilson,Wilson,Gray,0,svic,VIC,Victoria,senate
+SFP,"Shooters, Fishers and Farmers",Jake Wilson,Wilson,Jake,0,svic,VIC,Victoria,senate
 ALP,Australian Labor Party,Josh Wilson,Wilson,Josh,0,frem,WA,Fremantle,house
-LIB,Liberal,Rick Wilson,Wilson,Rick,1,ocon,WA,O'Connor,house
-LIB,Liberal Party,Tim Wilson,Wilson,Tim,0,gold,VIC,Goldstein,house
+LIB,Liberal,Rick Wilson,Wilson,Rick,0,ocon,WA,O'Connor,house
+LIB,Liberal,Tim Wilson,Wilson,Tim,0,gold,VIC,Goldstein,house
+ALA,Australian Liberty Alliance,Robert Owen Windred,Windred,Robert Owen,0,hink,QLD,Hinkler,house
 IND,Independent,Tony Windsor,Windsor,Tony,0,neng,NSW,New England,house
-ALP,Australian Labor Party,Barrie Winmar,Winmar,Barrie,0,cann,WA,Canning,house
-GRN,Greens,Chris Winslow,Winslow,Chris,0,gree,NSW,Greenway,house
-LIB,Liberal Party,Geoffrey Winters,Winters,Geoffrey,0,sydn,NSW,Sydney,house
-ALP,Australian Labor Party,Penny Wong,Wong,Penny,1,ssa,SA,South Australia,senate
-LIB,Liberal,Jason Wood,Wood,Jason,1,ltro,VIC,La Trobe,house
-ALP,Australian Labor Party,Damian Woods,Woods,Damian,0,cowp,NSW,Cowper,house
-ALP,Australian Labor Party,Andrew Woodward,Woodward,Andrew,0,warr,NSW,Warringah,house
-CDP,Christian Democratic Party,Julie Worsley,Worsley,Julie,0,benn,NSW,Bennelong,house
-CDP,Christian Democratic Party,Aaron Wright,Wright,Aaron,0,gree,NSW,Greenway,house
-CDP,Christian Democratic Party,Annie Wright,Wright,Annie,0,mack,NSW,Mackellar,house
-CDP,Christian Democratic Party,Clint Nasr,Nasr,Clint,0,blax,NSW,Blaxland,house
-PUP,Palmer United Party,Suellen Wrightson,Wrightson,Suellen,0,snsw,NSW,New South Wales,senate
-LIB,Liberal,Ken Wyatt,Wyatt,Ken,1,hasl,WA,Hasluck,house
-NXT,Nick Xenophon Team,Nick Xenophon,Xenophon,Nick,0,ssa,SA,South Australia,senate
-SCP,Science Party,Peter Xing,Xing,Peter,0,went,NSW,Wentworth,house
-ALP,Australian Labor Party,Jennifer Yang,Yang,Jennifer,0,svic,VIC,Victoria,senate
-AUC,Australian Christian Party,Jacky Young,Young,Jacky,0,swa,WA,Western Australia,senate
-GRN,Greens,Sheridan Young,Young,Sheridan,0,cowa,WA,Cowan,house
-AUC,Australian Christian Party,Trevor Young,Young,Trevor,0,ocon,WA,O'Connor,house
-SEP,Socialist Equality Party,Gabriela Zabala,Zabala,Gabriela,0,blax,NSW,Blaxland,house
-NCP,Non-Custodial Parents Party (Equal Parenting),John Zabaneh,Zabaneh,John,0,flin,VIC,Flinders,house
-ALP,Australian Labor Party,Tony Zappia,Zappia,Tony,1,maki,SA,Makin,house
-FFP,Family First Party,Yvonne Zeppel,Zeppel,Yvonne,0,bark,SA,Barker,house
-LIB,Liberal Party,Trent Zimmerman,Zimmerman,Trent,1,nsyd,NSW,North Sydney,house
-IND,Independent,Angelina Zubac,Zubac,Angelina,0,kooy,VIC,Kooyong,house
+ALP,Australian Labor Party,Barry Winmar,Winmar,Barry,0,cann,WA,Canning,house
+GRN,The Greens,Chris Winslow,Winslow,Chris,0,gree,NSW,Greenway,house
+LIB,Liberal,Geoffrey Winters,Winters,Geoffrey,0,sydn,NSW,Sydney,house
+IND,Independent,Jarrod John Wirth,Wirth,Jarrod John,0,bonn,QLD,Bonner,house
+ALP,Australian Labor Party,Penny Wong,Wong,Penny,0,ssa,SA,South Australia,senate
+ALP,Labor,Damian Wood,Wood,Damian,0,cowp,NSW,Cowper,house
+LIB,Liberal,Jason Wood,Wood,Jason,0,ltro,VIC,La Trobe,house
+HAP,Health Australia Party,Jason Woodforth,Woodforth,Jason,0,sqld,QLD,Queensland,senate
+IND,Independent,Andrew Woodman,Woodman,Andrew,0,fenn,ACT,Fenner,house
+ALP,Labor,Andrew Woodward,Woodward,Andrew,0,warr,NSW,Warringah,house
+IND,Independent,Roger Woodward,Woodward,Roger,0,bero,NSW,Berowra,house
+CDP,Christian Democratic Party (Fred Nile Group),Warren Howard Wormald,Wormald,Warren Howard,0,lind,NSW,Lindsay,house
+GRN,The Greens,Charles Worringham,Worringham,Charles,0,sqld,QLD,Queensland,senate
+CDP,Christian Democratic Party (Fred Nile Group),Julie Worsley,Worsley,Julie,0,benn,NSW,Bennelong,house
+CDP,Christian Democratic Party (Fred Nile Group),Aaron Wright,Wright,Aaron,0,gree,NSW,Greenway,house
+CDP,Christian Democratic Party (Fred Nile Group),Annie Wright,Wright,Annie,0,mack,NSW,Mackellar,house
+IND,Independent,James Wright,Wright,James,0,snsw,NSW,New South Wales,senate
 NXT,Nick Xenophon Team,Matthew Wright,Wright,Matthew,0,stur,SA,Sturt,house
-CDP,Christian Democratic Party,Violet Abdulla,Abdulla,Violet,0,wats,NSW,Watson,house
-PROG,Australian Progressive Party,David Knight,Knight,David,0,svic,VIC,Victoria,senate
+PUP,Palmer United Party,Suellen Marree Wrightson,Wrightson,Suellen Marree,0,snsw,NSW,New South Wales,senate
+FFP,Family First,Mikaela Wu,Wu,Mikaela,0,parr,NSW,Parramatta,house
+FFP,Family First,Sharon Wu,Wu,Sharon,0,bank,NSW,Banks,house
+RUA,Rise Up Australia Party,Jess Wyatt,Wyatt,Jess,0,sact,ACT,A.C.T.,senate
+LIB,Liberal,Ken Wyatt,Wyatt,Ken,0,hasl,WA,Hasluck,house
+SCP,Science Party,Peter Xing,Xing,Peter,0,went,NSW,Wentworth,house
+ALP,Australian Labor Party,Chien-Hui Yang,Yang,Chien-Hui,0,svic,VIC,Victoria,senate
+NXT,Nick Xenophon Team,Nick Xenophon,Xenophon,Nick,0,ssa,SA,South Australia,senate
+AUC,Australian Christians,Jacky Young,Young,Jacky,0,swa,WA,Western Australia,senate
+GRN,The Greens (WA),Sheridan Young,Young,Sheridan,0,cowa,WA,Cowan,house
+AUC,Australian Christians,Trevor Young,Young,Trevor,0,ocon,WA,O'Connor,house
+SEP,Socialist Equality Party,Gabriela Zabala,Zabala,Gabriela,0,blax,NSW,Blaxland,house
+LIB,Liberal,Mohammad Shahe Zaman,Zaman,Mohammad Shahe,0,wats,NSW,Watson,house
+ALP,Australian Labor Party,Tony Zappia,Zappia,Tony,0,maki,SA,Makin,house
+FFP,Family First,Yvonne Zeppel,Zeppel,Yvonne,0,bark,SA,Barker,house
+ALP,Labor,Shuo Zhou,Zhou,Shuo,0,snsw,NSW,New South Wales,senate
+LIB,Liberal,Trent Zimmerman,Zimmerman,Trent,0,nsyd,NSW,North Sydney,house
+IND,Independent,Angelina Zubac,Zubac,Angelina,0,kooy,VIC,Kooyong,house
+RFP,Australian Recreational Fishers Party,Glen Saltmarsh,Saltmarsh,Glen,0,brad,TAS,Braddon,house
+GRN,The Greens (WA),Giz Watson,Watson,Giz,0,ocon,WA,O'Connor,house
+IND,Independent,Gregory F Stephenson,Stephenson,Gregory F,0,dobe,NSW,Dobell,house
